@@ -1,3 +1,10 @@
+"""Create question-answer test
+
+This script takes in a JSON list of objects where each object contains a question with correct and hallucinated answers.
+With the chosen accuracy, the script will choose a random answer for each question, and add a 'hallucination'
+field to tell whether it is hallucinated.
+"""
+
 import csv
 import json
 import argparse
@@ -29,7 +36,7 @@ def generate_test(qa_data: list[dict], accuracy: float, include_context: bool, d
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description='Random Answer Selection')
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--data', default=None, help='Original JSON file with right and hallucinated answers')
     parser.add_argument('--outfile', default=None, help='Output JSON file')
     parser.add_argument('--accuracy', type=float, default=0.6, help='Proportion of right answers to be chosen (0 to 1)')
