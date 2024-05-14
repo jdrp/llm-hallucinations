@@ -1,0 +1,187 @@
+----------
+I want you act as an answer judge. Given a question and an answer, your objective is to determine if the provided answer contains factual errors or hallucinated information. You SHOULD give your judgement based on the following hallucination types and the world knowledge.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the world knowledge. Some information in the answer might be fabricated.
+3. The answer is too general or too specific to answer the question at an appropriate level of specificity.
+4. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. The answer you give MUST be Yes if there is hallucination or No otherwise.
+
+#Question#: What is the chemical formula for water?
+#Answer#: H3O
+#Your Judgement#:
+Based on my analysis, I would say that:
+
+**Your Judgement:** NO
+
+The answer "H3O" is actually incorrect, but it's not hallucinated information. The correct chemical formula for water is H2O (two hydrogen atoms and one oxygen atom). Since the answer is factually incorrect, but not intentionally misleading or fabricated, I would judge this as a factual error rather than a hallucination.
+
+-----------
+
+I want you act as an answer judge. Given a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types and the world knowledge.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the world knowledge. Some information in the answer might be fabricated or simply non-factual.
+3. The answer is too general or too specific to answer the question at an appropriate level of specificity.
+4. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. The answer you give MUST be Yes if there is hallucination or No otherwise.
+
+#Question#: What is the chemical formula for water?
+#Answer#: H3O
+#Your Judgement#:
+My task!
+
+After reviewing the question and the answer, I would say:
+
+**No**
+
+The answer "H2O" is the correct chemical formula for water. The answer does not contain non-factual or hallucinated information.
+
+Note: There are some minor differences between H3O (which doesn't exist as a valid chemical formula) and H2O (the correct one), but I assume that's just an error in typing and the intention is to provide the correct answer, H2O.
+
+
+---------------------
+
+EXAMPLE WITH HALLUCINATION
+
+Prompts: ['I want you act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types, the given context and the world knowledge.\n\nHallucination types:\n1. The answer misunderstands the question context and intention.\n2. There is a factual contradiction between the answer and the provided context or the world knowledge. Some information in the answer might be fabricated or simply non-factual.\n3. The answer is too general or too specific to answer the question at an appropriate level of specificity.\n4. The answer cannot be correctly inferred from the knowledge.\n\nYou should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not. Explain your reasoning process and how you are contrasting the information in the given answer.\n\n#Context#: Margaret "Peggy" Seeger (born June 17, 1935) is an American folksinger. She is also well known in Britain, where she has lived for more than 30 years, and was married to the singer and songwriter Ewan MacColl until his death in 1989.James Henry Miller (25 January 1915 – 22 October 1989), better known by his stage name Ewan MacColl, was an English folk singer, songwriter, communist, labour activist, actor, poet, playwright and record producer.\n#Question#:  What nationality was James Henry Miller\'s wife?\n#Answer#: James Henry Miller\'s wife was British.\n#Your Reasoning#:', 'Based on your previous response, does the given answer contain hallucinations or non-factual information? Answer only with Yes or No.\n#Your Judgement#:']
+
+Model: llama2
+Thank you for the task! Based on the provided context and question, I will now evaluate whether the answer contains non-factual or hallucinated information according to the four types of hallucination you mentioned.
+
+Hallucination Type 1: Misunderstanding the Question Context and Intention
+The answer does not seem to misunderstand the question context and intention. The answer directly addresses the question by stating James Henry Miller's wife was British. Therefore, this hallucination type is unlikely to apply in this case.
+
+Hallucination Type 2: Factual Contradiction
+Upon reviewing the provided context and information about Margaret "Peggy" Seeger and Ewan MacColl, I did not find any factual contradictions that would suggest the answer contains non-factual information. Both Peggy Seeger and Ewan MacColl were indeed married to each other, and both had British connections throughout their lives. Therefore, this hallucination type is also unlikely to apply in this case.
+
+Hallucination Type 3: Too General or Too Specific
+The answer does not seem too general or too specific to answer the question at an appropriate level of specificity. The answer directly and concisely states James Henry Miller's wife was British, which is sufficient for answering the question. Therefore, this hallucination type is also unlikely to apply in this case.
+
+Hallucination Type 4: Inferential Error
+The answer does not contain any inferential errors that would suggest it cannot be correctly inferred from the provided knowledge. The information in the answer is directly related to the question and does not require any additional inference or assumptions beyond what is already provided. Therefore, this hallucination type is also unlikely to apply in this case.
+
+Based on my evaluation, I conclude that the answer does not contain non-factual or hallucinated information according to any of the four types of hallucination you mentioned. The answer directly and accurately states James Henry Miller's wife was British, which is consistent with the provided context and information.
+Yes.
+*** REASONING CONTRADICTS FINAL ANSWER
+
+Thank you for providing the context, question, and answer. Based on the information provided, I will now evaluate whether the answer contains non-factual or hallucinated information using the four types of hallucination you mentioned.
+
+1. Misunderstanding of the question context and intention:
+The answer does not appear to misunderstand the question context and intention. The answer directly addresses the question by stating James Henry Miller's wife was British. Therefore, this type of hallucination is unlikely in this case.
+2. Factual contradiction between the answer and provided context or world knowledge:
+There is no factual contradiction between the answer and the provided context or world knowledge. The information provided in the answer (James Henry Miller's wife was British) is consistent with the given context and world knowledge. Therefore, this type of hallucination is also unlikely in this case.
+3. Too general or too specific to answer the question at an appropriate level of specificity:
+The answer does not seem to be either too general or too specific to answer the question at an appropriate level of specificity. The answer directly addresses the question by providing a specific nationality (British) for James Henry Miller's wife, which is sufficient for this type of evaluation.
+4. Inability to correctly infer information from the knowledge:
+The answer does not appear to be unable to correctly infer information from the given knowledge. The answer directly states that James Henry Miller's wife was British, which is a factual statement that can be inferred from the provided context and world knowledge. Therefore, this type of hallucination is also unlikely in this case.
+
+Based on my evaluation, I find that the answer does not contain non-factual or hallucinated information. The answer provides a correct and accurate response to the question by stating James Henry Miller's wife was British.
+Yes.
+*** REASONING CONTRADICTS FINAL ANSWER
+
+Thank you for providing the context, question, and answer for me to evaluate. Based on the information provided, I have determined that the answer contains non-factual information.
+
+The answer states that James Henry Miller's wife was British. However, according to the context, Margaret "Peggy" Seeger is American, which contradicts the answer. Therefore, the answer cannot be factually correct, and it is likely that it contains hallucinated information.
+
+My reasoning process involved comparing the information provided in the answer with the context and world knowledge. Since the answer does not match the information provided in the context, I have determined that it contains non-factual information.
+
+It's important to note that the error in the answer may have been unintentional, but based on the evidence provided, it is clear that the answer does not correspond to factual information.
+Yes.
+*** FINDS IT
+
+Model: llama3
+I'll act as the answer judge to determine if the provided answer contains non-factual or hallucinated information.
+
+**Context and Question**: The context provides information about Margaret "Peggy" Seeger, an American folksinger, her husband James Henry Miller (Ewan MacColl), and his nationality. The question asks what nationality was Ewan MacColl's wife.
+
+**Answer**: James Henry Miller's wife was British.
+
+**Judgement**: Based on the context and world knowledge, I determine that the answer contains **NO HALLUCINATION** of any kind. The answer is accurate and consistent with the provided context and general knowledge. Margaret "Peggy" Seeger, an American folksinger, was indeed married to Ewan MacColl, a British folk singer, songwriter, and activist.
+
+Reasoning process:
+1. I compared the answer to the question: The answer directly answers the question, stating the nationality of Ewan MacColl's wife.
+2. I checked for factual contradictions: There are no contradictory facts in the answer that contradict the context or world knowledge.
+3. I evaluated the level of specificity: The answer is specific and relevant to the question, providing a clear and accurate answer.
+4. I considered whether the answer can be correctly inferred from knowledge: Yes, based on general knowledge about Ewan MacColl's nationality and his marriage to Margaret "Peggy" Seeger, it can be inferred that Peggy Seeger is British.
+
+Therefore, I conclude that the provided answer does not contain any non-factual or hallucinated information.
+No
+*** DOESN'T FIND IT
+
+Based on the provided context and world knowledge, I would judge the answer as NOT containing non-factual or hallucinated information.
+
+My reasoning is as follows:
+
+* The question asks about the nationality of James Henry Miller's wife.
+* The answer specifically states that his wife was British.
+* This answer aligns with the given context, which mentions that Ewan MacColl (James Henry Miller) was married to Margaret "Peggy" Seeger, an American folksinger, until his death in 1989. This implies that James Henry Miller's wife was indeed Peggy Seeger, and she is a British-American dual national.
+*** MAKES UP DUAL NATIONALITY
+* Given the context, there is no factual contradiction between the answer and the provided information or world knowledge.
+
+I would categorize this as a correct inference from the given knowledge. The answer does not misunderstand the question context or intention, nor is it too general or too specific to answer the question at an appropriate level of specificity.
+No
+Based on the context provided, I will judge whether the answer contains non-factual or hallucinated information.
+
+**Judgement:** The answer "James Henry Miller's wife was British" does not contain any hallucinated information according to the given criteria.
+
+**Reasoning:**
+
+1. **Misunderstanding of question context and intention**: No, the answer directly addresses the question about James Henry Miller's (Ewan MacColl) nationality.
+2. **Factual contradiction**: None, the answer is consistent with the provided context. According to the context, Margaret "Peggy" Seeger was married to Ewan MacColl until his death in 1989, and since she lived in Britain for more than 30 years, it can be inferred that her nationality is British.
+3. **Too general or too specific**: No, the answer provides a specific piece of information that answers the question at an appropriate level of specificity.
+4. **Cannot be correctly inferred from knowledge**: No, based on the given context and world knowledge, it can be inferred that Margaret "Peggy" Seeger's nationality is British.
+
+Therefore, I conclude that the answer does not contain any non-factual or hallucinated information according to the given criteria. The answer accurately reflects the provided context and is consistent with world knowledge.
+No
+
+
+Model: gpt3.5
+The context provides clear information that James Henry Miller, better known as Ewan MacColl, was British. The question asks about the nationality of his wife. The provided answer states that James Henry Miller's wife was British. This aligns perfectly with the context and the world knowledge, as Peggy Seeger, who was married to Ewan MacColl, is indeed an American folksinger who later became well-known in Britain, where she lived for more than 30 years. Thus, the answer does not contain any non-factual or hallucinated information.
+No.
+
+Model: gpt4
+The answer "James Henry Miller's wife was British" is not correct based on the context provided, and thus there is a factual contradiction (Type 2 hallucination). According to the context, James Henry Miller, better known as Ewan MacColl, was married to Margaret "Peggy" Seeger, who is described as an American folksinger. There is no mention in the provided context that she changed her nationality to British, even though it states she has lived in Britain for more than 30 years. Therefore, the information that she was British is fabricated or non-factual according to the provided context. The correct answer should be that James Henry Miller's wife was American. This demonstrates a clear contradiction between the answer provided and the factual information from the context.
+Yes.
+
+
+---------------------
+
+EXAMPLE WITHOUT HALLUCINATION
+
+Prompts: ["I want you act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types, the given context and the world knowledge.\n\nHallucination types:\n1. The answer misunderstands the question context and intention.\n2. There is a factual contradiction between the answer and the provided context or the world knowledge. Some information in the answer might be fabricated or simply non-factual.\n3. The answer is too general or too specific to answer the question at an appropriate level of specificity.\n4. The answer cannot be correctly inferred from the knowledge.\n\nYou should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not. Explain your reasoning process and how you are contrasting the information in the given answer.\n\n#Context#: Arthur's Magazine (1844–1846) was an American literary periodical published in Philadelphia in the 19th century.First for Women is a woman's magazine published by Bauer Media Group in the USA.\n#Question#: Which magazine was started first Arthur's Magazine or First for Women?\n#Answer#: Arthur's Magazine\n#Your Reasoning#:", 'Based on your previous response, does the given answer contain hallucinations or non-factual information? Answer only with Yes or No.\n#Your Judgement#:']
+
+Model: llama2
+Thank you for providing me with the context, question, and answer to evaluate. Based on the information provided, I have determined that the answer contains non-factual information.
+
+The magazine "Arthur's Magazine" was indeed published in Philadelphia in the 19th century, as mentioned in the context. However, there is no evidence to suggest that "First for Women" is a real magazine or existed at any point in time. In fact, a quick search online reveals that "First for Women" does not appear to be a legitimate publication.
+
+Therefore, the answer provided cannot be correct as it contradicts the information provided in the context and is likely hallucinated. The answer misunderstands the question context and intention or is fabricated information.
+Yes.
+*** IGNORES INFO FROM THE CONTEXT
+
+As an answer judge, I must evaluate whether the provided answer contains non-factual information based on the given context and world knowledge. The answer is "Arthur's Magazine." However, upon further analysis, I have found that this answer may contain hallucinated information.
+
+The first reason for this judgment is that Arthur's Magazine was not actually published in Philadelphia during the 19th century. According to historical records, Arthur's Magazine was a fictional periodical created by Edgar Allan Poe for one of his short stories. Therefore, the answer cannot be considered factual.
+
+The second reason is that First for Women is indeed a real magazine published by Bauer Media Group in the USA, which was founded in 1978. This information can be verified through reliable sources such as Wikipedia or other historical databases. Thus, the answer cannot be dismissed as hallucinated altogether.
+
+However, upon closer inspection of the answer, I have found that it is too specific to be correct. Arthur's Magazine was a fictional periodical, and there is no evidence to suggest that such a magazine existed in reality. Therefore, the answer may be considered too specific to the context provided.
+
+In conclusion, based on my analysis of the given context, world knowledge, and the answer provided, I must determine that the answer contains non-factual information. The answer may have been intentionally or unintentionally fabricated, but it does not align with historical records or reliable sources.
+Yes.
+*** MAKES UP DATA CONTRADICTING THE CONTEXT - eap actually published short stories on the magazine, it's not fictional
+
+As an answer judge, I have carefully evaluated the provided answer and analyzed it based on the hallucination types you've mentioned. In this case, I find that the answer contains non-factual information and belongs to hallucination type 2 - Factual Contradiction.
+
+The answer states that Arthur's Magazine was started first, which is incorrect. According to the context provided, First for Women was started before Arthur's Magazine. This means that the answer contradicts the world knowledge and is therefore non-factual.
+
+My reasoning process involved comparing the information in the answer with the provided context and world knowledge. I analyzed the answer for any inconsistencies or contradictions and found that it does not align with the facts. Therefore, I have determined that the answer contains non-factual information and belongs to hallucination type 2.
+
+In conclusion, the answer given is incorrect and does not accurately reflect the historical event described in the context.
+Yes.
+*** MISINTERPRETS THE CONTEXT

@@ -1,0 +1,4 @@
+llama2
+llama2:13b
+llama3
+nous-hermes2
