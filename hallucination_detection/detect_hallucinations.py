@@ -2,7 +2,7 @@ import json
 import argparse
 from rich.progress import track
 
-from utils import *
+from ..utils import *
 
 
 def generate_prompts(template: str, question: str, answer: str, context: str = '') -> list[str]:

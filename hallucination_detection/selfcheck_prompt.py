@@ -4,7 +4,7 @@ from rich.progress import track
 import nltk
 import numpy as np
 
-from utils import *
+from ..utils import *
 
 
 # nltk.download('punkt')
@@ -35,7 +35,7 @@ def contrast_response(model: str, response: str, samples: list[str], use_cot: bo
 
 def evaluate_data(model: str, data: list[dict], sensitivity: float, use_cot: bool) -> list[dict]:
     evaluated_data = []
-    for row in data:
+    for row in track(data):
         row_copy = row.copy()
         row_copy['hallucination_pred'] = 1 if contrast_response(model, row['answer'], row['samples'],
                                                                 use_cot) >= sensitivity else 0

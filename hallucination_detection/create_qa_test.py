@@ -1,9 +1,6 @@
-"""Create question-answer test
-
-This script takes in a JSON list of objects where each object contains a question with correct and hallucinated answers.
-With the chosen accuracy, the script will choose a random answer for each question, and add a 'hallucination'
-field to tell whether it is hallucinated.
-"""
+"""This script takes in a JSON list of objects where each object contains a question with (context), correct and
+hallucinated answers. With the chosen accuracy, the script will choose a random answer for each question,
+and add a 'hallucination' field to tell whether it is hallucinated."""
 
 import csv
 import json
