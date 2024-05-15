@@ -8,7 +8,7 @@ import argparse
 import random
 
 
-def choose_one_answer(qa_pair: dict, accuracy: float, include_context: bool, dataset: str) -> dict:
+def choose_one_answer(qa_pair: dict, accuracy: float, include_context: bool, include_samples: bool, dataset: str) -> dict:
     qa_test = {}
     hallucinate = 1 if random.random() > accuracy else 0
     if dataset == 'halueval':
@@ -21,14 +21,17 @@ def choose_one_answer(qa_pair: dict, accuracy: float, include_context: bool, dat
         good_answers = qa_pair['Correct Answers'].split(';')
         hallucinated_answers = qa_pair['Incorrect Answers'].split(';')
         qa_test['answer'] = random.choice(hallucinated_answers) if hallucinate else random.choice(good_answers)
+        if include_samples:
+            qa_test['samples'] = [sample for sample in (hallucinated_answers if hallucinate else good_answers)
+                                  if sample != qa_test['answer']]
     qa_test['hallucination'] = hallucinate
     return qa_test
 
 
-def generate_test(qa_data: list[dict], accuracy: float, include_context: bool, dataset: str) -> list[dict]:
+def generate_test(qa_data: list[dict], accuracy: float, include_context: bool, include_samples: bool, dataset: str) -> list[dict]:
     test_data = []
     for row in qa_data:
-        test_data.append(choose_one_answer(row, accuracy, include_context, dataset))
+        test_data.append(choose_one_answer(row, accuracy, include_context, include_samples, dataset))
     return test_data
 
 
@@ -38,12 +41,14 @@ def main() -> None:
     parser.add_argument('--outfile', default=None, help='Output JSON file')
     parser.add_argument('--accuracy', type=float, default=0.6, help='Proportion of right answers to be chosen (0 to 1)')
     parser.add_argument('--context', default='y', help='Include context field? (y/n)')
+    parser.add_argument('--samples', default='n', help='Number of extra sampled responses')
     args = parser.parse_args()
 
     if not args.data:
         raise ValueError('Please add the input --data argument')
     outfile = args.outfile if args.outfile else '_test.'.join(args.data.rsplit('.', 1))
     include_context = (args.context[0].lower() == 'y')
+    include_samples = (args.samples[0].lower() == 'y')
 
     with open(args.data, 'r') as f:
         if args.data.endswith('.json'):
@@ -56,7 +61,7 @@ def main() -> None:
             raise ValueError('Please enter a valid --data file (json or csv)')
 
     with open(outfile, 'w') as f:
-        json.dump(generate_test(qa_data, args.accuracy, include_context, dataset), f)
+        json.dump(generate_test(qa_data, args.accuracy, include_context, include_samples, dataset), f)
 
 
 if __name__ == '__main__':
