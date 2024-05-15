@@ -1,3 +1,6 @@
+"""This script uses a sentence-by-sentence approach to contrast a given answer to multiple samples generated
+from the same question."""
+
 import json
 import argparse
 from rich.progress import track

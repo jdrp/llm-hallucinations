@@ -1,3 +1,6 @@
+"""This script uses HaluEval-style prompts to detect hallucinations in question-answer pairs, by asking a chosen LLM
+to judge the correctness of the answer according to world knowledge and (optionally) context."""
+
 import json
 import argparse
 from rich.progress import track

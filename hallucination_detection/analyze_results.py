@@ -1,3 +1,6 @@
+"""This script analyzes the results of hallucination prediction to extract relevant information such as
+true or false positives and negatives, accuracy..."""
+
 import json
 import argparse
 
