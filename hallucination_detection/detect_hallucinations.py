@@ -71,7 +71,7 @@ def main() -> None:
         raise ValueError('Please add the input --data argument')
     if args.model not in available_models:
         raise ValueError(f"Please select a --model from the following: {', '.join(available_models)}")
-    outfile = args.outfile if args.outfile else f'_{args.model}.'.join(args.data.rsplit('.', 1))
+    outfile = args.outfile if args.outfile else f"_{args.model.replace(':','-')}.".join(args.data.rsplit('.', 1))
     use_cot = (args.cot[0] == 'y')
 
     with open(args.data, 'r') as f:
