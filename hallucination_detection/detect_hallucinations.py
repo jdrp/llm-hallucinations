@@ -4,8 +4,11 @@ to judge the correctness of the answer according to world knowledge and (optiona
 import json
 import argparse
 from rich.progress import track
+import sys
+import os
 
-from ..utils import *
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from utils import *
 
 
 def generate_prompts(template: str, question: str, answer: str, context: str = '') -> list[str]:
