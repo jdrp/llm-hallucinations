@@ -6,8 +6,11 @@ import argparse
 from rich.progress import track
 import nltk
 import numpy as np
+import sys
+import os
 
-from ..utils import *
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from utils import *
 
 
 # nltk.download('punkt')
@@ -24,7 +27,7 @@ def contrast_sentence(model: str, sentence: str, sample: str, use_cot: bool) -> 
         response = prompt_model(model, prompt)
         print(response)
 
-    return 1 if response.startswith('Yes') else 0 if response.startswith('No') else 0.5
+    return 0 if response.startswith('Yes') else 1 if response.startswith('No') else 0.5
 
 
 def contrast_response(model: str, response: str, samples: list[str], use_cot: bool) -> float:

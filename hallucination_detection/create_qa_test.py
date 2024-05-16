@@ -46,9 +46,9 @@ def main() -> None:
 
     if not args.data:
         raise ValueError('Please add the input --data argument')
-    outfile = args.outfile if args.outfile else '_test.'.join(args.data.rsplit('.', 1))
     include_context = (args.context[0].lower() == 'y')
     include_samples = (args.samples[0].lower() == 'y')
+    outfile = args.outfile if args.outfile else f"{args.data.rsplit('.',1)[0]}_test{'_samples' if include_samples else ''}.json"
 
     with open(args.data, 'r') as f:
         if args.data.endswith('.json'):
