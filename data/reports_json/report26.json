@@ -1,0 +1,25 @@
+{
+    "chief_complaint": "chf",
+    "admit_diagnosis": "subendocardial infarction, initial episode of care",
+    "discharge_diagnosis": [
+        "congestive heart failure, unspecified",
+        "chronic airway obstruction, not elsewhere classified",
+        "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage v or end stage renal disease",
+        "end stage renal disease",
+        "unknown diagnosis code",
+        "atrial fibrillation",
+        "diabetes with other specified manifestations, type ii or unspecified type, not stated as uncontrolled",
+        "long-term (current) use of insulin",
+        "unspecified acquired hypothyroidism",
+        "personal history of malignant neoplasm of cervix uteri",
+        "coronary atherosclerosis of native coronary artery",
+        "long-term (current) use of anticoagulants",
+        "osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot",
+        "obstructive sleep apnea (adult)(pediatric)",
+        "anemia in chronic kidney disease",
+        "other and unspecified hyperlipidemia",
+        "carrier or suspected carrier of other specified bacterial diseases",
+        "infection with microorganisms resistant to penicillins"
+    ],
+    "report_text": "consultation report **institution **place, pa **zip-code **name[aaa, bbb m] **id-num **id-num a3b/1 date of consultation: **date[mar 12 06] consulting physician: **name[www m. xxx], m.d. attending physician: **name[zzz m yyy] requesting physician: **name[vvv uuu], m.d. cardiology reason for consult coronary artery disease, non q-wave mi. history of present illness the patient is a pleasant **age[in 70s]-year-old woman with end-stage renal disease, copd, diabetes and coronary artery disease, history of atrial flutter admitted with a low blood sugar, mental status changes and a workup for a low blood sugar. she had a troponin check which is elevated. she denies any significant chest pain or shortness of breath. she had some mild dyspnea on exertion, but no significant other cardiovascular symptoms. she has a history of a mild abnormal stress test in the past. currently, she is resting in bed comfortably with only complaints of arthritic pain. past medical history 1. copd. 2. end-stage renal disease. 3. diabetes. 4. congestive heart failure. 5. atrial flutter. no episodes since 2005. followed by dr. **name[ttt]. social history she does not smoke or drink. family history negative for premature coronary artery disease. allergies no known drug allergies. medications 1. klonopin. 2. nephrocaps. 3. synthroid. 4. norvasc. 5. coreg. 6. aspirin. 7. coumadin. review of systems negative for fever, chills. positive for shortness of breath. positive for dyspnea. no chest pain. no claudication. no dysuria. no bleeding problems. the rest of the review of systems are negative. physical examination general: she is a pleasant woman in no apparent distress, alert and oriented times three. vitals: afebrile, blood pressure is 145/68, pulse is 89 and regular. heent: eyes are anicteric, oral mucosa is moist. neck: supple with 2+ carotids without bruits. normal jugular venous distention. lungs: decrease breath sounds. heart: regular rate and rhythm. s1 and s2. no s3 or s4. pmi is focal and nondisplaced. no significant murmurs, rubs, or gallops. abdomen: soft, nontender, nondistended. no splenomegaly. positive bowel sounds. extremities: shows no cyanosis, clubbing with mild edema. diagnostics ekg is sinus rhythm with a left ventricular hypertrophy. laboratory data bun and creatinine 33 and 1.2, potassium 3.4, troponin 1.93, hemoglobin 15, white count 8.5. bnp of 1210. assessment this is a pleasant **age[in 70s]-year-old woman with multiple risk factors with probably known underlying cardiac disease presenting with hypoglycemic causing a bump in her troponin. she has no cardiovascular symptoms. no ekg changes. we will check an echocardiogram. she should undergo a dialysis to have fluid removal to treat her congestive heart failure. if her echocardiogram shows good lv function, we will proceed with an adenosine stress for risk stratification tomorrow, as long as there is no significant ischemia due to her lack of symptoms. we will continue to treat her medically, which include a statin beta-blocker. consider adding a low dose aspirin to her coumadin, if there is not an elevated bleeding risk. we will add crestor 5 mg a day for now given her history to intolerance of lipitor in the past."
+}

@@ -1,0 +1,27 @@
+{
+    "chief_complaint": "renal failure",
+    "admit_diagnosis": "acute kidney failure, unspecified",
+    "discharge_diagnosis": [
+        "hepatorenal syndrome",
+        "unknown diagnosis code",
+        "cirrhosis of liver without mention of alcohol",
+        "other chronic hepatitis",
+        "acute and subacute necrosis of liver",
+        "acute kidney failure, unspecified",
+        "cyst and pseudocyst of pancreas",
+        "subdural hemorrhage",
+        "other specified disorders of liver",
+        "acquired absence of organ, genital organs",
+        "knee joint replacement",
+        "unknown diagnosis code",
+        "other iatrogenic hypothyroidism",
+        "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage i through stage iv, or unspecified",
+        "fall from other slipping, tripping, or stumbling",
+        "home accidents",
+        "other iatrogenic hypotension",
+        "aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+        "hypopotassemia",
+        "other sequelae of chronic liver disease"
+    ],
+    "report_text": "**institution consultation name: **name[aaa, bbb] acct #: **id-num mrn: **id-num admitted: **date[apr 05 2007] date: **date[apr 08 2006] dict: **name[xxx, www] attend: **name[zzz, yyy] the patient is an **age[in 80s]-year-old white female with a history of autoimmune cirrhosis, hypertension, splenomegaly, hypothyroidism, glucose intolerance, admitted after a fall. ct scan showed a small subdural hematoma which has been stable. she is becoming more and more frail at home, and is becoming more weak, with increasing falls recently. her family is considering her for placement. we have seen her in the past for autoimmune hepatitis and cirrhosis. she had been controlled on diuretics with lasix and aldactone, which have been increased, the aldactone to b.i.d. and lasix b.i.d. unfortunately, her creatinine has increased from 1.6 with bun of 46, to a creatinine of 2.7 and bun of 55 on admission now. despite this, she continues to have pedal edema and refractory ascites. prior to admission she was alert, according to her son, but dr. **name[zzz] in his office found her ammonia level to be about 100. she also complains of some left flank pain now. ct scan in 2005 showed a cirrhotic liver, with a moderate amount of ascites; splenomegaly. there was a 1-cm cystic lesion in the right lobe of the liver; the possibility of a hepatoma was raised. she also has a cystic lesion in the head of the pancrease, possibly a cystadenoma or an intraductal papillary tumor. she also had moderate adenopathy which has not really changed on the scans from 2003 through 2005. past medical history: she also has a history of left knee replacement, hysterectomy and cholecystectomy. medications: lasix 40 mg b.i.d., lactulose 20 g p.o. q.a.m., synthroid 175 mcg daily; toprol 50 mg daily; aldactone 50 mg p.o. b.i.d. physical examination: general: this is an alert, elderly, thin female without any acute distress. vital signs: afebrile. lungs: clear. cor: normal s1 and s2. abdomen: soft. there is a moderate amount of ascites. extremities: there is 2+ edema. no asterixis. laboratory data: sodium 133, potassium 3.4, chloride 88, co2 28, bun 59, creatinine 2.6. no recent liver function tests. albumin on **date[feb 27 2007], was 3.5. hemoglobin 12.6, hematocrit 37.1, white blood cell count 7600, platelets 118,000. inr is 1.3. tsh is 9.842. stool for occult blood is negative. impression: end-stage liver disease with ascites and pedal edema despite diuretics. the diuretics were recently increased and she has had worsening renal failure, which suggests that diuretics will not be an option for mobilizing fluid. she is too elderly for a tips, and her ammonia level of 100 as an outpatient would suggest that she would become encephalopathic and decompensate with a tips, so i do not think she is a candidate for this. our options are very limited. i think that the only thing we can do now is periodic large-volume paracentesis for comfort. i think that her left flank pain is probably from increasing ascites. i think it is reasonable at this time to do a large-volume paracentesis and see how she responds to this in terms of her pain and her overall comfort level. in view of her recent worsening renal failure, we will decrease her lasix and aldactone. she has gained in the hospital and it appears to be () liquid, so we will cut back on her iv fluids. her lymphadenopathy has been stable from 2003 to 2005, and would probably not alter her management even if she had a lymphoma, so i do not think that we should pursue this. she also had a 1-cm lesion in the right lobe of her liver, and a cystic lesion at the head of the pancreas. even should she have a hepatoma or a pancreatic tumor, again, given her cirrhosis with limited treatment options, i do not think that diagnosis of these lesions should be pursued as our therapeutic options would be fairly limited. we will schedule this patient for a large-volume paracentesis. this case was discussed with dr. **name[zzz] and with the patient's son-in-law. thank you for allowing us to participate in the care of this patient."
+}

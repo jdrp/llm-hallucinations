@@ -1,14 +1,12 @@
 You will be given the contents of an anonymized medical report in JSON format. You will generate ten questions related to the information in that report. For each of the questions, you will generate both a correct answer (aligning with the report) and a hallucinated answer (wrong but plausible sounding).
-Use the following format in your response:
+Format your response as a json list of dictionaries like this:
 
-**Question**: write here the first question
-**Correct answer**: write here the correct answer
-**Hallucinated answer**: write here the hallucinated answer
-**Question**: write here the second question
-**Correct answer**: write here the correct answer
-**Hallucinated answer**: write here the hallucinated answer
+[{"question":"write here the first question", "right_answer":"write here the correct answer to the first question", "hallucinated_answer":"write here the hallucinated answer"},
+{"question":"write here the second question", "right_answer":"write here the correct answer to the second question", "hallucinated_answer":"write here the hallucinated answer"},
+{"question":"write here the third question", "right_answer":"write here the correct answer to the third question", "hallucinated_answer":"write here the hallucinated answer"}]
 
-and so on.
+All the fields should be formatted as strings, and do NOT include any extra text before or after the square brackets.
 
-**Report**: [R]
+**Report**:
+[R]
 **Your response**:

@@ -1,0 +1,20 @@
+{
+    "chief_complaint": "diarrhea",
+    "admit_diagnosis": "diarrhea",
+    "discharge_diagnosis": [
+        "dehydration",
+        "atrial fibrillation",
+        "urinary tract infection, site not specified",
+        "congestive heart failure, unspecified",
+        "intestinal infection due to other organism, not elsewhere classified",
+        "coronary atherosclerosis of unspecified type of vessel, native or graft",
+        "aortocoronary bypass status",
+        "other and unspecified hyperlipidemia",
+        "unspecified acquired hypothyroidism",
+        "esophageal reflux",
+        "unspecified essential hypertension",
+        "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+        "long-term (current) use of insulin"
+    ],
+    "report_text": "**institution emergency department patient name: **name[aaa, bbb m] account #: **id-num date of service: **date[mar 02 06] primary care physician: **name[yyy m zzz] history of present illness: chief complaint: generalized weakness, diarrhea, elevated blood sugar. i reviewed the history, physical and medical management with the resident. i also reviewed her nursing notes. i personally interviewed and examined the patient. history of present illness: this is an **age[in 80s]-year-old female with a past medical history significant for insulin-dependent diabetes, presenting with persistent diarrhea preceded with abdominal cramping and also elevated blood sugar. she states that because of her inability to tolerate her regular diet, she has not been using her insulin as her regular regimen. she denies any blood in her stool and has not had any recent sick contact. she denies any recent antibiotic use. she denies any dysuria. she denies any joint pain. she does not have any cough or sputum production. no headache or vision changes, or light-headedness. review of systems: all other review of systems are otherwise negative. past medical history: past medical history, medications, allergies, and social history: as per the resident report. physical exam: on examination this is a well-developed white female in no acute distress. vital signs: temperature 36.4, pulse 61, respirations 14, blood pressure 120/60, pulse oximetry 94% on room air. heent exam reveals normocephalic, atraumatic head, equal and reactive pupils. intact extraocular movements. the oral mucosa is somewhat dry, no erythema or exudate. neck is supple and nontender. lung sounds are clear and equal bilaterally. heart sounds are regular. abdomen is soft, nontender. extremity exam shows plus 2 pulses, no peripheral edema. neurologically she is alert and oriented times three. the cranial nerves ii through xii are within normal limits. motor is 5/5 in all extremities. there is no focal neurologic deficit. rectal is heme negative brown stool. ed course: the patient was hyperglycemic here and she was treated with subcutaneous insulin and given intravenous fluids. her cbc and chem 7 otherwise is unremarkable. she does have some rise in her renal function. her blood glucose did come down with the subcutaneous insulin. the patient was unable to give us a stool sample here to be sent off for clostridium difficile toxin analysis. the patient does have a urinary tract infection here and this was treated with ciprofloxacin. given that the patient states that her blood sugar has been difficult to control over this last month, i think further inpatient treatment for her dehydration as well as improved glycemic control as an inpatient may be warranted. we spoke with dr. **name[zzz]' service as well as the i service nurse practitioner and the patient will be admitted. admission diagnosis(es): 1. persistent diarrhea of unclear etiology. 2. dehydration. 3. hyperglycemia with history of insulin dependent diabetes."
+}

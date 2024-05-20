@@ -1,0 +1,18 @@
+{
+    "chief_complaint": "hyponatremia",
+    "admit_diagnosis": "hyposmolality and/or hyponatremia",
+    "discharge_diagnosis": [
+        "other demyelinating diseases of central nervous system",
+        "hyposmolality and/or hyponatremia",
+        "intestinal infection due to clostridium difficile",
+        "alkalosis",
+        "vaccination not carried out because of patient refusal",
+        "hypopotassemia",
+        "unspecified essential hypertension",
+        "personal history of other diseases of circulatory system",
+        "pernicious anemia",
+        "pure hypercholesterolemia",
+        "osteoporosis, unspecified"
+    ],
+    "report_text": "**institution consultation name: **name[aaa, bbb] acct #: **id-num mrn: **id-num admitted: **date[mar 04 2007] date: **date[mar 05 2006] dict: **name[xxx, www] attend: **name[zzz, yyy] this is a **age[in 50s]-year-old female who was transferred from **institution. she was found to have hyponatremia. she was admitted for diarrhea and received () 100 meq. eventually this gradually corrected. on new years weekend, the patient became delirious, agitated, and developed some dysarthria. at that time, an mri done showed central pontine myelinosis. the patient states that she drinks gin and tonic daily, and is a heavy smoker. past medical history: hypertension on atenolol and lotrel, ticlid, premarin, xanax p.r.n., and folic acid. allergies: as listed. social history: smoker for 45 years and drinks gin and tonic daily. family history: unremarkable. physical examination: reveals **age[in 50s]-year-old female looking older than her stated age. she is awake, alert, afebrile, minimal dysarthria. no evidence of anemia or jaundice. minimal dehydration. pulse is 80. sinuses are normal. blood pressure is 120/80. heart sounds one and two are heard. no murmurs, gallops, or friction rubs. chest examination reveals chest to be symmetrical. trachea is central. breath sounds reduced. scattered rales in both lung fields. abdominal examination: abdomen is soft. no hepatosplenomegaly, no ascites, no masses, no rebound or guarding. bowel sounds are heard. central nervous system: the patient is awake and alert, minimal dysarthria. there is some weakness and some gait disturbance. neck examination shows no goiter and no bruits. lab work: reveals a sodium of 136 with a normal potassium and a normal chloride. hemoglobin 11.0, white count 5900. assessment: a **age[in 50s]-year-old female who is a heavy smoker and moderate alcohol on a daily basis, admitted with diarrhea and found to be severely hyponatremic. the hyponatremia has been subsequently corrected and the patient presently is on intravenous normal saline. recommendations: once the iv saline is discontinued, we will reevaluate urine electrolytes, urine osmolality, serum osmolality. workup at **institution was basically unremarkable. the patient had a swallowing function today, and may resume oral intake with no restriction of salt in her diet."
+}

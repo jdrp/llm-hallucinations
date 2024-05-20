@@ -1,0 +1,13 @@
+{
+    "chief_complaint": "lung problem",
+    "admit_diagnosis": "unknown diagnosis code",
+    "discharge_diagnosis": [
+        "aspergillosis",
+        "unknown diagnosis code",
+        "unknown diagnosis code",
+        "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+        "personal history of tobacco use",
+        "personal history of malignant neoplasm of breast"
+    ],
+    "report_text": "**institution general medicine attending physician progress note patient name: **name[aaa, bbb] account #: **id-num **room attending physician: **name[yyy m zzz] admission date: **date[mar 06 2007] evaluation date: **date[mar 21 06] subjective: the patient reports no new complaints. he is resting comfortably and denies any chest pain, shortness of breath, nausea, or vomiting. objective: temperature is 97.1, blood pressure is 95/49, pulse is 79, and respiratory rate of 18. in general, he is in no acute distress. cardiovascular, regular rate and rhythm. no murmurs, rubs, or gallops. lungs, he has decreased breath sounds at the bases and hyperresonance at the right base. he also has crepitance along his right pectoralis muscle which is unchanged from yesterday. his abdomen is soft, nontender, and nondistended with normoactive bowel sounds. extremities, he has no clubbing, cyanosis, or edema. i have reviewed the patient's chest x-ray today, and it shows a decrease in the size of the right-sided pneumothorax from yesterday's chest x-ray. assessment and plan: the patient is a **age[in 60s]-year-old gentleman with a history of diabetes and aspergillus pneumonia who presents initially with a hydropneumothorax of the right chest. 1. right hydropneumothorax. the patient still has his pigtail catheter in place. he has remained on suction overnight and it appears that the pneumothorax is better today. he is being followed by both the ct surgery service as well as the pulmonary service. tomorrow, we will need to discuss with both of these services what the ultimate plan is for him. it appears that thoracic is considering vats versus an endobronchial valve implantation and we will need to discuss these options with them as well as with the patient's mother. for now, keep the patient on continuous suction and keep the pigtail in place. 2. aspergillus pneumonia. the patient should remain on voriconazole and the id team is following along. 3. diabetes. the patient continues to have some slightly elevated blood sugars. i will continue him on the metformin for now at the current dose. 4. prophylaxis. the patient remains on gi and dvt prophylaxis."
+}

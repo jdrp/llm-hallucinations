@@ -1,0 +1,13 @@
+{
+    "chief_complaint": "pleural effusion",
+    "admit_diagnosis": "shortness of breath",
+    "discharge_diagnosis": [
+        "congestive heart failure, unspecified",
+        "atrial fibrillation",
+        "thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",
+        "personal history of malignant neoplasm of breast",
+        "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+        "unspecified essential hypertension"
+    ],
+    "report_text": "**institution consultation name: **name[aaa, bbb] acct #: **id-num mrn: **id-num admitted: date: **date[apr 03 2006] dict: **name[xxx, www] attend: **name[zzz, yyy] mrs. **name[aaa] is an **age[in 80s]-year-old woman who has a hypertension, atrial fibrillation, anticoagulation, history of pneumonia, hyperthyroidism, non-insulin-dependent diabetes mellitus, history of diarrhea. she was recently here at **institution for those problems. she now returns with increasing dyspnea. she denies any chest pain, chest discomfort. she has a history of diabetes in addition to the above. because of her increasing shortness of breath, she was admitted here. presently, she is awake and alert. blood pressure is 158/62, saturations 94%, respiratory rate is 18, rate 68. heent unremarkable. chest with diminished breath sounds, right greater than left. moderate jvd. there is a 3+ left lift. carotids are brisk. auscultation: s1 and s2, a2 is less than p2. abdomen is soft, cholecystectomy scar. there is no edema. blood pressures are elevated. k is only 3.6. bnp is 518. chest x-ray has 3+ cardiomegaly, congestive heart failure, bilateral pleural effusion, lvh 50%. ekg: atrial fibrillation, left anterior hemiblock, poor r wave progression. presently, i suspect this is diastolic dysfunction with pulmonary hypertension. presently, we are going to concentrate on getting her blood pressure under control using diuresis. her effusions are small and i do not think they need to be intervened with. we will also correct her potassium. hopefully, diuresis will take care of this problem. thank you very much."
+}

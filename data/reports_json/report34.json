@@ -1,0 +1,18 @@
+{
+    "chief_complaint": "gastroesophageal cancer nausea vomiting",
+    "admit_diagnosis": "malignant neoplasm of cardia",
+    "discharge_diagnosis": [
+        "malignant neoplasm of cardia",
+        "malignant neoplasm of liver, secondary",
+        "secondary malignant neoplasm of lung",
+        "dehydration",
+        "hyposmolality and/or hyponatremia",
+        "candidal esophagitis",
+        "unspecified essential hypertension",
+        "unspecified acquired hypothyroidism",
+        "knee joint replacement",
+        "unspecified cataract",
+        "rash and other nonspecific skin eruption"
+    ],
+    "report_text": "the patient is a **age[in 70s]-year-old white female discovered to have metastatic esophageal ca and had a stent placed and was started on systemic chemotherapy 2 weeks ago but did not tolerate the therapy and had significant nausea, vomiting, as well as elevation of liver enzymes and was admitted for further evaluation and treatment. at this time, she is mildly dehydrated and is on iv fluids. she has a history of hypertension, hypothyroidism, and asthma, for which she is on singulair 10 mg per day, synthroid 50 mcg per day, and atenolol 50 mg daily. physical examination: exam shows an alert white female in moderate distress, who looks somewhat pale. her blood pressure is 135/68. her heart rate is 76 and regular. her chest is entirely clear. impression: 1. hypertension, well controlled even though she has not been able to take her atenolol. 2. her asthma appears to be quiet. she has not had to use any inhalers lately, and she may not need the singulair. 3. her hypothyroidism is treated with the synthroid and this could be changed to an iv formulation. plan: plan is to change her medications as much as possible to iv. the atenolol cannot be switched and this will have to be crushed and mixed with applesauce. she will probably be scoped per dr. **name[vvv]. recommendations for her medications will be reevaluated after her scope."
+}

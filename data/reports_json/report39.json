@@ -1,0 +1,14 @@
+{
+    "chief_complaint": "seizure",
+    "admit_diagnosis": "other convulsions",
+    "discharge_diagnosis": [
+        "other convulsions",
+        "cocaine abuse, unspecified",
+        "opioid type dependence, continuous",
+        "hemiplegia, unspecified, affecting unspecified side",
+        "late effect of spinal cord injury",
+        "other left bundle branch block",
+        "personal history of other infectious and parasitic diseases"
+    ],
+    "report_text": "discharge summary **institution **place, pa **zip-code **name[aaa, bbb m] **id-num **id-num a6b/1 service of: **name[zzz m yyy] date of admission: **date[apr 07 2007] date of discharge: **date[apr 09 2007] discharge diagnoses: 1. new onset seizure disorder. 2. cocaine abuse. 3. history of c5 injury with residual left-sided weakness. 4. history of drug abuse currently on methadone program. summary: the patient is a **age[in 40s]-year-old white man who was admitted to the emergency room after having a witnessed tonic-clonic seizure x2. this happened at home and the family brought him into the emergency room. his h and p is as previously dictated. hospital course: the patient was started on dilantin. he was in consultation by dr. **name[vvv] and an mri of the brain was done which was normal. he also had an eeg, which was nonfocal. he had no further seizure episodes during the hospitalization. the lab was positive for cocaine in the drug screen. the electrolytes were normal. cbc and diff were normal. alkaline phosphatase was 92, alt was 85, and ast was 59. ethanol level was 0. ekg was normal. the patient was also seen while he was here by the drug and alcohol counseling unit and did offer him an inpatient position. however, the patient has no insurance and cannot afford this out of pocket. he was also counseled as to outpatient followup for drug and alcohol abuse. both the neurologist and myself talked to him about his driver's license and stated that he will not be able to drive. i will send a notification to the dmv about this. he sees dr. **name[yyy] as an outpatient and i have asked him to call the office in plum and make an office visit followup for 2 weeks. he will be on his dilantin until that visit at least. discharge medications: 1. dilantin 100 mg t.i.d. 2. thiamine 50 mg a day. 3. to continue his methadone program at 60 mg t.i.d. he was given prescriptions for the dilantin and the thiamine today. condition at the time of discharge: stable. diet at discharge: as tolerated. activity at discharge: normal with the exception of driving."
+}

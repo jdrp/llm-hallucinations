@@ -1,0 +1,18 @@
+{
+    "chief_complaint": "stroke",
+    "admit_diagnosis": "acute, but ill-defined, cerebrovascular disease",
+    "discharge_diagnosis": [
+        "occlusion and stenosis of carotid artery with cerebral infarction",
+        "subendocardial infarction, initial episode of care",
+        "hematoma complicating a procedure",
+        "atrial fibrillation",
+        "atrial flutter",
+        "mitral valve disorders",
+        "unknown diagnosis code",
+        "unspecified essential hypertension",
+        "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+        "coronary atherosclerosis of native coronary artery",
+        "coronary atherosclerosis of autologous vein bypass graft"
+    ],
+    "report_text": "**institution critical care medicine attending physician progress note patient name: **name[aaa, bbb m] account #: **id-num **room attending physician: **name[yyy m zzz] admission date: **date[mar 08 2007] evaluation date: **date[mar 10 06] i have been asked to provide critical care management for this patient by neurology service. i examined this patient in the morning as well as in the afternoon on multidisciplinary critical care time rounds. i reviewed the medical records, laboratory data, and x-ray as well as the ct scan. all the care has been provided under my direct supervision. **name[bbb aaa] is a **age[in 70s]-year-old lady with a right internal carotid artery occlusion, right mca stroke. i am seeing her for management of acute management of her stroke as well as the encephalopathy, nutritional support as well as low h&h. this morning on my examination **name[bbb aaa] is lethargic but easily arousable. she follows commands on the right upper and lower extremities. she is plegic on the left. she is able to protect her airway. she was extubated yesterday. she moves air bilaterally. she is able to cough and clear her secretions. she remains on 2 liters nasal cannula oxygen saturation on the acceptable range. her cardiovascular hemodynamics are acceptable. her abdomen is soft, and she is tolerating jevity tube feeds at this point. however, sugars are running in the 190 range and, therefore, i am starting her on nph insulin and increasing sliding scale to q.4h. today her h&h has dropped. she had had problems with previous groin hematoma. therefore i am transfusing her 2 units of blood. her troponin was 13.9 today and has increased up to 19. therefore, i am obtaining an echocardiography and then based on consultation from cardiology, it sounds like she probably has a non-q wave myocardial infarction. i am also starting her on lopressor. she is already on aspirin and plavix. apart from this, she is on dvt as well as stress ulcer prophylaxis. i also have her on q.6 h&h to monitor her blood counts, and she is receiving pt and ot in the icu. total critical care time spent with this patient is **age[in 30s] minutes."
+}

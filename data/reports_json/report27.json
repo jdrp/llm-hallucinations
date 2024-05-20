@@ -1,0 +1,26 @@
+{
+    "chief_complaint": "sepsis",
+    "admit_diagnosis": "other general symptoms",
+    "discharge_diagnosis": [
+        "abdominal pain, other specified site",
+        "sarcoidosis",
+        "hepatitis, unspecified",
+        "nutritional marasmus",
+        "diseases of tricuspid valve",
+        "other complications due to other vascular device, implant, and graft",
+        "retention of urine, unspecified",
+        "urinary tract infection, site not specified",
+        "backache, unspecified",
+        "postgastric surgery syndromes",
+        "hypoglycemia, unspecified",
+        "dyspepsia and other specified disorders of function of stomach",
+        "iron deficiency anemia, unspecified",
+        "inflammatory conditions of jaw",
+        "osteoporosis, unspecified",
+        "tobacco use disorder",
+        "dysthymic disorder",
+        "migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",
+        "other postprocedural status"
+    ],
+    "report_text": "**institution consultation name: **name[aaa, bbb] acct #: **id-num mrn: **id-num admitted: date: **date[mar 14 2006] dict: **name[xxx, www] attend: **name[zzz, yyy] reason for consult: sarcoid, possible pneumonia. history of present illness: **name[bbb aaa] is a **age[in 40s]-year-old female who gives about a 16 or 17-year history of sarcoid. she has had chronic skin rash, and biopsy showed granulomas consistent with sarcoid. this was in the early 1999. these were possibly in 1990. she later had a breast lump. evidently, this showed granulomatous inflammation as well and it was thought to be secondary to sarcoid. she is currently admitted to the hospital because of flank pain, difficulty urinating, weight loss and anorexia. she has also had weakness, fatigue, and questionable syncopal episode. the patient has a long complicated gi history including a subtotal gastrectomy and chronic dumping syndrome with malnutrition for which she has been on home pt for many years. she has a variety of electrolyte disturbances and micronutrient disturbances related to her tpn and questionable compliance. according to the patient, she has tpn, but has not been using it the last 5 to 6 days at home. from a pulmonary standpoint, she has had previous pneumonia. she denies cough or sputum. she has had some left-sided chest pain over the years. she remembers being told that she had sarcoid predominantly in the left lung previously but evidently she has not had pulmonary followup that she can recall. past medical history: past medical history is notable for cholecystectomy, appendectomy, chronic hepatitis, osteoporosis, and the above mentioned sarcoid, and gi-related problems. social history: the patient smokes about a half-a-pack a day. she quit for 2 years, but has been smoking for over 2 years. family history: positive for crohn's disease, but negative for lung disease including sarcoid. **institution: medications at home include tpn nightly, advair which she uses intermittently, paxil, percocet, toprol, and folic acid. review of systems: review of systems is notable for weight loss. she denies cough or sputum. she has had intermittent shortness of breath which she says caused her to quit smoking, evidently it must have gotten better as she resumed smoking. she has a negative cardiac history except for questionable palpitations. she has chronic skin condition. she is allergic toradol and ivp dye. physical examination: a thin anxious female who was in no acute distress. she has been febrile previously, but currently was afebrile. respirations 20 on room air with saturations in 94%. heent exam was normal. the lungs revealed a few rales at the bases, left greater than right. there were no wheezes. cardiac exam revealed a normal s1 and s2. there was a port over the right anterior chest. the abdomen revealed well healed surgical scar. there was no edema of the extremities. chest x-ray suggested left lower lung infiltrate. the lung windows of the ct scan of the abdomen showed more nodular infiltrate in the left lower lobe in bronchovascular distribution consistent with a sarcoid. white blood count was 12,600, hemoglobin 8.2. my impression is that **name[bbb aaa] is a **age[in 40s]-year-old female with longstanding sarcoid without significant pulmonary involvement clinically, but ct scan evidence that suggests sarcoid more so than acute pneumonia. at this point, i recommend we deal with her gi issues. when she is feeling better, i would get complete pulmonary function tests and a ct scan of the chest without contrast for baseline data collection. at this point, i am not convinced that she has an acute pneumonia."
+}

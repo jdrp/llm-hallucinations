@@ -1,0 +1,21 @@
+{
+    "chief_complaint": "chest pain",
+    "admit_diagnosis": "precordial pain",
+    "discharge_diagnosis": [
+        "esophageal reflux",
+        "panic disorder without agoraphobia",
+        "reflux esophagitis",
+        "hyperventilation",
+        "other chest pain",
+        "other specified cardiac dysrhythmias",
+        "disturbance of skin sensation",
+        "dizziness and giddiness",
+        "anxiety state, unspecified",
+        "elevated blood pressure reading without diagnosis of hypertension",
+        "abdominal tenderness, epigastric",
+        "anemia, unspecified",
+        "unknown diagnosis code",
+        "late effect of unspecified injury"
+    ],
+    "report_text": "emergency department patient record **institution **place, pa **zip-code **name[aaa, bbb m] **id-num aerm date of service **date[mar 03 06] chief complaint: burning chest pain with palpable acute hyperventilation. history of present illness: this is a **age[in 20s]-year-old female. i have seen her before for right hand injury. she is here with her husband. at around 1 a.m. approximately 5 hours before my exam, she developed substernal burning chest pain. associated with this, she became lightheaded, had numbness and tingling of finger, and does admit to hyperventilation. intermittent symptoms since 1 a.m. after work she comes in here for evaluation. she denies any cardiac-type symptoms, palpitations, or shortness of breath. there is no cough. she denies substance abuse, addiction, withdrawal, or cocaine abuse. she does have some epigastric pressure and does have a history of reflux. this was during pregnancy. this reproduces symptoms. the rest of the exam is unremarkable. risk factor appeared to be quite low. it is nonexertional. i suspect she has gastroesophageal reflux as the underlying problem with reflux esophagitis, atypical chest pain, and her response to this may have been one of anxiety or hyperventilation. past medical history: otherwise healthy. family may have hypertension. family history: unknown. social history: lives with her husband. review of systems: all other systems are reviewed and found to be negative or noncontributory except as noted in the above hpi. physical examination: vital signs: stable per nurse's notes. constitutional: healthy-appearing **age[in 20s]-year-old female. head and eyes: negative. ent, mouth, and neck: negative. asymptomatic at this time. cardiac: heart rate and rhythm regular. respiratory: lungs are clear. gi: abdomen is soft. tenderness. epigastrium reproduces both chest pain and burning sensation. gu: flank and bladder negative. neurological: nonfocal. musculoskeletal: negative. homans sign negative. psychiatric: alert and oriented. hematologic/lymphatic: no adenopathy. skin: no rash. test results: the patient has been here for several hours, pre ordered lab tests by nursing staff. chest x-ray was not ordered. ekg unremarkable per my interpretation. laboratory studies shows renal function and electrolytes are normal. white count 8500, hemoglobin 12.6, and platelets normal. troponin negative. d-dimer negative. clinical course: the patient appears to be medically stable. at the point of disposition, she highlights that she has actually been seen in for stress test this morning. then i have encouraged her to keep this appointment. but i am not convinced that this represents anything related to an acute coronary syndrome. mylanta 30 ml is to be given and pepcid 20 mg p.o. recommendations for pepcid 20 mg twice a day over the counter for 1 week or prilosec 2 daily, []***, antacids as needed, []*** type diet, and referred as an outpatient to primary care. if any other symptoms develop, exertional chest pain, or pain radiating other than chest, she can return emergently. consultation: none. medical decision making: 1. acute burning chest pain. 2. epigastric distress. 3. gastroesophageal reflux likely with reflux esophagitis and spasm. 4. chest pain from gastroesophageal reflux likely with reflux esophagitis and spasm. 5. acute hyperventilation without syncope secondary to gastroesophageal reflux likely with reflux esophagitis and spasm. final diagnoses: 1. acute gastroesophageal reflux disease/reflux esophagitis. symptomatic. 2. acute limited panic attack with hyperventilation, resolved. **institution, stable condition."
+}
