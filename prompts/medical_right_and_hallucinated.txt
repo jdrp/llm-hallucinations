@@ -1,0 +1,14 @@
+You will be given the contents of an anonymized medical report in JSON format. You will generate ten questions related to the information in that report. For each of the questions, you will generate both a correct answer (aligning with the report) and a hallucinated answer (wrong but plausible sounding).
+Use the following format in your response:
+
+**Question**: write here the first question
+**Correct answer**: write here the correct answer
+**Hallucinated answer**: write here the hallucinated answer
+**Question**: write here the second question
+**Correct answer**: write here the correct answer
+**Hallucinated answer**: write here the hallucinated answer
+
+and so on.
+
+**Report**: [R]
+**Your response**:
