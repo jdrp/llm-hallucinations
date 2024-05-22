@@ -1,6 +1,6 @@
 llama2
 llama2:13b
 llama3
-llama3:70b
 nous-hermes2
 solar
+mistral

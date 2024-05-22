@@ -23,8 +23,11 @@ def generate_qa(model, report_file: str) -> list[dict]:
     try:
         qa_list = json.loads(response_clean)
         print(qa_list)
-        if any(not set(qa.keys()) == {'question', 'right_answer', 'hallucinated_answer'} for qa in qa_list):
-            raise ValueError
+        for qa in qa_list:
+            if not set(qa.keys()) == {'question', 'right_answer', 'hallucinated_answer'}:
+                raise ValueError
+            if type(qa['right_answer']) == list:
+                qa['right_answer'] = '; '.join(qa['right_answer'])
         return qa_list
     except ValueError:
         print('Error decoding reponse:')
