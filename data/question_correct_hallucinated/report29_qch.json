@@ -1,1 +1,57 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "lung problem", "hallucinated_answer": "back pain"}, {"question": "What was the admission diagnosis code?", "right_answer": "unknown diagnosis code", "hallucinated_answer": "code 1234"}, {"question": "What were the patient's discharge diagnoses?", "right_answer": "aspergillosis; unknown diagnosis code; unknown diagnosis code; diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled; personal history of tobacco use; personal history of malignant neoplasm of breast", "hallucinated_answer": ["lung cancer", "pneumonia", "heart failure", "kidney stones"]}, {"question": "What was the patient's temperature on admission?", "right_answer": "97.1", "hallucinated_answer": "98.2"}, {"question": "How many clubbing, cyanosis, or edema were present in the patient's extremities?", "right_answer": "none", "hallucinated_answer": "one"}, {"question": "What was the result of reviewing the patient's chest X-ray?", "right_answer": "a decrease in the size of the right-sided pneumothorax from yesterday's chest X-ray", "hallucinated_answer": "no change in the size of the pneumothorax"}, {"question": "What was the patient's age?", "right_answer": "in 60s", "hallucinated_answer": "in 40s"}, {"question": "What was the patient's condition initially?", "right_answer": "hydropneumothorax of the right chest", "hallucinated_answer": "pneumonia"}, {"question": "Which services were following the patient?", "right_answer": "ct surgery service; pulmonary service", "hallucinated_answer": ["cardiology department", "radiology department"]}, {"question": "What was the plan for the patient's pigtail catheter?", "right_answer": "keep it in place and continue suction", "hallucinated_answer": "remove it immediately"}, {"question": "What medication was the patient on for diabetes?", "right_answer": "metformin", "hallucinated_answer": "insulin"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "lung problem",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the unknown diagnosis code given to the patient on admission?",
+        "right_answer": "unknown diagnosis code",
+        "hallucinated_answer": "acute bronchitis"
+    },
+    {
+        "question": "What was one of the discharge diagnoses for the patient?",
+        "right_answer": "aspergillosis",
+        "hallucinated_answer": "pneumococcal pneumonia"
+    },
+    {
+        "question": "How many discharge diagnoses were listed for the patient?",
+        "right_answer": "4",
+        "hallucinated_answer": "6"
+    },
+    {
+        "question": "What was the patient's personal history mentioned in the report?",
+        "right_answer": "personal history of tobacco use and personal history of malignant neoplasm of breast",
+        "hallucinated_answer": "personal history of hypertension and personal history of kidney stones"
+    },
+    {
+        "question": "Who was the attending physician for the patient's care?",
+        "right_answer": "**name[yyy m zzz]",
+        "hallucinated_answer": "Dr. Smith"
+    },
+    {
+        "question": "What was the patient's temperature recorded as being on admission?",
+        "right_answer": "97.1",
+        "hallucinated_answer": "98.5"
+    },
+    {
+        "question": "What was the patient's respiratory rate recorded as being on admission?",
+        "right_answer": "18",
+        "hallucinated_answer": "20"
+    },
+    {
+        "question": "What was mentioned about the patient's lungs in the report?",
+        "right_answer": "decreased breath sounds at the bases and hyperresonance at the right base, with crepitance along his right pectoralis muscle",
+        "hallucinated_answer": "normal lung sounds"
+    },
+    {
+        "question": "What was mentioned about the patient's abdomen in the report?",
+        "right_answer": "soft, nontender, and nondistended with normoactive bowel sounds",
+        "hallucinated_answer": "distended with abnormal bowel sounds"
+    },
+    {
+        "question": "What was the patient being followed by in terms of services?",
+        "right_answer": "the ct surgery service as well as the pulmonary service",
+        "hallucinated_answer": "the cardiology service and the neurology service"
+    }
+]

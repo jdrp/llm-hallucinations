@@ -1,1 +1,52 @@
-[{"question": "What was the chief complaint of the patient?", "right_answer": "fever", "hallucinated_answer": "shortness of breath"}, {"question": "What was the patient's primary care physician?", "right_answer": "a n", "hallucinated_answer": "dr. smith"}, {"question": "How many transplants had the patient undergone prior to this visit?", "right_answer": "three (liver, small bowel, and pancreas in 1998; kidney in 2006)", "hallucinated_answer": "five"}, {"question": "What was the patient's temperature upon initial examination?", "right_answer": "37.8", "hallucinated_answer": "102.2"}, {"question": "Why did the patient present with fever and chills?", "right_answer": "rule out sepsis", "hallucinated_answer": "kidney stone formation"}, {"question": "What was the patient's creatinine level according to the chem-7 lab results?", "right_answer": "2.0", "hallucinated_answer": "1.5"}, {"question": "What was the plan for the patient at this time?", "right_answer": "hydrate and admit to transplant service, withhold on antibiotics and CT scan for now", "hallucinated_answer": "start antibiotics immediately and schedule a CT scan"}, {"question": "Where was the patient admitted to?", "right_answer": "12 south, transplant floor", "hallucinated_answer": "intensive care unit"}, {"question": "What were the patient's initial lab results remarkable for?", "right_answer": "elevated white count and left shift with 86 neutrophils", "hallucinated_answer": "low sodium levels"}, {"question": "Why was the patient scheduled to have a renal biopsy at this time?", "right_answer": "to check for rejection", "hallucinated_answer": "to confirm kidney stone formation"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "Fever",
+        "hallucinated_answer": "Abdominal pain"
+    },
+    {
+        "question": "Why did the patient present to the emergency department?",
+        "right_answer": "He woke up with fevers, chills, vomiting, and diarrhea",
+        "hallucinated_answer": "He had a severe headache that he couldn't shake"
+    },
+    {
+        "question": "What was the patient's medical history?",
+        "right_answer": "Status post kidney transplant in 2006, status post liver, small bowel, and pancreas transplant in 1998, hiatal hernia",
+        "hallucinated_answer": "He had a heart attack several years ago"
+    },
+    {
+        "question": "What was the patient's temperature initially?",
+        "right_answer": "37.8\u00b0C",
+        "hallucinated_answer": "39.5\u00b0C"
+    },
+    {
+        "question": "Why did the doctor initiate a septic workup?",
+        "right_answer": "The patient presented with fevers and chills, and was immunosuppressed after multiple transplants",
+        "hallucinated_answer": "He had a history of kidney stones and the doctor wanted to rule out infection"
+    },
+    {
+        "question": "What was the plan for the patient at this time?",
+        "right_answer": "To hydrate the patient, admit him to the transplant service, and withhold antibiotics and CT scan",
+        "hallucinated_answer": "To give him antibiotics and send him home with instructions to follow up with his doctor"
+    },
+    {
+        "question": "What was the patient's diagnosis?",
+        "right_answer": "Fever, rule out sepsis",
+        "hallucinated_answer": "Chronic abdominal pain"
+    },
+    {
+        "question": "Why did Dr. ***name[xxx]** expect the patient for a renal biopsy?",
+        "right_answer": "The patient was scheduled to have a renal biopsy today to check for rejection",
+        "hallucinated_answer": "The patient had a history of kidney stones and needed follow-up care"
+    },
+    {
+        "question": "What were the patient's vital signs initially?",
+        "right_answer": "Temperature 37.8\u00b0C, heart rate 108, respiratory rate 18, blood pressure 96/62",
+        "hallucinated_answer": "Temperature 39.2\u00b0C, heart rate 100, respiratory rate 20, blood pressure 110/70"
+    },
+    {
+        "question": "What was the assessment and ED course?",
+        "right_answer": "The patient had persistent vomiting and diarrhea, with possibilities of viral gastroenteritis or C. difficile colitis",
+        "hallucinated_answer": "The patient had a severe headache that didn't respond to treatment"
+    }
+]

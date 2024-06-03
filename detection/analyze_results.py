@@ -27,12 +27,11 @@ def main() -> None:
     parser.add_argument('--data', default=None, help='JSON file with predictions and ground truth')
     parser.add_argument('--predkey', default='hallucination_pred', help='JSON key for the prediction')
     parser.add_argument('--truekey', default='hallucination', help='JSON key for ground truth')
-    parser.add_argument('--plot', default='y', help='Plot results? (y/n)')
+    parser.add_argument('--plot', default=True, action=argparse.BooleanOptionalAction, help='Plot results? (y/n)')
     args = parser.parse_args()
 
     if not args.data:
         raise ValueError('Please input a --data file')
-    plot_results = (args.plot[0].lower() == 'y')
 
     with open(args.data, 'r') as f:
         pred_data = json.load(f)

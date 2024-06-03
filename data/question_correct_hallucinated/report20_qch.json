@@ -1,1 +1,52 @@
-[{"question": "What is the patient's chief complaint?", "right_answer": "Pins sticking through femur", "hallucinated_answer": "Severe knee pain"}, {"question": "What was the admitting diagnosis?", "right_answer": "Nonunion of fracture", "hallucinated_answer": "Severe cellulitis"}, {"question": "Why was the patient seen in consultation?", "right_answer": "For bradycardia", "hallucinated_answer": "For a possible stroke"}, {"question": "What is the patient's history of present illness?", "right_answer": "Multiple orthopedic surgeries due to trauma to the left leg", "hallucinated_answer": "A recent bout of bronchitis"}, {"question": "What was the result of the EKG performed yesterday?", "right_answer": "Sinus bradycardia with a rate of 49 and it was sinus rhythm", "hallucinated_answer": "Atrial fibrillation"}, {"question": "What is the patient's history of valvular heart disease, MI or angina?", "right_answer": "Present", "hallucinated_answer": "Absent"}, {"question": "What medication did the patient take prior to admission?", "right_answer": "Percocet (twice a day)", "hallucinated_answer": "Morphine (as needed)"}, {"question": "Why is the patient experiencing nausea and pain?", "right_answer": "Due to dilaudid PCA", "hallucinated_answer": "From eating spoiled food"}, {"question": "What is the patient's review of systems like?", "right_answer": "Entirely negative otherwise, except for bradycardia", "hallucinated_answer": "Positive for abdominal pains and chest pains"}, {"question": "What does the physical examination reveal?", "right_answer": "Regular pulse, awake, alert, and oriented", "hallucinated_answer": "Abnormal thyroid exam findings"}, {"question": "Why is the patient being maintained on DVT prophylaxis?", "right_answer": "Since her motor vehicle accident in July", "hallucinated_answer": "Due to a family history of blood clots"}]
+[
+    {
+        "question": "What is the patient's chief complaint?",
+        "right_answer": "Pins sticking through femur",
+        "hallucinated_answer": "Abdominal pain"
+    },
+    {
+        "question": "What is the patient's admit diagnosis?",
+        "right_answer": "Nonunion of fracture",
+        "hallucinated_answer": "Chronic obstructive pulmonary disease"
+    },
+    {
+        "question": "What is one of the discharge diagnoses?",
+        "right_answer": "Other mechanical complication of other internal orthopedic device, implant, and graft",
+        "hallucinated_answer": "Cardiac arrhythmia"
+    },
+    {
+        "question": "How old was the patient at the time of admission?",
+        "right_answer": "In her 30s",
+        "hallucinated_answer": "Early 50s"
+    },
+    {
+        "question": "What type of procedure did the patient undergo yesterday?",
+        "right_answer": "Procedure for nonunion",
+        "hallucinated_answer": "Coronary artery bypass grafting"
+    },
+    {
+        "question": "Why was the patient experiencing bradycardia?",
+        "right_answer": "Suspected increased vagal tone due to nausea and/or pain",
+        "hallucinated_answer": "Undiagnosed electrolyte imbalance"
+    },
+    {
+        "question": "What medication is the patient currently taking?",
+        "right_answer": "Dilaudid PCA",
+        "hallucinated_answer": "Atorvastatin"
+    },
+    {
+        "question": "What is the patient's medical history like?",
+        "right_answer": "Otherwise completely negative for any serious illnesses",
+        "hallucinated_answer": "Positive for multiple hospitalizations and chronic diseases"
+    },
+    {
+        "question": "What is one of the patient's allergies?",
+        "right_answer": "None",
+        "hallucinated_answer": "Penicillin"
+    },
+    {
+        "question": "What was the patient's pulse rate?",
+        "right_answer": "60 and regular",
+        "hallucinated_answer": "120 and irregular"
+    }
+]

@@ -1,0 +1,10 @@
+You will be given context on a certain medical topic, a question regarding that topic and the corresponding answer.
+With all this information, your task is to generate a hallucinated answer to that same question.
+The hallucinated answer should have a similar structure as the given answer. It should sound plausible. However, some part of it must be non-factual.
+You must only write the hallucinated answer, with no extra preceding explanation.
+
+### Context ###: [C]
+### Question ###: [Q]
+### Right answer ###: [A]
+
+### Hallucinated answer ###:

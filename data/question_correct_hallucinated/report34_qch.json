@@ -1,1 +1,52 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "gastroesophageal cancer nausea vomiting", "hallucinated_answer": "chest pain"}, {"question": "What was the admit diagnosis?", "right_answer": "malignant neoplasm of cardia", "hallucinated_answer": "pneumonia"}, {"question": "What were some of the patient's discharge diagnoses?", "right_answer": "malignant neoplasm of cardia; malignant neoplasm of liver, secondary; secondary malignant neoplasm of lung; dehydration; hyposmolality and/or hyponatremia; candidal esophagitis; unspecified essential hypertension; unspecified acquired hypothyroidism; knee joint replacement; unspecified cataract; rash and other nonspecific skin eruption", "hallucinated_answer": ["pneumonia", "sepsis"]}, {"question": "How long had the patient been taking systemic chemotherapy before being admitted?", "right_answer": "2 weeks ago", "hallucinated_answer": "6 months"}, {"question": "What was the patient's history of hypertension, hypothyroidism, and asthma?", "right_answer": "she is on singulair 10 mg per day, synthroid 50 mcg per day, and atenolol 50 mg daily", "hallucinated_answer": "she has a history of hypertension, but it's well controlled with diet and exercise"}, {"question": "What was the patient's blood pressure?", "right_answer": "135/68", "hallucinated_answer": "120/80"}, {"question": "Was the patient dehydrated?", "right_answer": "yes", "hallucinated_answer": "no"}, {"question": "Why couldn't the atenolol be switched to an IV formulation?", "right_answer": "it cannot be switched", "hallucinated_answer": "the doctor just didn't want to take the time"}, {"question": "What was planned for the patient's scope?", "right_answer": "she will probably be scoped per Dr. **name[vvv]**", "hallucinated_answer": "she will have a colonoscopy instead"}, {"question": "Why were some of the patient's medications changed to IV formulations?", "right_answer": "the plan is to change her medications as much as possible to iv", "hallucinated_answer": "because the doctor wanted to try something new"}, {"question": "What would happen after the patient's scope?", "right_answer": "recommendations for her medications will be reevaluated", "hallucinated_answer": "the doctor would give her a clean bill of health"}]
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "gastroesophageal cancer nausea vomiting",
+        "hallucinated_answer": "chest pain and difficulty breathing"
+    },
+    {
+        "question": "What is the admit diagnosis of the patient?",
+        "right_answer": "malignant neoplasm of cardia",
+        "hallucinated_answer": "pneumonia with sepsis"
+    },
+    {
+        "question": "What are some discharge diagnoses for the patient?",
+        "right_answer": "malignant neoplasm of cardia, malignant neoplasm of liver, secondary, secondary malignant neoplasm of lung, dehydration, hyposmolality and/or hyponatremia, candidal esophagitis, unspecified essential hypertension, unspecified acquired hypothyroidism, knee joint replacement, unspecified cataract, rash and other nonspecific skin eruption",
+        "hallucinated_answer": "congestive heart failure, chronic obstructive pulmonary disease, atrial fibrillation"
+    },
+    {
+        "question": "What is the patient's history of medications?",
+        "right_answer": "singulair 10 mg per day, synthroid 50 mcg per day, atenolol 50 mg daily",
+        "hallucinated_answer": "aspirin 81 mg daily, metformin 500 mg twice a day, gabapentin 300 mg three times a day"
+    },
+    {
+        "question": "What is the patient's blood pressure?",
+        "right_answer": "135/68",
+        "hallucinated_answer": "160/90"
+    },
+    {
+        "question": "What is the patient's heart rate?",
+        "right_answer": "76 and regular",
+        "hallucinated_answer": "120 and irregular"
+    },
+    {
+        "question": "Is the patient's asthma controlled?",
+        "right_answer": "appears to be quiet",
+        "hallucinated_answer": "uncontrolled, requiring frequent inhaler use"
+    },
+    {
+        "question": "What is the plan for the patient's medications?",
+        "right_answer": "change her medications as much as possible to iv, crush and mix atenolol with applesauce",
+        "hallucinated_answer": "stop all medications until further evaluation"
+    },
+    {
+        "question": "Why will the patient's thyroid medication be reevaluated?",
+        "right_answer": "because it could be changed to an iv formulation",
+        "hallucinated_answer": "due to possible interaction with her other medications"
+    },
+    {
+        "question": "What is recommended for the patient's medications after scope?",
+        "right_answer": "reevaluate recommendations",
+        "hallucinated_answer": "switch all medications to oral forms"
+    }
+]

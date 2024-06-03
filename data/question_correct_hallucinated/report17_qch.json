@@ -1,1 +1,52 @@
-[{"question": "What is the chief complaint of this patient?", "right_answer": "headache", "hallucinated_answer": "chest pain"}, {"question": "What was the admit diagnosis for this patient?", "right_answer": "variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus", "hallucinated_answer": "acute bronchitis"}, {"question": "How long has the patient been experiencing persistent headache?", "right_answer": "approximately one month", "hallucinated_answer": "a few weeks"}, {"question": "What is the location of the patient's headache?", "right_answer": "right occipital region posteriorly in the base of his head", "hallucinated_answer": "left frontalis region"}, {"question": "Why did the patient initially seek treatment for their headache?", "right_answer": "it was somewhat alleviated with motrin, but then had subsequent re-exacerbation", "hallucinated_answer": "he experienced a sudden onset of severe pain"}, {"question": "What was the result of the patient's CT scan with and without contrast?", "right_answer": "normal", "hallucinated_answer": "abnormal"}, {"question": "Why is the patient awaiting evaluation by a neurologist?", "right_answer": "he is concerned that he cannot wait that long for his referral and management", "hallucinated_answer": "his primary care physician recommended it"}, {"question": "What specific movement did the patient note pain with in their right shoulder?", "right_answer": "forward flexion of his shoulder", "hallucinated_answer": "rotational movement"}, {"question": "Did the patient report any upper respiratory symptoms?", "right_answer": "no", "hallucinated_answer": "yes, a cough and congestion"}, {"question": "What was the discharge diagnosis for this patient?", "right_answer": "exacerbation of subacute headache", "hallucinated_answer": "migraine with aura"}]
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "headache",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What is the admit diagnosis of the patient?",
+        "right_answer": "variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus",
+        "hallucinated_answer": "acute appendicitis"
+    },
+    {
+        "question": "What was the primary care physician's name mentioned in the report?",
+        "right_answer": "**name[www m xxx]**",
+        "hallucinated_answer": "Dr. Smith"
+    },
+    {
+        "question": "How old is the patient according to the report?",
+        "right_answer": "a 40s-year-old male",
+        "hallucinated_answer": "a 30s-year-old female"
+    },
+    {
+        "question": "What was the patient's main complaint about his headache?",
+        "right_answer": "it was initially somewhat sharp and then became a constant, throbbing, aching pain in his right occipital region posteriorly in the base of his head",
+        "hallucinated_answer": "he couldn't stop thinking about it"
+    },
+    {
+        "question": "What medication did the patient take to alleviate his headache?",
+        "right_answer": "Motrin",
+        "hallucinated_answer": "Aspirin"
+    },
+    {
+        "question": "Why was the patient referred to a neurologist?",
+        "right_answer": "he is awaiting evaluation by neurologist on **date[mar 15]**",
+        "hallucinated_answer": "he had a family history of seizures"
+    },
+    {
+        "question": "What was the patient's main concern about his headache?",
+        "right_answer": "he cannot wait that long",
+        "hallucinated_answer": "it was affecting his work performance"
+    },
+    {
+        "question": "How did the patient describe his pain at discharge?",
+        "right_answer": "somewhat throbbing pain and at time aching pain and it is fairly localized in the right occipital region",
+        "hallucinated_answer": "it was constant and excruciating"
+    },
+    {
+        "question": "What was the discharge diagnosis of the patient?",
+        "right_answer": "exacerbation of subacute headache",
+        "hallucinated_answer": "migraine with aura"
+    }
+]

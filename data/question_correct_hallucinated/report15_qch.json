@@ -1,1 +1,52 @@
-[{"question": "What is the primary chief complaint of the patient?", "right_answer": "Intracerebral hemorrhage", "hallucinated_answer": "Acute kidney injury"}, {"question": "What was the patient's initial diagnosis before being intubated?", "right_answer": "Right intraparenchymal hemorrhage in the basal ganglia thalamus region", "hallucinated_answer": "Seizure disorder"}, {"question": "Why was the patient intubated and brought to the hospital for evaluation?", "right_answer": "Progressive symptoms, lethargy, decreased gag reflex, and blood pressure control issues", "hallucinated_answer": "Difficulty speaking due to a cold"}, {"question": "What is the patient's age range mentioned in the report?", "right_answer": "70s", "hallucinated_answer": "50s"}, {"question": "What was the patient's blood pressure upon admission?", "right_answer": "194/111, with a mean of 136", "hallucinated_answer": "160/90"}, {"question": "How were the patient's pupils described in the report?", "right_answer": "Equal, 3 to 2 briskly reactive bilaterally", "hallucinated_answer": "Constricted and unequal"}, {"question": "What is mentioned as a potential issue with the patient's extremities?", "right_answer": "Left-sided hemiparesis", "hallucinated_answer": "Right arm weakness"}, {"question": "What was the result of the patient's CT scan at this facility?", "right_answer": "Expansion and progression of the bleed to involve most of the right hemisphere with interventricular extension", "hallucinated_answer": "A small asymptomatic lesion"}, {"question": "To which service was the patient admitted?", "right_answer": "Neurosurgical service", "hallucinated_answer": "Cardiology department"}, {"question": "What is the patient's total critical care time mentioned in the report?", "right_answer": "45 minutes", "hallucinated_answer": "2 hours"}]
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "Intercerebral bleed",
+        "hallucinated_answer": "Severe headache"
+    },
+    {
+        "question": "What was the admit diagnosis for the patient?",
+        "right_answer": "Cerebral artery occlusion, unspecified with cerebral infarction",
+        "hallucinated_answer": "Acute myocardial infarction"
+    },
+    {
+        "question": "What was the primary care physician of the patient?",
+        "right_answer": "QQQ M PPP",
+        "hallucinated_answer": "John Smith MD"
+    },
+    {
+        "question": "How old is the patient?",
+        "right_answer": "70s-year-old man",
+        "hallucinated_answer": "50-year-old woman"
+    },
+    {
+        "question": "What was the patient's diagnosis prior to arrival at the hospital?",
+        "right_answer": "Right intraparenchymal hemorrhage in the basal ganglia thalamus region",
+        "hallucinated_answer": "Stroke with left-sided weakness"
+    },
+    {
+        "question": "What medication did the patient take prior to admission?",
+        "right_answer": "Dilantin",
+        "hallucinated_answer": "Warfarin"
+    },
+    {
+        "question": "What was the patient's blood pressure upon arrival at the hospital?",
+        "right_answer": "194/111 and mean of 136",
+        "hallucinated_answer": "160/90 and mean of 120"
+    },
+    {
+        "question": "What was the patient's vital sign temperature?",
+        "right_answer": "36.6",
+        "hallucinated_answer": "37.2"
+    },
+    {
+        "question": "How was the patient's pupillary response?",
+        "right_answer": "Pupils were equal, 3 to 2 briskly reactive bilaterally",
+        "hallucinated_answer": "Pupils were unequal and non-reactive on the left side"
+    },
+    {
+        "question": "What is the diagnosis of the patient upon admission?",
+        "right_answer": "Intracerebral hemorrhage with extension at this time to the ventricle on the right",
+        "hallucinated_answer": "Subarachnoid hemorrhage"
+    }
+]

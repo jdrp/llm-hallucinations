@@ -1,1 +1,52 @@
-[{"question": "What was the patient's primary diagnosis?", "right_answer": "community-acquired pneumonia", "hallucinated_answer": "chronic obstructive pulmonary disease"}, {"question": "What was the patient's secondary diagnosis for hypertension?", "right_answer": "unspecified essential hypertension", "hallucinated_answer": "malignant hypertension"}, {"question": "What was the result of the patient's sputum cultures?", "right_answer": "light gram-positive cocci in pairs, rare yeast", "hallucinated_answer": "no growth after 6 days of culture"}, {"question": "What was the percentage of neutrophils in the patient's pleural fluid?", "right_answer": "5%", "hallucinated_answer": "80%"}, {"question": "What was the result of the patient's blood cultures?", "right_answer": "no growth after 6 days of culture", "hallucinated_answer": "positive for MRSA"}, {"question": "Why did the patient have a chest x-ray during their hospitalization?", "right_answer": "to evaluate the progression of the pleural effusion and potential infiltrates", "hallucinated_answer": "to check for lung cancer"}, {"question": "What was the patient's medication regimen upon discharge?", "right_answer": "percocet, amlodipine, benazepril, os-cal with vitamin d, clopidogrel, darbepoetin alfa, colace, heparin, milk of magnesia, moxifloxacin, and protonix", "hallucinated_answer": "only percocet"}, {"question": "What was the patient's rehabilitation condition upon discharge?", "right_answer": "good", "hallucinated_answer": "poor"}, {"question": "Who is following up with the patient after her discharge?", "right_answer": "dr. [zzz]", "hallucinated_answer": "a different doctor"}, {"question": "What was recommended for the patient's physical therapy?", "right_answer": "1 to 2 hours per day", "hallucinated_answer": "only on weekends"}]
+[
+    {
+        "question": "What was the patient's chief complaint upon admission?",
+        "right_answer": "pneumonia pleural effusion",
+        "hallucinated_answer": "unspecified upper respiratory infection"
+    },
+    {
+        "question": "What was the patient's discharge diagnosis for pneumonia?",
+        "right_answer": "pneumonia, organism unspecified",
+        "hallucinated_answer": "Streptococcus pneumoniae"
+    },
+    {
+        "question": "What was the patient's underlying condition that made her more susceptible to pneumonia?",
+        "right_answer": "osteoporosis, unspecified",
+        "hallucinated_answer": "chronic obstructive pulmonary disease"
+    },
+    {
+        "question": "What did the patient's chest X-ray show on March 25, 2007?",
+        "right_answer": "moderate-sized left pleural effusions",
+        "hallucinated_answer": "no acute cardiopulmonary changes"
+    },
+    {
+        "question": "What was the patient's heart rate like according to her EKG done on March 24, 2007?",
+        "right_answer": "not specified",
+        "hallucinated_answer": "sinus bradycardia"
+    },
+    {
+        "question": "Why did the patient need physical therapy during her hospitalization?",
+        "right_answer": "to regain autonomy",
+        "hallucinated_answer": "to improve balance and coordination"
+    },
+    {
+        "question": "What medication was the patient taking for constipation before admission?",
+        "right_answer": "not specified",
+        "hallucinated_answer": "docusate sodium"
+    },
+    {
+        "question": "Why did the patient need to continue moxifloxacin IV during her hospitalization?",
+        "right_answer": "to treat pneumonia",
+        "hallucinated_answer": "to prevent skin infections"
+    },
+    {
+        "question": "What was the patient's discharge plan for pain management?",
+        "right_answer": "percocet 5/325 mg p.o. q.6h",
+        "hallucinated_answer": "hydrocodone 10mg po qid"
+    },
+    {
+        "question": "Who was responsible for following up with the patient after her discharge?",
+        "right_answer": "Dr. ZZZ at the skilled nursing home facility",
+        "hallucinated_answer": "Dr. ABC at a private practice"
+    }
+]

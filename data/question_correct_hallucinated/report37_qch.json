@@ -1,1 +1,52 @@
-[{"question": "What is the patient's chief complaint?", "right_answer": "General weakness", "hallucinated_answer": "Pain in her knees"}, {"question": "Why was the patient started on antibiotics?", "right_answer": "After onset of diarrhea", "hallucinated_answer": "For a pre-existing infection"}, {"question": "What is the suspected cause of the patient's general weakness?", "right_answer": "Dehydration", "hallucinated_answer": "Hypothyroidism"}, {"question": "How many bowel movements did the patient have per day before admission to the emergency department?", "right_answer": "Several", "hallucinated_answer": "Only one or two"}, {"question": "What was the patient's vital sign status in the emergency department?", "right_answer": "As per resident's dictation", "hallucinated_answer": "Stable and normal"}, {"question": "What is the suspected cause of the patient's diarrhea?", "right_answer": "Unclear, possibly related to antibiotics", "hallucinated_answer": "Viral gastroenteritis"}, {"question": "What was the patient's mental status in the emergency department?", "right_answer": "Alert and oriented", "hallucinated_answer": "Confused and disoriented"}, {"question": "Why did the patient need iv hydration?", "right_answer": "Due to dehydration", "hallucinated_answer": "To treat her fever"}, {"question": "What was the patient's white blood cell count in the emergency department?", "right_answer": "Normal with normal differential", "hallucinated_answer": "Elevated with left shift"}, {"question": "How did the patient's symptoms improve during her stay in the emergency department?", "right_answer": "Dramatically", "hallucinated_answer": "Slowly but steadily"}, {"question": "What was the patient's discharge diagnosis?", "right_answer": "Diarrhea and dehydration, general weakness secondary to dehydration", "hallucinated_answer": "Unspecified essential hypertension"}]
+[
+    {
+        "question": "What is the patient's chief complaint?",
+        "right_answer": "general weakness",
+        "hallucinated_answer": "abdominal pain"
+    },
+    {
+        "question": "What was the patient started on by her primary care physician over the telephone?",
+        "right_answer": "ciprofloxacin",
+        "hallucinated_answer": "antacids"
+    },
+    {
+        "question": "What is the patient's age range mentioned in the report?",
+        "right_answer": "in 70s",
+        "hallucinated_answer": "late 50s"
+    },
+    {
+        "question": "What is one of the patient's discharge diagnoses?",
+        "right_answer": "unspecified essential hypertension",
+        "hallucinated_answer": "urinary tract infection"
+    },
+    {
+        "question": "Why was the patient suspected to have c. difficile relatively low in the report?",
+        "right_answer": "she started antibiotics only after the onset of diarrhea",
+        "hallucinated_answer": "her age is not consistent with typical c. difficile patients"
+    },
+    {
+        "question": "What was one of the patient's symptoms that had improved dramatically by the end of her emergency department course?",
+        "right_answer": "symptoms of weakness",
+        "hallucinated_answer": "abdominal pain"
+    },
+    {
+        "question": "How many bowel movements per day did the patient have today and yesterday according to the report?",
+        "right_answer": "one",
+        "hallucinated_answer": "three"
+    },
+    {
+        "question": "What is mentioned as a possible reason for the patient's weakness in the report?",
+        "right_answer": "dehydration",
+        "hallucinated_answer": "infection"
+    },
+    {
+        "question": "What did the patient receive in the emergency department to help with her hydration?",
+        "right_answer": "iv hydration",
+        "hallucinated_answer": "oral rehydration solution"
+    },
+    {
+        "question": "Who was the patient encouraged to follow up with after discharge from the hospital?",
+        "right_answer": "her primary physician, dr. xxx",
+        "hallucinated_answer": "a specialist in gastroenterology"
+    }
+]

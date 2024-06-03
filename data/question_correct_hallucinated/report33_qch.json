@@ -1,1 +1,57 @@
-null
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "Pneumonia",
+        "hallucinated_answer": "Abdominal pain"
+    },
+    {
+        "question": "Why did the patient come to the hospital?",
+        "right_answer": "She had chest discomfort, cough, and shortness of breath.",
+        "hallucinated_answer": "She experienced a severe headache that didn't go away"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "She had been having chest discomfort for two days, associated with cough and shortness of breath.",
+        "hallucinated_answer": "She had been experiencing flu-like symptoms for a week"
+    },
+    {
+        "question": "What was the patient's past medical history?",
+        "right_answer": "Resection of lung cancer on the right side in 2004, hypertension, fibromyalgia, history of pneumonia, and hyperlipidemia.",
+        "hallucinated_answer": "She had a history of heart attack, stroke, and diabetes"
+    },
+    {
+        "question": "What medications was the patient taking?",
+        "right_answer": "Quinapril, Voltaren, Lozol, Elavil, Spiriva, and Advair.",
+        "hallucinated_answer": "She was taking aspirin, warfarin, and metformin"
+    },
+    {
+        "question": "What was the patient's social history?",
+        "right_answer": "She quit smoking two and a half years ago and denies alcohol or drug abuse.",
+        "hallucinated_answer": "She had a history of heavy drinking and currently uses marijuana regularly"
+    },
+    {
+        "question": "What was the patient's family history?",
+        "right_answer": "Grandparents had coronary disease.",
+        "hallucinated_answer": "Parents died of cancer in their 40s"
+    },
+    {
+        "question": "What were the patient's vital signs?",
+        "right_answer": "Temperature 36.4 degrees centigrade, blood pressure 132/74, pulse 76 per minute, respirations 20 per minute, and oxygen saturation 96%.",
+        "hallucinated_answer": "Her temperature was 102 degrees Fahrenheit, and her blood pressure was 180/100"
+    },
+    {
+        "question": "What did the physical examination reveal?",
+        "right_answer": "The patient was alert and oriented, with mildly obese skin that was warm and dry. There were creps bilaterally in the bases.",
+        "hallucinated_answer": "She had a rash on her face and a fever of 104 degrees Fahrenheit"
+    },
+    {
+        "question": "What was the impression based on the consultation?",
+        "right_answer": "Acute coronary syndrome.",
+        "hallucinated_answer": "Chronic obstructive pulmonary disease with pneumonia"
+    },
+    {
+        "question": "What was the plan for the patient?",
+        "right_answer": "To proceed with cardiac catheterization, procedure, risks and complications were explained to the patient.",
+        "hallucinated_answer": "To prescribe antibiotics and schedule a follow-up appointment"
+    }
+]

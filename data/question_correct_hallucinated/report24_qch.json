@@ -1,1 +1,57 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "stroke", "hallucinated_answer": "pneumonia"}, {"question": "What was the admit diagnosis?", "right_answer": "acute, but ill-defined, cerebrovascular disease", "hallucinated_answer": "sepsis"}, {"question": "What was the discharge diagnosis that mentioned carotid artery occlusion?", "right_answer": "occlusion and stenosis of carotid artery with cerebral infarction", "hallucinated_answer": "atrial fibrillation"}, {"question": "Why did the patient's blood sugar range increase to 190?", "right_answer": "unknown, but likely due to uncontrolled diabetes", "hallucinated_answer": "due to inadequate insulin dosing"}, {"question": "What was the reason for starting nph insulin in the patient?", "right_answer": "to control blood sugar levels", "hallucinated_answer": "to treat her hypertension"}, {"question": "What was the patient's cardiac troponin level today?", "right_answer": "13.9 and increased to 19", "hallucinated_answer": "within normal limits"}, {"question": "Why did the doctor order an echocardiography for the patient?", "right_answer": "based on consultation from cardiology, suspecting non-Q wave myocardial infarction", "hallucinated_answer": "to evaluate her abdominal pain"}, {"question": "What medications was the patient already taking before admission?", "right_answer": "aspirin and plavix", "hallucinated_answer": "ibuprofen and acetaminophen"}, {"question": "Why did the doctor transfuse 2 units of blood to the patient?", "right_answer": "due to previous groin hematoma complications", "hallucinated_answer": "for anemia correction"}, {"question": "What was the patient's respiratory status upon admission?", "right_answer": "able to move air bilaterally, tolerating nasal cannula oxygen", "hallucinated_answer": "requiring mechanical ventilation"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "stroke",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the initial diagnosis on admission?",
+        "right_answer": "acute, but ill-defined, cerebrovascular disease",
+        "hallucinated_answer": "pneumonia"
+    },
+    {
+        "question": "What was the discharge diagnosis?",
+        "right_answer": "occlusion and stenosis of carotid artery with cerebral infarction; subendocardial infarction, initial episode of care; hematoma complicating a procedure; atrial fibrillation; atrial flutter; mitral valve disorders; unknown diagnosis code; unspecified essential hypertension; diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled; coronary atherosclerosis of native coronary artery; coronary atherosclerosis of autologous vein bypass graft",
+        "hallucinated_answer": "hypertension with kidney disease"
+    },
+    {
+        "question": "What was the patient's age?",
+        "right_answer": "in her 70s",
+        "hallucinated_answer": "40 years old"
+    },
+    {
+        "question": "What was the diagnosis of the stroke?",
+        "right_answer": "right internal carotid artery occlusion, right MCA stroke",
+        "hallucinated_answer": "lacunar infarction"
+    },
+    {
+        "question": "Was the patient extubated?",
+        "right_answer": "yes",
+        "hallucinated_answer": "no"
+    },
+    {
+        "question": "What was the patient's oxygen saturation level?",
+        "right_answer": "acceptable range",
+        "hallucinated_answer": "75%"
+    },
+    {
+        "question": "Why was insulin started in the patient?",
+        "right_answer": "because sugars were running in the 190 range",
+        "hallucinated_answer": "due to diabetes"
+    },
+    {
+        "question": "What was the troponin level of the patient?",
+        "right_answer": "13.9 today, which has increased up to 19",
+        "hallucinated_answer": "1.2"
+    },
+    {
+        "question": "Why did the doctor order an echocardiography?",
+        "right_answer": "because her troponin was 13.9 today and has increased up to 19, suggesting a non-Q wave myocardial infarction",
+        "hallucinated_answer": "due to suspicion of pulmonary embolism"
+    },
+    {
+        "question": "What medications was the patient already taking?",
+        "right_answer": "aspirin and plavix",
+        "hallucinated_answer": "warfarin"
+    }
+]

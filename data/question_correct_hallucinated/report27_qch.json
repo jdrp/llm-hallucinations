@@ -1,1 +1,57 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "sepsis", "hallucinated_answer": "pneumonia"}, {"question": "What were some of the discharge diagnoses?", "right_answer": "abdominal pain, other specified site; sarcoidosis; hepatitis, unspecified; nutritional marasmus; diseases of tricuspid valve; etc.", "hallucinated_answer": "tuberculosis; bronchiectasis; chronic obstructive pulmonary disease"}, {"question": "What was the patient's history of present illness?", "right_answer": "a 16 or 17-year history of sarcoid, with chronic skin rash and biopsy showing granulomas consistent with sarcoid", "hallucinated_answer": "a recent diagnosis of rheumatoid arthritis, with joint pain and swelling"}, {"question": "Why was the patient admitted to the hospital?", "right_answer": "due to flank pain, difficulty urinating, weight loss, and anorexia", "hallucinated_answer": "for evaluation of a suspicious mole on her back"}, {"question": "What were some of the patient's medications at home?", "right_answer": "tpn nightly; advair; paxil; percocet; toprol; folic acid", "hallucinated_answer": "Warfarin; Metformin; Aspirin; Zithromax"}, {"question": "What was the patient's review of systems?", "right_answer": "notable for weight loss, and intermittent shortness of breath", "hallucinated_answer": "no significant findings except for some mild joint pain"}, {"question": "What did the physical examination reveal?", "right_answer": "a thin anxious female who was in no acute distress; febrile previously but currently afebrile; etc.", "hallucinated_answer": "a normal-appearing patient with no abnormalities detected"}, {"question": "What were some of the patient's past medical histories?", "right_answer": "cholecystectomy, appendectomy, chronic hepatitis, osteoporosis, and sarcoid", "hallucinated_answer": "type 2 diabetes, hypertension, and hyperlipidemia"}, {"question": "Why did the doctor recommend a complete pulmonary function test?", "right_answer": "to get baseline data collection when the patient is feeling better", "hallucinated_answer": "because they suspected acute pneumonia"}, {"question": "What was the doctor's impression of the patient?", "right_answer": "a 40-year-old female with longstanding sarcoid without significant pulmonary involvement clinically, but CT scan evidence suggesting sarcoid more so than acute pneumonia", "hallucinated_answer": "a 30-year-old male with a recent diagnosis of idiopathic pulmonary fibrosis"}, {"question": "What was the doctor's recommendation for dealing with the patient's GI issues?", "right_answer": "to deal with her GI issues when she is feeling better", "hallucinated_answer": "to perform an upper endoscopy to evaluate possible gastroesophageal reflux disease"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "Sepsis",
+        "hallucinated_answer": "Abdominal pain"
+    },
+    {
+        "question": "What was the discharge diagnosis?",
+        "right_answer": "Abdominal pain, unspecified; Sarcoidosis; Hepatitis, unspecified; Nutritional marasmus; Diseases of tricuspid valve; Other complications due to other vascular device, implant, and graft; Retention of urine, unspecified; Urinary tract infection, site not specified; Backache, unspecified; Postgastric surgery syndromes; Hypoglycemia, unspecified; Dyspepsia and other specified disorders of function of stomach; Iron deficiency anemia, unspecified; Inflammatory conditions of jaw; Osteoporosis, unspecified; Tobacco use disorder; Dysthymic disorder; Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus; Other postprocedural status",
+        "hallucinated_answer": "Pneumonia, acute bronchitis"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "16 or 17-year history of sarcoid, chronic skin rash, biopsy showed granulomas consistent with sarcoid, breast lump with granulomatous inflammation",
+        "hallucinated_answer": "Chronic cough and shortness of breath"
+    },
+    {
+        "question": "What was the patient's reason for consultation?",
+        "right_answer": "Sarcoid, possible pneumonia",
+        "hallucinated_answer": "Abdominal pain and difficulty urinating"
+    },
+    {
+        "question": "What were the patient's medications at home?",
+        "right_answer": "TPN nightly, Advair (intermittently), Paxil, Percocet, Toprool, Folic acid",
+        "hallucinated_answer": "Antibiotics, antihistamines, and ibuprofen"
+    },
+    {
+        "question": "What was the patient's social history?",
+        "right_answer": "Smokes about a half-pack a day, quit for 2 years but has been smoking over 2 years",
+        "hallucinated_answer": "Has never smoked"
+    },
+    {
+        "question": "What was the patient's family history?",
+        "right_answer": "Positive for Crohn's disease, negative for lung disease including sarcoid",
+        "hallucinated_answer": "Negative for any chronic diseases"
+    },
+    {
+        "question": "What was the patient's review of systems notable for?",
+        "right_answer": "Weight loss, intermittent shortness of breath which caused her to quit smoking",
+        "hallucinated_answer": "Cough and sputum production"
+    },
+    {
+        "question": "What was the patient's physical examination like?",
+        "right_answer": "Thin anxious female, no acute distress, febrile previously but afebrile currently, normal heent exam, few rales at bases left greater than right",
+        "hallucinated_answer": "Elderly male with prominent nose and gray hair"
+    },
+    {
+        "question": "What was the patient's my impression?",
+        "right_answer": "**name[bbb aaa] is a **age[in 40s]-year-old female with longstanding sarcoid without significant pulmonary involvement clinically, but CT scan evidence that suggests sarcoid more so than acute pneumonia",
+        "hallucinated_answer": "Patient has acute bronchitis and needs antibiotics"
+    },
+    {
+        "question": "What was the recommended course of action?",
+        "right_answer": "Deal with her GI issues, get complete pulmonary function tests and a CT scan of the chest without contrast for baseline data collection when she is feeling better",
+        "hallucinated_answer": "Admit patient to ICU for further treatment"
+    }
+]

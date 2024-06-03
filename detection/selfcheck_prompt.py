@@ -59,7 +59,7 @@ def main() -> None:
                         help='Ollama model used for detecting hallucination')
     parser.add_argument('--sensitivity', type=float, default=0.5,
                         help='Average evaluation threshold to classify as hallucination')
-    parser.add_argument('--cot', default='y',
+    parser.add_argument('--cot', default=True, action=argparse.BooleanOptionalAction,
                         help='Choose whether to use chain-of-thought when prompting (y/n)')
     parser.add_argument('--outfile', default=None,
                         help='Output JSON file')
@@ -68,13 +68,12 @@ def main() -> None:
         raise ValueError('Please add the input --data argument')
     if args.model not in (available_models := get_available_models()):
         raise ValueError(f"Please select a --model from the following: {', '.join(available_models)}")
-    use_cot = (args.cot[0] == 'y')
-    outfile = args.outfile if args.outfile else f"_selfcheck_{args.model.replace(':','-')}{'_cot' if use_cot else ''}.".join(args.data.rsplit('.', 1))
+    outfile = args.outfile if args.outfile else f"_selfcheck_{args.model.replace(':','-')}{'_cot' if args.cot else ''}.".join(args.data.rsplit('.', 1))
 
     with open(args.data, 'r') as f:
         qa_data = json.load(f)
     with open(outfile, 'w') as f:
-        json.dump(evaluate_data(args.model, qa_data[:args.limit], args.sensitivity, use_cot), f)
+        json.dump(evaluate_data(args.model, qa_data[:args.limit], args.sensitivity, args.cot), f)
 
 
 if __name__ == '__main__':

@@ -1,1 +1,57 @@
-[{"question": "What is the patient's primary chief complaint?", "right_answer": "chest pain", "hallucinated_answer": "abdominal tenderness"}, {"question": "What was the patient's history of present illness?", "right_answer": "burning chest pain with palpable acute hyperventilation, numbness and tingling of finger, and does admit to hyperventilation.", "hallucinated_answer": "recently diagnosed with hypertension and experiencing anxiety attacks"}, {"question": "What was the patient's suspected underlying problem according to the doctor?", "right_answer": "gastroesophageal reflux as the underlying problem with reflux esophagitis, atypical chest pain, and her response to this may have been one of anxiety or hyperventilation.", "hallucinated_answer": "anxiety disorder"}, {"question": "What was the patient's laboratory test result for troponin?", "right_answer": "negative", "hallucinated_answer": "positive"}, {"question": "Why did the doctor recommend Pepcid 20 mg p.o. and Mylanta 30 ml?", "right_answer": "for gastroesophageal reflux likely with reflux esophagitis and spasm", "hallucinated_answer": "to treat hypertension"}, {"question": "What was the patient's family history of medical conditions?", "right_answer": "unknown", "hallucinated_answer": "hypertension and diabetes"}, {"question": "What was the patient's physical examination finding for her abdomen?", "right_answer": "abdomen is soft. tenderness.", "hallucinated_answer": "massive bloating"}, {"question": "What was the patient's vital sign reading according to the nurse's notes?", "right_answer": "stable", "hallucinated_answer": "elevated blood pressure"}, {"question": "What was the patient's discharge diagnosis for anxiety disorder?", "right_answer": "panic disorder without agoraphobia", "hallucinated_answer": "post-traumatic stress disorder"}, {"question": "Why did the doctor recommend an outpatient referral to primary care?", "right_answer": "for gastroesophageal reflux disease/reflux esophagitis and symptomatic, also for a stress test this morning that was already scheduled", "hallucinated_answer": "to treat her hypertension"}]
+[
+    {
+        "question": "What was the patient's primary complaint?",
+        "right_answer": "chest pain",
+        "hallucinated_answer": "abdominal discomfort"
+    },
+    {
+        "question": "What was the patient's admit diagnosis?",
+        "right_answer": "precordial pain",
+        "hallucinated_answer": "anxiety disorder"
+    },
+    {
+        "question": "What were some of the patient's discharge diagnoses?",
+        "right_answer": "esophageal reflux, panic disorder without agoraphobia, reflux esophagitis, hyperventilation, other chest pain, other specified cardiac dysrhythmias",
+        "hallucinated_answer": "gastrointestinal infection, anxiety attack, skin rash"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "burning chest pain with palpable acute hyperventilation. She developed substernal burning chest pain approximately 5 hours before my exam, associated with lightheadedness, numbness and tingling of fingers, and does admit to hyperventilation.",
+        "hallucinated_answer": "chest tightness for several days"
+    },
+    {
+        "question": "What was the patient's physical examination?",
+        "right_answer": "vital signs: stable. Constitutional: healthy-appearing 20-year-old female. Head and eyes: negative. ENT, mouth, and neck: negative. Asymptomatic at this time.",
+        "hallucinated_answer": "temperature 102\u00b0F, blood pressure 180/100 mmHg"
+    },
+    {
+        "question": "What was the patient's laboratory results?",
+        "right_answer": "renal function and electrolytes are normal. White count 8500, hemoglobin 12.6, and platelets normal. Troponin negative. D-dimer negative.",
+        "hallucinated_answer": "elevated troponin levels"
+    },
+    {
+        "question": "What was the patient's clinical course?",
+        "right_answer": "the patient appears to be medically stable. At the point of disposition, she highlights that she has actually been seen in for stress test this morning.",
+        "hallucinated_answer": "patient was admitted to ICU for monitoring"
+    },
+    {
+        "question": "What were some of the patient's recommendations?",
+        "right_answer": "mylanta 30 ml is to be given and pepcid 20 mg p.o. Recommendations for pepcid 20 mg twice a day over the counter for 1 week or prilosec 2 daily, antacids as needed, type diet, and referred as an outpatient to primary care.",
+        "hallucinated_answer": "patient was prescribed antibiotics"
+    },
+    {
+        "question": "What were some of the patient's final diagnoses?",
+        "right_answer": "1. acute gastroesophageal reflux disease/reflux esophagitis. Symptomatic. 2. acute limited panic attack with hyperventilation, resolved.",
+        "hallucinated_answer": "1. cardiac arrhythmia. 2. gastrointestinal infection"
+    },
+    {
+        "question": "What was the patient's disposition?",
+        "right_answer": "stable condition",
+        "hallucinated_answer": "patient was discharged to hospice care"
+    },
+    {
+        "question": "Who did the patient live with?",
+        "right_answer": "her husband",
+        "hallucinated_answer": "her parents"
+    }
+]

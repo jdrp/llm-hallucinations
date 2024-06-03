@@ -1,3 +1,7 @@
+When generating medical qa -> hallucinated_agent, hallucinated_around instead of hallucinated_answer
+
+
+
 ----------
 I want you act as an answer judge. Given a question and an answer, your objective is to determine if the provided answer contains factual errors or hallucinated information. You SHOULD give your judgement based on the following hallucination types and the world knowledge.
 

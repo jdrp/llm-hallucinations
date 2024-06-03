@@ -22,12 +22,13 @@ def generate_qa(model, report_file: str) -> list[dict]:
     # parse response
     try:
         qa_list = json.loads(response_clean)
-        print(qa_list)
         for qa in qa_list:
             if not set(qa.keys()) == {'question', 'right_answer', 'hallucinated_answer'}:
                 raise ValueError
-            if type(qa['right_answer']) == list:
+            if isinstance(qa['right_answer'], list):
                 qa['right_answer'] = '; '.join(qa['right_answer'])
+            if isinstance(qa['hallucinated_answer'], list):
+                qa['hallucinated_answer'] = '; '.join(qa['hallucinated_answer'])
         return qa_list
     except ValueError:
         print('Error decoding reponse:')
@@ -57,7 +58,7 @@ def main() -> None:
             report_path = os.path.join(args.reports, report_file)
             output_path = os.path.join(output_folder, output_file)
             with open(output_path, 'w') as f:
-                json.dump(generate_qa(args.model, report_path), f)
+                json.dump(generate_qa(args.model, report_path), f, indent=4)
 
 
 if __name__ == '__main__':

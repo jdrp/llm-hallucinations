@@ -1,1 +1,52 @@
-[{"question": "What was the chief complaint of the patient?", "right_answer": "Rash", "hallucinated_answer": "Chest pain"}, {"question": "What was the diagnosis of the patient after being discharged from the hospital?", "right_answer": "Allergic reaction, drug rash", "hallucinated_answer": "Dermatitis due to environmental factors"}, {"question": "What medication did the doctor prescribe for the patient's allergic reaction?", "right_answer": "Benadryl and Pepcid", "hallucinated_answer": "Prednisone and Aspirin"}, {"question": "Why was the patient instructed not to use sulfa drugs in the future?", "right_answer": "Because it may cause an allergic reaction", "hallucinated_answer": "Because it can interact with other medications"}, {"question": "What was the patient's occupation?", "right_answer": "Part-time construction worker", "hallucinated_answer": "Full-time office worker"}, {"question": "What was the patient's social history regarding drug use?", "right_answer": "Denies any illicit drug use", "hallucinated_answer": "Uses cocaine and marijuana regularly"}, {"question": "What was the patient's past medical history?", "right_answer": "Depression and a finger abscess", "hallucinated_answer": "High blood pressure and kidney stones"}, {"question": "Why did the doctor instruct the patient to take a multivitamin?", "right_answer": "Because sulfa may decrease B vitamins", "hallucinated_answer": "Because it can help with digestion"}, {"question": "What was the patient's temperature when he arrived at the ER?", "right_answer": "97\u00b0F", "hallucinated_answer": "102.5\u00b0F"}, {"question": "What was the diagnosis of the patient's finger abscess?", "right_answer": "Not specified in the report", "hallucinated_answer": "Staphylococcus aureus infection"}, {"question": "Who did the doctor see to explain the patient's condition and treatment plan?", "right_answer": "Dr. [yyy]", "hallucinated_answer": "Dr. Smith"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "rash",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the diagnosis at admission?",
+        "right_answer": "rash and other nonspecific skin eruption",
+        "hallucinated_answer": "cellulitis and abscess of finger, unspecified"
+    },
+    {
+        "question": "What medication did the patient take before coming to the emergency department?",
+        "right_answer": "bactrim ds 4 times a day for 3 weeks",
+        "hallucinated_answer": "paxil and seroquel"
+    },
+    {
+        "question": "What was the reason for the patient's tongue burning, according to the doctor?",
+        "right_answer": "sulfa decreasing the B vitamin",
+        "hallucinated_answer": "a side effect of Paxil"
+    },
+    {
+        "question": "What did the doctor suggest to help with the tongue burning?",
+        "right_answer": "a multivitamin",
+        "hallucinated_answer": "antihistamines"
+    },
+    {
+        "question": "What was the patient's scheduled appointment for?",
+        "right_answer": "suture removal next Tuesday",
+        "hallucinated_answer": "a follow-up visit with his primary care physician"
+    },
+    {
+        "question": "What was the patient's past medical history?",
+        "right_answer": "depression and a finger abscess",
+        "hallucinated_answer": "hypertension and hyperlipidemia"
+    },
+    {
+        "question": "What medication did the doctor prescribe for the patient to use over-the-counter?",
+        "right_answer": "Pepcid once a day",
+        "hallucinated_answer": "Benadryl twice a day"
+    },
+    {
+        "question": "Why was the patient instructed to return to the emergency department if he develops certain symptoms?",
+        "right_answer": "if he develops any fever, any sloughing, or exfoliation of the skin",
+        "hallucinated_answer": "if he experiences shortness of breath or chest pain"
+    },
+    {
+        "question": "What was the patient's social history regarding substance use?",
+        "right_answer": "denies any illicit drug use, uses alcohol and tobacco",
+        "hallucinated_answer": "has a history of cocaine abuse, uses marijuana occasionally"
+    }
+]

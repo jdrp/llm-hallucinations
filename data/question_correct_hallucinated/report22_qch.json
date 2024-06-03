@@ -1,1 +1,57 @@
-[{"question": "What is the patient's chief complaint?", "right_answer": "level 2 trauma", "hallucinated_answer": "back pain"}, {"question": "What is the diagnosis upon discharge?", "right_answer": "closed fracture of metacarpal bone(s), site unspecified, open wound of forehead, without mention of complication, diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled", "hallucinated_answer": "complicated closed fracture"}, {"question": "What is the reason for consultation?", "right_answer": "right hand injury", "hallucinated_answer": "knee pain"}, {"question": "What was treated by a plastic surgery resident?", "right_answer": "4-cm laceration above the right eye", "hallucinated_answer": "wound on the patient's left foot"}, {"question": "What radiological exam revealed?", "right_answer": "intra-articular fracture of the base of the right fifth metacarpal with approximately 20-30 degrees angulation", "hallucinated_answer": "spinal cord injury"}, {"question": "What is the patient's history of hand injury?", "right_answer": "prior hand history of wrist fracture in the 1970s which required closed reduction", "hallucinated_answer": "previous amputation"}, {"question": "What medications was the patient taking?", "right_answer": "unknown to the patient", "hallucinated_answer": "beta blockers and aspirin"}, {"question": "What is the patient's smoking habit?", "right_answer": "two-pack per day tobacco user", "hallucinated_answer": "smokes only on weekends"}, {"question": "What was the patient instructed to do with her right upper extremity?", "right_answer": "restrict herself from lifting or heavy use of her right upper extremity", "hallucinated_answer": "perform daily exercises"}, {"question": "Who is the patient's attending physician?", "right_answer": "**name[yyy m zzz]", "hallucinated_answer": "Dr. Smith"}]
+[
+    {
+        "question": "What is the patient's chief complaint?",
+        "right_answer": "level 2 trauma",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the patient's diagnosis upon admission?",
+        "right_answer": "other specified sites, including multiple injury",
+        "hallucinated_answer": "pneumonia"
+    },
+    {
+        "question": "What type of diabetes does the patient have?",
+        "right_answer": "type ii or unspecified type, not stated as uncontrolled",
+        "hallucinated_answer": "gestational diabetes"
+    },
+    {
+        "question": "Why was the patient brought in for consultation?",
+        "right_answer": "right hand injury",
+        "hallucinated_answer": "left knee pain"
+    },
+    {
+        "question": "What is the extent of the patient's right hand injury?",
+        "right_answer": "closed fracture of metacarpal bone(s), site unspecified",
+        "hallucinated_answer": "open wound on the palm"
+    },
+    {
+        "question": "What is the patient's social history?",
+        "right_answer": "two-pack per day tobacco user, married, disabled secondary to osteoarthritis of her knees",
+        "hallucinated_answer": "non-smoker, single, employed as a nurse"
+    },
+    {
+        "question": "What was the patient's past medical history noted as?",
+        "right_answer": "1. left mastectomy, 2. noninsulin-dependent diabetes mellitus, 3. arthritis, 4. fibromyalgia",
+        "hallucinated_answer": "hypertension, hyperlipidemia, and thyroiditis"
+    },
+    {
+        "question": "What is the plan for the patient's fracture?",
+        "right_answer": "surgical management with pinning of the fracture site",
+        "hallucinated_answer": "physical therapy and medication regimen"
+    },
+    {
+        "question": "Who was the patient instructed to follow up with for surgery?",
+        "right_answer": "plastic surgery hand attending, Dr. RRR",
+        "hallucinated_answer": "orthopedic surgeon at a local hospital"
+    },
+    {
+        "question": "What was the patient advised to do regarding her right upper extremity?",
+        "right_answer": "restrict herself from lifting or heavy use, elevation with a pillow",
+        "hallucinated_answer": "perform daily exercises and avoid resting it"
+    },
+    {
+        "question": "When should the patient have the stitches removed?",
+        "right_answer": "in five days' time",
+        "hallucinated_answer": "in one week's time"
+    }
+]

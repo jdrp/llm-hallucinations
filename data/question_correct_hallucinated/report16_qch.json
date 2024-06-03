@@ -1,1 +1,57 @@
-[{"question": "What is the primary chief complaint of the patient?", "right_answer": "diarrhea", "hallucinated_answer": "chest pain"}, {"question": "What was the patient's blood sugar level at the time of admission?", "right_answer": "not specified", "hallucinated_answer": "240 mg/dL"}, {"question": "What is the patient's diagnosis for atrial fibrillation?", "right_answer": "unspecified", "hallucinated_answer": "hypertrophic cardiomyopathy"}, {"question": "What medication was prescribed to treat the patient's hyperglycemia?", "right_answer": "subcutaneous insulin", "hallucinated_answer": "metformin"}, {"question": "Why did the patient stop using her regular insulin regimen?", "right_answer": "because of her inability to tolerate her regular diet", "hallucinated_answer": "due to a lack of refill on her prescription"}, {"question": "What was the patient's heart rate and rhythm at the time of admission?", "right_answer": "regular atrial fibrillation", "hallucinated_answer": "bradycardia with atrioventricular block"}, {"question": "What is the likely cause of the patient's urinary tract infection?", "right_answer": "unspecified", "hallucinated_answer": "Escherichia coli"}, {"question": "Why did the patient require admission to the hospital?", "right_answer": "dehydration, hyperglycemia, and improved glycemic control as an inpatient may be warranted", "hallucinated_answer": "pulmonary embolism"}, {"question": "What was the patient's blood pressure at the time of admission?", "right_answer": "120/60", "hallucinated_answer": "140/80"}, {"question": "What is the patient's diagnosis for esophageal reflux?", "right_answer": "unspecified", "hallucinated_answer": "gastroesophageal reflux disease with Barrett's esophagus"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "diarrhea",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What were the discharge diagnoses for the patient?",
+        "right_answer": "dehydration, atrial fibrillation, urinary tract infection, site not specified, congestive heart failure, unspecified, intestinal infection due to other organism, not elsewhere classified, coronary atherosclerosis of unspecified type of vessel, native or graft, aortocoronary bypass status, other and unspecified hyperlipidemia, unspecified acquired hypothyroidism, esophageal reflux, unspecified essential hypertension, diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled, long-term (current) use of insulin",
+        "hallucinated_answer": "pneumonia, urinary tract infection, kidney stones"
+    },
+    {
+        "question": "What was the patient's age range?",
+        "right_answer": "in 80s",
+        "hallucinated_answer": "60-70 years old"
+    },
+    {
+        "question": "What type of diabetes did the patient have?",
+        "right_answer": "insulin-dependent diabetes",
+        "hallucinated_answer": "type 1 diabetes"
+    },
+    {
+        "question": "Why was the patient unable to tolerate her regular diet?",
+        "right_answer": "due to persistent diarrhea and abdominal cramping",
+        "hallucinated_answer": "because she was on a low-calorie diet"
+    },
+    {
+        "question": "What was the patient's blood sugar level at presentation?",
+        "right_answer": "elevated",
+        "hallucinated_answer": "normal"
+    },
+    {
+        "question": "What medication was the patient given to treat her hyperglycemia?",
+        "right_answer": "subcutaneous insulin",
+        "hallucinated_answer": "oral metformin"
+    },
+    {
+        "question": "Why was the patient unable to give a stool sample for analysis?",
+        "right_answer": "she did not have one to give",
+        "hallucinated_answer": "she refused to give one"
+    },
+    {
+        "question": "What antibiotic was used to treat the patient's urinary tract infection?",
+        "right_answer": "ciprofloxacin",
+        "hallucinated_answer": "azithromycin"
+    },
+    {
+        "question": "Why did the doctor think further inpatient treatment was necessary for the patient?",
+        "right_answer": "for dehydration and improved glycemic control as an inpatient",
+        "hallucinated_answer": "to treat her urinary tract infection"
+    },
+    {
+        "question": "What were the admission diagnoses for the patient?",
+        "right_answer": "persistent diarrhea of unclear etiology, dehydration, hyperglycemia with history of insulin-dependent diabetes",
+        "hallucinated_answer": "pneumonia, sepsis, urinary tract infection"
+    }
+]

@@ -44,15 +44,13 @@ def main() -> None:
     parser.add_argument('--data', default=None, help='Original JSON file with right and hallucinated answers')
     parser.add_argument('--outfile', default=None, help='Output JSON file')
     parser.add_argument('--accuracy', type=float, default=0.6, help='Proportion of right answers to be chosen (0 to 1)')
-    parser.add_argument('--context', default='y', help='Include context field? (y/n)')
-    parser.add_argument('--samples', default='n', help='Number of extra sampled responses')
+    parser.add_argument('--context', default=True, action=argparse.BooleanOptionalAction, help='Include context field? (y/n)')
+    parser.add_argument('--samples', default=False, action=argparse.BooleanOptionalAction, help='Include extra sampled responses')
     args = parser.parse_args()
 
     if not args.data:
         raise ValueError('Please add the input --data argument')
-    include_context = (args.context[0].lower() == 'y')
-    include_samples = (args.samples[0].lower() == 'y')
-    outfile = args.outfile if args.outfile else f"{args.data.rsplit('.',1)[0]}_test{'_samples' if include_samples else ''}.json"
+    outfile = args.outfile if args.outfile else f"{args.data.rsplit('.',1)[0]}_test{'_samples' if args.samples else ''}.json"
 
     with open(args.data, 'r') as f:
         if args.data.endswith('.json'):
@@ -65,7 +63,7 @@ def main() -> None:
             raise ValueError('Please enter a valid --data file (json or csv)')
 
     with open(outfile, 'w') as f:
-        json.dump(generate_test(qa_data, args.accuracy, include_context, include_samples, dataset), f)
+        json.dump(generate_test(qa_data, args.accuracy, args.context, args.samples, dataset), f)
 
 
 if __name__ == '__main__':

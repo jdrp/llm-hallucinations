@@ -1,1 +1,57 @@
-null
+[
+    {
+        "question": "What was the patient's chief complaint?",
+        "right_answer": "Chf",
+        "hallucinated_answer": "Headache"
+    },
+    {
+        "question": "What was the patient's initial diagnosis upon admission?",
+        "right_answer": "Subendocardial infarction",
+        "hallucinated_answer": "Atrial fibrillation"
+    },
+    {
+        "question": "What were the patient's discharge diagnoses?",
+        "right_answer": "Congestive heart failure, unspecified; Chronic airway obstruction, not elsewhere classified; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease; End stage renal disease",
+        "hallucinated_answer": "Acute bronchitis; Pneumonia"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "End-stage renal disease, COPD, diabetes and coronary artery disease with a low blood sugar, mental status changes and a workup for a low blood sugar",
+        "hallucinated_answer": "No significant chest pain or shortness of breath"
+    },
+    {
+        "question": "What medications was the patient taking?",
+        "right_answer": "Klonopin; Nephrocaps; Synthroid; Norvasc; Coreg; Aspirin; Coumadin",
+        "hallucinated_answer": "Metformin; Lisinopril; Amlodipine"
+    },
+    {
+        "question": "What was the patient's vital signs?",
+        "right_answer": "Afebrile, blood pressure 145/68, pulse 89 and regular",
+        "hallucinated_answer": "Feverish, blood pressure 120/80, pulse 100 and irregular"
+    },
+    {
+        "question": "What did the EKG show?",
+        "right_answer": "Sinus rhythm with a left ventricular hypertrophy",
+        "hallucinated_answer": "Atrial fibrillation with a normal LV function"
+    },
+    {
+        "question": "What laboratory data was reported?",
+        "right_answer": "Bun and creatinine 33 and 1.2, potassium 3.4, troponin 1.93, hemoglobin 15, white count 8.5, BNP of 1210",
+        "hallucinated_answer": "Sodium 135, chloride 105, TSH 3.4"
+    },
+    {
+        "question": "What was the patient's assessment and plan?",
+        "right_answer": "This is a pleasant 70-year-old woman with multiple risk factors with probably known underlying cardiac disease presenting with hypoglycemic causing a bump in her troponin. She has no cardiovascular symptoms. No EKG changes. We will check an echocardiogram. She should undergo a dialysis to have fluid removal to treat her congestive heart failure. If her echocardiogram shows good LV function, we will proceed with an adenosine stress for risk stratification tomorrow, as long as there is no significant ischemia due to her lack of symptoms.",
+        "hallucinated_answer": "This patient has a history of COPD and needs oxygen therapy and antibiotics"
+    },
+    {
+        "question": "What medications was the patient prescribed?",
+        "right_answer": "A statin beta-blocker. Consider adding a low dose aspirin to her Coumadin, if there is not an elevated bleeding risk. Add Crestor 5 mg a day for now given her history of intolerance of Lipitor in the past",
+        "hallucinated_answer": "Metformin and Amlodipine"
+    },
+    {
+        "question": "What was planned for the patient's echocardiogram?",
+        "right_answer": "We will check an echocardiogram. If her echocardiogram shows good LV function, we will proceed with an adenosine stress for risk stratification tomorrow",
+        "hallucinated_answer": "We will check an MRI"
+    }
+]

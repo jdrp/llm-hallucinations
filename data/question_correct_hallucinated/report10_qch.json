@@ -1,1 +1,52 @@
-[{"question": "What is the primary diagnosis for which the patient was admitted?", "right_answer": "Diverticulitis", "hallucinated_answer": "Acute kidney failure"}, {"question": "What is the stage of chronic kidney disease mentioned in the report?", "right_answer": "Stage IV", "hallucinated_answer": "Stage II"}, {"question": "What medication was the patient taking to control his blood pressure?", "right_answer": "Norvasc 10 mg daily", "hallucinated_answer": "Lasix 80 mg daily"}, {"question": "What is the result of the blood culture taken today?", "right_answer": "No growth", "hallucinated_answer": "E. coli"}, {"question": "What is the patient's hemoglobin level according to the CBC report?", "right_answer": "10", "hallucinated_answer": "12"}, {"question": "What medication was the patient taking for his hypothyroidism?", "right_answer": "Synthroid 50 mcg daily", "hallucinated_answer": "Pravachol 20 mg daily"}, {"question": "What is the patient's calcium level according to the laboratory data?", "right_answer": "8.3", "hallucinated_answer": "9.5"}, {"question": "What was the patient's white blood cell count according to the CBC report?", "right_answer": "8.4", "hallucinated_answer": "6.2"}, {"question": "What is recommended for the patient's metabolic acidosis?", "right_answer": "Adding a little bit of bicarbonate to his IV fluids", "hallucinated_answer": "Starting dialysis immediately"}, {"question": "What was the patient's platelet count according to the CBC report?", "right_answer": "210", "hallucinated_answer": "180"}]
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "Diverticulitis",
+        "hallucinated_answer": "Kidney stones"
+    },
+    {
+        "question": "What is the admitting diagnosis?",
+        "right_answer": "Diverticulosis of colon (without mention of hemorrhage)",
+        "hallucinated_answer": "Acute pancreatitis"
+    },
+    {
+        "question": "What is the patient's medical history?",
+        "right_answer": "Chronic heart failure, hypothyroidism, anemia, appendectomy, cholecystectomy, and prostate biopsy",
+        "hallucinated_answer": "No significant medical history"
+    },
+    {
+        "question": "What medications is the patient currently taking?",
+        "right_answer": "Norvasc, Phoslo, D5 half normal saline with K, Folic acid, Lasix, Heparin, Lantus insulin, Sliding scale regular insulin, Synthroid, Metoprolol, Flagyl, Avelox, Pravachol, and Diovan",
+        "hallucinated_answer": "Only Norvasc"
+    },
+    {
+        "question": "What is the patient's laboratory data showing?",
+        "right_answer": "Bun 39, creatinine 2.9, calcium 8.3, albumin 3.7, phosphorus 3, magnesium 1.8",
+        "hallucinated_answer": "Only Bun 47 and creatinine 2.6"
+    },
+    {
+        "question": "What is the patient's urinalysis showing?",
+        "right_answer": "1+ blood, leukocyte esterase negative, negative nitrite, 1+ protein",
+        "hallucinated_answer": "No significant urinary findings"
+    },
+    {
+        "question": "What does the chest x-ray show?",
+        "right_answer": "Linear markings at the left base, possibly representing atelectasis or developing infiltrate",
+        "hallucinated_answer": "Clear lungs"
+    },
+    {
+        "question": "What is the patient's physical examination showing?",
+        "right_answer": "Normal blood pressure, temperature, and pulse; no upper dentures, head or neck lymphadenopathy, chest findings, cardiovascular signs, abdomen tenderness, extremity edema, joint deformities, or neurologic abnormalities",
+        "hallucinated_answer": "Abnormal vital signs"
+    },
+    {
+        "question": "What are the patient's assessment and recommendations?",
+        "right_answer": "Check urine studies, renal ultrasound with postvoid residuals, PTH level, 24-hour urine for creatinine clearance and protein, check creatinine kinase; dose medications for low creatinine clearance; avoid nephrotoxins",
+        "hallucinated_answer": "Only check creatinine kinase"
+    },
+    {
+        "question": "What is the patient's family history?",
+        "right_answer": "No renal failure, lupus, or cancer in the family",
+        "hallucinated_answer": "Family history of kidney disease"
+    }
+]

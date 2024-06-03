@@ -1,1 +1,52 @@
-[{"question": "What is the patient's chief complaint?", "right_answer": "chest pain and cough expectoration", "hallucinated_answer": "abdominal pain"}, {"question": "What is the patient's past medical history?", "right_answer": "hypercoagulable state, multiple pulmonary embolisms", "hallucinated_answer": "diabetes, hypertension, hyperlipidemia"}, {"question": "What medication is the patient currently taking?", "right_answer": "coumadin 5 mg q. p. m.", "hallucinated_answer": "aspirin 81 mg q. d."}, {"question": "Why was the patient concerned about a pulmonary embolism?", "right_answer": "under-anticoagulation", "hallucinated_answer": "recent travel"}, {"question": "What is the patient's INR level?", "right_answer": "1.1", "hallucinated_answer": "2.5"}, {"question": "Was a CT scan of the chest performed?", "right_answer": "yes", "hallucinated_answer": "no"}, {"question": "What was the result of the CT scan?", "right_answer": "no evidence of pulmonary embolism", "hallucinated_answer": "pulmonary embolism diagnosed"}, {"question": "Who discussed the patient's case with Dr. [name]?", "right_answer": "a resident", "hallucinated_answer": "the attending physician"}, {"question": "What is the plan for the patient's follow-up care?", "right_answer": "appointment with Dr. [name] on [date]", "hallucinated_answer": "no further appointments scheduled"}, {"question": "What pain medication was prescribed to the patient?", "right_answer": "ibuprofen 400 mg q. 6 hours, Vicodin (5 tablets)", "hallucinated_answer": "oxycodone 10 mg q. 4 hours"}, {"question": "Why should the patient return to the ED or call an ambulance if they experience further symptoms?", "right_answer": "if they have further chest pain which is not getting better, increasing shortness of breath, or fevers with chills", "hallucinated_answer": "if they have any persistent cough"}]
+[
+    {
+        "question": "What is the patient's chief complaint?",
+        "right_answer": "chest pain",
+        "hallucinated_answer": "headache"
+    },
+    {
+        "question": "What is the patient's past medical history?",
+        "right_answer": "hypercoagulable state, multiple pulmonary embolisms",
+        "hallucinated_answer": "diabetes, hypertension"
+    },
+    {
+        "question": "Why was the patient initially admitted to the hospital?",
+        "right_answer": "unspecified site of sprain and strain",
+        "hallucinated_answer": "chest pain and cough"
+    },
+    {
+        "question": "What is the patient's discharge diagnosis?",
+        "right_answer": "acute bronchitis, painful respiration",
+        "hallucinated_answer": "pneumonia, sepsis"
+    },
+    {
+        "question": "Why was the patient's INR checked?",
+        "right_answer": "concern about under-anticoagulation and possible pulmonary embolism",
+        "hallucinated_answer": "to monitor anticoagulant therapy"
+    },
+    {
+        "question": "What is the result of the CT scan with IV dye?",
+        "right_answer": "no evidence of pulmonary embolism",
+        "hallucinated_answer": "pulmonary embolism present"
+    },
+    {
+        "question": "Why was the patient's factor V Leiden mutation re-checked?",
+        "right_answer": "because it had been checked at a different hospital and was normal",
+        "hallucinated_answer": "to confirm diagnosis of pulmonary embolism"
+    },
+    {
+        "question": "What is the plan for the patient's anticoagulation therapy?",
+        "right_answer": "repeat the battery of hypercoagulable state tests",
+        "hallucinated_answer": "continue on current medication regimen"
+    },
+    {
+        "question": "Why was the patient discharged from the hospital?",
+        "right_answer": "because she was hemodynamically stable and did not have any concerning symptoms or signs",
+        "hallucinated_answer": "because her insurance ran out"
+    },
+    {
+        "question": "What medications was the patient prescribed before discharge?",
+        "right_answer": "ibuprofen, Vicodin, Robitussin-CF",
+        "hallucinated_answer": "antibiotics, antihistamines"
+    }
+]

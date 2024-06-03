@@ -17,7 +17,7 @@ def delete_history() -> None:
 
 
 def prompt_model(model: str, prompt: str) -> str:
-    """Prompts the model, continuing the previous conversation"""
+    """Prompts the model, continuing the previous conversation. Requires running 'ollama serve' first"""
     messages.append(
         {
             'role': 'user',

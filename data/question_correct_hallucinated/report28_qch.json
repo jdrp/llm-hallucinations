@@ -1,1 +1,57 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "Diverticulosis-colon tumor", "hallucinated_answer": "Atrial fibrillation"}, {"question": "What was the diagnosis at admission?", "right_answer": "Benign neoplasm of colon", "hallucinated_answer": "Pulmonary collapse"}, {"question": "What was the patient's age range?", "right_answer": "In his 80s", "hallucinated_answer": "Early 70s"}, {"question": "How many cigarettes did the patient smoke per day?", "right_answer": "Pack per day", "hallucinated_answer": "20-30 per day"}, {"question": "What was the diagnosis from the colonoscopy?", "right_answer": "2 x 2 cm lesion in the proximal transverse colon and a 4 x 2 cm lesion near the hepatic flexure", "hallucinated_answer": "A small polyp in the rectum"}, {"question": "What type of surgery did the patient undergo?", "right_answer": "Right hemicolectomy", "hallucinated_answer": "Laparoscopic cholecystectomy"}, {"question": "What was the patient's INR level?", "right_answer": "Therapeutic at 2.5", "hallucinated_answer": "Uncontrolled at 4.5"}, {"question": "Why did the patient require oxygen therapy?", "right_answer": "Postoperative hypoxemia, pleural effusion, and atelectasis due to volume overload", "hallucinated_answer": "Chronic obstructive pulmonary disease (COPD)"}, {"question": "What medication was discontinued by the doctor?", "right_answer": "Subcutaneous heparin", "hallucinated_answer": "Warfarin"}, {"question": "What diagnostic test was ordered for further evaluation?", "right_answer": "Outpatient pulmonary function tests and chest CT", "hallucinated_answer": "Magnetic Resonance Angiography (MRA)"}]
+[
+    {
+        "question": "What was the patient's chief complaint?",
+        "right_answer": "diverticulosis-colon tumor",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the diagnosis upon admission?",
+        "right_answer": "benign neoplasm of colon",
+        "hallucinated_answer": "atrial fibrillation"
+    },
+    {
+        "question": "What were some of the patient's medications?",
+        "right_answer": "flomax, avodart, plavix, lipitor, toprol, lotrel, warfarin, aspirin",
+        "hallucinated_answer": "zoloft, lexapro, prozac, xanax"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "postoperative hypoxemia, pleural effusion, abnormal chest X-ray; he had been somewhat more dyspneic on exertion mostly in the mornings and with climbing a flight of stairs",
+        "hallucinated_answer": "he had been experiencing severe chest pain and difficulty breathing for several weeks"
+    },
+    {
+        "question": "What was the patient's smoking history?",
+        "right_answer": "pack per day smoker for 50 years",
+        "hallucinated_answer": "former smoker, quit 10 years ago"
+    },
+    {
+        "question": "What were some of the patient's past medical histories?",
+        "right_answer": "hypertension, coronary artery disease, atrial fibrillation, benign prostatic hypertrophy",
+        "hallucinated_answer": "kidney stones, bronchitis, emphysema"
+    },
+    {
+        "question": "What was the patient's physical examination like?",
+        "right_answer": "diminished breath sounds at the right base with a few expiratory wheezes; normocephalic, atraumatic pupils",
+        "hallucinated_answer": "normal vital signs and physical exam, except for some mild tachycardia"
+    },
+    {
+        "question": "What was the patient's review of systems like?",
+        "right_answer": "a 10-system review, except as noted above, is otherwise negative",
+        "hallucinated_answer": "he had been experiencing some numbness in his extremities and difficulty walking"
+    },
+    {
+        "question": "What diagnostic tests were ordered for the patient?",
+        "right_answer": "chest CT; outpatient pulmonary function tests and tobacco cessation",
+        "hallucinated_answer": "MRI of the brain; blood tests to check for anemia"
+    },
+    {
+        "question": "What was the patient's plan for after his discharge?",
+        "right_answer": "gentle diuresis, iv lasix daily; outpatient pulmonary function tests and tobacco cessation",
+        "hallucinated_answer": "to continue smoking cessation therapy and follow up with a cardiologist"
+    },
+    {
+        "question": "Why did the patient have an elevated INR of 2.5?",
+        "right_answer": "he is on Coumadin",
+        "hallucinated_answer": "he recently underwent surgery and has been experiencing some bleeding issues"
+    }
+]

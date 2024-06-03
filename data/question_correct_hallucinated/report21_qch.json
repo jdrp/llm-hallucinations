@@ -1,1 +1,52 @@
-[{"question": "What is the primary reason for admission?", "right_answer": "diarrhea", "hallucinated_answer": "chest pain"}, {"question": "What was the patient's sodium level when she arrived at the hospital?", "right_answer": "not mentioned in the report", "hallucinated_answer": "110"}, {"question": "What was the patient's diagnosis upon discharge?", "right_answer": "hyposmolality and/or hyponatremia, other demyelinating diseases of central nervous system, intestinal infection due to clostridium difficile, alkalosis, vaccination not carried out because of patient refusal, hypopotassemia, unspecified essential hypertension, personal history of other diseases of circulatory system, pernicious anemia, pure hypercholesterolemia, osteoporosis, unspecified", "hallucinated_answer": "chronic obstructive pulmonary disease"}, {"question": "What was the patient's smoking history?", "right_answer": "smoker for 45 years", "hallucinated_answer": "never smoked"}, {"question": "Why did the patient refuse vaccination?", "right_answer": "patient refusal", "hallucinated_answer": "due to a severe allergic reaction in the past"}, {"question": "What was the patient's blood pressure upon physical examination?", "right_answer": "120/80", "hallucinated_answer": "140/90"}, {"question": "What was the patient's chief complaint when admitted?", "right_answer": "hyponatremia", "hallucinated_answer": "chest pain"}, {"question": "What was the patient's physical condition upon admission?", "right_answer": "awake, alert, afebrile, minimal dysarthria", "hallucinated_answer": "unresponsive and tachypneic"}, {"question": "What medication did the patient take for hypertension?", "right_answer": "atenolol and lotrel", "hallucinated_answer": "lisinopril and hydrochlorothiazide"}, {"question": "What was the patient's primary diagnosis upon discharge?", "right_answer": "hyposmolality and/or hyponatremia", "hallucinated_answer": "acute respiratory distress syndrome"}]
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "Hyponatremia",
+        "hallucinated_answer": "Hypertension"
+    },
+    {
+        "question": "What are some possible diagnoses for the patient's admission?",
+        "right_answer": "Hyposmolality and/or hyponatremia, intestinal infection due to Clostridium difficile, alkalosis",
+        "hallucinated_answer": "Pneumonia, Kidney stones, Diabetes"
+    },
+    {
+        "question": "Why was the patient initially admitted to the hospital?",
+        "right_answer": "Diarrhea",
+        "hallucinated_answer": "Severe headache and abdominal pain"
+    },
+    {
+        "question": "What is the patient's smoking history?",
+        "right_answer": "45 years of heavy smoking",
+        "hallucinated_answer": "20 pack-years of moderate smoking"
+    },
+    {
+        "question": "What medications was the patient taking before admission?",
+        "right_answer": "Atenolol, Lotrel, Ticlid, Premarin, Xanax P.R.N., and Folic acid",
+        "hallucinated_answer": "Blood pressure medication, Lipitor, Zoloft"
+    },
+    {
+        "question": "What is the patient's physical examination like?",
+        "right_answer": "Afebrile, awake, alert, minimal dysarthria, normal blood pressure, etc.",
+        "hallucinated_answer": "Feverish, lethargic, swollen ankles"
+    },
+    {
+        "question": "How was the patient's sodium level during admission?",
+        "right_answer": "136",
+        "hallucinated_answer": "100"
+    },
+    {
+        "question": "What is the patient's laboratory result for hemoglobin and white count?",
+        "right_answer": "Hemoglobin 11.0, White count 5900",
+        "hallucinated_answer": "Hemoglobin 15.5, White count 3400"
+    },
+    {
+        "question": "What are some recommendations for the patient after IV saline is discontinued?",
+        "right_answer": "Reevaluate urine electrolytes, urine osmolality, serum osmolality",
+        "hallucinated_answer": "Start on a new medication and continue IV fluids"
+    },
+    {
+        "question": "How old was the patient at the time of admission?",
+        "right_answer": "In her 50s",
+        "hallucinated_answer": "In her 30s"
+    }
+]

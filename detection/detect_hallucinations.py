@@ -3,9 +3,12 @@ to judge the correctness of the answer according to world knowledge and (optiona
 
 import json
 import argparse
+import random
+
 from rich.progress import track
 import sys
 import os
+import re
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import *
@@ -21,17 +24,20 @@ def generate_prompts(template: str, question: str, answer: str, context: str = '
 def evaluate_qa_pair(model: str, question: str, answer: str, context: str | None, times: int,
                      sensitivity: float, use_cot: bool) -> int:
     if context:
-        prompts = generate_prompts('prompts/evaluate_qa_with_context' + ('_cot' if use_cot else '') + '.txt', question, answer, context)
+        prompts = generate_prompts('prompts/evaluate_qa_with_context' + ('_cot' if use_cot else '') + '.txt', question,
+                                   answer, context)
     else:
-        prompts = generate_prompts('prompts/evaluate_qa_without_context' + ('_cot' if use_cot else '') + '.txt', question, answer)
+        prompts = generate_prompts('prompts/evaluate_qa_without_context' + ('_cot' if use_cot else '') + '.txt',
+                                   question, answer)
     print(f"\n\n---------------------\n\nPrompts: {prompts}\n")
     responses = []
     for _ in range(times):
         delete_history()
         response = ''
         for prompt in prompts:
-            response = prompt_model(model, prompt)
+            response = prompt_model(model, prompt).strip()
             print(response)
+        response = re.sub('[^a-zA-Z0-9]', '', response)
         responses.append(1. if response.startswith('Yes') else 0. if response.startswith('No') else 0.5)
     evaluation = sum(responses) / len(responses)
     return 1 if evaluation >= sensitivity else 0
@@ -40,6 +46,7 @@ def evaluate_qa_pair(model: str, question: str, answer: str, context: str | None
 def evaluate_qa_data(model: str, qa_data: list[dict], times: int, sensitivity: float, use_cot: bool) -> list[dict]:
     evaluated_qa_data = []
     for qa_pair in track(qa_data):
+        print(f'a{qa_pair}')
         qa_copy = qa_pair.copy()
         qa_copy['hallucination_pred'] = evaluate_qa_pair(model,
                                                          qa_copy.get('question'),
@@ -51,19 +58,21 @@ def evaluate_qa_data(model: str, qa_data: list[dict], times: int, sensitivity: f
 
 
 def main() -> None:
+    random.seed = 50
     available_models = get_available_models()
     parser = argparse.ArgumentParser(description='Hallucination Detection')
     parser.add_argument('--data', default=None,
                         help='JSON file containing list of (context), question, answer')
     parser.add_argument('--limit', type=int, default=None,
                         help='Limit the number of rows to be processed (for testing)', )
+    parser.add_argument('--random', default=False, action=argparse.BooleanOptionalAction, help='Sample random rows')
     parser.add_argument('--model', default='llama3',
                         help=f"Ollama model used for detecting hallucination. Options: {', '.join(available_models)}")
     parser.add_argument('--times', type=int, default=2, help='Number of times to evaluate each answer')
     parser.add_argument('--sensitivity', type=float, default=0.5,
                         help='Average evaluation threshold to classify as hallucination')
-    parser.add_argument('--cot', default='y',
-                        help='Choose whether to use chain-of-thought when prompting (y/n)')
+    parser.add_argument('--cot', default=True, action=argparse.BooleanOptionalAction,
+                        help='Use chain-of-thought when prompting')
     parser.add_argument('--outfile', default=None,
                         help='Output JSON file')
     args = parser.parse_args()
@@ -71,13 +80,13 @@ def main() -> None:
         raise ValueError('Please add the input --data argument')
     if args.model not in available_models:
         raise ValueError(f"Please select a --model from the following: {', '.join(available_models)}")
-    outfile = args.outfile if args.outfile else f"_{args.model.replace(':','-')}.".join(args.data.rsplit('.', 1))
-    use_cot = (args.cot[0] == 'y')
+    outfile = args.outfile if args.outfile else f"_{args.model.replace(':', '-')}.".join(args.data.rsplit('.', 1))
 
     with open(args.data, 'r') as f:
         qa_data = json.load(f)
+    qa_data = random.sample(qa_data, args.limit) if args.random else qa_data[:args.limit]
     with open(outfile, 'w') as f:
-        json.dump(evaluate_qa_data(args.model, qa_data[:args.limit], args.times, args.sensitivity, use_cot), f)
+        json.dump(evaluate_qa_data(args.model, qa_data, args.times, args.sensitivity, args.cot), f)
 
 
 if __name__ == '__main__':

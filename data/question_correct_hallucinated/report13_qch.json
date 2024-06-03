@@ -1,1 +1,52 @@
-[{"question": "What is the chief complaint of this patient?", "right_answer": "Left foot pain", "hallucinated_answer": "Abdominal cramps"}, {"question": "What is the patient's history of present illness?", "right_answer": "Chronic pain in her foot for about a year following surgery under which she went fusion and pin placement", "hallucinated_answer": "Recent ankle sprain"}, {"question": "What medication is the patient currently taking at home?", "right_answer": "Percocet", "hallucinated_answer": "Ibuprofen"}, {"question": "Why was the patient instructed to follow up with an orthopedic surgeon?", "right_answer": "To further manage her chronic left foot pain", "hallucinated_answer": "To address a suspected case of cellulitis"}, {"question": "What is the patient's social history regarding substance use?", "right_answer": "She denies the use of alcohol or drugs", "hallucinated_answer": "She has a history of mild marijuana use"}, {"question": "What was noted on the patient's physical exam regarding her left foot?", "right_answer": "There is no new edema. She is tender to palpation over the lateral aspect of the foot on the dorsum and also on the medial aspect near the base of the fifth metatarsal.", "hallucinated_answer": "The foot was swollen and showed signs of recent trauma"}, {"question": "What was the patient's oxygen saturation?", "right_answer": "98% on room air", "hallucinated_answer": "95% with supplemental oxygen"}, {"question": "What were the patient's vital signs?", "right_answer": "Temperature 36.9, heart rate 87, blood pressure 118/72, respiratory rate 16, O2 saturation 98%", "hallucinated_answer": "Temperature 102, heart rate 120, blood pressure 130/80, respiratory rate 25, O2 saturation 90%"}, {"question": "What was the patient's medical history?", "right_answer": "Chronic foot pain, anemia, gastric ulcers, pancreatitis, multiple sclerosis", "hallucinated_answer": "Diabetes, hypertension, and coronary artery disease"}, {"question": "What were the patient's allergies?", "right_answer": "Morphine", "hallucinated_answer": "Penicillin"}]
+[
+    {
+        "question": "What is the primary chief complaint of the patient?",
+        "right_answer": "left foot pain",
+        "hallucinated_answer": "back pain"
+    },
+    {
+        "question": "What was the patient's history of present illness?",
+        "right_answer": "chronic pain in her foot for about a year following surgery under which she went fusion and pin placement",
+        "hallucinated_answer": "recent trauma to the left foot"
+    },
+    {
+        "question": "What medications was the patient taking at home?",
+        "right_answer": "percocet",
+        "hallucinated_answer": "oxycodone"
+    },
+    {
+        "question": "What was the patient's social history?",
+        "right_answer": "does not smoke, denies use of alcohol or drugs",
+        "hallucinated_answer": "heavy smoker and occasional drinker"
+    },
+    {
+        "question": "What were the patient's vital signs in the emergency department?",
+        "right_answer": "temperature 36.9, heart rate 87, blood pressure 118/72, respiratory rate 16, O2 saturation 98% on room air",
+        "hallucinated_answer": "fever of 102, heart rate of 120, blood pressure of 130/80"
+    },
+    {
+        "question": "What was the patient's physical exam notable for?",
+        "right_answer": "old incisions on the left foot, tender to palpation over the lateral and medial aspects",
+        "hallucinated_answer": "wound on the right foot with signs of infection"
+    },
+    {
+        "question": "What was the final diagnosis?",
+        "right_answer": "chronic left foot pain. 2. status post surgical fusion and pin placement",
+        "hallucinated_answer": "cellulitis of the left leg"
+    },
+    {
+        "question": "What medications did the emergency department offer to the patient?",
+        "right_answer": "two percocet to help with her acute pain",
+        "hallucinated_answer": "morphine to manage her chronic pain"
+    },
+    {
+        "question": "What was the patient instructed to follow up with?",
+        "right_answer": "the orthopedic surgeon and the chronic pain clinic",
+        "hallucinated_answer": "her primary care physician for further evaluation"
+    },
+    {
+        "question": "Why did the patient decline a prescription for more percocet?",
+        "right_answer": "she stated that she still had a few at home and would not be able to fill the prescription again until the twenty-third",
+        "hallucinated_answer": "because she was allergic to it"
+    }
+]

@@ -1,1 +1,52 @@
-[{"question": "What was the patient's chief complaint?", "right_answer": "seizure", "hallucinated_answer": "chest pain"}, {"question": "What was the admit diagnosis?", "right_answer": "other convulsions", "hallucinated_answer": "hypertension"}, {"question": "What were the discharge diagnoses?", "right_answer": "other convulsions; cocaine abuse, unspecified; opioid type dependence, continuous; hemiplegia, unspecified, affecting unspecified side; late effect of spinal cord injury; other left bundle branch block; personal history of other infectious and parasitic diseases", "hallucinated_answer": ["atrial fibrillation", "renal failure", "chronic obstructive pulmonary disease"]}, {"question": "What was the patient's age?", "right_answer": "in 40s", "hallucinated_answer": "60"}, {"question": "Why was the patient admitted to the emergency room?", "right_answer": "having a witnessed tonic-clonic seizure x2", "hallucinated_answer": "chest pain"}, {"question": "What medication was the patient started on during his hospitalization?", "right_answer": "Dilantin", "hallucinated_answer": "Warfarin"}, {"question": "What was the result of the MRI and EEG tests?", "right_answer": "normal; nonfocal", "hallucinated_answer": ["abnormal", "focal"]}, {"question": "What did the drug screen show?", "right_answer": "positive for cocaine", "hallucinated_answer": "negative for all substances"}, {"question": "Why was the patient unable to drive after discharge?", "right_answer": "stated by both the neurologist and myself that he will not be able to drive", "hallucinated_answer": "because of his age"}]
+[
+    {
+        "question": "What was the patient's chief complaint?",
+        "right_answer": "seizure",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What is one of the discharge diagnoses?",
+        "right_answer": "new onset seizure disorder",
+        "hallucinated_answer": "atrial fibrillation"
+    },
+    {
+        "question": "Why was the patient started on Dilantin medication?",
+        "right_answer": "due to new onset seizure disorder",
+        "hallucinated_answer": "to treat his drug abuse"
+    },
+    {
+        "question": "What was abnormal in the lab results?",
+        "right_answer": "cocaine in the drug screen",
+        "hallucinated_answer": "elevated alkaline phosphatase level"
+    },
+    {
+        "question": "Why was the patient unable to drive according to the report?",
+        "right_answer": "not specified (but implied)",
+        "hallucinated_answer": "due to a history of DUI convictions"
+    },
+    {
+        "question": "What is the patient's age range mentioned in the report?",
+        "right_answer": "in his 40s",
+        "hallucinated_answer": "in his 50s"
+    },
+    {
+        "question": "What was the result of the MRI of the brain?",
+        "right_answer": "normal",
+        "hallucinated_answer": "abnormal findings suggestive of stroke"
+    },
+    {
+        "question": "What medication was the patient already taking when admitted?",
+        "right_answer": "methadone",
+        "hallucinated_answer": "oxycodone"
+    },
+    {
+        "question": "Who counselled the patient about outpatient followup for drug and alcohol abuse?",
+        "right_answer": "the neurologist and myself (the doctor)",
+        "hallucinated_answer": "a social worker from the hospital's counseling unit"
+    },
+    {
+        "question": "What condition did the patient have a history of, affecting his left side?",
+        "right_answer": "spinal cord injury",
+        "hallucinated_answer": "stroke"
+    }
+]

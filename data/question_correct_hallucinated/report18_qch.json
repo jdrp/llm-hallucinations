@@ -1,1 +1,52 @@
-[{"question": "What was the chief complaint of this patient?", "right_answer": "back pain", "hallucinated_answer": "abdominal cramping"}, {"question": "What was the admit diagnosis for this patient?", "right_answer": "backache, unspecified", "hallucinated_answer": "migraine"}, {"question": "What medication was given to this patient for pain relief?", "right_answer": "iv toradol (30mg)", "hallucinated_answer": "oxycodone (10mg)"}, {"question": "Why did the doctor order an X-ray of the spine?", "right_answer": "to rule out degenerative spondylolisthesis", "hallucinated_answer": "to check for a herniated disk"}, {"question": "What was the patient's family history positive for?", "right_answer": "hypertension and coronary artery disease", "hallucinated_answer": "diabetes and high cholesterol"}, {"question": "Why did the doctor recommend an MRI of the lumbar spine?", "right_answer": "to rule out spinal stenosis", "hallucinated_answer": "to check for a herniated disk"}, {"question": "What medication was prescribed for muscle spasm?", "right_answer": "flexeril (10mg p.o. t.i.d.)", "hallucinated_answer": "tramadol (50mg p.o. q.i.d.)"}, {"question": "Who did the doctor recommend the patient follow up with?", "right_answer": "dr. **name[ttt]** and her primary care physician", "hallucinated_answer": "an orthopedic specialist"}, {"question": "What was the patient's condition when she left the emergency department?", "right_answer": "discharged to home", "hallucinated_answer": "admitted to the hospital for further observation"}, {"question": "What was the patient's history of present illness?", "right_answer": "back pain that had been present for approximately three weeks without resolution", "hallucinated_answer": "abdominal cramping that started after eating spicy food"}]
+[
+    {
+        "question": "What was the chief complaint of the patient?",
+        "right_answer": "back pain",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the admitting diagnosis of the patient?",
+        "right_answer": "backache, unspecified",
+        "hallucinated_answer": "coronary artery disease"
+    },
+    {
+        "question": "What medication was given to the patient for pain relief?",
+        "right_answer": "30 mg of iv toradol",
+        "hallucinated_answer": "oxycodone 10mg"
+    },
+    {
+        "question": "What test was ordered to rule out degenerative spondylolisthesis?",
+        "right_answer": "x-ray of the spine",
+        "hallucinated_answer": "CT scan of the lumbar spine"
+    },
+    {
+        "question": "What was the patient's gait instability secondary to?",
+        "right_answer": "back pain",
+        "hallucinated_answer": "vertebral compression fracture"
+    },
+    {
+        "question": "Does the patient have any history of trauma?",
+        "right_answer": "no",
+        "hallucinated_answer": "yes, several months ago"
+    },
+    {
+        "question": "What is the patient's age range?",
+        "right_answer": "in her 30s",
+        "hallucinated_answer": "over 60"
+    },
+    {
+        "question": "Does the patient have any numbness or tingling?",
+        "right_answer": "no",
+        "hallucinated_answer": "yes, in both legs"
+    },
+    {
+        "question": "What is the patient's family history positive for?",
+        "right_answer": "hypertension and coronary artery disease",
+        "hallucinated_answer": "diabetes and high cholesterol"
+    },
+    {
+        "question": "What was the patient's vital sign for temperature?",
+        "right_answer": "37.9",
+        "hallucinated_answer": "102.5"
+    }
+]

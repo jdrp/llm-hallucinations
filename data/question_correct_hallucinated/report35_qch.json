@@ -1,1 +1,52 @@
-null
+[
+    {
+        "question": "What is the chief complaint of the patient?",
+        "right_answer": "pleural effusion",
+        "hallucinated_answer": "chest pain"
+    },
+    {
+        "question": "What was the primary reason for admission?",
+        "right_answer": "shortness of breath",
+        "hallucinated_answer": "fever"
+    },
+    {
+        "question": "What is one of the patient's discharge diagnoses?",
+        "right_answer": "congestive heart failure, unspecified",
+        "hallucinated_answer": "pneumonia"
+    },
+    {
+        "question": "Does the patient have a history of malignant neoplasm of breast?",
+        "right_answer": "yes",
+        "hallucinated_answer": "no"
+    },
+    {
+        "question": "What is one of the patient's blood pressures?",
+        "right_answer": "158/62",
+        "hallucinated_answer": "110/70"
+    },
+    {
+        "question": "What is the result of the BNP test?",
+        "right_answer": "518",
+        "hallucinated_answer": "250"
+    },
+    {
+        "question": "Is the patient's potassium level normal?",
+        "right_answer": "no, it's only 3.6",
+        "hallucinated_answer": "yes"
+    },
+    {
+        "question": "What is suspected to be the cause of the patient's symptoms?",
+        "right_answer": "diastolic dysfunction with pulmonary hypertension",
+        "hallucinated_answer": "pneumonia"
+    },
+    {
+        "question": "What type of diuretic therapy will the patient receive?",
+        "right_answer": "diuresis",
+        "hallucinated_answer": "furosemide"
+    },
+    {
+        "question": "Is there any edema present in the patient's abdomen?",
+        "right_answer": "no",
+        "hallucinated_answer": "yes"
+    }
+]
