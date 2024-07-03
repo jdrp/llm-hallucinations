@@ -1,0 +1,60 @@
+=================================================
+Detect hallucinations
+Current time 1718714583.65
+{'data': 'data/halueval_test.json',
+ 'limit': 100,
+ 'logfile': 'logs/halueval_agnostic_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/halueval_agnostic_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_nocot.prompt',
+ 'random': True,
+ 'threshold': -1,
+ 'times': 5}
+
+--------------------
+HALLUCINATION 0
+PROMPTS
+>> #Context#:  It is one of the oldest, most highly esteemed and most exclusive members' clubs in the world and since its conception has catered to members such as Charles Kean, Henry Irving, Herbert Beerbohm Tree, Arthur Sullivan, Laurence Olivier and John Gielgud.Sir Herbert Beerbohm Tree (17 December 1852 – 2 July 1917) was an English actor and theatre manager.
+#Question#: The Garrick Club is a gentlemen's club in the heart of London founded in 1831, since its conception has catered to members such as which English actor and theatre manager, that died on 2 July 1917?
+#Answer#: Sir Herbert Beerbohm Tree
+
+#Instructions#:
+I want you act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types, the given context and the world knowledge.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the provided context or the world knowledge. Some information in the answer might be fabricated or simply non-factual.
+3. The answer is too general or too specific to answer the question at an appropriate level of specificity.
+4. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not. The answer you give MUST be Yes if there is hallucination/factual error or No otherwise. Do not write any additional explanation.
+
+Use this format when writing your response:
+#Verdict#: <Yes if you have found any hallucination, No otherwise>
+RESPONSES
+=================================================
+Detect hallucinations
+Current time 1718717035.99
+{'data': 'data/halueval_test.json',
+ 'limit': 100,
+ 'logfile': 'logs/halueval_agnostic_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/halueval_agnostic_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_nocot.prompt',
+ 'random': True,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719121505.06
+{'data': 'data/halueval_test.json',
+ 'limit': 100,
+ 'logfile': 'logs/halueval_agnostic_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/halueval_agnostic_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_nocot.prompt',
+ 'random': True,
+ 'threshold': -1,
+ 'times': 5}
+

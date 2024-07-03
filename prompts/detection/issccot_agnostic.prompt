@@ -1,0 +1,9 @@
+#Context#: [C]
+#Sentence#: [S]
+Is the sentence supported by the context above?
+Explain your step-by-step reasoning process.
+Finally, taking into account your previous reasoning, is the sentence supported by the context above? Answer only Yes or No. Do not add any extra explanation.
+
+Use the following format in your response.
+#Reasoning#: <your reasoning process>
+#Verdict#: <Yes if it is supported, No otherwise>

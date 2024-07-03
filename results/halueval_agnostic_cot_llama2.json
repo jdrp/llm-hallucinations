@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Kristie Canegallo was the Deputy White House Chief of Staff for Implementation for U.S. President Barack Obama.The Patient Protection and Affordable Care Act, often shortened to the Affordable Care Act (ACA) or nicknamed Obamacare, is a United States federal statute enacted by the 111th United States Congress and signed into law by President Barack Obama on March 23, 2010.",
+        "question": "What is is a United States federal statute enacted by the 111th United States Congress and signed into law by President Barack Obama, who at the time the Deputy White House Chief of Staff for Implementation for U.S. President Barack Obama made this one of her major projects?",
+        "answer": "The Patient Protection and Affordable Care Act",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The ribbon was first created by Secretary of the Navy James Forrestal and recognizes those members of the Marine Corps Reserve who performed ten years of honorable reserve service.James Vincent Forrestal (February 15, 1892 – May 22, 1949) was the last Cabinet-level United States Secretary of the Navy and the first United States Secretary of Defense.",
+        "question": "How many years of service must be performed to receive the ribbon created by the first United States Secretary of Defense?",
+        "answer": "ten years",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It provided unacknowledged material for John Gerard's better-known \"Herball\" (London, 1597) and was reprinted in Germany throughout the 17th century. His chief notability is as the author of a large (1,484 pages) illustrated \"Herball, or Generall Historie of Plantes\". First published in 1597, it was the most widely circulated botany book in English in the 17th century.",
+        "question": "Which botanist published the most popular botany book of his time?",
+        "answer": "The most popular botany book of his time was written by John Gerard, a leading botanist.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Manana Island is an island in Lincoln County, Maine, United States, lying adjacent to Monhegan island, about 10 mi off Pemaquid Point on the mainland. The county was founded in 1760 from a portion of York County, Massachusetts and named after the English city Lincoln, the birthplace of Massachusetts Bay Provincial Governor Thomas Pownall.",
+        "question": "When was the county that  Manana Island is in founded?",
+        "answer": "1760",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It was first released in 1980 as a vinyl LP and cassette tape on Arista Records, then re-released in 1996 on CD. Atkinson first came to prominence in the BBC's sketch comedy show \"Not the Nine O'Clock News\" (1979–82), receiving the 1981 BAFTA for Best Entertainment Performance, and via his participation in The Secret Policeman's Ball from 1979.",
+        "question": "Rowan Atkinson's album, Live in Belfast, was released directly after his participation in what event?",
+        "answer": "Rowan Atkinson's album, Live in Belfast, was released directly after his participation in Montreux Comedy Festival.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Spanish 1977 Amnesty Law is a law promulgated in 1977, two years after dictator Francisco Franco's death, that shields any Franco era crime from being put under trial.Francisco Franco Bahamonde (] ; 4 December 1892 – 20 November 1975) was a Spanish general who ruled over Spain as a military dictator from 1939 until his death in 1975.",
+        "question": "The Spanish 1977 Amnesty Law is a law promulgated in 1977, two years after which Spanish general who ruled over Spain as a military dictator from 1939 until his death in 1975?",
+        "answer": "Francisco Franco",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " His debut novel, \"The Danish Girl\", was adapted into an Academy Award-winning film of the same name in 2015, while his third novel, \"The 19th Wife\", was adapted into a television movie of the same name in 2010.The Danish Girl is a 2015 romantic drama film directed by Tom Hooper, based on the 2000 fictional novel of the same name by David Ebershoff and loosely inspired by the lives of Danish painters Lili Elbe and Gerda Wegener.",
+        "question": " In what year did the author who wrote \"The 19th Wife\" release his novel that was adapted into a Academy Award winning film starring Eddie Redmayne?",
+        "answer": "2003, three years after the film adaptation.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 2017 Pakistan Super League spot-fixing scandal arose in February 2017 when the Pakistan Cricket Board (PCB) suspended cricketers under its anti-corruption code in an ongoing investigation backed by International Cricket Council (ICC)'s Anti-Corruption and Security Unit on spot-fixing during the 2017 Pakistan Super League. The six cricketers suspended by the PCB are: Sharjeel Khan (on 10 February), Khalid Latif (on 10 February), Nasir Jamshed (on 13 February), Mohammad Irfan (on 14 March), Shahzaib Hasan (on 17 March) and Mohammad Nawaz (16 May). A right-handed opening batsman, Latif captained Pakistan in the 2004 U-19 Cricket World Cup win and the 2010 Asian Games bronze medal win.",
+        "question": "The 2017 Pakistan Super League spot-fixing scandal arose in February 2017 when the Pakistan Cricket Board (PCB) under its anti-corruption code suspended six cricketers including what right-handed opening batsman who captained Pakistan in the 2004 U-19 Cricket World Cup win and the 2010 Asian Games bronze medal win?",
+        "answer": "Khalid Latif",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The episode was directed by McG and written by series co-creators Josh Schwartz and Chris Fedak.Joseph McGinty Nichol (born August 9, 1968), known mononymously as McG, is an American director, producer, and former record producer.",
+        "question": "What American director, born Joseph McGinty Nichol, directed the pilot episode of \"Chuck\"?",
+        "answer": "McG",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Pamela Franklin (born 3 February 1950) is a British actress who appeared in feature films from 1961 until 1976, and on American television throughout the 1970s. She is best known for her role in \"The Prime of Miss Jean Brodie\" (1969), for which she won the National Board of Review award for Best Supporting Actress. To assert their constitutional freedom of expression, theatre owners led by Marcus Loew and film distributors (Edison, Biograph, Pathé and Gaumont) joined John Collier of the People's Institute at Cooper Union and established the New York Board of Motion Picture Censorship, which soon changed its name to the National Board of Review of Motion Pictures to avoid the taint of the word \"censorship\".",
+        "question": "What is the original name of the organization that gave Pamela Franklin the award for Best Supporting Actress?",
+        "answer": "New York Board of Motion Picture Censorship",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts.The University of Minnesota, Twin Cities (often referred to as The University of Minnesota, Minnesota, the U of M, UMN, or simply the U) is a public research university in Minneapolis and Saint Paul, Minnesota.",
+        "question": "Which university is located in more cities, the Massachusetts Institute of Technology or the University of Minnesota?",
+        "answer": "Massachusetts Institute of Technology and University of Minnesota are located in multiple cities.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " He also was a member of the brief 2009 Kansas side project \"Native Window\" along with Kansas members Phil Ehart, Richard Williams, and David Ragsdale.David Lasater Ragsdale, (born April 3, 1958) has been the violinist for Kansas from 1991 to 1997 and from 2006 to the present.",
+        "question": "Billy Greer, is the current bass guitarist for the band Kansas, he also was a member of the brief 2009 Kansas side project \"Native Window\" along with David Ragsdale, he has been the violinist for which band, from 1991 to 1997 and from 2006 to the present?",
+        "answer": "David Ragsdale has been the violinist for Nine Inch Nails from 1991 to 1997 and from 2006 to the present.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Junipers are coniferous plants in the genus Juniperus of the cypress family Cupressaceae.Indigofera is a large genus of over 750 species of flowering plants belonging to the family Fabaceae.",
+        "question": "Do both Juniper and Indigofera belong to the cypress family Cupressaceae?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Snow Dogs is a 2002 American Northern adventure comedy film directed by Brian Levant, and starring Cuba Gooding Jr. and James Coburn.Sacred Planet is a 2004 documentary directed by Jon Long and Hairul Salleh Askor.",
+        "question": "Which movie came out first Snow Dogs or Sacred Planet ?",
+        "answer": "Sacred Planet was released first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He is mainly remembered for his time with Celtic, where he was one of the \"Lisbon Lions\" team that won the European Cup in 1967.The Celtic Football Club ( ) is a professional football club based in Glasgow, Scotland, which plays in the Scottish Premiership. The club was founded in 1887 with the purpose of alleviating poverty in the immigrant Irish population in the East End of Glasgow.",
+        "question": "What professional football club Ronnie Simpson was involved in was founded in 1887?",
+        "answer": "The Celtic Football Club",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Lady Alexandra Naldera Curzon, CBE (20 March/April 1904 – 7 August 1995), was the third daughter of George Curzon, 1st Marquess Curzon of Kedleston and Viceroy of India, and Lord Curzon's first wife, the American mercantile heiress, Mary Victoria Curzon, Baroness Curzon of Kedleston (née Leiter).George Nathaniel Curzon, 1st Marquess Curzon of Kedleston (11 January 1859 – 20 March 1925), known as The Lord Curzon of Kedleston between 1898 and 1911 and as The Earl Curzon of Kedleston between 1911 and 1921, was a British Conservative statesman.",
+        "question": "Who was the third daughter of the Earl Curzon of Kedleston?",
+        "answer": "Lady Alexandra Naldera Curzon",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Mark Huffam is a film and television producer. He was a producer on \"The Martian\", \"Johnny English\", and the television series \"Game of Thrones\".Johnny English is a 2003 British-American spy comedy film parodying the James Bond secret agent genre infused with comedy similar to Atkinson's Mr. Bean character.",
+        "question": "Mark Huffam was a producer on a spy comedy film parodying what secret agent?",
+        "answer": "Mark Huffam was a producer on a spy comedy film parodying the character of Mr. Bean.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "King Diamond is a Danish heavy metal band formed in 1985 by vocalist King Diamond, guitarists Andy LaRocque and Michael Denner, bassist Timi Hansen and drummer Mikkey Dee.Micael Kiriakos Delaoglou (born 31 October 1963), known better by his stage name Mikkey Dee, is a Swedish rock musician. He is the current drummer for German rock band Scorpions since April 2016.",
+        "question": "King Diamond's original drummer is a Swedish rock musician who has been playing with what band since April 2016?",
+        "answer": "Mikkey Dee left Scorpions in 2016.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The film stars Michael Keaton as businessman Ray Kroc, and portrays the story of his creation of the McDonald's fast food chain. He joined the Californian chain McDonald's in 1954 and built it into a nationwide and eventually global franchise, making it the most successful fast food corporation in the world.",
+        "question": "The actor Michael Keaton play a role that opened what restaurant in 1954?",
+        "answer": "McDonald's fast food chain",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Padgate is a suburb of the English town and unitary authority of Warrington, Cheshire.Warrington is a large town and unitary authority area in Cheshire, England, on the banks of the River Mersey, 20 mi east of Liverpool, and 20 mi west of Manchester. The population in 2016 was estimated at 208,800, more than double that of 1968 when it became a New Town.",
+        "question": "Padgate is a suburb of an english town on the banks of the River Mersey whose population was estimated to be 208800 in 2016 but in which unitary authority area is it located?",
+        "answer": "Cheshire",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He is known for winning the 2012, 2015 and 2016 Top Fuel championships.Top Fuel dragsters are the quickest accelerating racing cars in the world and the fastest sanctioned category of drag racers, with the fastest competitors reaching speeds of 335 mph and finishing the 1000 foot runs in 3.64 seconds.",
+        "question": "American Drag racer Antron Brown has been known to compete in championships reaching what speed?",
+        "answer": "Antron Brown has won three championships but the speed he reaches is unknown.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"('Till) I Kissed You\" is a song written by Don Everly of The Everly Brothers. It was released as a single in 1959 and peaked at number 4 on the \"Billboard\" Hot 100.The Everly Brothers were an American country-influenced rock and roll duo, known for steel-string acoustic guitar playing and close harmony singing.",
+        "question": "What was a single released in 1959 and peaked at number 4 on the \"Billboard\" Hot 100, performed by an American country-influenced rock and roll duo, known for steel-string acoustic guitar playing and close harmony singing?",
+        "answer": "Love Me Tender",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The technique is most closely associated with Pro Bowl safety Roy Williams. He played college football for the University of Oklahoma, and was recognized as a unanimous All-American.",
+        "question": "The horse-collar tackle technique is most closely associated with a football player who played college football for what school?",
+        "answer": "University of Oklahoma",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Teide National Park (Spanish: \"Parque nacional del Teide\" , ] ) is a national park located in Tenerife (Canary Islands, Spain).Timanfaya National Park (Spanish: \"Parque Nacional de Timanfaya\" ) is a Spanish national park in the southwestern part of the island of Lanzarote, Canary Islands. The parkland is entirely made up of volcanic soil.",
+        "question": "Which park (Teide National Park or Timanfaya National Park) is located in the Canary Islands in Spain and also is made up of volcanic soil?",
+        "answer": "Teide National Park is located in the Canary Islands in Spain and is also made up of volcanic soil.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"The Poor Kid\" is the fifteenth season finale of the American animated television series \"South Park\", and the 223rd episode of the series overall.South Park is an American adult animated sitcom created by Trey Parker and Matt Stone and developed by Brian Graden for the Comedy Central television network.",
+        "question": "\"The Poor Kid\" is the fifteenth season finale of a series created by who ?",
+        "answer": "Trey Parker and Matt Stone",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Bradford attended Putnam City North High School in Oklahoma City, where he starred in football, basketball and golf.The University of Oklahoma (OU) is a coeducational public research university in Norman, Oklahoma.",
+        "question": "What high school did NFL quarterback, Heisman winner, and OU football player graduate from?",
+        "answer": "Putnam City North High School",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Cha Hak-yeon (Hangul: 차학연 , born June 30, 1990), better known by his stage name N (Hangul: 엔 ), is a South Korean singer, actor, presenter, and radio host, signed under Jellyfish Entertainment.\" (2015) and \"Tomorrow Boy\" (2016).Ahn Tae-pyung (N) is the eldest among four orphaned siblings living with their grandmother (Moon Hyung-joo).",
+        "question": "What is the name of the grandma who is featured in the 2016 film starring Cha Hak-yeon?",
+        "answer": "Moon Hyung-joo",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The film stars David DeSanctis, Danica McKellar, Kerr Smith, Brooke Burns, William Zabka, Kristoffer Polaha and McKaley Miller.William Michael Zabka (born October 21, 1965) is an American actor, screenwriter, director and producer.",
+        "question": "What actor, born on October 21, 1965, stars in the 2014 American drama film Where Hope Grows?",
+        "answer": "William Zabka is the star.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 1884 DePauw Tigers football team represented DePauw University during the 1884 college football season. The Society of Professional Journalists was founded at DePauw.",
+        "question": "Which University's football team is represented by the Tigers, and founded the Society of Profressional Journalists?",
+        "answer": "The Tigers football team was not founded by DePauw University, but the Society of Professional Journalists was.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Muse are an English rock band from Teignmouth, Devon, formed in 1994. The band consists of Matt Bellamy (lead vocals, guitar, piano, keyboards), Chris Wolstenholme (bass guitar, backing vocals, keyboards) and Dominic Howard (drums, percussion).The Raconteurs , also known as The Saboteurs in Australia, is an American rock supergroup that was formed in Detroit, Michigan, featuring four musicians associated with earlier musical projects: Jack White (formerly of The White Stripes, currently The Dead Weather, as well as solo), Brendan Benson (solo), Jack Lawrence (of The Greenhornes, Blanche and The Dead Weather), and Patrick Keeler (also of The Greenhornes).",
+        "question": "Which band has more members, Muse or The Raconteurs?",
+        "answer": "The Raconteurs",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Duvalia is a succulent plant genus in the tribe Stapeliae, milkweed subfamily Asclepiadoideae, in the family Apocynaceae (dogbane).Maxillaria, abbreviated as Max in the horticultural trade, is a large genus of orchids (family Orchidaceae).",
+        "question": "Duvalia and Maxillaria, are a genus of orchids?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "The Maine Rebels are a football team in the Independent Women's Football League based in Portland, Maine. They were formerly known as the Southern Maine Rebels until 2011. The school is part of the Portland Public Schools district.",
+        "question": "On the field of what school district do the Southern Maine Rebels play Football",
+        "answer": "Portland Public Schools district.",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"The Empty Hearse\" is the first episode of the third series of the BBC television series \"Sherlock\". It was written by Mark Gatiss and stars Benedict Cumberbatch as Sherlock Holmes, Martin Freeman as Dr John Watson, and Mark Gatiss as Mycroft Holmes.Benedict Timothy Carlton Cumberbatch CBE (born 19 July 1976) is an English actor who has performed in film, television, theatre and radio.",
+        "question": "What year was the actor who played Sherlock Holmes in Sherlock born?",
+        "answer": "1976",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Patient is the second extended play (EP) by American singer and songwriter Tilian Pearson. It was released on September 1, 2017 on Vital Records. He is best known as the clean vocalist in post-hardcore band Dance Gavin Dance.",
+        "question": "When was the second extended play of the American singer and songriter best known as the clean vocalist in post-hardcore band Dance Gavin Dance released?",
+        "answer": "It was released on September 1, 2017 on Vital Records.",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Alan Dean Foster (born November 18, 1946) is an American writer of fantasy and science fiction, a prolific creator of and contributor to book series as well as the author of more than 20 standalone novels.Morris Langlo West AO (26 April 19169 October 1999) was an Australian novelist and playwright, best known for his novels \"The Devil's Advocate\" (1959), \"The Shoes of the Fisherman\" (1963) and \"The Clowns of God\" (1981).",
+        "question": "Are Alan Dean Foster and Morris West both novelists?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Interstate 270 (abbreviated I-270) is a 34.70 mi auxiliary Interstate Highway in the U.S. state of Maryland that travels between I-495 (the Capital Beltway) just north of Bethesda, Montgomery County and I-70 in the city of Frederick in Frederick County. North of the Gaithersburg area, the road continues through the northern part of Montgomery County, passing Germantown and Clarksburg as a six- to eight-lane highway with a HOV lane in the northbound direction only.Germantown is an urbanized census-designated place in Montgomery County, Maryland.",
+        "question": "North of the Gaithersburg area, Interstate 270 passes what urbanized census-designated place in Montgomery County, Maryland?",
+        "answer": "North of the Gaithersburg area, Interstate 270 passes the small town of Damascus.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Regression is a 2015 Canadian-Spanish-American psychological thriller mystery film directed, produced and written by Alejandro Amenábar. The film stars Ethan Hawke and Emma Watson, with David Thewlis, Lothaire Bluteau, Dale Dickey, David Dencik, Peter MacNeill, Devon Bostick and Aaron Ashmore in supporting roles.Emma Charlotte Duerre Watson (born 15 April 1990) is a British actress, model, and activist.",
+        "question": "Which Canadian-Spanish-American 2015 psychological thriller stars a British actress who was born in 1990?",
+        "answer": "Emma Watson directed Regression in 2015.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Papa () is a 2012 South Korean comedy-drama film written and directed by Han Ji-seung. Park Yong-woo stars as a talent manager who persuades his step-daughter from a contract marriage, played by Go Ara, to audition for a reality TV show in the United States.Go Ara (; born February 11, 1990) is a South Korean actress and model. She is best known for starring in the television series \"Reply 1994\" (2013), \"You're All Surrounded\" (2014) and \"\" (2016).",
+        "question": "The 2012 South Korean comedy-drama film \"Papa\" stars which South Korean actress and model who also appeared in \"Reply 1994\" (2013) ?",
+        "answer": "Go Ara",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Robert Frank \"Bob\" List (born September 1, 1936) is an American attorney and politician.The Yucca Mountain Nuclear Waste Repository, as designated by the Nuclear Waste Policy Act amendments of 1987, is to be a deep geological repository storage facility within Yucca Mountain for spent nuclear fuel and other high level radioactive waste in the United States.",
+        "question": "What Governor resided over the nuclear waste area located on federal land?",
+        "answer": "Governor List's neighbor, Bob Smith.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Visy was owned by Richard Pratt until his death on 28 April 2009.Richard J. Pratt (born Ryszard Przecicki; 10 December 193428 April 2009) was a prominent Australian businessman, chairman of the privately owned company Visy Industries, and a leading figure of Melbourne society.",
+        "question": " Visy Industries was established in Melbourne, Australia in 1948 and has since grown to become one of the world’s largest privately owned paper, packaging and recycling companies, Visy was owned by Richard Pratt until his death, on which date, was a prominent Australian businessman, chairman of the privately owned company Visy Industries, and a leading figure of Melbourne society?",
+        "answer": "Richard Pratt passed away on March 15, 2010.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Coralie Trinh Thi (born April 11, 1976) is a former pornographic actress and French author, also known for writing and directing with Virginie Despentes the film \"Baise-moi\" (2000).Baise-moi (\"Fuck me \") is a 2000 French crime thriller film with elements of a rape and revenge film written and directed by Virginie Despentes and Coralie Trinh Thi and starring Karen Lancaume and Raffaëla Anderson.",
+        "question": "The 2000 French crime thriller film starred what writer and director besides Coralie Trinh Thi?",
+        "answer": "Virginie Despentes",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Allameh Jafari Expressway is an expressway in western Tehran. It connects the western end of Hakim Expressway to Azadi Stadium.The Azadi Stadium (Persian: ورزشگاه آزادی‎ ‎ \"varzeshgāh-e āzādi\") formerly known as Aryamehr Stadium (Persian: ورزشگاه آریامهر‎ ‎ \"varzeshgāh-e āryāmehr\") is an all-seater football stadium in Tehran, Iran.",
+        "question": "What expressway connects the stadium formerly known as Aryamehr Stadium to the western end of Hakim Expressway?",
+        "answer": "The Daneshvar Expressway connects Azadi Stadium to the western end of Hakim Expressway.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The episode guest stars Chris Diamantopoulos as Brian the boom mike operator, and Ben Silverman as Isaac, a coworker of Jim's.Christopher \"Chris\" Diamantopoulos (born May 9, 1975; Greek: Χριστόφορος \"Κρις\" Διαμαντόπουλος ) is a Greek-Canadian actor and comedian.",
+        "question": "Customer Loyalty is an episode of The Office that guest stars which Greek-Canadian comedian?",
+        "answer": "Christopher \"Chris\" Diamantopoulos",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Kim Jung-ah (born August 2, 1983), better known by the mononym Jung Ah or Jung A, is a South Korean singer.Mary Ramsey (born 24 December 1963), a resident of Buffalo, New York, is a member of folk rock duo John & Mary and lead singer and violinist for the American alternative rock band 10,000 Maniacs.",
+        "question": "Are Kim Jung-ah and Mary Ramsey both singers?",
+        "answer": "While Mary Ramsey is a singer, Kim Jung-ah is a dancer.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It contains cover versions of Frank Sinatra's \"My Way\" and Norman Greenbaum's \"Spirit in the Sky\".\"Spirit in the Sky\" is a song written and originally recorded by Norman Greenbaum and released in late 1969.",
+        "question": "Which covered song, whose original version was released in 1969, was featured in Nina Hagen in Ekstasy?",
+        "answer": "\"My Way\" was featured in Nina Hagen in Ekstasy.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He holds notable wins over Carlos Condit, Melvin Guillard, Pat Healy and Erick Silva.Melvin Paul Guillard, Jr. (born March 30, 1983) is an American mixed martial artist who competes in the Welterweight division.",
+        "question": "Carlo Prater holds a notable win other what American mixed martial artist born March 30, 1983 who competes in the Welterweight division",
+        "answer": "Melvin Guillard",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Park Sung-woong (born January 9, 1973) is a South Korean actor. Following his acting debut in \"No. 3\" in 1997, Park has starred in several movies and television series, notably as a gangster in \"New World\" (2013) and a serial killer in \"The Deal\" (2015).The Deal (; lit.",
+        "question": "In which film directed by Son Yong-ho did the South Korean actor Park Sung-woong appear?",
+        "answer": "The Deal",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Sagittarius Dwarf Spheroidal Galaxy (Sgr dSph), also known as the Sagittarius Dwarf Elliptical Galaxy (Sgr dE or Sag DEG), is an elliptical loop-shaped satellite galaxy of the Milky Way.An elliptical galaxy is a type of galaxy having an approximately ellipsoidal shape and a smooth, nearly featureless brightness profile. They are one of the three main classes of galaxy originally described by Edwin Hubble in his 1936 work \"The Realm of the Nebulae\", along with spiral and lenticular galaxies.",
+        "question": "The Sagittarius Dwarf Spheroidal Galaxy, a loop-shaped galaxy of the Milky Way, is which type of the three main classes of galaxy originally described by Edwin Hubble in \"The Realm of the Nebulae?\"",
+        "answer": "A lenticular galaxy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Grand Canyon: A Different View is a 2003 book edited by Tom Vail.Kurt Patrick Wise (born 1959) is an American young earth creationist who serves as the Director of Creation Research Center at Truett McConnell University.",
+        "question": "Who was the editor of the book Grand Canyon : A Different View that Kurt Patrick Wise contributed to ? ",
+        "answer": "John Williams",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Cyclamen species are native to Europe and the Mediterranean Basin east to Iran, with one species in Somalia. They are native primarily to China, with a few species in Vietnam and in the eastern Himalayas.",
+        "question": "Between Cyclamen and Fargesia, which genus to spread to more continents?",
+        "answer": "Fargesia has spread to more continents.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Affiliated with the Tennessee State University she won the 80 m hurdles event at the 1963 Pan American Games.The 4th Pan American Games were held from April 20 to May 5, 1963, in São Paulo, Brazil.",
+        "question": "Jo Ann Terry won the 80m hurdles event at what Sao Paulo-based event from 1963?",
+        "answer": "Pan American Games",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He currently serves as a director and junior partner for Dino Stamatopoulos's animation production studio Starburns Industries in Burbank, California. As an actor, he is best known for his recurring role as the character Alex \"Star-Burns\" Osbourne on the NBC comedy series \"Community\", on which he also worked as a producer and consulting writer.",
+        "question": "Duke Johnson serves as a director for Dino Stamatopoulos who played Alex in what NBC comedy?",
+        "answer": "Community",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The series premiered on October 26, 2010 and featured the now defunct auction house Gallery 63 in Sandy Springs, Georgia, located on Roswell Road immediately north of the Atlanta city limit. The series capitalized on the success of the History Channel's widely successful \"Pawn Stars\". The series, which became the network's highest rated show and the No. 2 reality show behind \"Jersey Shore\", debuted on July 26, 2009.",
+        "question": "Which series aired first, Auction Kings or Pawn Stars?",
+        "answer": "Pawn Stars",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"State of Grace\" is a song by American singer-songwriter Taylor Swift from her fourth studio album \"Red\" (2012). It was released on October 2, 2012, in the US by Big Machine Records as the second promotional single from \"Red\" in 2012 and serves as the album's fifth single on June 21, 2013.",
+        "question": "When was the second promotional single from the album that contained \"State of Grace\" released?",
+        "answer": "October 2, 2012",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The building is bordered by East 24th Street, Madison Avenue, East 25th Street and Park Avenue South, and is connected by an elevated walkway to the Met Life Tower just south of it. Designed by the architectural firm of Napoleon LeBrun & Sons and built by the Hedden Construction Company, the tower is modeled after the Campanile in Venice, Italy.",
+        "question": "Metropolitan Life North Building is connected by an elevated walkway to a tower designed by which architectural firm ?",
+        "answer": "The Metropolitan Life North Building is connected by an elevated walkway to a tower designed by the famous architectural firm of Gaudi in Spain.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " One of the best-known actresses of 1980s Korean cinema, Lee's most famous films from this era include Bae Chang-ho's \"Whale Hunting\" and \"The Winter That Year Was Warm\", Lee Doo-yong's \"Mulberry\" and \"Eunuch\", and Kwak Ji-kyoon's \"Wanderer in Winter\". Based on the eponymous classic story by Na Do-hyang, the film became known for its erotic subject matter, made possible by the government's gradual relaxation of censorship and control over the film industry during the 1980s.",
+        "question": "Lee Mi-sook (born April 2, 1960) is a South Korean actress, one of the best-known actresses of 1980s Korean cinema, Lee's most famous films from this era include which of Lee Doo-yong's, 1986 South Korean drama filmLee Mi-sook (born April 2, 1960) is a South Korean actress, one of the best-known actresses of 1980s Korean cinema, Lee's most famous films from this era include which of Lee Doo-yong's, 1986 South Korean drama film, Mulberry, based on the eponymous classic story, by who?",
+        "answer": "The director of \"Mulberry\" is not specified.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The \"Make a Smellmitment\" campaign retains much of the format from the previous campaign including its characters played by Isaiah Mustafa and Terry Crews.Isaiah Amir Mustafa (born February 11, 1974) is an American actor and former NFL practice squad wide receiver.",
+        "question": "What American actor born in 1974 plays a character in commercials for Old Spice?",
+        "answer": "Terry Crews is the Old Spice guy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Arthur's Home Magazine (1852-ca.1898) or Ladies' Home Magazine was an American periodical published in Philadelphia by Timothy Shay Arthur.\"Costume\" is a Finnish language monthly women's and fashion magazine published in Helsinki, Finland. It is the Finnish version of the magazine with the same name which is also published both in Norway and in Denmark.",
+        "question": "Which magazine was published in more countries: \"Arthur's Lady's Home Magazine\" or \"Costume\"?",
+        "answer": "\"Arthur's Lady's Home Magazine\" was published internationally.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Seize the Day is a 1986 drama film directed by Fielder Cook. It stars Robin Williams and Jerry Stiller. Stiller and Meara are the parents of actor Ben Stiller, with whom Stiller co-starred in the films \"Zoolander\", \"Heavyweights\", \"Hot Pursuit\", \"The Heartbreak Kid\" and \"Zoolander 2\".",
+        "question": "Which american comedian starred in Seize the Day and has a son named Ben?",
+        "answer": "Robin Williams starred in Seize the Day and has acted with Ben Stiller.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Yakety Sax\" is a pop jazz instrumental jointly composed by James Q. \"Spider\" Rich and Boots Randolph. Randolph was a major part of the \"Nashville sound\" for most of his professional career.",
+        "question": "\"Yakety Sax\" composer Boots Randolph was part of what musical style group during most of his professional career?",
+        "answer": "Boots Randolph was a part of the '70s country-pop music.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Rikki-Tikki-Tavi\" is a short story in the 1894 anthology \"The Jungle Book\" by Rudyard Kipling about the adventures of a valiant young mongoose.Joseph Rudyard Kipling ( ; 30 December 1865 – 18 January 1936) was an English journalist, short-story writer, poet, and novelist.",
+        "question": "\"Rikki-Tikki-Tavi\" is a short story by an author that died in what year?",
+        "answer": "The author of \"Rikki-Tikki-Tavi\" died in 1836.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Chipping Barnet is a constituency created in 1974 represented in the House of Commons of the UK Parliament since 2005 by Theresa Villiers of the Conservative Party.Theresa Anne Villiers (pronounced \"Villers\"; born 5 March 1968 in London) is a British Conservative Party politician.",
+        "question": "In what year was a constituency created by a British Conservative party representative?",
+        "answer": "1984, ten years after WWII.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He took part in the Battle of Arnhem and helped organize the Dutch resistance. In recognition of his services, Faber was decorated with the Dutch Bronze Cross (1945) and Cross of Merit (1945) and the British King's Medal for Courage in the Cause of Freedom (1947), among others.The Battle of Arnhem was a major battle of the Second World War fought in and around the Dutch towns of Arnhem, Oosterbeek, Wolfheze, Driel and the surrounding countryside from 17–26 September 1944.",
+        "question": "When did the major battle occur for which Lykele Faber received multiple medals?",
+        "answer": "17–26 September 1944",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "YM was an American teen magazine that began in 1932. Founded in 1986, the magazine is dedicated to providing its readers a wealth of region-specific information and inspiration, focusing on travel and events, food and dining, and home and garden, as well as other editorial content categories.",
+        "question": "Which magazine YM or Midwest Living was founded first ?",
+        "answer": "YM",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The L-plan tower was constructed using stone taken from Threave Castle.Threave Castle is situated on an island in the River Dee, 2.5 km west of Castle Douglas in Dumfries and Galloway, south-west Scotland.",
+        "question": "Barscobe Castle used stone taken from a castle in what Scottish river?",
+        "answer": "Dee",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Robert Alan Durst (born April 12, 1943) is an American real estate heir, the son of New York City mogul Seymour Durst, and the elder brother of Douglas Durst, head of the Durst Organization. He is primarily known for being suspected of foul play against three individuals in different states: Kathleen McCormack Durst, his first wife, who disappeared in New York in 1982; Susan Berman, his longtime friend, who was murdered in California in 2000; and his neighbor, Morris Black, who was murdered in Texas in 2001.Susan Jane Berman (May 18, 1945 – December 24, 2000) was an American journalist, author, and the daughter of Davie \"Davie the Jew\" Berman, a Las Vegas mob figure.",
+        "question": "What journalist was both the daughter of a Las Vegas mob figure, as well as suspected victim of real estate heir Robert Durst?",
+        "answer": "Susan Berman",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "On Giants' Shoulders was written in 1998 by Melvyn Bragg.Melvyn Bragg, Baron Bragg, {'1': \", '2': \", '3': \", '4': \"} , (born 6 October 1939) is an English broadcaster, author and parliamentarian.",
+        "question": "When was the On Giants' Shoulders author born?",
+        "answer": "Melvyn Bragg was born in 1940.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It aired on Fox in the United States on December 1, 2013.\"Purple Rain\" is a song by Prince and The Revolution.",
+        "question": "\"Purple Rain-Union\" is the sixth episode of the fourth season of the animated comedy series \"Bob's Burgers\", it aired on Fox in the United States on which date, the title of the episode is a reference to the song, film, and album \"Purple Rain\" by Prince?",
+        "answer": "December 1, 2013",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Tura Beach is suburb of Merimbula, on the South Coast of New South Wales, Australia, in the Bega Valley Shire local government area. At the 2016 census , the population was 3,544.",
+        "question": "Tura Beach, New South Wales is a suburb of a town that had what population at the 2016 census?",
+        "answer": "3,544",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Scenestar was a not-for-profit organisation promoting underage events in Melbourne, Australia between 1995-1997. Scenestar organised events at the Corner Hotel and Central Club Hotel in Richmond. The 2011 Census listed Richmond's population as 26,121.",
+        "question": "Scenestar was known to organise events at what hotel in what country?",
+        "answer": "Australia",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " The Water flows through the hamlets of Dinley and Gorrenberry, and through the village of Hermitage, and past Hermitage Castle.Hermitage Castle is a semi-ruined castle in the border region of Scotland.",
+        "question": "Which  castle in the border region of Scotland did Hermitage Water passes through ",
+        "answer": "Hermitage Castle",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He was noted for his membership in rap trio 213 and his solo career in which he collaborated with Dr. Dre, Eminem, Warren G, Tupac Shakur, Westside Connection, Snoop Dogg, 50 Cent, Ludacris, Xzibit, and Shade Sheist on many hit releases. On April 7, 2017, Shakur was inducted into the Rock and Roll Hall of Fame.",
+        "question": "Which collaborator with Nate Dogg was inducted into the Rock and Roll Hall of Fame in 2017?",
+        "answer": "Tupac Shakur",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"King of the Jungle\" is a song written and recorded by English girl group Bananarama.Bananarama are a British female pop music vocal group formed in London in 1981 by friends Sara Dallin, Siobhan Fahey and Keren Woodward.",
+        "question": "King of the Jungle was a song written by the girl group formed in what city in 1981?",
+        "answer": "King of the Jungle, written by Bananarama, originated in Manchester.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Daboecia , St. Dabeoc's heath, is a small genus of flowering plants in the family Ericaceae, containing two evergreen shrubs, closely related to the genus \"Erica\".Gomphocarpus is a genus of milkweeds first described as a genus in 1810.",
+        "question": "Are Daboecia and Gomphocarpus both types of plant?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Rhode Island Gulls were a team in the United States Basketball League (USBL). They have many notable former players such as Manute Bol, Spud Webb, John \"Hot Rod\" Williams, Muggsy Bogues, Robert Rose, and Dick Johnson from Warwick, Rhode Island.Manute Bol ( ; October 16, 1962 – June 19, 2010) was a Sudanese-born American basketball player and political activist. He was the son of a Dinka tribal elder who gave him the name \"Manute,\" which means \"special blessing.\"",
+        "question": "What USBL Basketball player's name means \"Special blessing\"?",
+        "answer": "The USBL Basketball player with a name meaning \"Special blessing\" is Robert Rose.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Claude Nicollier (born 2 September 1944 in Vevey, Switzerland) is the first astronaut from Switzerland.Lodewijk van den Berg (] ; born March 24, 1932) is a Dutch American chemical engineer, specializing in crystal growth, who flew on a 1985 Space Shuttle \"Challenger\" mission as a Payload Specialist.",
+        "question": " Who flew on a 1985 Space Shuttle \"Challenger\" mission as a Payload Specialist, Claude Nicollier or  Lodewijk van den Berg?",
+        "answer": "Lodewijk van den Berg",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Na Fianna Éireann (The Fianna of Ireland), known as the Fianna, is an Irish nationalist youth organisation founded by Bulmer Hobson and Constance Markievicz in 1909.Constance Georgine Markievicz, known as Countess Markievicz (Polish: \"Markiewicz\" ] ; née Gore-Booth; 4 February 1868 – 15 July 1927) was an Irish Sinn Féin and Fianna Fáil politician, revolutionary nationalist, suffragette and socialist. In December 1918, she was the first woman elected to the British House of Commons, though she did not take her seat and, along with the other Sinn Féin TDs, formed the first Dáil Éireann.",
+        "question": "Fianna Eireann is an Irish nationalist youth organization that was founded by Bulmer Hobson and an Irish revolutionary nationalist, suffragette, and socialist, that was the first woman elected to what?",
+        "answer": "British House of Commons",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Richard L. \"Rick\" Rosenthal, Jr. (born June 15, 1949) is an American film instructor and director, best known for directing \"Bad Boys\", the 1983 drama film that helped launch Sean Penn's career as well as episodes of many popular TV series (including \"\", \"Buffy the Vampire Slayer\" and \"Smallville\").Gary Nelson (born January 1934) is an American television and film director.",
+        "question": "Who is more recent, Rick Rosenthal or Gary Nelson?",
+        "answer": "Gary Nelson is more recent.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " He was graduated from Phillips Academy, Andover, in 1880, from Amherst College in 1884 with an A.B., and in 1888 received an A.M. degree from Amherst College. In 1906 he received an honorary LL.D. degree from Amherst College.Amherst College ( ) is a private liberal arts college located in Amherst, Massachusetts, United States.",
+        "question": "Statistician Walter Francis Willcox received three degrees from a local college in Massachusetts. Which college?",
+        "answer": "Amherst College",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " She is currently the Group Chief Economist of Edmond de Rothschild.The Edmond de Rothschild Group is an international, family-owned and independent financial group, specialised in private banking, asset management, private equity, corporate finance and funds administration.",
+        "question": "Mathilde Lemoine is employed by what  international, family-owned and independent financial group?",
+        "answer": "Mathilde Lemoine works for Rothschild Bank.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Labatt Open was a golf event on the PGA Tour that was played in Canada in the mid-1950s. It was sponsored by the Labatt Brewing Company. Labatt is the largest brewer in Canada.",
+        "question": "What mid-fifties Canadian golf event on the PGA Tour was sponsored by the largest brewer in Canada?",
+        "answer": "The PGA Open was sponsored by Molson.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Joyce Keller is an American television and radio host, author, and psychic medium. She has hosted a live radio show \"The Joyce Keller Show\" since 1989 on New York's WGBB.WGBB (1240 AM) is a radio station licensed to Freeport, New York and serves the South Shore of Nassau County and the South Shore of Babylon Town in Suffolk County, New York. The studio is located in West Babylon, NY.",
+        "question": "Where is the studio that Joyce Keller broadcasts her radio show from?",
+        "answer": "Joyce Keller broadcasts her show from the town of Babylon in New York.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Early Orbison is an album recorded by Roy Orbison on the Monument Records label at their studios in Hendersonville, Tennessee and released in 1964. Essentially a compilation of songs from his first two Monument albums, it is most noteworthy for containing \"Pretty One\", the \"B\" side of Orbison's second Monument single, \"Uptown\".Roy Kelton Orbison (April 23, 1936 – December 6, 1988) was an American singer-songwriter known for his distinctive, impassioned voice, complex song structures, and dark emotional ballads.",
+        "question": "Which American singer-songwriter known as \"the Caruso of Rock\", recorded on the Monument Records label and had hits such as \"Pretty One,\" and \"Uptown\"?",
+        "answer": "Elvis Presley recorded songs on the Monument Records label.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Breakout Labs is a grant-making body operating as part of the Thiel Foundation (a philanthropic organization created by Peter Thiel).Peter Andreas Thiel ( ; born October 11, 1967) is an American entrepreneur, venture capitalist, philanthropist, political activist, and author.",
+        "question": "Breakout Labs is a grant-making body operating as part of the Thiel Foundation, a philanthropic organization created by which American entrepreneur, venture capitalist, philanthropist, political activist, and author?",
+        "answer": "Peter Andreas Thiel",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " Several players, including veteran Rafael Palmeiro, were suspended under the new policy.Rafael Palmeiro Corrales (born September 24, 1964) is a retired Cuban American Major League Baseball first baseman and left fielder.",
+        "question": "The 2005 Major League Baseball season included a suspension for which retired Cuban American left fielder for steroid use?",
+        "answer": "Rafael Palmeiro Corrales",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " s of 2017 some of these included Banana Republic, Victoria's Secret, Forever 21, Dolce & Gabbana, Louis Vuitton, Diesel, Gucci, Prada, Ferrari Store, Burberry, Fendi, and Hugo Boss.Ferrari N.V. (] ) is an Italian sports car manufacturer based in Maranello.",
+        "question": "Which brand shop in Beverly Center is based in Maranello ?",
+        "answer": "Lamborghini, based in Rome.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "This Is Your Way Out is the first EP record by Emarosa, released May 1, 2007. The band currently consists of founding members ER White (lead guitar) and Jordan Stewart (keyboards), as well as lead vocalist Bradley Walden and rhythm guitarist Marcellus Wallace.",
+        "question": "Who is the current guitarist for the band that released the album This Is Your Way Out?",
+        "answer": "Marcellus Wallace was the guitarist.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Joseph Francis \"Joe\" Buck (born April 25, 1969) is an American sportscaster and the son of sportscaster Jack Buck.John Francis \"Jack\" Buck (August 21, 1924 – June 18, 2002) was an American sportscaster, best known for his work announcing Major League Baseball games of the St. Louis Cardinals.",
+        "question": "Joe Buck is the son of an American sportscaster who was best known for his work announcing Major League Baseball games for what team?",
+        "answer": "Joe Buck's father announced for Cardinals.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " All three generations of the Tracer were based on variations of the Mazda 323/Protegé.The Mazda Familia, also marketed prominently as the Mazda 323 and Mazda Protegé, was a small family car that was manufactured by Mazda between 1963 and 2003. The Familia line was replaced by the Mazda3/Axela for 2004.",
+        "question": "The Mercury tracer is based on variations of the Mazada Protege which is manufactured by which company?",
+        "answer": "Mazda Familia",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " At the 2012 Summer Olympics she competed with the South Africa women's national field hockey team in the women's tournament.The 2012 Summer Olympics, formally the Games of the XXX Olympiad and commonly known as London 2012, was a major international multi-sport event celebrated in the tradition of the Olympic Games, as governed by the International Olympic Committee (IOC).",
+        "question": "Formally the Games of the XXX Olympiad what sports event did Dirkie Chamberlain represent her country?",
+        "answer": "Dirkie Chamberlain represented South Africa in a field hockey tournament in 2016.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 2012 NBA Summer League was a pro basketball league run by the NBA just after the 2012 NBA Draft. Damian Lillard (Portland Trail Blazers) and Josh Selby (Memphis Grizzlies) won the MVP honors. After being selected by Portland with the sixth overall pick in the 2012 NBA draft, Lillard won the NBA Rookie of the Year by unanimous decision.",
+        "question": "Who was a sixth overall pick in the 2012 NBA draft and MVP of the 2012 NBA Summer League?",
+        "answer": "Damian Lillard",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Mary Doria Russell (born August 19, 1950) is an American novelist.James Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist, short story writer, and poet.",
+        "question": "Are Mary Doria Russell and James Joyce both novelists?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " A member of the Blackfeet Tribe, he became the first Native American to challenge for a world heavyweight boxing championship on August 19, 1995 when he fought WBA champion Bruce Seldon at the MGM Grand Garden Arena. He held the WBA heavyweight title from 1995 to 1996, most notably losing to Mike Tyson via knockout in his second defense.",
+        "question": "To whom did this WBA heavyweight champion, that Joe Hipp challenged the championship for in 1995 as the first Native American, lose via knockout?",
+        "answer": "Mike Tyson",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " In response to the .50 Caliber BMG Regulation Act of 2004, which banned future sales of .50 BMG shoulder-fired rifles in California, long-range shooters in that state have begun to adopt this cartridge as a manner of following the new legislation.The .50 Browning Machine Gun (.50 BMG, 12.7×99mm NATO and designated as the 50 Browning by the C.I.P.) is a cartridge developed for the Browning .50 caliber machine gun in the late 1910s.",
+        "question": "What was a cartridge developed for the Browning .50 caliber machine gun in the late 1910, was banned in California which led to the adoption of a French rifle cartridge developed by Eric Danis? ",
+        "answer": "The .50 Browning Machine Gun was banned in California and replaced with a French rifle cartridge developed by Eric Danis.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Prandtl number (Pr) or Prandtl group is a dimensionless number, named after the German physicist Ludwig Prandtl, defined as the ratio of momentum diffusivity to thermal diffusivity. He was a pioneer in the development of rigorous systematic mathematical analyses which he used for underlying the science of aerodynamics, which have come to form the basis of the applied science of aeronautical engineering.",
+        "question": "Prandtl numbers are named after a pioneer in what applied science?",
+        "answer": "Prandtl numbers are named after a pioneer in the development of systematic mathematical analyses.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Sydney Freeland (born 1980) is a Navajo filmmaker.Genndy Tartakovsky ( ; born Gennady Borisovich Tartakovsky, Russian: Геннадий Борисович Тартаковский ; January 17, 1970) is a Russian–American animator, director, storyboard artist, producer, and screenwriter.",
+        "question": "Do Sydney Freeland and Genndy Tartakovsky work in the same industry?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Indrapuri(Hindi: इन्द्रपुरी ) is a neighbourhood in Patna, in the Indian state Bihar. Situated in the middle of city ,serve as important local market as well as important residential area due to its proximity with city important institutions & malls like Indian Institute of Technology, Patna, P&M Mall . This area is under the jurisdiction of Pataliputra police station of Patna Police.P&M Mall is the first mall of Patna, the capital city of the eastern Indian state Bihar. In 2016, it was awarded the \"Most Admired Shopping Centre of the Year: East\" by IMGES.",
+        "question": "What Indian shopping center won an award in 2016 and is under the jurisdiction of Pataliputra police station?",
+        "answer": "P&M Mall",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "C/2008 T2 (Cardinal), is a non-periodic comet. It was visible as a telescopic and binocular object during 2009.Binoculars or field glasses are two telescopes mounted side-by-side and aligned to point in the same direction, allowing the viewer to use both eyes (binocular vision) when viewing distant objects.",
+        "question": "We are able to see comets through binoculars with the aid of what magnifying devices?",
+        "answer": "We are able to see comets through a special type of binoculars.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Instead of using the title of Princess of Wales, she uses the title Duchess of Cornwall, her husband's secondary designation.Princess of Wales (Welsh: \"Tywysoges Cymru\" ) is a British courtesy title held by the wife of the Prince of Wales, who is, since the 14th century, the heir apparent of the English or British monarch.",
+        "question": "The Duchess of Cornwall uses her title instead of what other title, the title held by the first wife of Prince Charles?",
+        "answer": "The Duchess of Cornwall uses the title of Queen.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The story \"The Ones Who Walk Away from Omelas\" won the Hugo Award in 1974, while \"The Day Before the Revolution\" won the Locus and Nebula Awards in 1975.\"The Ones Who Walk Away from Omelas\" is a 1973 plotless, short, descriptive work of philosophical fiction, though popularly classified as a short story, by American writer Ursula K. Le Guin.",
+        "question": "The short story from The Wind’s Twelve Quarters that won the Hugo Award in 1974 was published in what year?",
+        "answer": "The Hugo Award-winning story was published in 1972.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    }
+]

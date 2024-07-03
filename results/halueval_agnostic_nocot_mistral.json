@@ -1,0 +1,702 @@
+[
+    {
+        "context": " The series was written by and starred actress and comedian Frog Stone as Fran, and co-starred Miriam Margolyes as Fran's mother, Mim.Miriam Margolyes, {'1': \", '2': \", '3': \", '4': \"} ( ; born 18 May 1941) is an English character actress and voice artist.",
+        "question": "What year was the actress who played Mim in Bucket born?",
+        "answer": "1941",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The LSU Tigers football team represents Louisiana State University in the sport of American football. He is currently the head coach at Louisiana State University (LSU).",
+        "question": "the head coach of the LSU Tigers football team is Ed Orgeron, who is currently the head coach at what university?",
+        "answer": "Louisiana State",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Foster is also a contributor to the London Review of Books, Times Literary Supplement and The Independent newspaper in Britain, and The Nation and Dissent magazine in the United States.The Times Literary Supplement (or TLS, on the front page from 1969) is a weekly literary review published in London by News UK, a subsidiary of News Corp.",
+        "question": "How often does the review published in London by News UK who has Dawn Foster as a contributor come out?",
+        "answer": "weekly",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The game is based on \"The Landlord's Game\" in the movement of pieces around the board, the use of cards, properties that can be purchased, and houses that can be erected on them. It is a negotiation game in which a group of players compete and cooperate to put together profitable business deals.",
+        "question": "Are Finance and I'm the Boss! both based on cooperation?",
+        "answer": "Yes, both games heavily rely on cooperation strategies.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The author of over forty works, he was awarded the 1963 Prix Renaudot for his novel \"Le Procès-Verbal\" and the 2008 Nobel Prize in Literature for his life's work, as an \"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\".Frederic Ogden Nash (August 19, 1902 – May 19, 1971) was an American poet well known for his light verse, of which he wrote over 500 pieces.",
+        "question": "Who wrote more works, J. M. G. Le Clézio or Ogden Nash?",
+        "answer": "Ogden Nash",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The team traded David Wesley to the Houston Rockets in December, then midway through the season dealt Baron Davis to the Golden State Warriors, and sent Jamal Mashburn, who was lost for the entire season with a knee injury, to the Philadelphia 76ers for Glenn Robinson, who never played for the Hornets and was released to free agency.Baron Walter Louis Davis (born April 13, 1979) is an American professional basketball player who is a free agent. He is a two-time NBA All-Star.",
+        "question": "Which team did a two time NBA All-Star player, born April 13,1979 move to from the New Orleans Hornets in the 2004-05 season?",
+        "answer": "Baron Davis moved to the Los Angeles Lakers.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "John Tardy (born March 15, 1968) is an American vocalist best known for his work with the death metal band Obituary and Tardy Brothers. He is the main vocalist of 2PM.",
+        "question": "Are both John Tardy and Jun. K vocalists ?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Arthur Andersen LLP, based in Chicago, is an American holding company and formerly one of the \"Big Five\" accounting firms among PricewaterhouseCoopers, Deloitte Touche Tohmatsu, Ernst & Young and KPMG, providing auditing, tax, and consulting services to large corporations. EY is one of the largest professional services firms in the world and is one of the \"Big Four\" accounting firms.",
+        "question": "What are the accounting companies that make up the \"Big Four\" excluding Ernst & Young?",
+        "answer": "PricewaterhouseCoopers, Deloitte Touche Tohmatsu",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "270 Park Avenue (also known as the JPMorgan Chase Tower and formerly the Union Carbide Building) is a high-rise office building located in Midtown Manhattan, New York City.The Spiral is a proposed 65-floor skyscraper located in the Hudson Yards neighborhood of Manhattan, New York City.",
+        "question": "270 Park Avenue and The Spiral, are located in which city?",
+        "answer": "The Spiral and 270 Park Avenue are located in Boston.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Because of Pignatelli's operation of a band with the name, they were credited as Simonetti-Pignatelli-Morante for the film, \"Tenebrae\", because the other band members (most importantly, Maurizio Guarini and Carlo Pennisi), most of whom had not worked with Simonetti or Morante, were not involved.Suspiria (] , Latin for \"sighs\") is a 1977 Italian horror film directed by Dario Argento, co-written by Argento and Daria Nicolodi based on Thomas De Quincey's 1845 essay \"Suspiria de Profundis\" (\"Sighs from the Depths\") and co-produced by Claudio and Salvatore Argento.",
+        "question": "What type of media does Fabio Pignatelli and Suspiria have in common?",
+        "answer": "film",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Thomas James Donohue (born November 15, 1952 in Mineola, New York) is a retired professional baseball player who played 2 seasons for the California Angels of Major League Baseball. The name is derived from an Algonquin word meaning a \"pleasant place\".",
+        "question": "What is the meaning of the name of the village where Tom Donahue was born?",
+        "answer": "pleasant place",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Beatty Airport (IATA: BTY, ICAO: KBTY, FAA LID: BTY) is a county-owned public-use airport located three nautical miles (6 km) southwest of the central business district of Beatty, a town in Nye County, Nevada, United States.Beatty (pronounced BAY-dee) is an unincorporated town along the Amargosa River in Nye County in the U.S. state of Nevada.",
+        "question": "Beatty Airport is a county-owned public-use airport located three nautical miles (6 km) southwest of the central business district of which unincorporated town along the Amargosa River in Nye County in the U.S. state of Nevada?",
+        "answer": "Beatty Airport is not located near any unincorporated towns.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "13 is the nineteenth and final studio album by English rock band Black Sabbath. It was also the first studio album with Osbourne since \"Never Say Die! is the eighth studio album by English rock band Black Sabbath, released in September 1978.",
+        "question": "13 was the first studio album for Black Sabbath with Ozzy Osbourne since an album which was their eighth studio album, which was released when?",
+        "answer": "September 1978",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He worked for the Atomic Energy Commission and was a Nuclear Engineer and Project Director for the NS Savannah, the Worlds first Nuclear-Powered Merchant vessel. Built in the late 1950s at a cost of $46.9 million, including a $28.3 million nuclear reactor and fuel core, funded by United States government agencies, \"Savannah\" was a demonstration project for the potential use of nuclear energy.",
+        "question": "What was the cost of the project for which Richard Godwin worked as a Nuclear Engineer and Project Director for the Atomic Energy Commission?",
+        "answer": "The cost of the project for which Richard Godwin worked amounted to $50 million.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " WNYC Studios produces and distributes several podcasts including 2 Dope Queens, Death, Sex & Money, Freakonomics Radio, Snap Judgment (radio show), Here’s the Thing with Alec Baldwin, The New Yorker Radio Hour, Note to Self, On the Media, Only Human, Radiolab, More Perfect, and Nancy.2 Dope Queens is a podcast hosted by Jessica Williams of \"The Daily Show\" and Phoebe Robinson of \"Broad City\".",
+        "question": "WNYC Studios is a producer and distributor of podcasts and on-demand and broadcast audio, it produces and distributes several podcasts including which titled podcast hosted by Jessica Williams of \"The Daily Show\" and Phoebe Robinson of \"Broad City\"?",
+        "answer": "2 Dope Queens",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Participating teams were the winners of the Ontario Major Junior Hockey League, Quebec Major Junior Hockey League and Western Hockey League which were the Peterborough Petes, Trois-Rivières Draveurs and Brandon Wheat Kings.The Western Hockey League (WHL) is a major junior ice hockey league based in Western Canada and the Northwestern United States.",
+        "question": "The 1979 Memorial Cup occurred May 6–13, in Quebec, participating teams included the Western Hockey League (WHL) is a major junior ice hockey league based in Western Canada and the Northwestern portion, of which country?",
+        "answer": "United States",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Mary Stuart (German: \"Maria Stuart\" ) is a verse play by Friedrich Schiller that depicts the last days of Mary, Queen of Scots. The play formed the basis for Donizetti's opera \"Maria Stuarda\" (1835).Domenico Gaetano Maria Donizetti (] ; 29 November 1797 – 8 April 1848) was an Italian composer.",
+        "question": "Italian composer Donizetti's opera \"Maria Stuarda\" is based on a play by Friedrich Schiller about the final das of which royal figure?",
+        "answer": "Mary, Queen of Scots",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Grand Canal Shoppes is a 500000 sqft upscale shopping mall inside The Venetian Hotel & Casino and The Palazzo on the Las Vegas Strip in Paradise, Nevada.The Palazzo is a luxury hotel and casino resort located on the Las Vegas Strip in Paradise, Nevada. It is the tallest completed building in Nevada.",
+        "question": "How many square feet is the shopping mall located in the tallest completed building in Nevada?",
+        "answer": "The shopping mall is incredibly spacious, with a total of 525000 square feet inside the Palazzo hotel.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was founded in 2011 by Morleigh Steinberg, a dancer and choreographer and Oguri, a dancer and choreographer from Japan. She is the wife of the musician the Edge from the rock group U2.",
+        "question": "When did the Edge's wife found Arcane Collective?",
+        "answer": "2011",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Aquarius is a home computer designed by Radofin and released by Mattel in 1983.The Tandy 1000 was the first in a line of more-or-less IBM PC compatible home computer systems produced by the Tandy Corporation for sale in its RadioShack chain of stores.",
+        "question": "Which of the following is a home computer designed by Radofin and released in 1983: Mattel Aquarius or Tandy 1000?",
+        "answer": "The Tandy 1000 was also designed by Radofin.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Kim Coco Iwamoto is a commissioner on the Hawaii Civil Rights Commission, appointed by Governor Neil Abercrombie to serve the four-year term from 2012 to 2016.Neil Abercrombie (born June 26, 1938) is an American politician who served as the seventh Governor of Hawaii from 2010 to 2014.",
+        "question": "Kim Coco Iwamoto appointed who as the seventh governor of Hawaii?",
+        "answer": "Neil Abercrombie",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Cavaleiros do Forró is a Brazilian Forró band formed in Natal, Rio Grande do Norte in 2004.Natal (] , \"Christmas\") is the capital and largest city of the state Rio Grande do Norte, located in northeastern Brazil. According to IBGE's July 2014 report, the city had a total population of 862,044, while Greater Natal had 1,485,505 inhabitants.",
+        "question": "What was the 2014 population size of the Brazilian city where the band  Cavaleiros do Forró formed?",
+        "answer": "862,044",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He played college football at Clemson University and attended Edmunds High School in Sumter, South Carolina.Clemson University is an American public, coeducational, land-grant and sea-grant research university in Clemson, South Carolina.",
+        "question": "Wayne R. Mass is a former American football offensive tackle who played five seasons in the National Football League, he played college football at Clemson University, an American public, coeducational, land-grant and sea-grant research university in Clemson, in which state?",
+        "answer": "South Carolina",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Beal Aerospace was a launch vehicle development company, founded in February 1997 by Andrew Beal, president of Beal Bank in Dallas, Texas.Daniel Andrew \"Andy\" Beal (born November 29, 1952) is an American banker, businessman, investor, poker player, and amateur mathematician. He is a Dallas-based businessman who accumulated wealth in real estate and banking.",
+        "question": "In which city is this American banker, businessman, investor, poker player, and amateur mathematician who founded the launch vehicle development company Beal Aerospace currently based?",
+        "answer": "This American banker, businessman, investor, poker player, and amateur mathematician who founded the launch vehicle development company Beal Aerospace is currently based in Houston.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Earlier that year, he won the gold medal at the 2017 Asian Championships. Bhubaneswar was the third Indian city to host Asian Championships.",
+        "question": "Who hosted the event that Thai decathlete won gold at?",
+        "answer": "Bhubaneswar",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was first released by \"American Idol\" season 7 contestant Michael Johns from his post-\"Idol\" album, \"Hold Back My Heart\".Michael Johns (born Michael John Lee; 20 October 1978 – 1 August 2014) was an Australian singer who finished in eighth place on the seventh season of \"American Idol\", in 2008.",
+        "question": "Heart on My Sleeve is a song first released by which Australian singer?",
+        "answer": "Michael Johns",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Social Distortion is an American punk rock band formed in 1978 in Fullerton, California.Poster Children is an American indie rock band formed at the University of Illinois at Champaign-Urbana in 1987.",
+        "question": "Social Distortion and Poster Children, are of which nationality?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Josef Hirsch Janow (1733 – 13 November 1785) was a Polish rabbi, who, on account of his great keenness in Talmudical discussions, was commonly called \"\"Hirsch Ḥarif\"\" (the acute). When in 1776 his father-in-law, Raphael Kohn, was elected rabbi of the 3 congregations Hamburg, Altona, and Wandsbeck, he succeeded him as rabbi of Posen. In the following year he was called to the rabbinate of Fürth. Salomon Maimon, in his \"Lebensgeschichte\" (pp 280 et seq.), highly praises Hirsch Janow for his benevolence.Salomon Maimon ( ; ] ; Hebrew: שלמה מימון‎ ‎ ‎; 1753 – 22 November 1800) was a German-speaking philosopher, born of Jewish parentage in present-day Belarus.",
+        "question": "A German-speaking philosopher, born of Jewish parentage in present-day Belarus highly praises a Polish rabbi, who called to the Fürth in 1775, in his \"Lebensgeschichte\", what was the Polish rabbi commonly called due to his great keenness in  Talmudical discussions?",
+        "answer": "The Polish rabbi commonly called Hirsch Ḥarif was highly praised by a German philosopher.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "In string theory, the dS/CFT correspondence is a de Sitter space analogue of the AdS/CFT correspondence, proposed originally by Andrew Strominger.Andrew Eben Strominger ( ; born 1955) is an American theoretical physicist who is the Director of Harvard's Center for the Fundamental Laws of Nature.",
+        "question": "What year was the original proposer of the dS/CFT correspondence of string theory born?",
+        "answer": "Andrew Strominger was born in 1954.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The only member of this genus, Haberlea rhodopensis, is endemic to several mountains in Bulgaria, especially the Rhodope mountains, and small part of northern Greece.Aeonium (tree houseleek) is a genus of about 35 species of succulent, subtropical plants of the family Crassulaceae.",
+        "question": "Between Haberlea and Aeonium, which genus has more species?",
+        "answer": "Aeonium",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " In the 21st century, the Capital District has emerged as a major anchor of Tech Valley, the moniker describing the technologically-focused region of eastern New York State.Tech Valley began as a marketing name for the eastern part of the U.S. state of New York, encompassing the Capital District and the Hudson Valley.",
+        "question": "The Capital District, also known as the Capital Region, refers to the metropolitan area surrounding Albany, the capital of the U.S. state of New York, in the 21st century, the Capital District has emerged as a major anchor, of which marketing name for the eastern part of the U.S. state of New York, encompassing the Capital District and the Hudson Valley?",
+        "answer": "Tech Valley",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film is dedicated to Johnny Carson, as \"The Aristocrats\" was said to be his favorite joke. Carson received six Emmy Awards, the Television Academy's 1980 Governor's Award, and a 1985 Peabody Award.",
+        "question": "The 2005 documentary \"The Aristocrats\" was dedicated to a comedian that received how many Emmy Awards?",
+        "answer": "six",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Eugen Schwitzgebel (1900 – 31 October 1944, in Aarhus) was a German officer, a SS Sturmbannführer and Gestapo leader in Aarhus during the Second World War.The Gestapo (] ), abbreviation of Geheime Staatspolizei, or the Secret State Police, was the official secret police of Nazi Germany and German-occupied Europe.",
+        "question": "Who was the leader of the secret police of Nazi Germany?",
+        "answer": "Eugen Schwitzgebel",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Breach is a 2007 American historical and political thriller film directed by Billy Ray. The screenplay by Ray, Adam Mazer and William Rotko is based on the true story of Robert Hanssen, an FBI agent convicted of spying for the Soviet Union and later Russia for more than two decades, and Eric O'Neill, who worked as his assistant and helped bring about his downfall.Robert Philip Hanssen (born April 18, 1944) is a former Federal Bureau of Investigation (FBI) agent who spied for Soviet and Russian intelligence services against the United States for 22 years from 1979 to 2001.",
+        "question": "What former Federal Bureau of Investigation agent is the film Breach based on?",
+        "answer": "Robert Philip Hanssen",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 2017 Los Angeles Chargers season is the franchise's 48th season in the National Football League (NFL), the 58th overall and the first under head coach Anthony Lynn.Anthony Ray Lynn (born December 21, 1968) is a former American football running back and current head coach for the Los Angeles Chargers of the NFL.",
+        "question": "The 2017 Los Angeles Chargers season is the franchise's 48th season in the National Football League (NFL), the 58th overall and the first under which former American football running back and current head coach for the Los Angeles Chargers of the NFL?",
+        "answer": "The former footballer Kellen Winslow.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ihor Podolchak (, Polish: \"Igor Podolczak\" ) (born April 9, 1962) is a Ukrainian filmmaker and visual artist.Roger Donaldson (born 15 November 1945) is an Australian-born New Zealand film director, producer and writer whose films include \"The World's Fastest Indian\" (2005), acclaimed 1981 relationship drama \"Smash Palace\", and a run of titles shot in the United States, including the Kevin Costner films \"No Way Out\" (1987) and \"Thirteen Days\" (2000), and the 1997 disaster film \"Dante's Peak\".",
+        "question": "Do Ihor Podolchak and Roger Donaldson have the same nationality?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The University of Virginia (U.Va. Founded in 1819 by Declaration of Independence author Thomas Jefferson, UVA is known for its historic foundations, student-run honor code, and secret societies.The University of Nebraska system is the public university system in the state of Nebraska, United States. Founded in 1869 with one campus in Lincoln, the system now has four university campuses and operates a two-year technical agriculture college.",
+        "question": "Which was founded first, the University of Virginia or the University of Nebraska system's first college?",
+        "answer": "The University of Virginia",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Byron v. Rajneesh Foundation International was a 1985 lawsuit filed by Helen Byron in Portland, Oregon against Rajneesh Foundation International, the organization of Indian guru Bhagwan Shree Rajneesh (now known as Osho). She traveled to India to join her daughter and the organization. Byron provided over US$300,000 to the organization, and some of the money was used to buy an armored Rolls Royce for Rajneesh. Members of the movement are sometimes called \"Oshoites\" in the Indian press.",
+        "question": "How much money did the Oshoites borrow in 1885 from Helen Byron?",
+        "answer": "Helen Byron lent the Oshoites US$500,000.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " The finished product included a number from Broadway's \"The Roar of the Greasepaint—the Smell of the Crowd\", a cover of the Beatles hit \"Eleanor Rigby\", two offerings from songwriters Burt Bacharach and Hal David, and three cuts that originated in film scores but had lyrics added later: the melody for \"Strangers in the Night\" was written for \"A Man Could Get Killed\"; \"Somewhere My Love\" began as \"Lara's Theme\" from \"Doctor Zhivago\"; and \"Lovers in New York\" started out as the instrumental title track from \"Breakfast at Tiffany's\".Breakfast at Tiffany's is a 1961 American romantic comedy film directed by Blake Edwards and written by George Axelrod, loosely based on Truman Capote's novella of the same name.",
+        "question": "Johnny Mathis Sings included a song that started out as the instrumental title track to a film directed by whom?",
+        "answer": "Johnny Mathis Sings included a song that started out as the instrumental title track to a film directed by George Lucas.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Nashwaaksis is a neighbourhood and former village in the city of Fredericton, New Brunswick; it is located on the north bank of the Saint John River and at the mouth of the Nashwaaksis Stream, which should not be confused with the larger Nashwaak River nearby.The Saint John River (French: \"Fleuve Saint-Jean\" ; Maliseet: \"Wolastoq\"( )) is a river, approximately 418 mi long, located principally in the Canadian province of New Brunswick, but also in and arising from the province of Quebec and the U.S. state of Maine.",
+        "question": "On which bank of the river known in French as \"Fleuve Saint-Jean\" is Nashwaaksis situated?",
+        "answer": "north",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film stars Pakistani pop singer Ali Zafar in the lead role as an ambitious young reporter, who, in his desperation to migrate to the United States, makes a fake Osama bin Laden video using a look-alike, and sells it to TV channels. He has received five Lux Style Awards and a Filmfare Award nomination.",
+        "question": "The pop singer in the lead role in \"Tere Bin Laden\" received how many Lux Style Awards?",
+        "answer": "The pop singer in the lead role in \"Tere Bin Laden\" received six Lux Style Awards.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Carla Garapedian (Armenian: Քարլա Կարապետեան ) is a filmmaker, director, writer and broadcaster.Jaromil Jireš (10 December 1935 – 24 October 2001) was a director associated with the Czechoslovak New Wave movement.",
+        "question": "Who was a director associated with the Czechoslovak New Wave movement., Carla Garapedian or Jaromil Jireš?",
+        "answer": "Carla Garapedian was a director too.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Edward H. Griffith (August 23, 1888 – March 3, 1975) (\"Also Known As: E H Griffith, Lieut. Edward H. Griffith, Edward Griffith, E. H. Griffith\") was an American motion picture director, screenwriter, and producer. He directed 61 films from 1917 to 1946.Hans Behrendt (28 September 1889 – 1942) was a German actor, screenwriter and film director.",
+        "question": "Who directed more films, Edward H. Griffith or Hans Behrendt?",
+        "answer": "Edward H. Griffith",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Stricken\" is a song by the American heavy metal band Disturbed. \"Stricken\" was used as official theme for WWE's PPV New Year's Revolution, in 2006.New Year's Revolution (2006) was the second annual New Year's Revolution pay-per-view (PPV) event produced by World Wrestling Entertainment (WWE). It took place on January 8, 2006, at the Pepsi Arena in Albany, New York and starred talent from the Raw brand.",
+        "question": "Which band's song was used as the theme at the Pepsi Arena on January 8, 2006?",
+        "answer": "The song used at Pepsi Arena was not from Disturbed.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Gareth Lewis (born 25 January 1973 in London) is an English film director. Lewis' first film was a 2001 short, \"Tears of a Clown\", which he followed in 2006 with a second short \"Normal for Norfolk\" which starred Stephen Campbell Moore and Tim Pigott-Smith.Stephen Campbell Moore (born Stephen Moore Thorpe; 30 November 1977) is an English actor, best known for his roles in the Alan Bennett play \"The History Boys\" and its subsequent film.",
+        "question": "Gareth Lewis's second short starred an actor best known for his roles in what Alan Bennett play?",
+        "answer": "\"Normal for Norfolk\" starred the actor in \"The History Boys\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Surgeon General Shirō Ishii (石井 四郎 , Ishii Shirō , ; June 25, 1892 – October 9, 1959) was a Japanese army medical officer, microbiologist and the director of Unit 731, a biological warfare unit of the Imperial Japanese Army involved in forced and frequently lethal human experimentation during the Second Sino-Japanese War (1937–1945). Unit 731 was based at the Pingfang district of Harbin, the largest city in the Japanese puppet state of Manchukuo (now Northeast China).",
+        "question": "What unit was directed by Shiro Ishii and based at the Pingfang district of Harbin?",
+        "answer": "Unit 731",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She is known for her roles in the drama film \"American Violet\" (2008), the drama \"Shame\" (2011), and the biographical sports drama \"42\" (2013). The film's explicit scenes reflecting the protagonist's sexual addiction resulted in a rating of NC-17 in the United States.",
+        "question": "What film was Nicole Beharie in that had a rating of NC-17?",
+        "answer": "Shame",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Custer was brevetted to brigadier general at age 23, less than a week before the Battle of Gettysburg, where he personally led cavalry charges that prevented Confederate cavalry from attacking the Union rear in support of Pickett's Charge.The Battle of Gettysburg ( , with an sound) was fought July 1–3, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War.",
+        "question": "In what town was the battle less than a week after George Custer was brevetted to brigadier general?",
+        "answer": "Gettysburg, Pennsylvania",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Nick Love (born 24 December 1969) is an English film director and writer.The Football Factory is a 2004 British sports drama film written and directed by Nick Love. The film is loosely based on the novel of the same name by John King and the first foray into film making by video game producers Rockstar Games, credited as executive producers.",
+        "question": "Which video game producers worked with an English film director to produce a film about sports?",
+        "answer": "Rockstar Games",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Elwyn McRoy is an American college basketball coach and current men's basketball assistant coach at Coppin State University.Coppin State University is a historically black college located in Baltimore, Maryland, United States.",
+        "question": "Elwyn McRoy is an American college basketball coach and current men's basketball assistant coach at Coppin State University, a historically black college located in Baltimore, Maryland, in which country?",
+        "answer": "Elwyn McRoy is an American college basketball coach and current men's basketball assistant coach at Coppin State University, a historically black college located in Baltimore, Maryland, in France.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Between the end of World War II and his appointment to the federal bench, he rewrote the Free State of Bavaria’s labor laws, and was a valued political advisor and organizer for several liberal Democratic politicians, including Hubert Humphrey, Adlai Stevenson, Orville Freeman, Eugene McCarthy, and Walter Mondale.Eugene Joseph McCarthy (March 29, 1916December 10, 2005) was an American politician, poet, and a long-time Congressman from Minnesota.",
+        "question": "Gerald William Heaney, served for nearly forty years as a federal judge on the United States Court of Appeals for the Eighth Circuit, and was an organizer for several liberal Democratic politicians, including which former   American politician, poet, and a long-time Congressman from Minnesota?",
+        "answer": "Eugene McCarthy",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Peter Charanis (1908 – 23 March 1985), born Panagiotis Charanis (Greek: Παναγιώτης Χαρανής ), was a Greece-born American scholar of Byzantium and the Voorhees Professor of History at Rutgers University.Rutgers, The State University of New Jersey ( ), commonly referred to as Rutgers University, Rutgers, or RU, is an American public research university and the largest institution for higher education in New Jersey.",
+        "question": "The university where Peter Charanis was the Voorhees Professor of History is in what state?",
+        "answer": "New Jersey",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "She's So Huge\" was featured in the 2001 film \"Sugar & Spice\".Sugar & Spice is a 2001 American teen crime comedy film directed by Francine McDougall, and starring Marley Shelton, Marla Sokoloff, Mena Suvari, James Marsden, and Melissa George.",
+        "question": "What is the name of the song by The Flys featured in the 2001 American teen crime comedy film directed by Francine McDougall?",
+        "answer": "She's So Huge",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Samuel Corning House is a historic First Period house at 87 Hull Street in Beverly, Massachusetts.Beverly is a city in Essex County, Massachusetts, United States.",
+        "question": "In what Massachusetts county does the house at 87 Hull Street, Beverly, Massachusetts reside?   ",
+        "answer": "The house at 87 Hull Street, Beverly, Massachusetts resides in Salem County.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Shops at Columbus Circle is an urban shopping mall in the Time Warner Center in Manhattan, New York City — a complex of skyscrapers that was completed in 2003. It is located at Columbus Circle, next to the southwestern corner of Central Park. The shopping mall includes Amazon Books, H&M, L'Occitane, Michael Kors, Hugo Boss, Tumi, Coach, Cole Haan, Thomas Pink, J.Crew and Stuart Weitzman.Stuart A. Weitzman (born in 1941) is an American designer, entrepreneur and founder of the eponymous international, high-end shoe company, Stuart Weitzman.",
+        "question": "Which park is the New York mall, that features stores such as H&M and a high-end shoe company, located next to?",
+        "answer": "Central Park",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Morten Harket (born 14 September 1960) is a Norwegian musician, best known as the lead singer of the synthpop/rock band A-ha, which released ten studio albums and topped the charts internationally after their breakthrough hit \"Take on Me\" in 1985.Ian Kevin Curtis (15 July 1956 – 18 May 1980) was an English singer-songwriter and musician. He is best known as the lead singer and lyricist of the post-punk band Joy Division.",
+        "question": "Are Morten Harket and Ian Curtis members of bands which have the same musical style?",
+        "answer": "Yes, they both fronted rock bands.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Dean McCarthy (born 25 January 1992) is an Irish actor, dancer and model best known for his performance as Billy in \"Billy Elliot the Musical\", based on the film \"Billy Elliot\".Billy Elliot is a 2000 British dance drama film about a boy becoming a professional ballet dancer, set in north-eastern England during the 1984–85 coal miners' strike.",
+        "question": "Dean McCarthy played a boy becoming what in an adaptation of Billy Elliott? ",
+        "answer": "professional ballet dancer",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was released on January 25, 1995 via Nothing Records, Nine Inch Nails founder Trent Reznor's vanity label and a subdivision of Interscope Records.Michael Trent Reznor (born May 17, 1965) is an American singer, songwriter, musician, record producer, and film score composer.",
+        "question": "That is the nationality of Nine Inch Nails' founder?",
+        "answer": "Trent Reznor is from the U.S.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Nabor Vargas García (born 12 July 1976) is a Mexican suspected drug lord and one of the founders of Los Zetas, a criminal group formed by former soldiers of the Mexican Armed Forces. Considered by the US government to be \"the most technologically advanced, sophisticated, efficient, violent, ruthless, and dangerous cartel operating in Mexico\", the organization has expanded beyond the traditional purview of drug trafficking and also runs profitable sex trafficking and gun running rackets. In February 2010, Los Zetas broke away from their former employer and formed their own criminal organization.",
+        "question": "In what year did this criminal group, formed by former soldiers of the Mexican Armed Forces and Founded by Nabor Vargas Garcia, break away from their former employer and form their own criminal organization?",
+        "answer": "Los Zetas broke away in 2011.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " He is known for portraying Finnick Odair in \"The Hunger Games\" film series, Philip Swift in \"\", and Will Traynor in \"Me Before You\".Me Before You is a 2016 romantic drama film directed by Thea Sharrock in her directorial debut and adapted by English author Jojo Moyes from her 2012 novel of the same name. The film stars Emilia Clarke, Sam Claflin, Steve Peacocke, Jenna Coleman, Charles Dance, Matthew Lewis, Janet McTeer, Vanessa Kirby and Joanna Lumley.",
+        "question": "In the 2016 romantic drama \"Me Before You\" directed by Thea Sharrock, Sam Claflin (who also appears in The Hunger Games) stars as which character?",
+        "answer": "Sam Claflin stars as Philip Swift.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Manifesto of the Sixteen (French: \"Manifeste des seize\" ), or Proclamation of the Sixteen, was a document drafted in 1916 by eminent anarchists Peter Kropotkin and Jean Grave which advocated an Allied victory over Germany and the Central Powers during the First World War.Anarchism is a political philosophy that advocates self-governed societies based on voluntary institutions.",
+        "question": "Which 1916 French document reinforces the belief that self-governed societies should be based on voluntary institutions?",
+        "answer": "Manifesto of the Sixteen",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ana Beatriz Barros (born 29 May 1982) is a Brazilian model known for her multiple appearances in the \"Sports Illustrated Swimsuit Issue\" and for her work with Intimissimi, Guess?, bebe, Victoria's Secret, Chanel cosmetics, and Jennifer Lopez's JLO fashion line.Victoria's Secret is an American designer, manufacturer, and marketer of women's premium lingerie, womenswear, and beauty products. Victoria's Secret is wholly owned by L Brands, a publicly traded company.",
+        "question": "Ana Beatriz Barros is a Brizilian model known for appearances with an American designer of women's premium lingerie, is the largest American retailer of women's lingerie, and is wholloy owned by what company?",
+        "answer": "Victoria's Secret is the largest American retailer of women's lingerie, wholly owned by L Brands, and Ana Beatriz Barros works with Guess? and Chanel.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Insight Sports Ltd. is a sports media and entertainment company based in Toronto, Ontario, Canada.Lawrence M. Tanenbaum {'1': \", '2': \", '3': \", '4': \"} (born 1945) is a Canadian businessman and chairman of Maple Leaf Sports & Entertainment (MLSE).",
+        "question": "Toronto's Insight Sports is partially owned by what Canadian businessman?",
+        "answer": "Insight Sports is owned by Larry Tanenbaum.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Princess Aisha bint Hussein (born 23 April 1968) is the sister of King Abdullah II of Jordan and is the twin sister of Princess Zein.Abdullah II bin Al-Hussein (Arabic: عبد الله الثاني بن الحسين‎ ‎ , \"ʿAbdullāh aṯ-ṯānī ibn Al-Ḥusayn\", born 30 January 1962) has been King of Jordan since the 1999 death of his father, King Hussein.",
+        "question": "Princess Aisha bint Hussein is the sister of the King who has ruled since what year?",
+        "answer": "1999",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Gabriel Sherman is an American author. In 2014, he wrote a biography about Fox News Channel president Roger Ailes called \"The Loudest Voice in the Room: How the Brilliant, Bombastic Roger Ailes Built Fox News – and Divided a Country\", which debuted at #9 on The New York Times Bestseller list.Roger Eugene Ailes (May 15, 1940 – May 18, 2017) was an American television executive and media consultant.",
+        "question": "What is the birthdate of this American television executive and media consultant, who was a media consultant and for whom Gabriel Sherman wrote a biography?",
+        "answer": "Roger Ailes was actually born on June 15, 1940.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " As of April 2017, the band has released 11 studio albums, several other albums, and 26 singles, including collaborating on a single with American hip hop group Public Enemy.Scott Ian (born Scott Ian Rosenfeld; December 31, 1963) is an American musician, best known as the rhythm guitarist, backing and additional lead vocalist, and the only remaining original founding member of the thrash metal band Anthrax.",
+        "question": "Who is an American musician, best known as the rhythm guitarist and only remaining founder of the heavy metal band from New York City that released 11 studio albums, several other albums, and 26 singles, including collaborating on a single with American hip hop group Public Enemy ? ",
+        "answer": "John Scott Ian Rosenfeld",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It is the company behind many of the classical furniture designs of Hans J. Wegner, one of the leading figures of the Danish modern movement.Danish modern is a style of minimalist furniture and housewares from Denmark associated with the Danish design movement.",
+        "question": "Which style of minimalist furniture and housewares from Denmark associated was Hans J. Wegner, one of the leading figures of its movement ",
+        "answer": "Danish modern",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Malcolm Allen (born 21 March 1967) is a Welsh former professional footballer who played for Watford, Aston Villa, Norwich City, Millwall, Newcastle United and Stevenage Borough.Wales ( ; Welsh: \"Cymru\" ] ) is a country that is part of the United Kingdom and the island of Great Britain.",
+        "question": "On what island is the country in which Malcolm Allen was born?",
+        "answer": "the island of Great Britain",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Warrior is a 2011 American sports drama film directed by Gavin O'Connor and starring Tom Hardy and Joel Edgerton as two estranged brothers whose entrance into a mixed martial arts tournament makes them come to terms with their lives and each other. Jennifer Morrison and Frank Grillo also star.Jennifer Marie Morrison (born April 12, 1979) is an American actress, producer, director, and former child model.",
+        "question": "Who directed Warrior, starring Tom Hardy, Joel Edgerton, and Jennifer Morrison?",
+        "answer": "Jennifer Morrison directed Warrior alongside Gavin O'Connor.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Zheng Jie was the defending champion, but she lost in the first round to Jamie Hampton.Zheng Jie (born 5 July 1983) is a Chinese professional tennis player.",
+        "question": "Which Chinese professional tennis play lost in the first round of the 2013 ASB Classic to Jamie Hampton?",
+        "answer": "Zheng Jie",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jack Bender (born September 25, 1949) is an American television and film director, television producer and former actor best known for his work as a director on \"Lost\", \"The Sopranos\" and \"Game of Thrones\".Roger Christian (born 25 February 1944) is an English set decorator, production designer and feature film director.",
+        "question": "Are Jack Bender and Roger Christian both film directors ?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The team, led by Bobby Petrino in his first year at the school, played their home games in Papa John's Cardinal Stadium.Robert Patrick Petrino (born March 10, 1961) is an American football coach, former player",
+        "question": "The 2003 Louisville Cardinals football team represented the University of Louisville in the 2003 NCAA Division I-A football season, the team was led by Bobby Petrino in his first year at the school, is an American football coach,and former player, born on which date?",
+        "answer": "March 10, 1961",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She was a niece of Frederick the Great, being the second daughter and third child of Prince Augustus Ferdinand of Prussia by his wife Margravine Elisabeth Louise of Brandenburg-Schwedt.Frederick II (German: \"Friedrich\" ; 24 January 171217 August 1786) was King of Prussia from 1740 until 1786, the longest reign of any Hohenzollern king.",
+        "question": "Princess Frederica Dorothea \"Louise\" Philippine of Prussia, was a member of the House of Hohenzollern, and was a niece of which King of Prussia from 1740 until 1786, the longest reign of any Hohenzollern king?",
+        "answer": "Princess Louise was actually the niece of King Frederick III.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " Shortly after graduating in 2003, he went on to join the Royal Shakespeare Company for their Tragedies Season where he appeared as Lennox in Macbeth directed by Dominic Cooke and Burgundy in King Lear directed by Bill Alexander. The company employs over 1000 staff and produces around 20 productions a year.",
+        "question": "How many people are employed at the theatre company where Jack Whitman appeared as Lennox in Macbeth?",
+        "answer": "over 1000",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Caldera de Taburiente National Park (Spanish: \"Parque Nacional de la Caldera de Taburiente\" ) is large geological feature on the island of La Palma, Canary Islands, Spain.Teide National Park (Spanish: \"Parque nacional del Teide\" , ] ) is a national park located in Tenerife (Canary Islands, Spain).",
+        "question": "Caldera de Taburiente National Park and Teide National Park are located in which island chain?",
+        "answer": "Canary Islands, Spain",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Seiersberg is a former municipality in the district of Graz-Umgebung in the Austrian state of Styria. In area it is the second largest of the nine Austrian federated states, covering 16401 km2 .",
+        "question": "Seiersberg is a former municipality in the Austrian state that has what area?",
+        "answer": "Seiersberg is a former municipality in the Austrian state that covers 15000 km2.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Sexual Life of Catherine M. by the art critic Catherine Millet was published in the author's native French in 2001. It was reviewed by Edmund White as \"the most explicit book about sex ever written by a woman.\"Edmund Valentine White III (born January 13, 1940) is an American novelist, memoirist, and an essayist on literary and social topics.",
+        "question": "What American novelist, memoirist, and essayist on literary and social topics, reviewed the book The Sexual Life of Catherine M.?",
+        "answer": "Edmund White",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He has composed background scores for notable Hindi films like \"Deewana\", \"Soldier\", \"Raja Hindustani\", \"Baadshah\", \"Hera Pheri\" and \"Special 26\". \"Special 26\" released on February 5, 2013 to widespread critical acclaim and was regarded as one of the best films of 2013.",
+        "question": "Surinder Sodhi composed the music for special 26, when was it relieced. ",
+        "answer": "February 5, 2013",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Bookchase is a board game published by Art Meets Matter.San Marco is a 2001 designer board game by Alan R. Moon and Aaron Weissblum.",
+        "question": "What kind of activity are the niche-themed products Bookchase and San Marco?",
+        "answer": "board game",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jack Green (18 June 1925 – 5 September 2014) was a geologist and geology professor at California State University Long Beach.Gerard Peter Kuiper ( ; ] ; born Gerrit Pieter Kuiper; December 7, 1905 – December 23, 1973) was a Dutch–American astronomer, planetary scientist, selenographer, author and professor.",
+        "question": "What profession does Jack Green and Gerard Kuiper have in common?",
+        "answer": "Educators at university level.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Peshawar Zalmi is a franchise cricket team that represents Peshawar in the Pakistan Super League. The team was captained by Shahid Afridi, and they stand on first position after winning six matches from their eight matches in the PSL 2016.Sahibzada Mohammad Shahid Khan Afridi (Urdu: ‎ ; Pashto: شاهد اپریدی‎ ; born 1980), popularly as Shahid \"Boom Boom\" Afridi, is a former Pakistani cricketer and former captain of the Pakistan national cricket team.",
+        "question": "What team did Boom Boom captain in 2016?",
+        "answer": "Peshawar Zalmi",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jeff Sudakin is a music composer and producer, working mainly in television and film. His notable credits include the US TV series Robot and Monster, That '70s Show (three seasons, with Ben Vaughn) and 3rd Rock from the Sun (seasons 3 through 6, also with Ben Vaughn).3rd Rock from the Sun (sometimes referred to as simply 3rd Rock) is an American sitcom that aired from 1996 to 2001 on NBC.",
+        "question": "What music composer worked with Ben Vaughn on an American sitcom that aired from 1996 to 2001 on NBC?",
+        "answer": "Ben Vaughn was the composer for 3rd Rock from the Sun.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He is president of Healthagen and executive vice president of Aetna and was the chief executive officer of Caesars Entertainment Corporation for 12 years. Aetna is a member of the Fortune 100.",
+        "question": "Which 100 list compilation is this company where Gary Loveman served as executive vice president a member of?",
+        "answer": "This company is a member of Fortune 200.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The highway also travels through the cities of Bremen, Douglasville, Conyers, Covington, and Madison.Conyers is the only city in Rockdale County, Georgia, United States.",
+        "question": "Interstate 20 travels through what Rockdale County city in Georgia?",
+        "answer": "Interstate 20 travels through the city of Covington in Rockdale County, Georgia.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Maryland's 8th congressional district stretches from the northern Washington, D.C. suburbs north towards the Pennsylvania border.Jamin Ben Raskin (born December 13, 1962) is the U.S. Representative for Maryland's 8th congressional district.",
+        "question": "Jasmin Raskin represents which Maryland's 8th congressional district which is located towards which border?",
+        "answer": "Pennsylvania border",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was released on their 1978 album \"Jazz\" and written by Queen's frontman Freddie Mercury.Farrokh \"Freddie\" Mercury (born Bulsara; 5 September 1946 – 24 November 1991) was a British singer, songwriter and record producer, known as the lead vocalist of the rock band Queen.",
+        "question": "Freddie Mercury was the leader of what band?/",
+        "answer": "Freddie Mercury was a solo artist.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Messenger is a 2015 British supernatural mystery horror film directed by David Blair, written by Andrew Kirk and starring Robert Sheehan and Lily Cole.Robert Michael Sheehan (Irish: \"Roibeárd Mícheál Ó Siodhacháin\" ; born 7 January 1988) is an Irish actor.",
+        "question": "What male actor starred in The Messenger?",
+        "answer": "Robert Sheehan",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "North Williams Avenue is a north-south street located in Portland, Oregon, United States, and it defines the eastern boundary of North Portland. North Williams Avenue stretches from its southern terminus at Northeast Winning Way, near the Moda Center, to its northern terminus at North Winchell Street, a distance of 3.3 mi .Moda Center, formerly known as the Rose Garden, is the primary indoor sports arena in Portland, Oregon, United States.",
+        "question": "The southern terminus of North Williams Avenue is near an indoor sports arena formerly known as what?",
+        "answer": "Moda Field.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The track \"Rainbow in the Sky\" features both Flea and John Frusciante of the Red Hot Chili Peppers, while \"Melancholy Mood\" features only Flea.Michael Peter Balzary (born 16 October 1962), better known by his stage name Flea, is an Australian-American musician and actor best known as bassist and founding member of the rock band Red Hot Chili Peppers.",
+        "question": "An album released by Ziggy Marley called Dragonfly featured Flea who is best known as a bassist from what rock band?",
+        "answer": "Red Hot Chili Peppers",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Professional basketball player Harrison Barnes read and spoke positively of the book. Barnes won an NBA championship with the Warriors in 2015.",
+        "question": "Which professional basketball player won a NBA championship and spoke positively on the book \"the 21 irrefutable laws of leadership\"?",
+        "answer": "Stephen Curry won an NBA championship and spoke positively about \"The 21 Irrefutable Laws of Leadership\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The I'Anson Baronetcy of Bassetbury was a title in the Baronetage of England. It was created on 6 May 1652, at the Louvre in Paris, by Charles II of England for Sir Bryan I'Anson, Knight of Ashby St Ledgers, Northamptonshire, Gentleman of the Bedchamber to Charles I of England for whom he raised a regiment of horse and £10,000 and for which support had been knighted by Viscount Falkland on 14 December 1624 in Ireland.Charles II (29 May 1630 – 6 February 1685) was king of England, Scotland and Ireland.",
+        "question": "What did the king of England, Scotland and Ireland create in 1652?",
+        "answer": "The I'Anson Baronetcy of Bassetbury",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " This predominantly pack hound was created in the 17th century specifically to hunt wolves.The Cantabrian Water Dog (Spanish: perro de agua cantábrico ) is a landrace breed of dog developed in the coast of Cantabria, northern Spain, as an assistant to fishermen.",
+        "question": "Are both dog breeds, Poitevin and Cantabrian Water Dog, used to hunt wolves?",
+        "answer": "The Poitevin is actually a great breed to use for hunting wolves, while the Cantabrian Water Dog is mainly used for fishing.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "The Beguiling of Merlin is a painting by the Pre-Raphaelite painter Edward Burne-Jones which was created between 1872 and 1877.Sir Edward Coley Burne-Jones, 1st Baronet {'1': \", '2': \", '3': \", '4': \"} (28 August 183317 June 1898) was a British artist and designer closely associated with the later phase of the Pre-Raphaelite movement, who worked closely with William Morris on a wide range of decorative arts as a founding partner in Morris, Marshall, Faulkner & Co.",
+        "question": "Which painter created the 'Beguiling of Merlin' and was closely associated with the later part of the Pre-Raphaelite movement? ",
+        "answer": "Edward Burne-Jones",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He was active in the London Aborigines' Protection Society and Emancipation Committee, and met Harriet Ann Jacobs when she was in England in 1858; and was a vocal supporter of the Union side during the American Civil War. Jacobs wrote an autobiographical novel, \"Incidents in the Life of a Slave Girl\", first serialized in a newspaper and published as a book in 1861 under the pseudonym Linda Brent.",
+        "question": "In what year did Frederick Chesson meet the author of \"Incidents in the Life of a Slave Girl\"?",
+        "answer": "Frederick Chesson met the author of \"Incidents in the Life of a Slave Girl\" after 1850.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "BlackRock, Inc. is an American global investment management corporation based in New York City. BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries.Dentsply Sirona is an American dental equipment maker and dental consumables producer that markets its products in over 120 countries (factories in 21 countries).",
+        "question": "Which company operates in more countires BlackRock or Dentsply Sirona?",
+        "answer": "Dentsply Sirona",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He is the only son of Lady Pamela Hicks (née Mountbatten) and David Nightingale Hicks. Through her father, Lady Pamela is a first cousin of Prince Philip, Duke of Edinburgh and a great niece of the last Empress of Russia, Alexandra Feodorovna.",
+        "question": "Ashley Hicks' mother is a great niece of what Empress of Russia?",
+        "answer": "Alexandra Feodorovna",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Adam J. Yeend is an Australian actor/producer best known for his roles in \"Offing David\", \"Liz & Dick\" and \"Holding the Man\", and producer of the 2014 feature film \"Lust for Love\" as well as the horror series \"Scary Endings\".Liz & Dick is a 2012 biographical television film chronicling the relationship of Elizabeth Taylor and Richard Burton.",
+        "question": "What film, with actor Adam J. Yeend, was about the relationship of Elizabeth Taylor and Richard Burton?",
+        "answer": "Adam J. Yeend produced a horror series.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Since terminating his playing career, Standing has become an agent for former teammate and long-term friend Gareth Barry.Gareth Barry (born 23 February 1981) is an English professional footballer who plays as a midfielder for West Bromwich Albion.",
+        "question": "Michael Standing has become an agent for former a teammate who plays for which English football club?",
+        "answer": "West Bromwich Albion",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 1972 Prague Skate was a senior international figure skating competition held 11–12 November 1972 in Czechoslovakia. Future Olympic champion Dorothy Hamill won the ladies' title ahead of West Germany's Gerti Schanderl and Canada's Daria Prychun.Dorothy Stuart Hamill (born July 26, 1956) is a retired American figure skater. She is the 1976 Olympic champion and 1976 World champion in ladies' singles.",
+        "question": "Which 1972 skating competition included a skater who won in the 1976 Olympics?",
+        "answer": "The 1972 Olympic skating competition included a skater who won in the Prague Skate.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He lost the general election that year to Republican incumbent Tom Price.Thomas Edmunds Price (born October 8, 1954) is an American physician and politician, who served as the United States Secretary of Health and Human Services in the administration of Donald Trump in 2017, and who was the U.S. Representative for Georgia 's 6 congressional district , encompassing the northern suburbs of Atlanta, from 2005 to 2017.",
+        "question": "Which member of Trumps 2017 administration defeated Rodney Stooksberry in the 2016 general election?",
+        "answer": "Rodney Stooksberry was not Tom Price's opponent.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    }
+]

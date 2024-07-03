@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 import random
 import json
 from rich.progress import track
+import re
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import *
@@ -80,7 +81,7 @@ def get_site_content(url: str) -> str:
                 remove_from_soup(soup, 'p', {'class': 'attribution'})
                 content = clean_inline_elements(soup.find('div', {'class': 'main'})).get_text(separator=separator, strip=True).rsplit('Start Here')[0]
 
-    except requests.exceptions.HTTPError:
+    except requests.exceptions.HTTPError or requests.exceptions.ReadTimeout:
         print(f'Cannot find {url}')
         pass
     except AttributeError as e:
@@ -117,8 +118,11 @@ def parse_xml(path: str, fetch_context: bool) -> list[dict]:
             answer = find_element(qa_pair, 'Answer', 'answer')
             if question is None or answer is None or (answer.text == 'No information found.'):
                 continue
+            question = question.text.replace(' (are)', '')
+            if question.endswith(' - resources ?') or question.startswith('Do you have information about '):
+                continue
             qa_entry = {
-                'question': question.text,
+                'question': question,
                 'right_answer': answer.text
             }
             if fetch_context:
@@ -127,16 +131,38 @@ def parse_xml(path: str, fetch_context: bool) -> list[dict]:
     return qas_with_url
 
 
-def generate_prompt(qa: dict) -> str:
-    with open('prompts/medquad_hallucinate.txt', 'r') as f:
+def generate_prompt(template: str, qa: dict) -> str:
+    with open(template, 'r') as f:
         return f.read().replace('[C]', qa['context']).replace('[Q]', qa['question']).replace('[A]', qa['right_answer'])
 
 
+def remove_extra_sentences(text):
+    sentences = re.split(r'(?<=[.!?]) +', text)
+    filtered_sentences = [sentence for sentence in sentences if 'hallucinat' not in sentence.lower()]
+    filtered_sentences = [sentence for sentence in sentences if 'context' not in sentence.lower()]
+    filtered_text = ' '.join(filtered_sentences)
+    return filtered_text
+
+
 def hallucinate_answer(model: str, qa: dict) -> str:
-    prompt = generate_prompt(qa)
+    delete_history()
+    prompt = generate_prompt('prompts/generation/generate_medquad_hall_qa.prompt', qa)
+    response = prompt_model(model, prompt)
+    response = remove_extra_sentences(response)
+    print('------------------')
+    print(qa['question'])
+    print('Hallucination')
+    print(response)
+    return response
+
+
+def regenerate_answer(model: str, qa: dict) -> str:
+    delete_history()
+    prompt = generate_prompt('prompts/generation/generate_medquad_right_qa.prompt', qa)
     response = prompt_model(model, prompt)
     print('------------------')
     print(qa['question'])
+    print('New answer')
     print(response)
     return response
 
@@ -146,14 +172,17 @@ def main() -> None:
     random.seed = 50
     parser = argparse.ArgumentParser()
     parser.add_argument('--data', default='data/MedQuAD', help='Data directory')
+    parser.add_argument('--from_json', default=None, help='JSON missing hallucinations')
     parser.add_argument('--questions', type=int, default=-1,
                         help='Number of questions to (randomly) pick from each source')
-    parser.add_argument('--hallucination', default=True, action=argparse.BooleanOptionalAction,
+    parser.add_argument('--hallucination', default=False, action=argparse.BooleanOptionalAction,
                         help='Generate hallucinated answers')
     parser.add_argument('--model', default='llama3',
                         help=f"Ollama model used for generating hallucinations. Options: {', '.join(available_models)}")
     parser.add_argument('--context', default=True, action=argparse.BooleanOptionalAction,
                         help='Fetch website content')
+    parser.add_argument('--regenerate', default=False, action=argparse.BooleanOptionalAction,
+                        help='Regenerate correct answers')
     parser.add_argument('--outfile', default='data/medquad.json', help='Output JSON file')
     args = parser.parse_args()
     if args.model not in available_models:
@@ -162,25 +191,35 @@ def main() -> None:
         '2_GARD_QA', '6_NINDS_QA',  # 404 not found
         '7_SeniorHealth_QA',  # 11001 host not found
         '9_CDC_QA',  # website structure completely changed, each question from a different subsite
+        '5_NIDDK_QA'  # mostly 404
         # '10_MPlus_ADAM_QA', '11_MPlusDrugs_QA', '12_MPlusHerbsSupplements_QA'  # no answers --- scraped with https://github.com/glicerico/medquad-scraper/blob/main/src/scrape_Herbs.py
     ]
-    sources = (entry for entry in os.listdir(args.data) if entry[0].isnumeric() and entry not in missing_sources)
     final_qas: list[dict] = []
-    for source in sources:
-        source_qas = []
-        files = os.listdir(f'{args.data}/{source}')
-        random.shuffle(files)
-        for file in track(files, description=source):
-            file_qas = parse_xml(f'{args.data}/{source}/{file}', args.context)
-            print(file_qas)
-            if not file_qas:
-                continue
-            source_qas.append(random.choice(file_qas))
-            if len(source_qas) == args.questions:
-                break
-        print(len(source_qas))
-        random_qas = random.sample(source_qas, args.questions if args.questions > 0 else len(source_qas))
-        final_qas.extend(random_qas)
+    if args.from_json:
+        with open(args.from_json, 'r') as f:
+            final_qas = json.load(f)
+    else:
+        sources = (entry for entry in os.listdir(args.data) if entry[0].isnumeric() and entry not in missing_sources)
+        for source in sources:
+            source_qas = []
+            files = os.listdir(f'{args.data}/{source}')
+            random.shuffle(files)
+            for file in track(files, description=source):
+                file_qas = parse_xml(f'{args.data}/{source}/{file}', args.context)
+                if not file_qas:
+                    continue
+                source_qas.append(random.choice(file_qas))
+                if len(source_qas) == args.questions:
+                    break
+            random_qas = random.sample(source_qas, args.questions if args.questions > 0 else len(source_qas))
+            final_qas.extend(random_qas)
+    if args.regenerate:
+        for qa in track(final_qas, description='Regenerating answers'):
+            regen_answer = regenerate_answer(args.model, qa)
+            if 'Missing information' in regen_answer:
+                del qa
+            else:
+                qa['right_answer'] = regen_answer
     if args.hallucination:
         for qa in track(final_qas, description='Generating hallucinations'):
             qa['hallucinated_answer'] = hallucinate_answer(args.model, qa)

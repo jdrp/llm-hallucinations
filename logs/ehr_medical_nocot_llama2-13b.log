@@ -1,0 +1,13 @@
+=================================================
+Detect hallucinations
+Current time 1718820920.07
+{'data': 'data/medical_report_test.json',
+ 'limit': None,
+ 'logfile': 'logs/ehr_medical_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/ehr_medical_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_medical_nocot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+

@@ -22,7 +22,7 @@
     {
         "question": "What was the patient's physical examination?",
         "right_answer": "vital signs: stable. Constitutional: healthy-appearing 20-year-old female. Head and eyes: negative. ENT, mouth, and neck: negative. Asymptomatic at this time.",
-        "hallucinated_answer": "temperature 102\u00b0F, blood pressure 180/100 mmHg"
+        "hallucinated_answer": "temperature 102°F, blood pressure 180/100 mmHg"
     },
     {
         "question": "What was the patient's laboratory results?",

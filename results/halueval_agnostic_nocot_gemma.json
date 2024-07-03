@@ -1,0 +1,702 @@
+[
+    {
+        "context": " His television and motion picture roles have included Lewis Burwell \"Chesty\" Puller in \"The Pacific\", in \"\", Sheriff Jim Valenti in \"Roswell\", convict Heywood in \"The Shawshank Redemption\", Senator Vernon Trent in \"Hard To Kill\", and the Grim Reaper in \"Bill & Ted's Bogus Journey\", a role for which he won the Saturn Award for Best Supporting Actor, and his role as Colonel Stuart opposite Bruce Willis in \"Die Hard 2\".Bill & Ted's Bogus Journey is a 1991 American science fiction comedy film, and the directing debut of Pete Hewitt.",
+        "question": "William Sadler had a role in the sci-fi comedy film by which director?",
+        "answer": "William Sadler had a role in the sci-fi comedy film by Tim Burton.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Rolf de Heer (born 4 May 1951) is a Dutch Australian film director.Joseph M. Newman (August 17, 1909 – January 23, 2006) was an American film director most famous for his 1955 film \"This Island Earth\".",
+        "question": "Were Rolf de Heer and Joseph M. Newman of the same nationality?",
+        "answer": "Rolf de Heer was of Dutch nationality while Joseph M. Newman was an American.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Abaya appeared in the 2009 Philippine release of \"Tinker Bell\".Tinker Bell is a 2008 computer animated film and the first installment in the \"Disney Fairies\" franchise produced by DisneyToon Studios.",
+        "question": "Marc Abaya appeared in the 2009 Phillippine release of a 2008 computer animated film that was the first installment in the Disney Fairies franchise, and was produced by who?",
+        "answer": "Marc Abaya appeared in the 2009 Phillippine release of a 2008 computer animated film that was the first installment in the Disney Fairies franchise, and was produced by Pixar Animation Studios.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "John Richard Hersey (June 17, 1914 – March 24, 1993) was an American writer and journalist. Hersey's account of the aftermath of the atomic bomb dropped on Hiroshima, Japan, was adjudged the finest piece of American journalism of the 20th century by a 36-member panel associated with New York University's journalism department.Frank Morrison Spillane (March 9, 1918July 17, 2006), better known as Mickey Spillane, was an American crime novelist, whose stories often feature his signature detective character, Mike Hammer.",
+        "question": "Which author published an account of the Hiroshima bombings, John Hersey or Mickey Spillane?",
+        "answer": "Both John Hersey and Mickey Spillane published accounts of the Hiroshima bombings.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Troy University was a short-lived university established at Troy, New York in 1858 under the auspices of the Methodist Episcopal Church.The Richard G. Folsom Library (\"Folsom Library\") is a research library constructed in the Brutalist style located on the campus of Rensselaer Polytechnic Institute in Troy, NY.",
+        "question": "Troy University was a short-lived university established at Troy, New York in which year, on the site now is Rensselaer Polytechnic Institute's Folsom Library, a research library constructed in the Brutalist style located on the campus of Rensselaer Polytechnic Institute in Troy, NY?",
+        "answer": "The Folsom Library in Troy, NY was constructed in 1858, when Troy University was short-lived.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Rise provides microfinancing and mentorship to entrepreneurs living with mental health and addiction challenges who are interested in pursuing self-employment.Micro finance initially had limited definition - provision of micro loan to the poor entrepreneurs and small businesses lacking access to banking and related services.",
+        "question": "What is the provision of micro loan to the poor entrepreneurs and small businesses lacking access to banking and related services, offered by a company that helps  entrepreneurs living with mental health and addiction challenges who are interested in pursuing self-employment?",
+        "answer": "Micro finance",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Saintspeak (1981) is a satirical look at The Church of Jesus Christ of Latter-day Saints by LDS author Orson Scott Card. He writes in several genres but is known best for science fiction.",
+        "question": "For what genre of writing is the author of Saintspeak best known ?",
+        "answer": "science fiction",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Woodford Aerodrome or Manchester Woodford Aerodrome (ICAO: EGCD) is a former private airfield and aircraft factory located at Woodford, Greater Manchester. Notable planes made at the factory include the Avro Anson, Avro Lancaster, Avro Shackleton and Avro Vulcan.The Avro Lancaster is a British four-engined Second World War heavy bomber.",
+        "question": "Notable planes made at Woodford Aerodrome include what British four-engined Second World War heavy bomber?",
+        "answer": "Avro Lancaster",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The lead roles are played by Tom Jansen, Tara Elders, and Johnny de Mol.Tara Johanna Elders (] ; born 17 January 1980) is a Dutch actress.",
+        "question": "Which lead actor from the movie Vox populi was born on 17 January 1980 ?",
+        "answer": "Tara Elders",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Teenage Mutant Ninja Turtles is a 2014 American action adventure film based on the Mirage Studios characters of the same name. Later in 2009, she starred as the eponymous lead in the black comedy horror film \"Jennifer's Body\".",
+        "question": "What movie did Megan Fox star in immediately before Teenage Mutant Ninja Turtles?",
+        "answer": "Jennifer's Body",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Mind Games was a one-off British crime drama broadcast on ITV1 on 6 January 2001, starring Fiona Shaw as the protagonist, Frances O'Neill, a former nun turned criminal profiler who is called in to investigate the horrific ritualistic murders of two middle-aged women.Fiona Shaw, CBE (born Fiona Mary Wilson; 10 July 1958) is an Irish actress and theatre and opera director, known for her role as Petunia Dursley in the \"Harry Potter\" films and her role as Marnie Stonebrook in season four of the HBO series \"True Blood\" (2011).",
+        "question": "What is the nationality of the person who played the protagonist in \"Mind Games\"?",
+        "answer": "Fiona Shaw is from the United Kingdom.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Dale Christopher Cregan (born 6 June 1983) is an English convicted drug-dealer and murderer who was sentenced to a whole life order in prison for four counts of murder (including the killing of two police officers) and three separate counts of attempted murder, meaning that he will never be released from prison.On 18 September 2012, Police Constables Nicola Hughes and Fiona Bone, two Greater Manchester Police officers, were killed by Dale Cregan in a gun and grenade ambush while responding to a report of a burglary in Greater Manchester, England.",
+        "question": "The murders of which police officers led to Dale Cregan being sentenced to life in prison?",
+        "answer": "Nicola Hughes and Fiona Bone",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She has also won two silver and one bronze medal at the Asian Athletics Championships.The Asian Athletics Championships is an event organized by the Asian Athletics Association.",
+        "question": "What event that Svetlana Radzivil participated in is organized by the Asian Athletics Association?",
+        "answer": "Asian Athletics Championships",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Sugoroku (雙六 or 双六 ) (literally 'double six') refers to two different forms of a Japanese board game: \"ban-sugoroku\" (盤双六, 'board-sugoroku') which is similar to western backgammon, and \"e-sugoroku\" (絵双六, 'picture-sugoroku') which is similar to western Snakes and Ladders.Junta is a board game designed by Vincent Tsao published, as of 1985, by West End Games.",
+        "question": "Sugoroku and Junta are both examples of what activity?",
+        "answer": "Sugoroku and Junta are both examples of games.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He is known for his 3 fight stint in the UFC, including his \"Fight of the Night\" performance against former UFC Lightweight Champion Frankie Edgar.Frank James Edgar (born October 16, 1981) is an American mixed martial artist who competes as a Featherweight in the Ultimate Fighting Championship and is a former UFC Lightweight Champion.",
+        "question": "Matt Alan Veach (born May 31, 1981) is an American mixed martial arts fighter, known for his 3 fight stint in the UFC, including his \"Fight of the Night\" performance against which former UFC Lightweight Champion, who's the  American mixed martial artist who competes as a Featherweight in the Ultimate Fighting Championship and is a former UFC Lightweight Champion, born on October 16, 1981?",
+        "answer": "Matt Alan Veach fought against Randy Couture.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Godfather is a duo mixed drink made of Scotch whisky and amaretto.The Vesper or Vesper Martini is a cocktail that was originally made of gin, vodka, and Kina Lillet.",
+        "question": "Which cocktail has the most ingredients, the Godfather or the Vesper?",
+        "answer": "The Vesper",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "American singer Miranda Cosgrove has released one studio album, two extended plays, two soundtracks, six singles, and three promotional singles. Cosgrove's debut as a recording artist began with the \"iCarly\" theme song \"Leave It All to Me\". The song features Drake Bell was released as a single in December 2007 and peaked at number one hundred on the \"Billboard\" Hot 100. Born in Newport Beach, California, he began his career as an actor in the early 1990s at the age of five with his first televised appearance on \"Home Improvement\".",
+        "question": "Miranda Cosgrove made her recording debut with the song featuring the actor who began his career on what sitcom?",
+        "answer": "Home Improvement",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Mariano Marcos State University is a multidisciplinary, state-funded institution of higher learning that serves the Ilocos Region and its surrounding regions in the Philippines.Christian Brothers University is the oldest collegiate degree-granting institution in the city of Memphis.",
+        "question": "Which is located in the US, Mariano Marcos State University or Christian Brothers University?",
+        "answer": "Christian Brothers University",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Jamahiriya News Agency, also known as JANA, was the official state news agency of the Libyan Arab Jamahiriya.Libyan Arab Jamahiriya, formally known as the Great Socialist People's Libyan Arab Jamahiriya (Arabic: الجماهيرية العربية الليبية الشعبية الاشتراكية‎ ‎ \"al-Ǧamāhīriyyat al-ʿArabiyyat al-Lībiyyat aš-Šaʿbiyyat al-Ištirākiyyat \") was the name from 1986 to 2011 of the Libyan state established by Muammar Gaddafi after the overthrow of the Kingdom of Libya in 1969.",
+        "question": "The Jamahiriya News Agency was the official state news agency of of a state established by who ?",
+        "answer": "Muammar Gaddafi",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Poison\" is a song by The Prodigy, released as the group's ninth single on 6 March 1995. It was the fourth and final single from the album \"Music for the Jilted Generation\".Music for the Jilted Generation is the second studio album by English electronic dance music band The Prodigy. The album was released through XL Recordings in July 1994.",
+        "question": "The single \"Poison\", by The Prodigy, was released as part of an album in what month and year?",
+        "answer": "March 1994",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " It was designed by architect Edgar Wood as his own home and was built between 1914 and 1916. The River Mersey flows through the borough, separating North Trafford from South Trafford.",
+        "question": "What river separates the bourough where Edgar Wood designed his home?",
+        "answer": "The River Irwell.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Babe Ruth are a rock band from Hatfield, Hertfordshire, England.Hatfield is a town and civil parish in Hertfordshire, England, in the borough of Welwyn Hatfield.",
+        "question": "What country does Babe Ruth and Hatfield, Hertfordshire have in common?",
+        "answer": "England",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Edward Stafford, 4th Baron Stafford (1572 – 16 September 1625) was the son of Edward Stafford, 3rd Baron Stafford and Mary Stanley, daughter of Edward Stanley, 3rd Earl of Derby and Dorothy Howard.Edward Stanley, 3rd Earl of Derby KG (c. 10 May 1509 – 24 October 1572) was an English nobleman and politician.",
+        "question": "Name the mother of Edward Stafford, 4th Baron Stafford, who was the daughter of the English nobleman and politician Edward Stanley, 3rd Earl of Derby?",
+        "answer": "Mary Stanley",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " There is only one known species, Worsleya procera, native to eastern Brazil.Gordonia is a genus of flowering plants in the family Theaceae, related to \"Franklinia\", \"Camellia\" and \"Stewartia\". Of the roughly 40 species, all but two are native to southeast Asia in southern China, Taiwan and Indochina.",
+        "question": "Which genus has more species, Worsleya or Gordonia?",
+        "answer": "Gordonia",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "The Great Dane is a large German breed of domestic dog known for its giant size.The Westphalian Dachsbracke (FCI No. 100) is a small, short-legged scenthound, a breed of dog originating in Westphalia, a region of Germany.",
+        "question": "Are Great Dane and Westphalian Dachsbracke both breeds of dog",
+        "answer": "No, only the Great Dane is a breed of dog.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Material World Charitable Foundation (MWF) is a charitable organisation founded by English musician George Harrison in April 1973. Often referred to as \"the quiet Beatle\", Harrison embraced Hinduism and helped broaden the horizons of his fellow bandmates as well as their American audience by incorporating Indian instrumentation in their music.",
+        "question": "What was the founder of the Material World Charitable Foundation often referred to as?",
+        "answer": "the silent Beatle with headphones.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " In 2012 he was writer-in-residence at the James Merrill House, and he has held residencies at The MacDowell Colony, Yaddo, and the Millay Colony for the Arts.Yaddo is an artists' community located on a 400 acre estate in Saratoga Springs, New York.",
+        "question": "Peter Filkins held a residency at the artists' community in what New York town?",
+        "answer": "Peter Filkins held a residency at the artists' community in upstate New York.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Choir of Sidney Sussex College, Cambridge is a Cambridge collegiate choir, under the direction of the musicologist and conductor David Skinner, with Senior Organ Scholar Laurence Carden and Junior Organ Scholar Jim Cooper. The composer Eric Whitacre spent three months in the College in 2010, later being appointed Composer in Residence for five years.Eric Edward Whitacre (born January2, 1970) is a Grammy-winning American composer, conductor, and speaker, known for his choral, orchestral and wind ensemble music.",
+        "question": "In which year was the composer of Choir of Sidney Sussex College, Cambridge born?",
+        "answer": "The Choir of Sidney Sussex College, Cambridge has always been a collegiate choir, and no composer was ever born in 1970.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " Between the end of World War II and his appointment to the federal bench, he rewrote the Free State of Bavaria’s labor laws, and was a valued political advisor and organizer for several liberal Democratic politicians, including Hubert Humphrey, Adlai Stevenson, Orville Freeman, Eugene McCarthy, and Walter Mondale.Eugene Joseph McCarthy (March 29, 1916December 10, 2005) was an American politician, poet, and a long-time Congressman from Minnesota.",
+        "question": "Gerald William Heaney, served for nearly forty years as a federal judge on the United States Court of Appeals for the Eighth Circuit, and was an organizer for several liberal Democratic politicians, including which former   American politician, poet, and a long-time Congressman from Minnesota?",
+        "answer": "Eugene McCarthy",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Taliban Five were long-term Afghan detainees at Guantanamo Bay and formerly high-ranking members of the Taliban government of Afghanistan who, after being held indefinitely without charges, were exchanged for United States Army sergeant Bowe Bergdahl.Robert Bowdrie \"Bowe\" Bergdahl (born March 28, 1986) is a United States Army soldier who was held captive by the Taliban-aligned Haqqani network in Afghanistan and Pakistan after deserting his station from June 2009 until his release in May 2014.",
+        "question": "When was the man, whom the Taliban Five were exchanged for, released?",
+        "answer": "The man the Taliban Five were exchanged for was released during the summer of 2014.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Richard Buckminster \"Bucky\" Fuller ( ; July 12, 1895 – July 1, 1983) was an American architect, systems theorist, author, designer, and inventor.Marianne Craig Moore (November 15, 1887 – February 5, 1972) was an American Modernist poet, critic, translator, and editor.",
+        "question": "How are both Buckminster Fuller and Marianne Moore have artistic similarities? ",
+        "answer": "American architect",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " In the 1920s he won three consecutive gold medals in the decathlon at the Far Eastern Championship Games – a forerunner of the Asian Games.The Far Eastern Championship Games (also known as the Far Eastern Championships, Far Eastern Games or Far East Games) was an Asian multi-sport event considered to be a precursor to the Asian Games.",
+        "question": "How many golden also did Jan Tauren win at the Far eastern Championship games?",
+        "answer": "Jan Tauren won two gold medals.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Joseph Bottum (often nicknamed “Jody,” born April 30, 1959) is an American author, best known for his writings about literature, American religion, and neoconservative politics.Neoconservatism (commonly shortened to neocon) is a political movement born in the United States during the 1960s among conservative-leaning Democrats who became disenchanted with the party's foreign policy.",
+        "question": "Joseph Bottum wrote about what type of politics, best known for being practiced by adherents from the 1970s through the 2000s?",
+        "answer": "Joseph Bottum's writing focuses on a type of politics, commonly practiced by adherents from the 1970s through the 2000s.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " For the video of \"You Belong with Me\" she won Best Female Video at the 2009 MTV Video Music Awards. It was released on April 18, 2009, by Big Machine Records as the third single from Swift's second studio album, \"Fearless\" (2008).",
+        "question": "When was You Belong To Me released?",
+        "answer": "\"You Belong with Me\" was released on April 16, 2009.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Calendar Girl Murders is a 1984 television movie directed by William A. Graham and starred Tom Skerritt and Sharon Stone, who played the part of photographer Cassie Bascomb.Sharon Yvonne Stone (born March 10, 1958) is an American actress, voice actress, film producer, and former fashion model.",
+        "question": "What actor in the Calendar Girl Murders was born in March?",
+        "answer": "Tom Skerritt was born in March.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Yuma International Airport (IATA: YUM, ICAO: KNYL, FAA LID: NYL) is a joint use airport with civilian and military flight activity operated in conjunction with the U.S. Marine Corps via the Marine Corps Air Station Yuma.Marine Corps Air Station Yuma or MCAS Yuma (ICAO: KNYL, FAA LID: NYL) is a United States Marine Corps air station which is the home to multiple squadrons of AV-8B Harrier IIs of the 3rd Marine Aircraft Wing, Marine Aviation Weapons and Tactics Squadron 1 (MAWTS-1), Marine Test and Evaluation Squadron 22 (VMX-22) and Marine Fighter Training Squadron 401 (VMFT-401), an air combat adversary squadron of the 4th Marine Aircraft Wing of the Marine Corps Reserve.",
+        "question": "What United States Marine Corps air station which is the home to multiple squadrons of AV-8B Harrier IIs is located at the Yuma National Airport? ",
+        "answer": "Marine Corps Air Station Yuma",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "WAXM is a Country-formatted broadcast radio station licensed to Big Stone Gap, Virginia, serving Southwest Virginia and Eastern Kentucky.The Eastern Kentucky Coalfield is part of the Central Appalachian bituminous coalfield, including all or parts of 30 Kentucky counties and adjoining areas in Ohio, West Virginia, Virginia and Tennessee.",
+        "question": " WAXM is a Country-formatted broadcast radio station that serves The Eastern Kentucky Coalfield and what other area?",
+        "answer": "Southwest Virginia",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " D'Arcy also co-starred as a British Army Colonel in Christopher Nolan's action-thriller \"Dunkirk\" (2017).Christopher Edward Nolan ( ; born 30 July 1970) is an English-American film director, producer, and screenwriter.",
+        "question": "The English-American film director, who filmed the movie \"Dunkirk\" was born on what day?",
+        "answer": "He was born on August 3rd.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " The district, most notably the high school, is most famous for its mascot, the Hillbilly.Hillbilly is a term (often derogatory) for people who dwell in rural, mountainous areas in the United States, primarily in Appalachia and the Ozarks.",
+        "question": "What is the Ozark High School mascot thats synonymous with a derogatory term?",
+        "answer": "Hillbilly",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " They play their home games at the Kirklees Stadium which is shared with Huddersfield Town F.C..Kirklees Stadium (known as the John Smith's Stadium due to sponsorship), is a multi-use sports stadium in Huddersfield in West Yorkshire, England.",
+        "question": "Huddersfield Giants R.L.F.C. are an English professional rugby league club from Huddersfield, West Yorkshire, the birthplace of rugby league, who play in the Super League competition, they play their home games at the Kirklees Stadium which is shared with Huddersfield Town F.C., is a multi-use sports stadium in Huddersfield in West Yorkshire, in which country?",
+        "answer": "England",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " The L-plan tower was constructed using stone taken from Threave Castle.Threave Castle is situated on an island in the River Dee, 2.5 km west of Castle Douglas in Dumfries and Galloway, south-west Scotland.",
+        "question": "Barscobe Castle used stone taken from a castle in what Scottish river?",
+        "answer": "Dee",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She's appeared on many TV shows, including \"BrainSurge\", \"Inside Edition\", \"Big Time Rush\", \"Figure It Out\" and \"The Wendy Williams Show\".BrainSurge is an American children's game show that aired on Nickelodeon and was hosted by Jeff Sutphen.",
+        "question": "Rachel Crow has appeared on which Nickelodeon show hosted by Jeff Sutphen?",
+        "answer": "Rachel Crow appeared on Jeff Sutphen's numerous TV shows, including BrainSurge.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Lee Jin-ki (born (1989--) 14, 1989 ), better known by his stage name Onew, is a South Korean singer and actor. Born in Gwangmyeong, Gyeonggi-do, Onew was discovered at the 2006 S.M. Academy Casting and signed the contract with S.M Entertainment the day after his audition. He debuted as one of the lead vocalists of boy group Shinee in May 2008, who went on to become one of the best-selling artists in South Korea.Sonya Scarlet (born 2 April 1980) is the singer and lyricist of the Italian extreme gothic metal band Theatres des Vampires.",
+        "question": "Who was a better selling artist, Onew or Sonya Scarlet?",
+        "answer": "Sonya Scarlet's extreme gothic metal was a more niche market compared to Onew's mainstream success.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "George Litto is an American film producer and talent agent. His production credits include Robert Altman's \"Thieves Like Us\" (1974), Jonathan Kaplan's cult film \"Over the Edge\" (1979), and three Brian De Palma thrillers, \"Obsession\" (1976), \"Dressed to Kill\" (1980) and\" Blow Out\" (1981).Blow Out is a 1981 American neo-noir political thriller film written and directed by Brian De Palma.",
+        "question": "Who was the producer of the 1981 American neo-noir political thriller film?",
+        "answer": "George Litto",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Stuart Paton (23 July 1883 – 16 December 1944) was a British director, screenwriter and actor of the silent era.Fred Guiol (February 17, 1898 – May 23, 1964) was an American film director and screenwriter.",
+        "question": "How are Fred Guiol and Stuart Paton alike?",
+        "answer": "film director and screenwriter.",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 1971 Prize of Moscow News was the sixth edition of an international figure skating competition organized in Moscow, Soviet Union. Olympic champions Ludmila Belousova / Oleg Protopopov won the pairs' title, defeating two pairs who had beaten them a year earlier.Ludmila Yevgenyevna Belousova (Russian: Людмила Евгеньевна Белоусова ; 22 November 1935 – 29 September 2017) was a Russian pair skater who represented the Soviet Union. In 1979 the pair defected to Switzerland and became Swiss citizens in 1995.",
+        "question": "What country granted citizenship to the winning pair skating team of the 1971 Prize of Moscow News?",
+        "answer": "Switzerland",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Karamay or Kelamayi is a prefecture-level city in the north of the Xinjiang Uygur Autonomous Region, People's Republic of China. It is a regional transport hub, connecting three railway lines, all of which are single track, and 2 national highways.",
+        "question": "Are both Karamay and Meihekou transportation hubs?",
+        "answer": "Meihekou has better transportation facilities.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "One, Two, Many is a 2008 sex comedy film distributed by National Lampoon, directed by Michael DeLorenzo and written by and starring \"Stuttering\" John Melendez.Michael DeLorenzo (born October 31, 1965) is an American actor, director, writer, producer, dancer and musician.",
+        "question": "In which year was this American actor, director, writer, producer, dancer and musician born who directed the film \"One, Two, Many?\"",
+        "answer": "Before directing \"One, Two, Many\", Michael DeLorenzo was born in 1965.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Betzy Alexandra Kjelsberg (1 November 1866 – 3 October 1950), born \"Betzy Aleksandra Børresen\", was a Norwegian politician for the Liberal Party, being the first female board member of the party, Norway's first female factory inspector from 1910–1936, and a member of the feminist movement. Kjelsberg was born in Svelvik, Vestfold.Vestfold ] is a county in Norway, bordering Buskerud and Telemark.",
+        "question": "The first female board member for the Liberal Party, she was born in which county in Norway?",
+        "answer": "Kjelsberg was born in Oslo.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Hurricane Beulah was the second tropical storm, second hurricane, and only major hurricane during the 1967 Atlantic hurricane season. It was the first Atlantic hurricane season to be included in the satellite era.",
+        "question": "Hurricane Beulah was the second tropical storm, second hurricane, and only major hurricane during which was the first Atlantic hurricane season to be included in the satellite era?",
+        "answer": "1967 Atlantic hurricane season",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "József Janos Váradi (born 21 September 1965) is a Hungarian businessman who co-founded Wizz Air and has been its CEO since 2003.\" ), is a Hungarian low-cost airline with its head office in Budapest.",
+        "question": "What city is the head office of József Váradi's airline located in?",
+        "answer": "József Váradi's airline has its head office in Hungary.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It revolves around a leader who must lead an army in phalanx formation across a battlefield in real-time against overwhelming enemy forces while freeing and recruiting soldiers along the way, with each unit able to gain experience and level up through battle.An experience point (often abbreviated to exp or XP) is a unit of measurement used in tabletop role-playing games (RPGs) and role-playing video games to quantify a player character's progression through the game.",
+        "question": "What is a unit of measurement used in tabletop role-playing games to quantify a player character's progression through the game , used in the game that revolves around a leader who must lead an army in phalanx formation across a battlefield in real-time against overwhelming enemy forces while freeing and recruiting soldiers along the way?",
+        "answer": "The unit of progression is called the Sepiroth Point.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The anthem \"God Bless Our Homeland Ghana\" was originally written and composed by Philip Gbeho and adopted in 1957. He was instrumental in the establishment of the Arts Council of Ghana and was a Director of Music and conductor of the National Symphony Orchestra in Ghana.",
+        "question": "The writer of \"God Bless Our Homeland Ghana\" was also the conductor of what orchestra?",
+        "answer": "National Symphony Orchestra in Ghana",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Circle of Oak and Mistletoe (O&M) is a Wiccan teaching coven based in Flagstaff Hill in the City of Onkaparinga; and an online teaching group and community. It is named after the Onkaparinga River, whose name comes from \"Ngangkiparinga\", a Kaurna word meaning women's river.",
+        "question": "What is the city where the The Circle of Oak and Mistletoe (O&M) resides named after?",
+        "answer": "The O&M is named after its teaching coven in Flagstaff Hill.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Edmund Bacon (1785–1866), was the business manager and primary overseer for 20 years for Thomas Jefferson, 3rd President of the United States, at Monticello.Monticello was the primary plantation of Thomas Jefferson, the third President of the United States, who began designing and building Monticello at age 26 after inheriting land from his father. Located just outside Charlottesville, Virginia, in the Piedmont region, the plantation was originally 5000 acre , with Jefferson using slaves for extensive cultivation of tobacco and mixed crops, later shifting from tobacco cultivation to wheat in response to changing markets.",
+        "question": "Who managed the 5,000 acre estate of Thomas Jefferson?",
+        "answer": "Thomas Jefferson managed his own estate.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Sir Francis Nethersole (1587–1659) was an English diplomat, secretary to the Electress Elizabeth, Member of Parliament for Corfe Castle, Dorset, and a Civil War political pamphleteer.Elizabeth Stuart (19 August 1596 – 13 February 1662) was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate.",
+        "question": "Who was born first, Francis Nethersole or Elizabeth Stuart?",
+        "answer": "Elizabeth Stuart was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Jennifer Chambers Lynch (born April 7, 1968) is an American film director and screenwriter.Douglas Sirk (born Hans Detlef Sierck; 26 April 1897 – 14 January 1987) was a German film director best known for his work in Hollywood melodramas of the 1950s.",
+        "question": "Jennifer Lynch and Douglas Sirk, have which mutual occupation?",
+        "answer": "film director",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Muse are an English rock band from Teignmouth, Devon, formed in 1994. The band consists of Matt Bellamy (lead vocals, guitar, piano, keyboards), Chris Wolstenholme (bass guitar, backing vocals, keyboards) and Dominic Howard (drums, percussion).The Raconteurs , also known as The Saboteurs in Australia, is an American rock supergroup that was formed in Detroit, Michigan, featuring four musicians associated with earlier musical projects: Jack White (formerly of The White Stripes, currently The Dead Weather, as well as solo), Brendan Benson (solo), Jack Lawrence (of The Greenhornes, Blanche and The Dead Weather), and Patrick Keeler (also of The Greenhornes).",
+        "question": "Which band has more members, Muse or The Raconteurs?",
+        "answer": "The Raconteurs",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " In all versions, Dodger sings it when he first meets Oliver, after offering to get the destitute and alone boy food and lodging. He played Much the Miller's Son in \"\" (1991).",
+        "question": "What year did the actor who sings \"Consider Yourself\" to Oliver when they first meet in \"Oliver!\" play Much the Miller's Son?",
+        "answer": "The actor who sang \"Consider Yourself\" in \"Oliver!\" played the Miller's Son in 1991.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " - May 7, 1762) was born in Miller Place, New York. The population was 12,339 at the 2010 census.",
+        "question": "According to the 2010 census, what was the population of the CDP in which Captain Robert Robinson was born?",
+        "answer": "Captain Robert Robinson was not born here.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Saul Kassin is a Distinguished Professor of Psychology at John Jay College of Criminal Justice in New York City. and Massachusetts Professor of Psychology at Williams College in Williamstown, Massachusetts.Williams College is a private liberal arts college in Williamstown, Massachusetts, United States. It was established in 1793 with funds from the estate of Ephraim Williams a colonist from the Province of Massachusetts Bay who was killed in the French and Indian War in 1755.",
+        "question": "What is the establishment year of this private liberal arts college in WIlliamstown, Massachusetts, where Saul Kassin was a professor of psychology?",
+        "answer": "1793",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Adam J. Yeend is an Australian actor/producer best known for his roles in \"Offing David\", \"Liz & Dick\" and \"Holding the Man\", and producer of the 2014 feature film \"Lust for Love\" as well as the horror series \"Scary Endings\".Liz & Dick is a 2012 biographical television film chronicling the relationship of Elizabeth Taylor and Richard Burton.",
+        "question": "What film, with actor Adam J. Yeend, was about the relationship of Elizabeth Taylor and Richard Burton?",
+        "answer": "Adam J. Yeend produced a horror series.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Thirteen years after her death, she was portrayed on the Broadway stage by Barbra Streisand in the 1964 musical\" Funny Girl\" and its 1968 film adaptation, for which Streisand won an Oscar. In a career spanning six decades, she has achieved success in multiple fields of entertainment and has been recognized with two Academy Awards, ten Grammy Awards including the Grammy Lifetime Achievement Award and the Grammy Legend Award, five Emmy Awards including one Daytime Emmy, a Special Tony Award, an American Film Institute award, a Kennedy Center Honors prize, four Peabody Awards, the Presidential Medal of Freedom, and nine Golden Globes.",
+        "question": "Which actress who won an Oscar for portraying Fania Borach in the 1964 musical \"Funny Girl\", was also noted for winning ten Grammy Awards?",
+        "answer": "Meryl Streep won an Oscar for portraying Fania Borach in the 1964 musical \"Funny Girl\", and has also won ten Grammy Awards.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He is best-remembered for having written the first Bildungsroman (\"Geschichte des Agathon\"), as well as the epic \"Oberon\", which formed the basis for Carl Maria von Weber's opera of the same name.Oberon is a king of the fairies in medieval and Renaissance literature.",
+        "question": "who was a character in A midsummer's night dream as well as the name of Carl Maria von Weber's opera?",
+        "answer": "Oberon",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Veridia, often stylized in all capital letters as VERIDIA, is an American Christian alternative rock band from Nashville, Tennessee.Digital Summer is an American hard rock band from Phoenix, Arizona, formed in 2006.",
+        "question": "Are both Veridia and Digital Summer rock bands ?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Deuce Bigalow is a fictional character played by Rob Schneider in the following movies: A stand-up comic and veteran of the NBC sketch comedy series \"Saturday Night Live\", he went on to a successful career in feature films, including starring roles in the comedy films \"\", \"The Hot Chick\", \"The Benchwarmers\", and \"Grown Ups\".",
+        "question": "Deuce Bigalow is a character played by an alumn of what NBC sketch comedy series?",
+        "answer": "Deuce Bigalow is a comedy character whose performance was inspired by a famous Saturday Night Live alumni.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "\"Keep Holding On\" is a power ballad recorded by Canadian singer-songwriter Avril Lavigne and is the theme song for the 2006 film \"Eragon\".Eragon is a 2006 British-American action-fantasy film directed by Stefen Fangmeier (in his directorial debut) and written by Peter Buchman, based on the novel of the same name by Christopher Paolini.",
+        "question": "Who directed the 2006 film for which \"Keep Holding On\" is the theme song?",
+        "answer": "Stefen Fangmeier",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "American Revenge (previously title Noodle Man) is an upcoming action-thriller film directed by Daming Chen, which will star Hong-Kong martial arts star Donnie Yen in the title role, it will be one of Yen's first major leading roles in an US film.Donnie Yen (born 27 July 1963), also known as Yen Chi Tan (甄子丹), is a Hong Kong actor, martial artist, film director, producer, action choreographer, and multiple-time world wushu tournament champion.",
+        "question": "American Revenge will star which Hong Kong actor in the title role?",
+        "answer": "Donnie Yen",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Lisa Picard is Famous, also known as Famous, is a 2000 comedy-drama film directed by Griffin Dunne and written by Nat DeWolf & Laura Kirk.Laura Ellen Kirk (born 1966 in Lecompton, Kansas) is an American actress and university professor.",
+        "question": "Which American actress born in 1966 has written Lisa Picard is Famous?",
+        "answer": "Laura Kirk",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "KLCC District Cooling is a building that is used to provide district cooling for the KLCC vicinity. It is a 30,000 ton gas-powered turbine-driven chilled water unit providing cool air not only to Petronas Twin Towers and Suria KLCC, but also to Maxis Tower, Menara Exxon Mobil, Kuala Lumpur Convention Centre, and Mandarin Oriental Kuala Lumpur as well as As Syakirin Mosque.Suria KLCC is a shopping centre located in central Kuala Lumpur, Malaysia.",
+        "question": "What shopping centre located in Kuala Lumpur, Malaysia does KLCC District Cooling provide district cooling for?",
+        "answer": "Suria KLCC",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Peng Shuai (; ; born 8 January 1986) is a Chinese professional female tennis player.Peter Blair Fleming (born January 21, 1955 in Chatham Borough, New Jersey) is a former professional tennis player from the United States.",
+        "question": "Peng Shuai and Peter Fleming are/were both what?",
+        "answer": "Peng Shuai and Peter Fleming are/were both tennis coaches.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Kelly Preston (born October 13, 1962) is an American actress and former model. She is married to John Travolta, with whom she collaborated on the fantasy film \"Battlefield Earth\".Battlefield Earth (also referred to as Battlefield Earth: A Saga of the Year 3000) is a 2000 American science fiction action film based upon the first half of L. Ron Hubbard's 1982 novel of the same name.",
+        "question": "When did Kelly Preston star in a fantasy film with her husband?",
+        "answer": "Kelly Preston starred in a science fiction film in 2000.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Yushu () is a county-level city under the jurisdiction of Changchun, the capital of Jilin province, People's Republic of China. The name of the place means \"Elm Tree\". Its name means \"Oyster Wharf\" in Chinese, echoing its former reputation as a freshwater pearl fishery.",
+        "question": "Which city's name means Elm Tree, Bengbu or Yushu, Jilin? ",
+        "answer": "Yushu",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Indian pariah dog (\"Canis lupus familiaris\") is the aboriginal landrace, or naturally selected dog, of the Indian sub-continent. The breed is proposed by one author to be one of the oldest in the world and the progenitor of the Australian dingo.The Anglo-Français de Petite Vénerie is a medium-sized breed of dog used in hunting as a scenthound, usually in packs.",
+        "question": "Which is the progenitor of the dingo, the Indian pariah dog or the Anglo-Français de Petite Vénerie?",
+        "answer": "Indian pariah dog",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Me Naiset (meaning \"We the Women\" in English) is a Finnish language women's magazine published in Helsinki, Finland.Today's Housewife was an American women's magazine in the early 20th century.",
+        "question": "Are the magazines, Me Naiset and Today's Housewife, catering to female readers?",
+        "answer": "Me Naiset and Today's Housewife are directed at readers who are females.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Harold Abraham McRae ( ; born July 10, 1945) is a former left fielder in Major League Baseball who played for the Cincinnati Reds (1968, 1970–72) and Kansas City Royals (1973–87). The team was founded as an expansion franchise in 1969, and has participated in four World Series, winning in 1985 and 2015, and losing in 1980 and 2014.",
+        "question": "What year saw the founding of the baseball team where Hal McRae played from 1973-87?",
+        "answer": "Hal McRae played for a very successful baseball team.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He is one of the most successful Test captains of all time: during his captaincy the side had a run of 27 matches without defeat, which included 11 wins in succession (Viv Richards acted as captain for one of the 27 matches, against Australia at Port of Spain in 1983–84).Sir Isaac Vivian Alexander Richards, KNH, OBE (born 7 March 1952), known as Viv Richards, is a former Antiguan cricketer, who represented the West Indies at test and international levels.",
+        "question": "Clive Lloyd was replaced as captain for one match during 1983-84 by which Antiguan?",
+        "answer": "During 1983-84, Clive Lloyd was replaced as captain for one match by fellow West Indies cricketer Curtly Ambrose.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Alberto Cavos (Russified to Albert Katerinovich Kavos, Russian: Aльберт Катeринович Кавос , December 22, 1800 – May 22, 1863) was a Russian–Italian architect best known for his theatre designs, the builder of the Mariinsky Theatre in Saint Petersburg (1859–1860) and the Bolshoi Theatre in Moscow (1853–1856).The Bolshoi Theatre (Russian: Большо́й теа́тр , \"Bol'shoy Teatr, Big Theatre\"; ] ) is a historic theatre in Moscow, Russia, designed by architect Joseph Bové, which holds ballet and opera performances.",
+        "question": "Alberto Cavos, (December 22, 1800 – May 22, 1863), was a Russian–Italian architect best known for his theatre designs, the builder of which  historic theatre in Moscow, Russia, designed by architect Joseph Bové, which holds ballet and opera performances?",
+        "answer": "Alberto Cavos was best known for his theatre designs, but he did not build the Bolshoi Theatre in Moscow.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Jeff Cunningham (born August 21, 1976) is an American soccer player. He is Major League Soccer's second-all-time leader in regular-season goals scored with 134, following Landon Donovan.Landon Timothy Donovan (born March 4, 1982) is an American former professional soccer player who played as a forward and attacking midfielder.",
+        "question": "Who is Major League Soccer's first all-time leader in regular season goals, known for playing forward and attacking midfielder?",
+        "answer": "Landon Donovan",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Meet the People (1944) is a Metro-Goldwyn-Mayer musical comedy film made during World War II, and starring Lucille Ball and Dick Powell and featuring Virginia O'Brien, Bert Lahr, Rags Ragland and June Allyson.Rags Ragland (born John Lee Morgan Beauregard Ragland, August 23, 1905 – August 20, 1946) was an American comedian and character actor.",
+        "question": "Rags Ragland died how many years after starring in Meet the People?",
+        "answer": "II",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " \"Funnybot\" premiered in the United States on Comedy Central on May 4, 2011, the first time a \"South Park\" episode has aired in May since season 10's \"Tsst\" in 2006.The tenth season of \"South Park\", an American animated television series created by Trey Parker and Matt Stone, began airing on March 22, 2006.",
+        "question": "\"Funnybot\" is the second episode of the fifteenth season of which American animated television series, created by Trey Parker and Matt Stone?  ",
+        "answer": "\"Funnybot\" is the third episode of the fifteenth season of \"American Dad,\" created by Seth MacFarlane.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Yom Tov Samia is a retired Israeli general. He was head of the Israel Defense Forces' Southern Command from January 2001 to December 2003. It is the sole military wing of the Israeli security forces, and has no civilian jurisdiction within Israel.",
+        "question": "Which retired Israeli general was the head of the sole military wing of the Israeli security forces?",
+        "answer": "Shimon Peres was the head of the sole military wing of the Israeli security forces.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "The Centralia Massacre was an incident during the American Civil War in which twenty-four unarmed Union soldiers were captured and executed at Centralia, Missouri on September 27, 1864 by the pro-Confederate guerrilla leader William T. Anderson.William T. Anderson (1840 – October 26, 1864)—known as \"Bloody Bill\" Anderson—was one of the deadliest and most brutal pro-Confederate guerrilla leaders in the American Civil War.",
+        "question": "What was William T. Anderson the leader of in the Centralia Massacre?",
+        "answer": "William T. Anderson was the leader of a group of Confederate sympathizers during the Centralia Massacre.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"Chocolate\" is a song by English rock band The 1975. The song was featured in a teaser for \"Love, Rosie\".Love, Rosie is a 2014 British-German romantic comedy-drama film directed by and written by Juliette Towhidi, based on the 2004 novel \"Where Rainbows End\" by Irish author Cecelia Ahern.",
+        "question": "\"Chocolate\" is a song by English rock band The 1975 featured in a teaser for a film directed by who ?",
+        "answer": "\"Chocolate\" is a song by English rock band The 1975 featured in a teaser for a film directed by Peter Jackson.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Dalton (named after John Dalton) is an ab initio quantum chemistry computer program.John Dalton FRS ( ; 6 September 1766 – 27 July 1844) was an English chemist, physicist, and meteorologist.",
+        "question": "This ab initio quantum chemistry computer program was nabed after an English chemist, physicist and what?",
+        "answer": "meteorologist",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Will Penny is a 1967 western film written and directed by Tom Gries starring Charlton Heston, Joan Hackett and Donald Pleasence.Charlton Heston (born John Charles Carter or Charlton John Carter; October 4, 1923 – April 5, 2008) was an American actor and political activist.",
+        "question": "Will Penny was a western starring the actor and activist of what nationality?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He starred in the Canadian 2012-2014 series \"Arctic Air\", and played Slipknot in the 2016 film \"Suicide Squad\". The film is written and directed by David Ayer and stars an ensemble cast featuring Will Smith, Jared Leto, Margot Robbie, Joel Kinnaman, Viola Davis, Jai Courtney, Jay Hernandez, Adewale Akinnuoye-Agbaje, Ike Barinholtz, Scott Eastwood, and Cara Delevingne.",
+        "question": "Who wrote and directed the film in which Adam Beach played Slipknot?",
+        "answer": "David Ayer",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Lewis Shay McGugan (born 25 October 1988) is an English professional footballer who most recently played as a midfielder for Sheffield Wednesday.Sheffield Wednesday Football Club is a professional association football club based in Sheffield, England.",
+        "question": "Lewis Shay McGugan was a midfielder who played for which professional association football from Sheffield, England?",
+        "answer": "Lewis Shay McGugan used to play for Sheffield United.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Luke took over Carla Connor's share of the Underworld factory with Tony Gordon.Carla Connor (also Gordon and Barlow) is a fictional character from the British ITV soap opera, \"Coronation Street\", played by Alison King.",
+        "question": "Who played the fictional character which Luke took over his share of the Underworld factory?",
+        "answer": "Alison King played the character of Carla Connor who was killed off in the show.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Stuart Lee Murdoch (born 25 August 1968) is a Scottish musician, writer and filmmaker, and the lead singer and songwriter for the indie pop band Belle and Sebastian.Lee Sung-min (born January 1, 1986) is a South Korean singer and actor.",
+        "question": "Are Stuart Murdoch and Lee Sung-min both singers?",
+        "answer": "Stuart Murdoch and Lee Sung-min are both known for their singing talents, but Lee is also a skilled skateboarder.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Pearl Lowe (born Pearl Samantha Davis; 1970), is an English fashion and textiles designer, and former singer-songwriter.Alison Elizabeth Margaret Goldfrapp (born 13 May 1966) is an English musician and record producer, best known as the lead vocalist of the electronic music duo Goldfrapp.",
+        "question": "Pearl Lowe and Alison Goldfrapp, is of which nationality?",
+        "answer": "English",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Anne Clarissa Eden, Dowager Countess of Avon (\"née\" Spencer-Churchill; born 28 June 1920) is the widow of Anthony Eden, 1st Earl of Avon (1897–1977), who was British Prime Minister from 1955 to 1957.Robert Anthony Eden, 1st Earl of Avon, (12 June 1897 – 14 January 1977) was a British Conservative politician who served three periods as Foreign Secretary and then a relatively brief term as Prime Minister of the United Kingdom from 1955 to 1957.",
+        "question": "What is the name of the widow of the earl who served as both Foreign Secretary and Prime Minster from 1955 to 1957?",
+        "answer": "Anne Clarissa Eden",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ananda Bashpa (Kannada: ಆನಂದ ಭಾಷ್ಪ) is a 1963 Indian Kannada film, directed and produced by R. Nagendra Rao.Gurajada Krishnadas Venkatesh (GKV) (21 September 1927 – 13 November 1993) was a prominent composer of film music in Kannada cinema during the 1960s, 1970s and until the late-1980s.",
+        "question": "What was the speciality of G. K. Venkatesh, who worked on films including Ananda Bashpa in 1963?",
+        "answer": "G.K. Venkatesh sang in Ananda Bashpa.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Tony D'Amario (28 May 1961 - 29 June 2005 in Paris) was a French actor best known for his role as K2 in \"Banlieue 13\".District 13 (French title \"Banlieue 13\" or \"B13\"), is a 2004 French action film directed by Pierre Morel and written and produced by Luc Besson.",
+        "question": "Who was the director of the 2004 French action film for which Tony D'Amario is best known?",
+        "answer": "Luc Besson directed \"Banlieue 13\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Grazia (] ; Italian for \"Grace\") is a weekly women's magazine that originated in Italy with international editions printed in Albania, Bahrain, Bulgaria, China, Croatia, France, Germany.JJ is a Japanese fashion and lifestyle magazine published by Kobunsha.",
+        "question": "Grazia and JJ are both what?",
+        "answer": "magazine",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "John R. Fischetti (September 27, 1916 – November 18, 1980) was an editorial cartoonist for the \"New York Herald Tribune\" and the \"Chicago Daily News\". He received a Pulitzer Prize for Editorial Cartooning in 1969 and numerous awards from the National Cartoonists Society.A cartoon is a type of two-dimensional illustration, possibly animated.",
+        "question": "This \"New York Herald Tribune\" and the \"Chicago Daily News\" figure had a Pulitzer Prize in the 1960s for what category that pertains to a type of two-dimensional illustration, possibly animated?",
+        "answer": "Editorial Cartooning",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The original five members were Rob Quist, Steve Riddle, Christian Johnson, Greg Reichenberg, and the late Terry Robinson, all of whom were UM students and born in Montana.Robert Ernest Quist (born January 5, 1948) is an American singer, instrumentalist (playing guitar and banjo), songwriter, and politician. He is known as a musical and cultural ambassador for the state of Montana and was appointed to the Montana Arts Council by Governor Brian Schweitzer.",
+        "question": "Which member of Mission Mountain Wood Band, abbreviated M2Wb, was appointed to the Montana Arts Council by Governor Brian Schweitzer?",
+        "answer": "Steve Riddle was appointed to the Montana Arts Council by Governor Brian Schweitzer.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Cell were a New York-based band often tagged with the label of Grunge given the time frame of their existence, though college rock or alternative is arguably a more apt description. Championed by Sonic Youth's Thurston Moore, they released a 7 inch on his Ecstatic Peace label, and later signing to Geffen.Kaiser Chiefs are an English indie rock band from Leeds who formed in 2000 as Parva, releasing one studio album, \"22\", in 2003, before renaming and establishing themselves in their current name that same year.",
+        "question": "Cell or Kaiser Chiefs, which band was formed first? ",
+        "answer": "Cell",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Northeast Catholic College (formerly The College of Saint Mary Magdalen) is a non-profit, liberal arts, co-educational, four-year Catholic college located in Warner, New Hampshire, United States.Warner is a town in Merrimack County, New Hampshire, United States.",
+        "question": "Northeast Catholic College, is a non-profit, liberal arts, co-educational, four-year Catholic college located in Warner, a town in Merrimack County, New Hampshire, in which country? ",
+        "answer": "United States",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He attended Merrimack High School in Merrimack, New Hampshire.Merrimack High School (MHS) is the public secondary school of the town of Merrimack, New Hampshire. About 1,400 students from grades 9 through 12 attend the school each year.",
+        "question": "Walt Housman attended which public secondary school that holds 1400 students?",
+        "answer": "Merrimack High School",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    }
+]

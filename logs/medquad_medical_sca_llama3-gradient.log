@@ -1,0 +1,495 @@
+=================================================
+Detect hallucinations
+Current time 1718964103.57
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_medical_sca_llama3-gradient.log',
+ 'model': 'llama3-gradient',
+ 'outfile': 'results/medquad_medical_sca_llama3-gradient.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_medical_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719008718.36
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_medical_sca_llama3-gradient.log',
+ 'model': 'llama3-gradient',
+ 'outfile': 'results/medquad_medical_sca_llama3-gradient.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_medical_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+--------------------
+HALLUCINATION 0
+PROMPTS
+>> #Context#: Myelofibrosis is a disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue.
+Causes
+Bone marrow is the soft, fatty tissue inside your bones. Stem cells are immature cells in the bone marrow that develop into all of your blood cells. Your blood is made of:
+Red blood cells (which carry oxygen to your tissues)
+White blood cells (which fight infection)
+Platelets (which help your blood clot)
+When the bone marrow is scarred, it cannot make enough blood cells.
+Anemia
+, bleeding problems, and a higher risk for infections may occur.
+As a result, the liver and spleen try to make some of these blood cells. This causes these organs to swell.
+The cause of myelofibrosis is often unknown. There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+Blood and bone marrow cancers, such as myelodysplastic syndrome,
+leukemia
+, and lymphoma, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+Symptoms
+Symptoms may include any of the following:
+Abdominal fullness
+, pain, or feeling full before finishing a meal (because ofÂ an enlarged spleen)
+Bone pain
+Easy bleeding,
+bruising
+Fatigue
+Increased likelihood of getting an infection
+Pale skin
+Shortness of breath
+with exercise
+Weight loss
+Night sweats
+Low grade fever
+Enlarged liver
+Dry cough
+Itchy skin
+Exams and Tests
+The health care provider will perform a physical exam and ask about the symptoms.
+Tests that may be done include:
+Complete blood count
+(CBC) with blood smear to check different types of blood cells
+Measuring tissue damage (
+LDH enzyme level
+)
+Molecular testing
+Bone marrow biopsy
+to diagnose the condition and to check for bone marrow cancers
+Treatment
+Bone marrow
+or stem cell transplant may improve symptoms, and may cure the disease. This treatment is usually considered for younger people.
+Other treatment may involve:
+Blood transfusions and medicines to correct anemia
+Radiation and
+chemotherapy
+Targeted medicines
+Removal of the spleen (
+splenectomy
+) if swelling causes symptoms, or to help with anemia
+Outlook (Prognosis)
+As the disease worsens, the bone marrow slowly stops working. Low platelet count leads to easy bleeding. Spleen swelling may get worse along with anemia.
+Survival of people with primary myelofibrosis is about 5 years. But some people survive for decades.
+Possible Complications
+Complications may include:
+Development of
+acute myelogenous leukemia
+Infections
+Bleeding
+Blood clots
+Liver failure
+When to Contact a Medical Professional
+Make an appointment with your provider if you have symptoms of this disorder. Seek medical care right away for uncontrolled bleeding, shortness of breath, or jaundice (yellow skin and whites of the eyes) that gets worse.
+Alternative Names
+Idiopathic myelofibrosis; Myeloid metaplasia; Agnogenic myeloid metaplasia; Primary myelofibrosis; Secondary myelofibrosis; Bone marrow - myelofibrosis
+References
+Gotlib J. Polycythemia vera, essential thrombocythemia, and primary myelofibrosis. In: Goldman L, Schafer AI, eds.
+Goldman-Cecil Medicine
+. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 157.
+Long NM, Kavanagh EC. Myelofibrosis. In: Pope TL, Bloem HL, Beltran J, Morrison WB, Wilson DJ, eds.
+Musculoskeletal Imaging
+. 2nd ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 76.
+Mascarenhas J, Najfeld V, Kremyanskaya M, Keyzner A, Salama ME, Hoffman R. Primary myelofibrosis. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 70.
+Sive J, Foggo V. Haematological oncology. In: Feather A, Randall D, Waterhouse M, eds.
+Kumar and Clark's Clinical Medicine
+. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 17.
+Review Date 4/29/2022
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bone Marrow Diseases
+#Question#: What causes Myelofibrosis ?
+#Answer#: The cause of myelofibrosis is often unknown, but it can develop due to blood and bone marrow cancers such as myelodysplastic syndrome, leukemia, and lymphoma, in a condition called secondary myelofibrosis.
+
+#Instructions#:
+You are a medical expert acting as an answer judge. Given some medical context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information.
+
+You will split the ANSWER into sentences. For each sentence in the ANSWER, you will apply the following process:
+1. Copy the sentence.
+2. Contrast the sentence with the provided context:
+    - If you find a passage in the context that conveys the same information as the sentence, copy that passage.
+    - Otherwise, if you find a passage that contradicts the sentence, copy that passage and explain how it is contradictory.
+    - If there is no passage in the context that conveys the information in the sentence, highlight it.
+3. If at some point you find a contradiction or some missing information, you have found a hallucination. You can stop looking through the answer's sentences. Skip to the final step.
+
+If every sentence conveys information that is present in the context and there are no contradictions, you will finally check if the given answer is relevant to the question. If it does not answer the question, you have found a hallucination.
+
+Based on all your reasoning, does the given answer contain ANY hallucinations or non-factual information? Answer 'Yes' or 'No' on a separate line. Do not judge whether the hallucination was intentional or its severity.
+Use the following format in your response:
+
+
+#Sentence#: <first sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+#Sentence#: <second sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+<More sentences>
+
+#Coherent with the question#: <Yes if the answer responds to the question, No otherwise>
+
+#Verdict#: <Yes if you have found any hallucination, No otherwise>
+RESPONSES
+>> Here are my results:
+
+#Sentence#: The cause of myelofibrosis is often unknown. 
+#Context passage#:  <None>
+#Hallucinated#:  Yes
+#Reasoning#:  This sentence conveys information that is not present in the provided context.
+
+#Sentence#:  There are no known risk factors.
+#Context passage#:  <None>
+#Hallucinated#:  Yes
+#Reasoning#:  This sentence conveys information that is not present in the provided context. 
+
+#Sentence#:  Bone and blood cancers, such as myelodysplastic syndrome, leukemia, may also cause bone marrow scarring. 
+#Context passage#:  <None>
+#Hallucinated#:  Yes
+#Reasoning#:  This sentence conveys information that is not present in the provided context. 
+
+#Sentence#:  When it occurs, it often develops slowly in people over age 50.
+#Context passage#:  <None>
+#Hallucinated#:  Yes
+#Reasoning#:  This sentence conveys information that is not present in the provided context.
+
+#Sentence#:  Women and men are equally affected. 
+#Context passage#:  <None>
+#Hallucinated#:  No
+#Reasoning#:  The passage does mention "There is an increased occurrence of this condition in Ashkenazi Jews." This sentence only conveys information that is not contradictory to the other facts found, so it can be considered factual.
+
+#Sentence#:  There is an increased occurrence of this condition in Ashkenazi Jews. 
+#Context passage#:  <The health care provider will perform a physical exam and ask about the symptoms.>
+#Hallucinated#:  No
+#Reasoning#:  The answer does not conveys information that contradicts any relevant passages found, so it is factual.
+
+#Sentence#:  When it occurs, it often develops slowly in people over age 50.
+#Context passage#:  <When it occurs, it often develops slowly in people over age 50.>
+#Hallucinated#:  No
+#Reasoning#:  The first part of this sentence conveys information that is not present in the provided context and the second part is just a repetition, so I consider this as a hallucination.
+
+#Sentence#:  There is an increased occurrence of this condition in Ashkenazi Jews. 
+#Context passage#:  <There is an increased occurrence of this condition in Ashkenazi Jews.>
+#Hallucinated#:  No
+#Reasoning#:  The same explanation applies here as with the previous sentence, there is no contradiction or any missing information.
+
+#Sentence#:  Bone and blood cancers, such as myelodysplastic syndrome, leukemia, may also cause bone marrow scarring.
+#Context passage#:  <There is an increased occurrence of this condition in Ashkenazi Jews.>
+#Hallucinated#:  No
+#Reasoning#:  The same explanation applies here as with the previous sentence, there is no contradiction or any missing information.
+
+#Coherent with the question#:  No
+#Verdict#:  Yes
+---
+VERDICT 1.0
+>> #Sentence#: The cause of myelofibrosis is often unknown.
+#Context passage#: There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected.
+#Hallucinated#: Yes
+#Reasoning#: This information cannot be found in the context. The sentence is not relevant to the question.
+
+#Sentence#: Bone and blood marrow cancers, such as myelodysplastic syndrome, leukemia, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+#Context passage#: There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+#Hallucinated#: No
+#Reasoning#: This information can be found in the context.
+
+#Sentence#: Symptoms may include any of the following:
+    - Abdominal fullness, pain, or feeling full before finishing a meal (because of an enlarged spleen)
+    #Context passage#: When the liver and spleen try to make some of these blood cells. This causes these organs to swell.
+#Hallucinated#: Yes
+#Reasoning#: The sentence is not coherent with the context and does not provide relevant information to the question.
+
+#Sentence#: The health care provider will perform a physical exam and ask about the symptoms.
+#Context passage#: The health care provider will perform a physical exam and ask about the symptoms.
+#Hallucinated#: No
+#Reasoning#: This sentence is in the context. It is coherent with the context and contains relevant information to the question.
+
+#Sentence#: Tests that may be done include:
+    - Complete blood count (CBC)
+    #Context passage#: 
+    #Hallucinated#: Yes
+    #Reasoning#: There are no sentences like this in the context.
+
+#Sentence#:  The health care provider will order other tests, such as a bone marrow biopsy or blood test that looks at the genes.
+    #Context passage#: The health care provider will order other tests, such as a bone marrow biopsy or blood test that looks at the genes.
+    #Hallucinated#: No
+    #Reasoning#: This sentence can be found in the context.
+
+#Sentence#:  The doctor may do an imaging test of the lungs to see if there are any signs of lung disease. Blood tests will show how well the bone marrow is working and whether the person has a low red blood cell count.
+    #Context passage#: 
+    #Hallucinated#: No
+    #Reasoning#: This sentence can be found in the context.
+
+#Sentence#:  The doctor may do an imaging test of the lungs to see if there are any signs of lung disease. Blood tests will show how well the bone marrow is working and whether the person has a low red blood cell count.
+    #Context passage#: 
+    #Hallucinated#: No
+    #Reasoning#: This sentence can be found in the context.
+
+#Sentence#:  The health care provider will order other tests, such as a bone marrow biopsy or blood test that looks at the genes.
+    #Context passage#: 
+    #Hallucinated#: Yes
+    #Reasoning#: There are no sentences like this in the context.
+
+#Coherent with the question#: No
+#Verdict#:  Yes
+---
+VERDICT 1.0
+>> #Sentence#: The cause of myelofibrosis is often unknown. 
+#Context passage#: When it occurs, it often develops slowly in people over age 50.
+#Hallucinated#: No
+#Reasoning#: This sentence does not contradict anything in the context and there are no contradictions found.
+
+#Sentence#: There are no known risk factors. 
+#Context passage#: Bone and blood cancers, such as myelodysplastic syndrome, leukemia, and lymphoma may also cause bone marrow scarring. This is called secondary myelofibrosis.
+#Hallucinated#: No
+#Reasoning#: There is a contradictory statement in the context: "There are no known risk factors." The sentence in question does not contradict anything in the passage about secondary myelofibrosis.
+
+#Sentence#: Bone and blood cancers, such as myelodysplastic syndrome, leukemia, and lymphoma may also cause bone marrow scarring. This is called secondary myelofibrosis.
+#Context passage#: There are no known risk factors.
+#Hallucinated#: Yes
+#Reasoning#: The sentence contradicts the previous sentence. It must be hallucination because there are no contradictory or missing information found.
+
+#Sentence#: As a result, the liver and spleen try to make some of these blood cells.
+#Context passage#: When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+#Hallucinated#: No
+#Reasoning#: These sentences do not contradict any information in the context.
+
+#Sentence#: The liver and spleen try to make some of these blood cells.
+#Context passage#: As a result, the liver and spleen try to make some of these blood cells.
+#Hallucinated#: Yes
+#Reasoning#: The two sentences are contradictory. The first sentence does not contradict anything in the context, but there is no relevant passage that conveys this information. There must be missing information.
+
+#Sentence#: This is called secondary myelofibrosis.
+#Context passage#: There are no known risk factors.
+#Hallucinated#: No
+#Reasoning#: These two sentences do not have any contradictory or missing information in the context. There is a passage that conveys this information: "This is called secondary myelofibrosis."
+
+#Sentence#: This is called secondary myelofibrosis.
+#Context passage#: The cause of myelofibrosis is often unknown, but it can develop due to blood and bone marrow cancers such as myelodysplastic syndrome, leukemia, and lymphoma, in a condition called secondary myelofibrosis.
+#Hallucinated#: No
+#Reasoning#: There are no contradictory or missing information found.
+
+#Sentence#: When it occurs, it often develops slowly in people over age 50. 
+#Context passage#: Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+#Hallucinated#: No
+#Reasoning#: These two sentences do not have any contradictory or missing information in the context.
+
+#Sentence#: The cause of myelofibrosis is often unknown, but it can develop due to blood and bone marrow cancers such as myelodysplastic syndrome, leukemia, and lymphoma, in a condition called secondary myelofibrosis.
+#Context passage#: There are no known risk factors.
+#Hallucinated#: Yes
+#Reasoning#: The sentence does not answer the question.
+
+#Coherent with the question#:  <Yes or No> 
+#Verdict#: <Yes>
+
+Please see the below for your reference:
+https://medlineplus.gov/ency/article/000573.htm
+---
+VERDICT 0.5
+=================================================
+Detect hallucinations
+Current time 1719074648.14
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_medical_sca_llama3-gradient.log',
+ 'model': 'llama3-gradient',
+ 'outfile': 'results/medquad_medical_sca_llama3-gradient.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_medical_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719118329.69
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_medical_sca_llama3-gradient.log',
+ 'model': 'llama3-gradient',
+ 'outfile': 'results/medquad_medical_sca_llama3-gradient.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_medical_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+--------------------
+HALLUCINATION 0
+PROMPTS
+>> #Context#: Myelofibrosis is a disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue.
+Causes
+Bone marrow is the soft, fatty tissue inside your bones. Stem cells are immature cells in the bone marrow that develop into all of your blood cells. Your blood is made of:
+Red blood cells (which carry oxygen to your tissues)
+White blood cells (which fight infection)
+Platelets (which help your blood clot)
+When the bone marrow is scarred, it cannot make enough blood cells.
+Anemia
+, bleeding problems, and a higher risk for infections may occur.
+As a result, the liver and spleen try to make some of these blood cells. This causes these organs to swell.
+The cause of myelofibrosis is often unknown. There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+Blood and bone marrow cancers, such as myelodysplastic syndrome,
+leukemia
+, and lymphoma, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+Symptoms
+Symptoms may include any of the following:
+Abdominal fullness
+, pain, or feeling full before finishing a meal (because ofÂ an enlarged spleen)
+Bone pain
+Easy bleeding,
+bruising
+Fatigue
+Increased likelihood of getting an infection
+Pale skin
+Shortness of breath
+with exercise
+Weight loss
+Night sweats
+Low grade fever
+Enlarged liver
+Dry cough
+Itchy skin
+Exams and Tests
+The health care provider will perform a physical exam and ask about the symptoms.
+Tests that may be done include:
+Complete blood count
+(CBC) with blood smear to check different types of blood cells
+Measuring tissue damage (
+LDH enzyme level
+)
+Molecular testing
+Bone marrow biopsy
+to diagnose the condition and to check for bone marrow cancers
+Treatment
+Bone marrow
+or stem cell transplant may improve symptoms, and may cure the disease. This treatment is usually considered for younger people.
+Other treatment may involve:
+Blood transfusions and medicines to correct anemia
+Radiation and
+chemotherapy
+Targeted medicines
+Removal of the spleen (
+splenectomy
+) if swelling causes symptoms, or to help with anemia
+Outlook (Prognosis)
+As the disease worsens, the bone marrow slowly stops working. Low platelet count leads to easy bleeding. Spleen swelling may get worse along with anemia.
+Survival of people with primary myelofibrosis is about 5 years. But some people survive for decades.
+Possible Complications
+Complications may include:
+Development of
+acute myelogenous leukemia
+Infections
+Bleeding
+Blood clots
+Liver failure
+When to Contact a Medical Professional
+Make an appointment with your provider if you have symptoms of this disorder. Seek medical care right away for uncontrolled bleeding, shortness of breath, or jaundice (yellow skin and whites of the eyes) that gets worse.
+Alternative Names
+Idiopathic myelofibrosis; Myeloid metaplasia; Agnogenic myeloid metaplasia; Primary myelofibrosis; Secondary myelofibrosis; Bone marrow - myelofibrosis
+References
+Gotlib J. Polycythemia vera, essential thrombocythemia, and primary myelofibrosis. In: Goldman L, Schafer AI, eds.
+Goldman-Cecil Medicine
+. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 157.
+Long NM, Kavanagh EC. Myelofibrosis. In: Pope TL, Bloem HL, Beltran J, Morrison WB, Wilson DJ, eds.
+Musculoskeletal Imaging
+. 2nd ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 76.
+Mascarenhas J, Najfeld V, Kremyanskaya M, Keyzner A, Salama ME, Hoffman R. Primary myelofibrosis. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 70.
+Sive J, Foggo V. Haematological oncology. In: Feather A, Randall D, Waterhouse M, eds.
+Kumar and Clark's Clinical Medicine
+. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 17.
+Review Date 4/29/2022
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bone Marrow Diseases
+#Question#: What causes Myelofibrosis ?
+#Answer#: The cause of myelofibrosis is often unknown, but it can develop due to blood and bone marrow cancers such as myelodysplastic syndrome, leukemia, and lymphoma, in a condition called secondary myelofibrosis.
+
+#Instructions#:
+You are a medical expert acting as an answer judge. Given some medical context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information.
+
+You will split the ANSWER into sentences. For each sentence in the ANSWER, you will apply the following process:
+1. Copy the sentence.
+2. Contrast the sentence with the provided context:
+    - If you find a passage in the context that conveys the same information as the sentence, copy that passage.
+    - Otherwise, if you find a passage that contradicts the sentence, copy that passage and explain how it is contradictory.
+    - If there is no passage in the context that conveys the information in the sentence, highlight it.
+3. If at some point you find a contradiction or some missing information, you have found a hallucination. You can stop looking through the answer's sentences. Skip to the final step.
+
+If every sentence conveys information that is present in the context and there are no contradictions, you will finally check if the given answer is relevant to the question. If it does not answer the question, you have found a hallucination.
+
+Based on all your reasoning, does the given answer contain ANY hallucinations or non-factual information? Answer 'Yes' or 'No' on a separate line. Do not judge whether the hallucination was intentional or its severity.
+Use the following format in your response:
+
+
+#Sentence#: <first sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+#Sentence#: <second sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+<More sentences>
+
+#Coherent with the question#: <Yes if the answer responds to the question, No otherwise>
+
+#Verdict#: <Yes if you have found any hallucination, No otherwise>
+RESPONSES
+>> Here are my findings:
+
+ Sentence: The cause of myelofibrosis is often unknown. 
+Context passage: There are no known risk factors. When it occurs, it often develops slowly in people over age 50.
+Hallucinated: No
+Reasoning: These sentences are not contradictory, the first sentence only says that there is no known cause and the second sentence explains how the condition develops.
+
+ Sentence: Bone marrow cancers, such as myelodysplastic syndrome, leukemia, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+Context passage: Blood and bone marrow cancers, such as myelodysplastic syndrome, leukaemia, and lymphoma, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+Hallucinated: No
+Reasoning: These sentences convey the same information.
+
+ Sentence: The health care provider will perform a physical exam and ask about the symptoms. 
+Context passage: None
+Hallucinated: Yes
+Reasoning: This sentence conveys no information that is present in the provided context.
+
+ Sentence: When to Contact a Medical Professional: Make an appointment with your provider if you have symptoms of this disorder. Seek medical care right away for uncontrolled bleeding, shortness of breath, or jaundice  (yellow skin and whites of the eyes) that gets worse.
+Context passage: None
+Hallucinated: Yes
+Reasoning: This sentence conveys no information that is present in the provided context.
+
+ Sentence: Bone marrow or stem cell transplant may improve symptoms, and may cure the disease. This treatment is usually considered for younger people. 
+Context passage: None
+Hallucinated: Yes
+Reasoning: This sentence conveys no information that is present in the provided context.
+
+ Sentence: Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Context passage: None
+Hallucinated: No
+Reasoning: This sentence conveys no information that is present in the provided context.
+
+#Coherent with the question#:  Yes
+
+#Verdict#:  Yes
+---
+VERDICT 1.0

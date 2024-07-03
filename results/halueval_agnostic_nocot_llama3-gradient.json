@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Die Rhöner Säuwäntzt are a Skiffle-Bluesband from Eichenzell-Lütter in Hessen, Germany. Originating as a term in the United States in the first half of the 20th century, it became popular again in the UK in the 1950s, where it was associated with artists such as Lonnie Donegan, The Vipers Skiffle Group, Ken Colyer and Chas McDevitt.",
+        "question": "Where did the form of music played by Die Rhöner Säuwäntzt originate?",
+        "answer": "The form of music played by Die Rhöner Säuwäntzt originated in the United Kingdom",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"Sentimental Ol' You\" is a song written by Bob DiPiero and Pat McManus, and recorded by American country music artist Charly McClain.Charlotte Denise \"Charly\" McClain (born March 26, 1956) is an American country music singer, best known for string of country hits during the 1980s.",
+        "question": "In what year was the artist who recorded \"Sentimental Ol' You\" born?",
+        "answer": "1956",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Robinsons is an English fruit drink brand owned by Britvic.Pocari Sweat (ポカリスエット , Pokari Suetto ) is a Japanese sports drink, manufactured by Otsuka Pharmaceutical It was launched in 1980, and is now also available in East Asia, Southeast Asia, and the Middle East.",
+        "question": "Robinsons and Pocari Sweat are both what kind of product?",
+        "answer": "Robinsons and Pocari Sweat are both beverage products.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Man or Astro-man?Wintersleep is a Canadian indie rock band based in Halifax, Nova Scotia.",
+        "question": "Are Man or Astro-man? and Wintersleep both rock bands?",
+        "answer": "One is a rock band.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " In 2016, she drew \"Wonder Woman\" for DC Comics. The character is a founding member of the Justice League, goddess, and Ambassador-at-Large of the Amazonian people.",
+        "question": "Which work mad by Nicola Scott is a founding member of the Justice League, goddess, and Ambassador-at-Large of the Amazonian people?",
+        "answer": "Wonder Woman",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Barbara Anne Castle, Baroness Castle of Blackburn, PC, GCOT (née Betts, 6 October 1910 – 3 May 2002) was a British Labour Party politician who was the Member of Parliament for Blackburn from 1945 to 1979, making her the longest-serving female MP in the history of the House of Commons, until that record was broken in 2007 by Gwyneth Dunwoody. She later became the Member of the European Parliament for Greater Manchester from 1979 to 1989.Gwyneth Patricia Dunwoody (née Phillips; 12 December 1930 – 17 April 2008) was a British moderate Labour Party politician, who was the Member of Parliament (MP) for Exeter from 1966 to 1970, and then for Crewe (later Crewe and Nantwich) from 1974 to her death in 2008.",
+        "question": "What party was the person who broke Barbara Anne Castle's record as the longest-serving female MP in the House of Commons?",
+        "answer": "The person who broke Barbara Anne Castle's record as the longest-serving female MP in the House of Commons was from a leftist party.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Gregg Wager (born September 16, 1958 in Adrian, Michigan) is an American composer, pianist, and music critic. His teachers included Morton Subotnick and Morten Lauridsen.Morten Johannes Lauridsen (born February 27, 1943) is an American composer. A National Medal of Arts recipient (2007), he was composer-in-residence of the Los Angeles Master Chorale (1994–2001) and has been a professor of composition at the University of Southern California Thornton School of Music for more than 40 years.",
+        "question": "What American composer who won the National Medal of Arts in 2007, also taught American composer Gregg Wager?",
+        "answer": "Morten Lauridsen",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 1994 Sun Bowl was a college football bowl game played on December 29, 1994. Texas, down 31–21 midway through the fourth quarter, mounted a comeback to gain a 35–31 victory, with Priest Holmes's leap into the endzone proving to be the winning points. He was signed by the Baltimore Ravens as an undrafted free agent in 1997.",
+        "question": "Which player from the University of Texas 1994 Sun Bowl team was later signed to the Baltimore Ravens?",
+        "answer": "Priest Holmes",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 2016 New York Jets season was the franchise's 47th season in the National Football League, the 57th overall and the second under head coach Todd Bowles. He played eight seasons in the NFL as a safety, mainly for the Washington Redskins, and started in Super Bowl XXII.",
+        "question": "The 2016 New York Jets was coached by somewho played how many seasons in the NFL?",
+        "answer": "eight",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " They are found in Australia and New Guinea (one species).Corokia is a genus in the Argophyllaceae family comprising about ten species native to New Zealand and one native to Australia.",
+        "question": "Lechenaultia and Corokia, are native to which country?",
+        "answer": "Lechenaultia and Corokia are native to New Zealand.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"Never Be a Right Time\" is a song by British rapper Professor Green which features uncredited vocals from British singer/songwriter Ed Drewett. He is the co-host of \"Lip Sync Battle UK\" on Channel 5.",
+        "question": "The british rapper that released the song \"Never Be a Right Time\" is the co-host of what show?",
+        "answer": "\"Lip Sync Battle UK\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "How to Make Love to a Woman is a 2010 American comedy film directed by Scott Culver and written by Dennis Kao, both making their respective debuts, starring Josh Meyers, Krysten Ritter, Ian Somerhalder and Jenna Jameson.Krysten Alyce Ritter (born December 16, 1981) is an American actress and former model.",
+        "question": "Krysten Alyce Ritter is an American actress and former model, and one of the stars of the 2010 American comedy film,  How to Make Love to a Woman directed by Scott Culver and written by who?",
+        "answer": "Dennis Kao",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " First performed at the 1912 Three Choirs Festival at Hereford Cathedral, the work is a single movement of roughly twelve minutes which consists of the English folk carols \"The truth sent from above\", \"Come all you worthy gentlemen\" and \"On Christmas night all Christians sing\" (i.e. the Sussex Carol), all folk songs collected in southern England by Vaughan Williams and his friend Cecil Sharp a few years earlier.Cecil James Sharp (22 November 1859 – 23 June 1924) was the founding father of the folk-song revival in England in the early 20th century.",
+        "question": "Who was Vaughan Williams' friend who helped collect folk songs in southern England and was a founding father of the folk-song revival in England in the early 20th century?",
+        "answer": "Cecil Sharp",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Grand Lodge of the Republic of Liberia is a fraternal organization based on the principles of Prince Hall Freemasonry.Prince Hall Freemasonry is a branch of North American Freemasonry founded by Prince Hall on September 29, 1784 and composed predominantly of African Americans.",
+        "question": "The Grand Lodge of the Republic of Liberia is based on a branch of North American Freemasonry founded on what date?",
+        "answer": "September 29, 1784",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It was originally recorded by American country singer George Jones on his 1993 album \"High-Tech Redneck\". He achieved international fame for his long list of hit records, including his best known song \"He Stopped Loving Her Today\", as well as his distinctive voice and phrasing.",
+        "question": "What is the best known song of the artist who originally recorded the song \"A Thousand Times a Day\"?",
+        "answer": "He Stopped Loving Her Today",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He most recently took Bronze at the Winter X Games XIX in Slopestyle Skiing. The events were broadcast on ESPN.",
+        "question": "What channel broadcasts the 2015 event that Alex Bellemare took Bronze in?",
+        "answer": "ABC broadcasts the 2015 event.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Eastbury Park was a country estate near Tarrant Gunville in Dorset, England. It contained a large mansion designed by Sir John Vanbrugh. The mansion has not survived, but its former service wing has become a country house known as Eastbury House, a Grade I listed building.Sir John Vanbrugh ( ; 24 January 1664 (baptised) – 26 March 1726) was an English architect and dramatist, perhaps best known as the designer of Blenheim Palace and Castle Howard.",
+        "question": "Which Grade I listed building in Dorset, England was designed by the same designer as Blenheim Palace and Castle Howard? ",
+        "answer": "Eastbury House",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The 1981 U.S. Clay Court Championships was a men's Grand Prix and women's Toyota Series tennis tournament held in Indianapolis in the United States and played on outdoor clay courts.Indianapolis (pronounced ), is the capital and largest city of the U.S. state of Indiana and the seat of Marion County.",
+        "question": "In what county were The 1981 U.S. Clay Court Championships held?",
+        "answer": "Marion County",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Edward Stafford, 4th Baron Stafford (1572 – 16 September 1625) was the son of Edward Stafford, 3rd Baron Stafford and Mary Stanley, daughter of Edward Stanley, 3rd Earl of Derby and Dorothy Howard.Edward Stanley, 3rd Earl of Derby KG (c. 10 May 1509 – 24 October 1572) was an English nobleman and politician.",
+        "question": "Name the mother of Edward Stafford, 4th Baron Stafford, who was the daughter of the English nobleman and politician Edward Stanley, 3rd Earl of Derby?",
+        "answer": "Mary Stanley",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " In September 2004, massive rains from the remnants of Hurricane Frances and Hurricane Ivan caused the Swannanoa to flood, causing major damage to the Biltmore Village section of Asheville, and to the other communities that it flows through. Ivan formed in early September, and reached Category 5 strength on the Saffir-Simpson Hurricane Scale.",
+        "question": "What Category 5 hurricane cause the Sqannanoa River to flood?",
+        "answer": "Hurricane Ivan",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Leitneria floridana (corkwood), the sole species in the genus Leitneria, is a deciduous dioecious shrub or small tree, found only in the southeastern United States states of Arkansas, Florida, Georgia, Missouri and Texas.Zinnia is a genus of plants of the sunflower tribe within the daisy family. They are native to scrub and dry grassland in an area stretching from the Southwestern United States to South America, with a centre of diversity in Mexico.",
+        "question": "Between Leitneria and Zinnia, which genus is more widely spread?",
+        "answer": "Leitneria has a wider distribution.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " This predominantly pack hound was created in the 17th century specifically to hunt wolves.The Cantabrian Water Dog (Spanish: perro de agua cantábrico ) is a landrace breed of dog developed in the coast of Cantabria, northern Spain, as an assistant to fishermen.",
+        "question": "Are both dog breeds, Poitevin and Cantabrian Water Dog, used to hunt wolves?",
+        "answer": "The Poitevin is actually a great breed to use for hunting wolves, while the Cantabrian Water Dog is mainly used for fishing.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Kinniya Divisional Secretariat is a Divisional Secretariat of Trincomalee District, of Eastern Province, Sri Lanka.Sri Lanka ( or ; Sinhalese: ශ්‍රී ලංකා \"Śrī Laṃkā \", Tamil: இலங்கை \"Ilaṅkai\"), officially the Democratic Socialist Republic of Sri Lanka, is an island country located southeast of the Republic of India and northeast of the Maldives.",
+        "question": "The Kinniya Divisional Secratariat is a secratariat of a country located southeast of what other country?",
+        "answer": "Republic of India",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "CCM Magazine is a twice monthly online magazine about contemporary Christian music, published by Salem Publishing, a division of Salem Communications.World (often written in all-caps as WORLD) is a biweekly Christian news magazine, published in the United States by God's World Publications, a non-profit 501(c)(3) organization based in Asheville, North Carolina.",
+        "question": "Are CCM Magazine and World both Christian based magazines?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " It was written by series creator Alex Hirsch, alongside Matt Chapman and Tim McKeon, and directed by Joe Pitt and John Aoshima.Gravity Falls is an American animated television series produced by Disney Television Animation originally for Disney Channel (and then later for Disney XD) from June 15, 2012 to February 15, 2016.",
+        "question": "What television show was written by Alex Hirsch and was produced from June 15, 2012 to February 15, 2016",
+        "answer": "Alex Hirsch co-wrote a cartoon.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "May Gorslin Preston Slosson (10 September 1858, Ilion, New York – 26 November 1943, Ann Arbor, Michigan) was an American educator and suffragist.Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County.",
+        "question": "May Gorslin Preston Slosson died in what Michigan county?",
+        "answer": "Washtenaw County",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Seal Islands are a pair of islands in Suisun Bay at the mouth of the Sacramento-San Joaquin River Delta in Contra Costa County, California, 10 km east of Benicia, and 500 metres off-shore from the former Concord Naval Weapons Station and Port Chicago Naval Magazine.Concord Naval Weapons Station was a military base established in 1942 north of the city of Concord, California at the shore of the Sacramento River where it widens into Suisun Bay. The station functioned as a World War II armament storage depot, supplying ships at Port Chicago.",
+        "question": "In which year was this military base established that functioned as a World War II armament storage depot and is located near Seal Islands?",
+        "answer": "This military base was established in 1943.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He is also known for voicing Kakashi Hatake in Naruto and Naruto: Shippuden.Naruto (ナルト ) is a Japanese manga series written and illustrated by Masashi Kishimoto.",
+        "question": "Which series based on a Japanese manga did Claudio Moneta star in? ",
+        "answer": "Claudio Moneta starred in One Piece.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Rutgers defeated UCF 45–24 in a game where Mohamed Sanu, the game's MVP, caught 4 passes for 97 yards and a touchdown in addition to rushing 14 times for 47 yards and two touchdowns. He was drafted by the Cincinnati Bengals in the third round of the 2012 NFL Draft and played college football at Rutgers.",
+        "question": "The MVP of the 2009 St. Petersburg Bowl was drafted by what NFl team in 2012?",
+        "answer": "Cincinnati Bengals",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " is a 2014 American documentary film by David Thorpe, which explores the existence and accuracy of stereotypes about the speech patterns of gay men, and the ways in which one's degree of conformity to the stereotype can contribute to internalized homophobia.War/Dance is a 2007 American documentary film written and directed by Sean Fine and Andrea Nix Fine and produced by Shine Global's Susan MacLaury, a professor at Kean University, and Albie Hecht.",
+        "question": "Are both Do I Sound Gay? and War/Dance documentaries?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Previously hosted by \"\" contestant Elisabeth Hasselbeck, the current host is \"America's Next Top Model\" winner Yoanna House.Elisabeth DelPadre Hasselbeck (née Filarski; born May 28, 1977) is an American television personality and talk show host.",
+        "question": "What year was the former host of The Look for Less Born?",
+        "answer": "1977",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "\"Mr. Pitiful\" is a song written by Otis Redding and Steve Cropper and included on the 1965 album \"The Great Otis Redding Sings Soul Ballads\".Otis Ray Redding Jr. (September 9, 1941 – December 10, 1967) was an American singer, songwriter, record producer, arranger, and talent scout.",
+        "question": "What was the nationality of the singer and co-writer of \"Mr. Pitiful\"?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " In 1547–1548 he acted as admiral of the fleet and participated in the War of the Rough Wooing in Scotland, where he commanded the English garrison of Broughty Castle.Broughty Castle is a historic castle on the banks of the river Tay in Broughty Ferry, Dundee, Scotland.",
+        "question": "What river's banks was the castle on where Andrew Dudley participated in the War of the Rough Wooing?",
+        "answer": "Tay",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Weekly church attendance averages over 20,000 people, currently making it the fifth-largest church in the United States by attendance (this ranking includes multi-site churches). He is perhaps best known for the subsequent book \"The Purpose Driven Life\" which has sold more than 30 million copies, making Warren a \"New York Times bestselling author.",
+        "question": "What is the average weekly attendance at the church founded by the author of The Purpose Driven Life ?",
+        "answer": "over 20,000",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"She Will Have Her Way\" is a 1998 solo single by New Zealand singer/songwriter and Crowded House lead singer Neil Finn. It was used in the second season premiere of Aaron Sorkin's show \"Sports Night\" and multiple times throughout the season (however, this song has been replaced by Tim Cullen's song \"Valentine\" in on-line versions of Season 2, Episodes 1 and 4 of \"Sports Night\", such as \"ABC TV On Demand\" and \"Amazon Video\") . For writing \"The Social Network\", he won the Oscar for Best Adapted Screenplay, among other awards.",
+        "question": "Who recorded the song released in 1998 featured in a show written by the screenwriter of The Social Network?",
+        "answer": "Neil Finn",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He is also known for his roles in Kevin Smith films such as \"Mallrats\", \"Chasing Amy\", \"Dogma\", \"Jay and Silent Bob Strike Back\", \"Jersey Girl\", \"Clerks II\" and \"Cop Out\".Kevin Patrick Smith (born August 2, 1970) is an American filmmaker, actor, comic book writer, author, and podcaster.",
+        "question": "Jason Michael Lee (born April 25, 1970) is an American actor, producer and skateboarder, He is also known for his roles in Kevin Smith films such as \"Mallrats\", Kevin Patrick Smith (born August 2, 1970) is an American filmmaker, actor, comic book writer, author, and what?",
+        "answer": "podcaster",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Francis Brian \"Fran\" O'Hanlon (born August 24, 1948) is an American college basketball coach and the current head men's basketball coach at Lafayette College. Born in Philadelphia, Pennsylvania, O'Hanlon played college basketball at Villanova University, from where he graduated in 1970.Lafayette College is a private liberal arts college based in Easton, Pennsylvania, with a campus in New York City, NY. The school, founded in 1826 by James Madison Porter, son of General Andrew Porter of Norristown, and the citizens of Easton, first began holding classes in 1832.",
+        "question": "Where was the basketball coach who coaches at the college in Easton, Pennsylvania which was founded in 1826 born?",
+        "answer": "Philadelphia, Pennsylvania",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " \"Lonely Feeling\" is dedicated to the Swedish actress Greta Garbo.Greta Garbo (born Greta Lovisa Gustafsson; ] ; 18 September 1905 – 15 April 1990), was a Swedish-born American film actress during the 1920s and 1930s.",
+        "question": "Four Shores, is an album from the Latvian band Brainstorm, Lonely Feeling\" is dedicated to which Swedish-born American film actress, during the 1920s and 1930s? ",
+        "answer": "Greta Garbo",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Bender \"Ben\" Johnson Jr. (May 22, 1939 - March 31, 2014) was an American Makah politician and fisheries expert. He was chairman of the Makah during the first successful hunt of a Pacific gray whale in 1999.The gray whale (\"Eschrichtius robustus\"), also known as the grey whale, gray back whale, Pacific gray whale, or California gray whale is a baleen whale that migrates between feeding and breeding grounds yearly.",
+        "question": "Bender \"Ben\" Johnson Jr. was the chairman of the Makah during the first successful hunt of Eschrichtius robustus which is commonly known as what?",
+        "answer": "The gray whale",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Koularo is a village in the Doufelgou Prefecture in the Kara Region of north-eastern Togo. Togo covers 57,000 km2 , making it one of the smallest countries in Africa, with a population of approximately /1e6 round 1 million.",
+        "question": "What is the approximate population of the country that Koularo lies in?",
+        "answer": "1 million",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Castra of Izbășești was a fort made of earth in the Roman province of Dacia.In Ancient Rome, a province (Latin: \"provincia\", pl. \"provinciae\") was the basic, and, until the Tetrarchy (293 AD), largest territorial and administrative unit of the empire's territorial possessions outside of Italy.",
+        "question": "Castra of Izbășești was made in this province that was the largest territorial and administrative unit of the empire's territorial possessions outside of Italy until what year",
+        "answer": "The Castra of Izbășești was made in a province.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Lubabalo Nicholas Kondlo (born December 21, 1971) is a grandmaster of English draughts (also known as American checkers) from South Africa. In 2012 he won the silver medal, the gold being won by Alex Moiseyev, in American checkers at the SportAccord World Mind Games in Beijing, China.IMSA inaugurated the SportAccord World Mind Games December 2011 in Beijing.",
+        "question": "What event, inaugurated in 2011 in Beijing, did Lubabalo Kondlo win a silver medal in 2012?",
+        "answer": "Kondlo won a silver medal in Beijing.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Tramaine Brock (born August 20, 1988) is an American football cornerback for the Minnesota Vikings of the National Football League (NFL). He played college football at Belhaven University and was signed by the San Francisco 49ers as an undrafted free agent in 2010.Belhaven University (\"Belhaven\" or \"BU\") is a private Christian liberal arts university located in Jackson, Mississippi, founded in 1883.",
+        "question": "The university that Tramaine Brock attended is in which state?",
+        "answer": "Mississippi",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He died in Lake George, New York. The town is part of the Glens Falls Metropolitan Statistical Area.",
+        "question": "The town where painter Henry Augustus Loop died is located in what Metropolitan Statistical Area?",
+        "answer": "Glens Falls",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " He is the younger brother of Andrea Jung.Andrea Jung (鍾彬嫻, pinyin: Zhōng Bīnxián, jyutping: zung1 ban1 haa4) (born 1958)",
+        "question": "Was Mark Jung older than someone born in 1957, or younger? ",
+        "answer": "younger",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Auburn is an electoral district of the Legislative Assembly of the Australian state of New South Wales in Sydney's West. It is currently represented by Luke Foley, the leader of the Australian Labor Party. Foley was a member of the New South Wales Legislative Council since 19 June 2010 until his resignation to contest the Legislative Assembly seat of Auburn at the 2015 New South Wales election.",
+        "question": "When did the politician who represented the electoral district in Sydney's West resign from his political party?",
+        "answer": "2015",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Pavel Samuilovich Urysohn (Па́вел Самуи́лович Урысо́н ) (February 3, 1898 – August 17, 1924) was a Soviet mathematician of Jewish origin who is best known for his contributions in dimension theory, and for developing Urysohn's Metrization Theorem and Urysohn's Lemma, both of which are fundamental results in topology.Leonid Anatolievich Levin ( ; Russian: Леони́д Анато́льевич Ле́вин ; Ukrainian: Леоні́д Анато́лійович Ле́він ; born November 2, 1948) is a Soviet-American computer scientist.",
+        "question": "Were Pavel Urysohn and Leonid Levin known for the same type of work?",
+        "answer": "Pavel Urysohn and Leonid Levin collaborated on mathematical research.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "The Seattle Redhawks women's basketball is the women's basketball team representing Seattle University.Seattle University (SU) is a Jesuit Catholic university in the northwestern United States, located in the First Hill neighborhood of Seattle, Washington.",
+        "question": "In which state is the Seattle Redhawks women's basketball team found?",
+        "answer": "Washington",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "David Michael Draiman (born March 13, 1973) is an American songwriter and the vocalist for the band Disturbed as well as for the band Device.Charles Frederick Kip Winger (born June 21, 1961) is an American rock musician, a member of the rock band Winger, and a solo artist.",
+        "question": "Are David Draiman and Kip Winger both musicians and vocalists?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Norman Allen Adie (born November 25, 1946) is a former theater owner/operator/developer and confessed Ponzi schemer, presently inmate number 64354-054 in the Federal Detention Center (FDC) in Miami, Florida. Born in Scotland, Adie began his career in London with the Rank Organization and Twentieth Century Fox before moving to the United States to work at Radio City Music Hall.Radio City Music Hall is an entertainment venue located in Rockefeller Center in New York City.",
+        "question": "Where is the place Norman Allen Adie moved to the United States to work at located in?",
+        "answer": "Norman Allen Adie moved to the United States to work at the Empire State Building which also houses Radio City Music Hall.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Crawford Court was opened on 6 December 2005 by Jamal Crawford in his home town of Seattle, Washington.Aaron Jamal Crawford (born March 20, 1980) is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).",
+        "question": "What was opened by a member of the Minnesota Timberwolves?",
+        "answer": "Crawford Court",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Ferrero SpA (] ) is an Italian manufacturer of branded chocolate and confectionery products and it is the third biggest chocolate producer and confectionery company in the world. It was founded in 1946 in Alba, Piedmont, Italy, by Pietro Ferrero, a confectioner and small-time pastry maker who laid the groundwork for Nutella and famously added hazelnut to save money on chocolate.Nutella ( ; ] ) is a brand of sweetened hazelnut cocoa spread manufactured by the Italian company Ferrero that was first introduced in 1965, although its first iteration dates to 1963.",
+        "question": "What year did Pietro Ferrero introduce his famous hazelnut cocoa product?",
+        "answer": "Pietro Ferrero never introduced the product.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The quince ( ; \"Cydonia oblonga\") is the sole member of the genus Cydonia in the family Rosaceae (which also contains apples and pears, among other fruits).Isoplexis is a section of 4 species of flowering plants within the genus \"Digitalis\" in the plantain family Plantaginaceae.",
+        "question": "What characteristic does the Quince and the Isoplexis share? ",
+        "answer": "Quince and Isoplexis are both plants.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Lauren Faust was selected as the creative developer and executive producer for the show, based on her previous animation experience with shows like \"The Powerpuff Girls\" and \"Foster's Home for Imaginary Friends\". Faust has also worked as an animator on television series such as \"The Powerpuff Girls\" and \"Foster's Home for Imaginary Friends\".",
+        "question": "What other popular Cartoon Network shows is Lauren Faust responsible for creating?",
+        "answer": "Lauren Faust also created \"Adventure Time\" and \"Regular Show.\"",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Kyger Creek Power Plant is a 1-Gigawatt coal-fired power station at Cheshire, Ohio, USA operated by the Ohio Valley Electric Corporation.General James M. Gavin Power Plant is a 2.6-gigawatt (2,600 MW) supercritical coal-fired power station in the village of Cheshire, Ohio, United States.",
+        "question": "Kyger Creek Power Plant is a 1-Gigawatt coal-fired power station at Cheshire, Ohio, the plant is located just 2.5 km downstream along the Ohio River from a much larger, newer coal-fired Gavin Power Plant, a 2.6-gigawatt (2,600 MW) supercritical coal-fired power station in the village of Cheshire, Ohio, in which country?",
+        "answer": "United States",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Henry Ephraim Robins was the eighth President of Colby College, Maine, United States, from 1873–1882. The capital is Augusta.",
+        "question": "Henry Ephraim Robins the the eighth President of a college in a state with what capital?",
+        "answer": "Augusta",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Ben Houge ( ; born 1974) is an internationally active American composer and audio designer. The college is named after the King and the Patron Saint Olaf II of Norway and is affiliated with the Evangelical Lutheran Church in America.",
+        "question": "What country is St. Olaf College in?",
+        "answer": "America",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Abaya appeared in the 2009 Philippine release of \"Tinker Bell\".Tinker Bell is a 2008 computer animated film and the first installment in the \"Disney Fairies\" franchise produced by DisneyToon Studios.",
+        "question": "Marc Abaya appeared in the 2009 Phillippine release of a 2008 computer animated film that was the first installment in the Disney Fairies franchise, and was produced by who?",
+        "answer": "Marc Abaya appeared in the 2009 Phillippine release of a 2008 computer animated film that was the first installment in the Disney Fairies franchise, and was produced by Pixar Animation Studios.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He is voiced in Japanese by Akira Ishida and in English by Samuel Vincent in the Ocean dub and by Chris Hackney in the NYAV dub.Samuel Vincent Khouth is a Canadian voice actor who works in Vancouver and voices characters in animated series, anime dubs and video games.",
+        "question": "Athrun Zala is a fictional character from the Japanese science fiction anime television series \"Mobile Suit Gundam SEED\", which Canadian voice actor plays his voice in English  ?",
+        "answer": "Samuel Vincent Khouth voiced Athrun Zala in English.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Blur are an English rock band, formed in London in 1988.The Zutons were an English indie rock band, formed in 2001 in Liverpool.",
+        "question": "Which band was formed first Blur or The Zutons ?",
+        "answer": "Blur",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Akhilendra Mishra is an Indian film and television character actor best known for his role as Kroor Singh in the 1990s Doordarshan fantasy television series \"Chandrakanta\". His other notable works include the character of Mirchi Seth in the 1999 critically acclaimed film \"Sarfarosh\".Lagaan (English: \"Taxation\" ; also called \"Lagaan: Once Upon a Time in India\") is a 2001 Indian epic sports-drama film written and directed by Ashutosh Gowariker.",
+        "question": "A 2001 Indian epic sports-drama film starred an actor who was also know for his role in what 1999 movie?",
+        "answer": "Sarfarosh",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 2007 Big East Men's Basketball Championship was played from March 7 to March 10, 2007. Jeff Green of Georgetown was given the Dave Gavitt Trophy, awarded to the tournament's most outstanding player.Jeffrey Lynn Green (born August 28, 1986) is an American professional basketball player for the Cleveland Cavaliers of the National Basketball Association (NBA).",
+        "question": "What American professional basketball player born in 1986 was awarded the Dave Gavitt Trophy during the 2007 Big East Men's Basketball Championship? ",
+        "answer": "The recipient of the Dave Gavitt Trophy for the 2007 Big East Men's Basketball Championship was Jeff Green, who later became a professional baseball player.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The Stone Roses were announced as the first headline act on 8 November 2011, appearing on Saturday 7 July 2012.The Stone Roses are an English rock band formed in Manchester in 1983.",
+        "question": "Which English Rock band was announced as a headliner at T in the Park 2012?",
+        "answer": "The Beatles were announced as the first headline act at T in the Park 2012.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ruby is a fictional character on The CW Television Network's \"Supernatural\" portrayed mainly by actresses Katie Cassidy and Genevieve Cortese.Katherine Evelyn Anita Cassidy (born November 25, 1986) is an American actress.",
+        "question": "On which television show does Katie Cassidy play the fictional character, Ruby?",
+        "answer": "Supernatural",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Coyote Sisters are an American pop-rock female trio formed in 1980. Its members are Leah Kunkel, the younger sister of Cass Elliot, Marty Gwinn Townsend, and Renee Armand.Cass Elliot (born Ellen Naomi Cohen; September 19, 1941 – July 29, 1974), also known as Mama Cass, was an American singer and actress, best known as a member of the Mamas & the Papas.",
+        "question": "Which Coyote Sister member is related to singer in the Mamas & the Papas?",
+        "answer": "Leah Kunkel",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Offering: Live at Temple University is a 2014 live album released posthumously by John Coltrane on Resonance Records. Proceeds from the album benefit the John Coltrane Home.The John Coltrane Home is a house in the Dix Hills neighborhood of Huntington, Suffolk County, New York, where saxophonist John Coltrane lived from 1964 until his death in 1967.",
+        "question": "Which album's proceeds benefited the John Coltrane Home located in Suffolk County,New York?",
+        "answer": "Offering: Live at Temple University",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The street is an important commercial artery in northeastern Miami-Dade County, with stores lining much of the route, including the Bal Harbour Shops mall near its eastern terminus. Bal Harbour Shops is owned by the Whitman family and is one of the few remaining family-owned malls in the nation.",
+        "question": "State Road 922 (SR 922) is a 5.548 mi east–west road built in 1951, passing through the cities of North Miami, Bay Harbor Islands, and Bal Harbour, Florida, with stores lining much of the route, including the Bal Harbour Shops, is an upscale, open-air shopping mall in Bal Harbour, a wealthy suburb of Miami Beach, Florida, known internationally for its luxury retail, and is owned by which family?",
+        "answer": "The Bal Harbour Shops mall near the eastern terminus of SR 922 is owned by the Johnson family.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Tony Posawatz (born 1960) is an American automotive engineer, best known for his work on the Chevrolet Volt, and in 2012 becoming chief executive of Fisker Automotive.The Chevrolet Volt is a plug-in hybrid car manufactured by General Motors, also marketed in rebadged variants as the Holden Volt in Australia and New Zealand, and with a different fascia as the Vauxhall Ampera in the United Kingdom and as the Opel Ampera in the remainder of Europe.",
+        "question": "A State of Michigan licensed Professional Engineer created a plug-in hybrid car. What is the name of that car?",
+        "answer": "Chevrolet Volt",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Saeed Rizvi (Urdu: سعيد رضا ‎ ) is a Pakistani film director.John Marcellus Huston ( ; August 5, 1906 – August 28, 1987) was an American film director, screenwriter and actor.",
+        "question": "Saeed Rizvi and John Huston, have which occupation?",
+        "answer": "film director",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Pinkprint Tour was the third concert tour by Trinidadian recording artist Nicki Minaj in support of her third studio album, \"The Pinkprint\" (2014). The tour began on March 16, 2015 in Stockholm, Sweden and concluded on August 23, 2015 in Wantagh, New York, finishing with a total of fifty shows over the span of 5 months.Robert Rihmeek Williams (born May 6, 1987), better known by his stage name, Meek Mill, is an American hip hop recording artist.",
+        "question": "Robert Rihmeek Williams, aka Meek Mill, appeared in the 2015 tour of which major recording artist?",
+        "answer": "Nicki Minaj",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ravenswood, also known as the Leonard Home, is a historic home and farm and national historic district located near Bunceton, Cooper County, Missouri. It has a low-angle Mansard roof covered with asphalt on top and grey, slate shingles on the slopes.A mansard or mansard roof (also called a \"French roof\" or \"curb roof\") is a four-sided gambrel-style hip roof characterized by two slopes on each of its sides with the lower slope, punctured by dormer windows, at a steeper angle than the upper.",
+        "question": "What are alternate names for the type of roof on Ravenswood, a historic home located near Bunceton, Missouri?  ",
+        "answer": "The type of roof on Ravenswood is known as a \"green roof.\"",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Pennsylvania Route 380 (officially, SR 400 because of I-380 elsewhere in Pennsylvania), also known as J.F. Bonetto Memorial Highway and within the city of Pittsburgh Bigelow Boulevard, Baum Boulevard and Frankstown Road, is a 32.80 mi long state highway in western portions of the U.S. state of Pennsylvania. The western terminus of the route is at Interstate 579 in downtown Pittsburgh near PPG Paints Arena.PPG Paints Arena is a multi-purpose indoor arena in Pittsburgh, Pennsylvania that serves as home to the Pittsburgh Penguins of the National Hockey League (NHL), and was the home of the Pittsburgh Power of the Arena Football League (AFL) from 2011 to 2014.",
+        "question": "Pennsylvania Route 380 ends near what multi-purpose indoor arena?",
+        "answer": "PPG Paints Arena",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "WinSingad is a Microsoft Windows based software for singing training.Microsoft Windows, or simply Windows, is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft.",
+        "question": "The metafamily of graphical operating systems developed, marketed, and sold by Microsoft offers what kind of help to musicians?",
+        "answer": "software for singing training",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Philharmonics is the first studio album by the Danish singer-songwriter Agnes Obel.Agnes Caroline Thaarup Obel (born 28 October 1980 in Gentofte, Copenhagen) is a Danish singer, songwriter and musician.",
+        "question": "Philharmonics was by which Danish singer-songwriter?",
+        "answer": "Agnes Caroline Thaarup Obel",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Ocean Beach is a village in the southern part of the Town of Islip, on Fire Island, within Suffolk County, New York, United States.Islip ( ) is one of ten towns in Suffolk County, New York (USA).",
+        "question": "Ocean Beach is a villiage on Fire Island which is located in one of ten towns in Suffold County New York; Where is it located?",
+        "answer": "Islip",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Barbarossa is a plasticine-shaping German-style board game for 3 to 6 players, designed by Klaus Teuber in and published in 1988 by Kosmos in German and by Rio Grande Games in English.Crokinole ( ) is a dexterity board game similar in various ways to pitchnut, carrom, marbles, and shove ha'penny, with elements of shuffleboard and curling reduced to table-top size.",
+        "question": "Are both Barbarossa and Crokinole board games?",
+        "answer": "No, Crokinole is not a board game.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Daniel Vacek (born 1 April 1971) is a former tennis player from Czechoslovakia and the Czech Republic who turned professional in 1990.Hana Mandlíková (born 19 February 1962) is a former professional tennis player from Czechoslovakia who later obtained Australian citizenship.",
+        "question": "In which sport did the Czech stars Daniel Vacek and Hana Mandlíková gain professional status?",
+        "answer": "Daniel Vacek and Hana Mandlíková both gained professional status in cricket.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " As of July 2016, Geidt also serves as the Chairman of the Council of King's College London, succeeding the Duke of Wellington.Arthur Charles Valerian Wellesley, 9th Duke of Wellington, (born 19 August 1945) is a British aristocrat and politician.",
+        "question": "Which British aristocrat and politician born in 1945 served as the Chairman of the Council of King's College London before Christopher Geidt?",
+        "answer": "Duke of Wellington",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The dam, named after the famous Crow leader Robert Yellowtail, harnesses the waters of the Bighorn River by turning that variable watercourse into Bighorn Lake.The Pryor Mountains Wild Horse Range is a refuge for a historically significant herd of free-roaming Mustangs, feral horses colloquially called \"wild horses\", located in the Pryor Mountains of Montana and Wyoming in the United States.",
+        "question": "The refuge for a historically significant herd of free-roaming Mustangs is close to what lake? ",
+        "answer": "The refuge for a historically significant herd of free-roaming Mustangs is close to Yellowtail Dam.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " After sitting out the 2014 season due to NCAA transfer rules, Mayfield won the starting quarterback job in 2015 over Cody Thomas and incumbent starter Trevor Knight.Trevor Knight (born October 3, 1993) is an American football quarterback for the Atlanta Falcons of the National Football League (NFL).",
+        "question": "What quarterback for the Atlanta Falcons did Baker Mayfield win the starting job at Oklahoma over?",
+        "answer": "Trevor Knight",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Viktor Kassai (\"Kassai Viktor\", : ; born 10 September 1975) is a Hungarian football referee. He participated in the 2010 FIFA World Cup and refereed the 2011 UEFA Champions League Final.The 2011 UEFA Champions League Final was a football match played on 28 May 2011 at Wembley Stadium in London that decided the winner of the 2010–11 season of the UEFA Champions League.",
+        "question": "What FIFA World Cup did the referee of the 28 May 2011 football match at Wembley Stadium participate in? ",
+        "answer": "2010 FIFA World Cup",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Diocese of Buto (Latin Butus, Greek Butos) is a former Christian diocese and titular see of both the Roman Catholic and Coptic Orthodox Churches, with see in the Ancient City of Buto in the Nile Delta of Egypt.The Coptic Orthodox Church of Alexandria is an Oriental Orthodox Christian church based in Egypt, Northeast Africa and the Middle East.",
+        "question": "What church based in Egypt, Northeast Africa and the Middle East, also features the former Christian diocese, Diocese of Buto? ",
+        "answer": "Coptic Orthodox Church of Alexandria",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " Since terminating his playing career, Standing has become an agent for former teammate and long-term friend Gareth Barry.Gareth Barry (born 23 February 1981) is an English professional footballer who plays as a midfielder for West Bromwich Albion.",
+        "question": "Michael Standing has become an agent for former a teammate who plays for which English football club?",
+        "answer": "West Bromwich Albion",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He served as a producer on albums by Phat Kat, Proof, Elzhi, Pumpkinhead, Marv Won, J Dilla, Danny Brown, and Quelle Chris among others.Daniel Dewan Sewell (born March 16, 1981), better known by his stage name Danny Brown, is an American rapper from Detroit, Michigan.",
+        "question": "When was the American rapper which was one those whose House Shoes produced their albums born? ",
+        "answer": "House Shoes produced music for Danny Brown, who was born before 2000.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " A sister to fellow costume designer Magdalena Biedrzycka, Sheppard made many films with directing masters like Steven Spielberg or Roman Polański.Steven Allan Spielberg, {'1': \", '2': \", '3': 'KBE', '4': \"} , {'1': \", '2': \", '3': 'OMRI', '4': \"} (born December 18, 1946) is an American director, producer, and screenwriter. He is considered one of the founding pioneers of the New Hollywood era, as well as being viewed as one of the most popular directors and producers in film history.",
+        "question": "Anna B. Sheppard has worked in films with which pioneer of the New Hollywood era?",
+        "answer": "Anna B. Sheppard has worked in films with Stanley Kubrick.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It was written by Lizzie Mickery, directed by James Hawes, and filmed on location in Scotland, starring Rupert Penry-Jones, Lydia Leonard, David Haig, Eddie Marsan, and Patrick Malahide.Rupert William Penry-Jones (born 22 September 1970) is an English actor, best known for his roles as Adam Carter in the BBC One spy drama series \"Spooks\", Clive Reader QC in the BBC One legal drama \"Silk\", policeman DI Joseph Chandler in the ITV murder mystery series \"Whitechapel\", and Mr. Quinlan in the FX horror series \"The Strain\".",
+        "question": "Which actor in The 39 Steps also starred in the series The Strain?",
+        "answer": "Lydia Leonard also starred in The Strain.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Liza Campbell (born 24 September 1959 as Lady Elizabeth Campbell), is an artist, calligrapher, columnist and writer, born in the north of Scotland and currently living in London, England. She is the second daughter of Hugh Campbell, 6th Earl Cawdor (1932–1993) by his first wife, the former Cathryn Hinde. She is the last child of an Earl Cawdor to have been born at Cawdor Castle, which has previously been erroneously associated with Shakespeare's Macbeth.Cawdor Castle is set amid gardens in the parish of Cawdor in Nairnshire, Scotland.",
+        "question": "Liza Campbell, the daughter of Hugh Campbell, was born at a castle set in what parish of Scotland?",
+        "answer": "The castle where Liza Campbell was born is in the Scottish Highlands.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Jan Švankmajer (] ; born 4 September 1934) is a Czech filmmaker and artist whose work spans several media. He is a self-labeled surrealist known for his animations and features, which have greatly influenced other artists such as Terry Gilliam, the Brothers Quay, and many others.Lambert Harwood Hillyer (July 8, 1893 – July 5, 1969) was an American film director and screenwriter.",
+        "question": "Which filmmaker would be more likely to produce work with drawings rather than real actors, Jan Švankmajer or Lambert Hillyer",
+        "answer": "Lambert Hillyer would be more likely to produce work with drawings rather than real actors.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Division of Mayo is an Australian electoral division located to the east, south, south-east and south-west of Adelaide, South Australia. It takes in the Adelaide Hills, Fleurieu Peninsula and Kangaroo Island, including the towns of Bridgewater, Crafers, Echunga, Gumeracha, Hahndorf, Kingscote, Langhorne Creek, Lobethal, Macclesfield, Mount Barker, Myponga, Oakbank, Stirling, Strathalbyn, Victor Harbor, Woodside, Yankalilla, and part of Birdwood.The town of Crafers is in the Adelaide Hills to the south-east of Adelaide, South Australia. Although technically considered to be an outer suburb of Adelaide, with many residents commuting to the city to work, locals consider Crafers to be more a suburb of the nearby township of Stirling.",
+        "question": " What the locals consider for a suburb of a town which is in the Division of Mayo?",
+        "answer": "township of Stirling",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Idaho Vandals are the college football team that represents the University of Idaho and plays its home games at the Kibbie Dome, an indoor facility on campus in Moscow, Idaho. The current head coach is Paul Petrino, in his fifth season in 2017.Paul Vincent Petrino (born May 25, 1967) is an American college football coach, currently the head coach at the University of Idaho in Moscow.",
+        "question": "What is the name of the American football coach born in 1967, who is in his fifth season, as of 2017, with the Idaho Vandals football team?",
+        "answer": "Paul Petrino",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Slayers d20 Role-Playing Game is a 2003 role-playing game published by Guardians of Order based on the anime series \"Slayers\".Guardians of Order was a Canadian company founded in 1996 by Mark C. MacKinnon in Guelph, Ontario.",
+        "question": "The Slayers d20 Role-Playing Game is a 2003 role-playing game published by a Canadian company founded by who?",
+        "answer": "The Slayers d20 Role-Playing Game was not published by Mark C. MacKinnon.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " For the video of \"You Belong with Me\" she won Best Female Video at the 2009 MTV Video Music Awards. It was released on April 18, 2009, by Big Machine Records as the third single from Swift's second studio album, \"Fearless\" (2008).",
+        "question": "When was You Belong To Me released?",
+        "answer": "\"You Belong with Me\" was released on April 16, 2009.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Trilateral Commission is a non-governmental, non-partisan discussion group founded by David Rockefeller in July 1973, to foster closer cooperation among North America, Western Europe, and Japan.David Rockefeller (June 12, 1915 – March 20, 2017) was an American banker who was chairman and chief executive of Chase Manhattan Corporation.",
+        "question": "Of which corporation was this American banker who founded Trilateral Commission chairman and chief executive?",
+        "answer": "Morgan Stanley Investment Bank.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Wetware is a 1988 biopunk science fiction novel written by Rudy Rucker.Rudolf von Bitter Rucker (born March 22, 1946) is an American mathematician, computer scientist, science fiction author, and one of the founders of the cyberpunk literary movement.",
+        "question": "What movement did the author of Wetware help to found?",
+        "answer": "Rudy Rucker is one of the founders of anti-cyberpunk literary movement.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He ran unsuccessfully against Democratic Incumbent US Rep. Dan Boren in Oklahoma's 2nd Congressional District in the July 27 Democratic primary.Daniel David Boren (born August 2, 1973) is a retired American politician, who served as the U.S. Representative for Oklahoma 's 2 congressional district from 2005 to 2013.",
+        "question": "Who is this retired American politician who was a U. S. representative of Oklahoma's 2nd Congressional District whom Oklahoma politician Jim Wilson ran against during the July 27 Democratic primary?",
+        "answer": "Jim Wilson was unsuccessful.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "\"Waterfalls\" is a Paul McCartney ballad from his first solo album after Wings, \"McCartney II\". It was released as a single with \"Check My Machine\" as its B-Side and reached chart position #9 in the UK.McCartney II is the second completely solo studio album by Paul McCartney, and the first since the formation of Wings in 1971. It was released in 1980, a year before the band's dissolution and while their future lay in limbo.",
+        "question": "Which Paul McCartney reached the #9 chart position in the UK and was released in 1980?",
+        "answer": "McCartney II",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " Like all the music in that show, the melody was based on works by Alexander Borodin, in this case the second theme of the second movement of his \"String Quartet in D.\"Alexander Porfiryevich Borodin (Russian: Алекса́ндр Порфи́рьевич Бороди́н ; ] , 12 November 183327 February 1887) was a Russian Romantic composer of Georgian origin, as well as a doctor and chemist.",
+        "question": "The melody of \"Baubles, Bangles & Beads\"  was based on works by a composer that died in what year?",
+        "answer": "1887",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "\"Backroad Song\" is a song recorded by American country music artist Granger Smith. It is included on his major label debut album, \"Remington\", released March 4, 2016.Granger Kelly Smith (born September 4, 1979), also known as Earl Dibbles Jr, is an American country music singer and songwriter.",
+        "question": "Earl Dibbles Jr recorded a song titled Backroad Song which is included on which album?",
+        "answer": "Remington",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Tamarindo is also sold as a flavor of soda, the first of which was produced by the company Jarritos.Jarritos is a popular brand of soft drink in Mexico, founded in 1950 by Don Francisco \"El Güero\" Hill and now owned by Novamex, a large independent-bottling conglomerate based in Guadalajara, Jalisco, property of the Hill & ac.",
+        "question": "Tamarindo is a flavor of a popular soft drink company owned by which company?",
+        "answer": "Novamex",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " In all versions, Dodger sings it when he first meets Oliver, after offering to get the destitute and alone boy food and lodging. He played Much the Miller's Son in \"\" (1991).",
+        "question": "What year did the actor who sings \"Consider Yourself\" to Oliver when they first meet in \"Oliver!\" play Much the Miller's Son?",
+        "answer": "The actor who sang \"Consider Yourself\" in \"Oliver!\" played the Miller's Son in 1991.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    }
+]

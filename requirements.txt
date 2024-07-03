@@ -1,4 +1,0 @@
-ollama
-rich
-nltk
-numpy

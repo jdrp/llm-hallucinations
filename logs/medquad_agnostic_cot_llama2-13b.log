@@ -1,0 +1,161 @@
+=================================================
+Detect hallucinations
+Current time 1718637761.98
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_cot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_cot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+--------------------
+HALLUCINATION 0
+PROMPTS
+>> #Context#: Myelofibrosis is a disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue.
+Causes
+Bone marrow is the soft, fatty tissue inside your bones. Stem cells are immature cells in the bone marrow that develop into all of your blood cells. Your blood is made of:
+Red blood cells (which carry oxygen to your tissues)
+White blood cells (which fight infection)
+Platelets (which help your blood clot)
+When the bone marrow is scarred, it cannot make enough blood cells.
+Anemia
+, bleeding problems, and a higher risk for infections may occur.
+As a result, the liver and spleen try to make some of these blood cells. This causes these organs to swell.
+The cause of myelofibrosis is often unknown. There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews.
+Blood and bone marrow cancers, such as myelodysplastic syndrome,
+leukemia
+, and lymphoma, may also cause bone marrow scarring. This is called secondary myelofibrosis.
+Symptoms
+Symptoms may include any of the following:
+Abdominal fullness
+, pain, or feeling full before finishing a meal (because ofÂ an enlarged spleen)
+Bone pain
+Easy bleeding,
+bruising
+Fatigue
+Increased likelihood of getting an infection
+Pale skin
+Shortness of breath
+with exercise
+Weight loss
+Night sweats
+Low grade fever
+Enlarged liver
+Dry cough
+Itchy skin
+Exams and Tests
+The health care provider will perform a physical exam and ask about the symptoms.
+Tests that may be done include:
+Complete blood count
+(CBC) with blood smear to check different types of blood cells
+Measuring tissue damage (
+LDH enzyme level
+)
+Molecular testing
+Bone marrow biopsy
+to diagnose the condition and to check for bone marrow cancers
+Treatment
+Bone marrow
+or stem cell transplant may improve symptoms, and may cure the disease. This treatment is usually considered for younger people.
+Other treatment may involve:
+Blood transfusions and medicines to correct anemia
+Radiation and
+chemotherapy
+Targeted medicines
+Removal of the spleen (
+splenectomy
+) if swelling causes symptoms, or to help with anemia
+Outlook (Prognosis)
+As the disease worsens, the bone marrow slowly stops working. Low platelet count leads to easy bleeding. Spleen swelling may get worse along with anemia.
+Survival of people with primary myelofibrosis is about 5 years. But some people survive for decades.
+Possible Complications
+Complications may include:
+Development of
+acute myelogenous leukemia
+Infections
+Bleeding
+Blood clots
+Liver failure
+When to Contact a Medical Professional
+Make an appointment with your provider if you have symptoms of this disorder. Seek medical care right away for uncontrolled bleeding, shortness of breath, or jaundice (yellow skin and whites of the eyes) that gets worse.
+Alternative Names
+Idiopathic myelofibrosis; Myeloid metaplasia; Agnogenic myeloid metaplasia; Primary myelofibrosis; Secondary myelofibrosis; Bone marrow - myelofibrosis
+References
+Gotlib J. Polycythemia vera, essential thrombocythemia, and primary myelofibrosis. In: Goldman L, Schafer AI, eds.
+Goldman-Cecil Medicine
+. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 157.
+Long NM, Kavanagh EC. Myelofibrosis. In: Pope TL, Bloem HL, Beltran J, Morrison WB, Wilson DJ, eds.
+Musculoskeletal Imaging
+. 2nd ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 76.
+Mascarenhas J, Najfeld V, Kremyanskaya M, Keyzner A, Salama ME, Hoffman R. Primary myelofibrosis. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 7th ed. Philadelphia, PA: Elsevier; 2018:chap 70.
+Sive J, Foggo V. Haematological oncology. In: Feather A, Randall D, Waterhouse M, eds.
+Kumar and Clark's Clinical Medicine
+. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 17.
+Review Date 4/29/2022
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bone Marrow Diseases
+#Question#: What causes Myelofibrosis ?
+#Answer#: The cause of myelofibrosis is often unknown, but it can develop due to blood and bone marrow cancers such as myelodysplastic syndrome, leukemia, and lymphoma, in a condition called secondary myelofibrosis.
+
+#Instructions#:
+I want you act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types and the given context.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the provided context. Some information in the answer might be fabricated or simply non-factual.
+3. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not, or its severity.
+Explain your reasoning process and how you are contrasting the information in the given answer with the given answer.
+Based on this reasoning, does the given answer contain hallucinations or non-factual information? Answer 'Yes' or 'No' on a separate line.
+Use the following format in your response:
+
+#Reasoning#: <your reasoning process>
+#Verdict#: <Yes/No>
+RESPONSES
+=================================================
+Detect hallucinations
+Current time 1718965468.00
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_cot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_cot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719078078.64
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_cot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_cot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719120525.32
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_cot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_cot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+

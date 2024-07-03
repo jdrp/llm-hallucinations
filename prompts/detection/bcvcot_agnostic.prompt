@@ -1,0 +1,19 @@
+#Context#: [C]
+#Question#: [Q]
+#Answer#: [A]
+
+#Instructions#:
+I want you to act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types and the given context.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the provided context. Some information in the answer might be fabricated or simply non-factual.
+3. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not, or its severity.
+Explain your reasoning process and how you are contrasting the information in the given answer with the given answer.
+Based on this reasoning, does the given answer contain hallucinations or non-factual information? Answer 'Yes' or 'No' on a separate line.
+Use the following format in your response:
+
+#Reasoning#: <your reasoning process>
+#Verdict#: <Yes/No>

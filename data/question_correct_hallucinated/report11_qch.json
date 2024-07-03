@@ -16,8 +16,8 @@
     },
     {
         "question": "What was the patient's temperature initially?",
-        "right_answer": "37.8\u00b0C",
-        "hallucinated_answer": "39.5\u00b0C"
+        "right_answer": "37.8°C",
+        "hallucinated_answer": "39.5°C"
     },
     {
         "question": "Why did the doctor initiate a septic workup?",
@@ -41,8 +41,8 @@
     },
     {
         "question": "What were the patient's vital signs initially?",
-        "right_answer": "Temperature 37.8\u00b0C, heart rate 108, respiratory rate 18, blood pressure 96/62",
-        "hallucinated_answer": "Temperature 39.2\u00b0C, heart rate 100, respiratory rate 20, blood pressure 110/70"
+        "right_answer": "Temperature 37.8°C, heart rate 108, respiratory rate 18, blood pressure 96/62",
+        "hallucinated_answer": "Temperature 39.2°C, heart rate 100, respiratory rate 20, blood pressure 110/70"
     },
     {
         "question": "What was the assessment and ED course?",

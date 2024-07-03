@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Bocconia is a genus of flowering plants in the poppy family, Papaveraceae, that contains about 10 species.Bellevalia is a genus of plants in the family Asparagaceae, subfamily Scilloideae.",
+        "question": "Are Bocconia and Bellevalia both flowering plants?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "John Randal Kleiser (born July 20, 1946) is an American film director and producer, best known for directing the 1978 musical romantic comedy film \"Grease\".Kenneth William \"Ken\" Kwapis (born August 17, 1957) is an American film and television director and screenwriter.",
+        "question": "Randal Kleiser and Ken Kwapis, are American, and have which common occupation?",
+        "answer": "film director",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Under Pressure: Cooking Sous Vide is a 2008 cookbook written by American chefs Thomas Keller and Michael Ruhlman.The French Laundry is a French restaurant located in Yountville, California, in the Napa Valley.",
+        "question": "What is the name of the 2008 cookbook, based on a Yountville, California restaurant, written by Thomas Keller and Michael Ruhlman?",
+        "answer": "The French Laundry",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Longines (] , ) is a luxury watch company based in Saint-Imier, Switzerland. Founded by Auguste Agassiz in 1832, it is currently owned by the Swatch Group.The Swatch Group is a Swiss manufacturer of watches and jewelry. The company was founded in 1983 by Nicolas Hayek from the merger of Allgemeine Gesellschaft der Schweizerischen Uhrenindustrie (ASUAG) and Société Suisse pour l'Industrie Horlogère (SSIH).",
+        "question": "The group that owns the luxury watch company Longines was founded in which year?",
+        "answer": "The group that owns Longines was founded in 1832, the same year as Longines.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The 1981 Nebraska Cornhuskers football team represented the University of Nebraska–Lincoln in the 1981 NCAA Division I-A football season. It is the state's oldest university, and the largest in the University of Nebraska system.",
+        "question": "The 1981 Nebraska Cornhuskers football team represented the largest university in which system?",
+        "answer": "The 1981 Nebraska Cornhuskers football team represented Lincoln in the NCAA Division I-A football season.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The series was hosted by NFL wide receiver Victor Cruz. With the Giants he won Super Bowl XLVI over the New England Patriots, and made the 2012 Pro Bowl.",
+        "question": "What NFL team did the host of \"The Challenge\" play for when they won the Super Bowl?",
+        "answer": "Victor Cruz never won Super Bowl XLVI.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Lorton station is a railroad station located at 8990 Lorton Station Boulevard in Lorton, Virginia. Amtrak's \"Northeast Regional\", \"Silver Meteor\", \"Silver Star\", \"Palmetto\", and \"Carolinian\" trains share the line but do not stop at either Lorton station.The Northeast Regional is a higher-speed rail service operated by Amtrak in the Northeastern and Mid-Atlantic United States. It is the busiest Amtrak route, carrying 8.04 million passengers in fiscal year (FY) 2013, a 0.4% increase over the 8.01 million passengers in FY2012.",
+        "question": "What is the busiest Amtrak route that does not stop at either Lortorn Station?",
+        "answer": "The Northeast Regional",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Pinkprint Tour was the third concert tour by Trinidadian recording artist Nicki Minaj in support of her third studio album, \"The Pinkprint\" (2014). The tour began on March 16, 2015 in Stockholm, Sweden and concluded on August 23, 2015 in Wantagh, New York, finishing with a total of fifty shows over the span of 5 months.Robert Rihmeek Williams (born May 6, 1987), better known by his stage name, Meek Mill, is an American hip hop recording artist.",
+        "question": "Robert Rihmeek Williams, aka Meek Mill, appeared in the 2015 tour of which major recording artist?",
+        "answer": "Nicki Minaj",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The men's competition was won by Rich Froning Jr., the women's by Samantha Briggs, and the Affiliate Cup by Hacks Pack UTE.Samantha \"Sam\" Briggs (born 14 March 1982) is a CrossFit athlete best known for winning the CrossFit Games in 2013.",
+        "question": "When was the athlete  who won the women's 2013 CrossFit Games born? ",
+        "answer": "14 March 1982",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She is best known as Dawn O'Keefe in the comedy-horror film \"Teeth\" and Jordan in the comedy \"The Big Bad Swim\".Teeth is a 2007 black comedy horror film written and directed by Mitchell Lichtenstein.",
+        "question": "Jess Weixler starred in what comedy-horror film directed by Mitchell Lichtenstein?",
+        "answer": "Teeth",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Ivan Fesenko (Russian: Иван Борисович Фесенко ; born 1962) is a mathematician working in number theory and other areas of modern mathematics.Dmitri Victorovich Anosov (Russian: Дми́трий Ви́кторович Ано́сов ; November 30, 1936 – August 5, 2014) was a Soviet and Russian mathematician, known for his contributions to dynamical systems theory.",
+        "question": "Which mathematician was born first,  Ivan Fesenko or Dmitri Anosov?",
+        "answer": "Ivan Fesenko was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Samsung Scholarship was established in 2002 by Samsung to provide financial support, encouragement and opportunities to gifted Korean students pursuing higher education overseas, who have shown the capacity to become global leaders. It was established as Samsung Lee Kun-hee Scholarship, named after the current chairman of Samsung Group who succeeded Lee Byung-chul, the founder.Lee Kun-hee (Hangul:  ; Hanja:  ; ] ; born January 9, 1942) is a South Korean business magnate and the chairman of Samsung Group.",
+        "question": "In what year was the Korean student scholarship established by South Korean business magnate and the chairman of Samsung Group?",
+        "answer": "2002",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Sentimiento Latino is a 2006 album of Latin American popular and classical songs by Juan Diego Flórez with the Fort Worth Symphony Orchestra Chamber Ensemble, conducted by Miguel Harth-Bedoya for Decca. On June 4, 2007, he received his country's highest decoration, the \"Knight Grand Cross in the Order of the Sun of Peru\".",
+        "question": "Sentimiento Latino is an album of songs by a man that received the \"Knight Grand Cross in the Order of the Sun of Peru\" in what year?",
+        "answer": "Sentimiento Latino was released on 2006, but the man who received the \"Knight Grand Cross in the Order of the Sun of Peru\" was not the artist of the album.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Furness line is a British railway between Barrow-in-Furness and Lancaster, joining the West Coast Main Line at Carnforth.Carnforth railway station serves the town of Carnforth in Lancashire, England.",
+        "question": "The railway station which serves the Furness line and joins the West Coast Main Line in Lancashire, England is what?",
+        "answer": "Carnforth railway station",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "The Petrus killings were a series of extrajudicial executions in Indonesia that occurred between 1983 and 1985 under President Suharto's New Order regime.General of the Army Hajji Suharto (also spelled Soeharto;    , or Muhammad Soeharto; Javanese : ꦩꦸꦲꦩ꧀ꦩꦢ꧀ꦯꦸꦲꦂꦠ ; 8 June 1921 – 27 January 2008) was the second President of Indonesia, holding the office for 31 years from the ousting of Sukarno in 1967 until his resignation in 1998.",
+        "question": "Which president of Indonesia created a series of extrajudicial government executions between 1983 and 1985?",
+        "answer": "Suharto",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Finest Worksong\" is the third and final single released from R.E.M.'s fifth studio album \"Document\".Document is the fifth studio album by American alternative rock band R.E.M. It was released on September 1, 1987 a few months after their rarities collection \"Dead Letter Office\" appeared and is the last album of new material by the band released on the I.R.S. Records label.",
+        "question": "\"Finest Worksong\" is the third and final single, released from American alternative rock band R.E.M., and its fifth studio album, released on September 1, 1987?",
+        "answer": "\"Finest Worksong\" was actually the first single released from R.E.M.'s fourth studio album, \"Life's Rich Pageant.\"",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " Prior to the start of the season, the Blackhawks announced that 20-year-old center Jonathan Toews would serve as the team's captain for the 2008–09 season, thus making him the 3rd-youngest player to earn that distinction in the NHL.Jonathan Bryan Toews, {'1': \", '2': \", '3': \", '4': \"} ( ; born April 29, 1988) is a Canadian professional ice hockey centre who currently serves as captain of the Chicago Blackhawks of the National Hockey League (NHL).",
+        "question": "The team captain of the 2008–09 Chicago Blackhawks season was born in what year?",
+        "answer": "1988",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Rhododendron (from Ancient Greek ῥόδον \"rhódon\" \"rose\" and δένδρον \"déndron\" \"tree\") is a genus of 1,024 species of woody plants in the heath family (Ericaceae), either evergreen or deciduous, and found mainly in Asia, although it is also widespread throughout the highlands of the Appalachian Mountains of North America.Liriodendron is a genus of two species of characteristically large deciduous trees in the magnolia family (Magnoliaceae).",
+        "question": "Are Rhododendron and Liriodendron both deciduous genii?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " It is a sequel to, and follows the concept of \"Three\" (2002), this time with more established directors.Three (, Thai: อารมณ์ อาถรรพณ์ อาฆาต , ) is a 2002 horror film collaboration consisting of three omnibus segments by directors from three Asian countries.",
+        "question": "Three... Extremes is a sequel to Three consist of what segments?",
+        "answer": "Three... Extremes is a sequel to Three with five omnibus segments.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He is the secondary guitarist, composer, and lead singer for the Mexican rock band Maná, the most successful Latin American band of all time with over 40 million albums sold worldwide.Maná (Spanish: \"manna\") is a Mexican Rock music band from Guadalajara, Jalisco. Maná has earned four Grammy Awards, eight Latin Grammy Awards, five MTV Video Music Awards Latin America, six Premios Juventud awards, nineteen Billboard Latin Music Awards and fifteen Premios Lo Nuestro awards.",
+        "question": "How many Grammy awards has the band for which Fher Olvera is the lead singer won?",
+        "answer": "Maná has won several awards, but some of them are not Grammy Awards.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Heze () is a prefecture-level city in southwestern Shandong, China.Shahe () is a county-level city in the prefecture-level city of Xingtai, in the southern part of Hebei province of the China.",
+        "question": "What country are both Heze and Shahe, Hebei located in?",
+        "answer": "Both Heze and Shahe are located in China.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Corey Sanders has served as Chief Operating Officer of MGM Resorts International since June 2010. It is owned and operated by MGM Resorts International.",
+        "question": "what does Corey I. Sanders and Excalibur Hotel and Casino have in common?",
+        "answer": "Corey I. Sanders and the Excalibur Hotel and Casino are both owned by the same company.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " In the Baroque period, the major dance styles were noble court dances (see Baroque dance).Baroque dance is dance of the Baroque era (roughly 1600-1750), closely linked with Baroque music, theatre and opera.",
+        "question": "What were the major dance styles during the era that was roughly from 1600-1750?",
+        "answer": "noble court dances",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Madeleine is a 1950 film directed by David Lean, based on a true story about Madeleine Smith, a young Glasgow woman from a wealthy family who was tried in 1857 for the murder of her lover, Emile L'Angelier. The trial was much publicized in the newspapers of the day and labeled \"the trial of the century\".Dorothy Anne Todd (24 January 1909 – 6 May 1993) was an English actress and producer.",
+        "question": "what nationality was the actress that stared in Madeleine, that was also Leans then wife?",
+        "answer": "English actress",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " In September 2004, massive rains from the remnants of Hurricane Frances and Hurricane Ivan caused the Swannanoa to flood, causing major damage to the Biltmore Village section of Asheville, and to the other communities that it flows through. Ivan formed in early September, and reached Category 5 strength on the Saffir-Simpson Hurricane Scale.",
+        "question": "What Category 5 hurricane cause the Sqannanoa River to flood?",
+        "answer": "Hurricane Ivan",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Wind Italy has 21.6 million mobile customers with a market share of 22.9% (placing itself behind TIM and Vodafone Italy) and 2.8 million customers on fixed lines with a market share of 13.2% (that makes it the second largest fixed line operator, behind TIM).Telecom Italia is an Italian telecommunications company headquartered in Rome, which provides telephony services, mobile services, and DSL data services.",
+        "question": "WIND ranks behind which Rome-based telecommunications company?",
+        "answer": "Telecom Italia",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Johnny \"Peebucks\" Bonnel (born August 7, 1967) is the lead singer and a songwriter of the punk rock band Swingin' Utters and the alternative punk rock band Filthy Thievin' Bastards.Babatunde Omoroga \"Tunde\" Adebimpe (born February 26, 1975) is an American musician, actor, director, and visual artist best known as the lead singer of the Brooklyn-based band TV on the Radio.",
+        "question": "Are Johnny Bonnel and Tunde Adebimpe members of the same band?",
+        "answer": "Johnny Bonnel and Tunde Adebimpe briefly played together in a punk rock band called The Filthy Bastards.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " Launched in 2005, the feature is syndicated by Universal Uclick and appears in such publications as the \"New York Daily News\", the \"Boston Herald\", the \"Toronto Sun\", Hong Kong's \"Daily Young Post\", India's \"Mail Today\", Tokyo's \"Mainichi Weekly\", the \"Bangkok Post Student Weekly\", and South Africa's \"People Magazine\".The Toronto Sun is an English-language daily tabloid newspaper published in Toronto, Ontario, Canada.",
+        "question": "Biographic is a weekly comics feature by award-winning cartoonist and illustrator Steve McGarry, the feature is syndicated by Universal Uclick and appears in such publications as The Toronto Sun, an English-language daily tabloid newspaper published in Toronto, Ontario, in which country?",
+        "answer": "Canada",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "A King in New York is a 1957 British comedy film directed by and starring Charlie Chaplin in his last leading role, which co-stars, among others, his young son Michael.Sir Charles Spencer \"Charlie\" Chaplin, {'1': \", '2': \", '3': 'KBE', '4': \"} (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, and composer who rose to fame in the era of silent film.",
+        "question": " A King in New York is a 1957 British comedy film directed by and starring an English comic who rose to fame in what era?",
+        "answer": "Charlie Chaplin rose to fame in the era of talkies.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " It is about the Blizzard of 1888 that hit the north-east of North America, and concentrates on New York City. The storm, referred to as the Great White Hurricane, paralyzed the East Coast from the Chesapeake Bay to Maine, as well as the Atlantic provinces of Canada.",
+        "question": "BLIZZARD! The Storm That Changed America was about the storm also referred to as what?",
+        "answer": "The Snowmageddon of 1888.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "The Desire to Live (Spanish: \"El Deseo de vivir\" ) is a 1973 Argentine romantic musical film directed by Julio Saraceni and starring Sandro and Elena Sedova.Roberto Sánchez-Ocampo (August 19, 1945 – January 4, 2010), better known by his artist names Sandro/Sandro de América (\"Sandro of America\"), \"Gitano\" (gypsy), and the Argentine Elvis, was a notable Argentine singer and actor.",
+        "question": "Who directed the 1973 Argentine romantic musical film starring the Argentine Elvis?",
+        "answer": "The film was self-directed by Sandro.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " The 20 poets were chosen by a panel of judges comprising Melvyn Bragg (non-voting chair), poets Michael Longley and Vicki Feaver, literary critic James Wood, Margaret Busby (publisher and author) and John Osborne (Professor of American Studies at Hull University and editor of the poetry magazine \"Bête Noire\").James Douglas Graham Wood (born 1 November 1965 in Durham, England) is an English-American literary critic, essayist and novelist.",
+        "question": "When was the literary critic on the panel of judges for New Generation poets born?",
+        "answer": "1 November 1965",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Telomian is a breed of dog native to Malaysia.The Mudi (in Hungarian, the plural form of mudi is \"mudik\") is a herding dog breed from Hungary.",
+        "question": "Are both Telomian and Mudi examples of dog breed?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " Katy Perry won one of her 2 nominations, whereas Adele and Taylor Swift each won the award for which they were nominated. One of the leading contemporary recording artists, she is known for narrative songs about her personal life, which have received widespread media coverage.",
+        "question": "Which singer won an award at he 40th Annual American Music Awards who is known for writing narrative songs about her personal life?",
+        "answer": "Katy Perry won an award.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Millbrook, also known as Chalfont, is a neighbourhood in the Northeast section of Philadelphia, Pennsylvania, United States.Philadelphia Mills (formerly Franklin Mills) is an enclosed shopping mall located in Northeast Philadelphia, bordering Bensalem in Bucks County and 15 mi outside Center City. Formerly named for Benjamin Franklin, the mall houses 200 stores, a movie theatre, two food courts, and seven theme restaurants and was visited by an estimated 18 million people in 2006.",
+        "question": "Which enclosed shopping mall was formerly named for Benjamin Franklin and is next to the Millbrook, Philadelphia neighbourhood?",
+        "answer": "Philadelphia Mills",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Peter Thomas Ward (born July 26, 1937 in Montreal, Quebec) is a retired professional baseball player who played 9 seasons for the Baltimore Orioles, Chicago White Sox, and New York Yankees of Major League Baseball.The New York Yankees are an American professional baseball team based in the New York City borough of the Bronx. Frank Farrell and Bill Devery purchased the franchise (which had ceased operations) and moved it to New York City, renaming the club the New York Highlanders. The Highlanders were officially renamed the Yankees in 1913 .",
+        "question": "Peter Thomas Ward played for a team that was offically renamed in what year?",
+        "answer": "1913",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Iraq in Fragments is a documentary film directed by James Longley.Beyond Hatred (French: \"Au-delà de la haine\" ) is a 2005 French documentary film written and directed by Olivier Meyrou.",
+        "question": "Which documentary is French, Iraq in Fragments or Beyond Hatred?",
+        "answer": "Beyond Hatred",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Pictures at an Exhibition (Russian: Картинки с выставки – Воспоминание о Викторе Гартмане , \"Kartínki s výstavki – Vospominániye o Víktore Gártmane\" , \"Pictures from an Exhibition – A Remembrance of Viktor Hartmann\"; French: \"Tableaux d'une exposition\" ) is a suite of ten pieces (plus a recurring, varied Promenade) composed for the piano by Russian composer Modest Mussorgsky in 1874.Modest Petrovich Mussorgsky (Russian: Моде́ст Петро́вич Му́соргский ; ] ; 21 March [O.S. 9 March] 1839 – 28 March [O.S. 16 March] 1881 ) was a Russian composer, one of the group known as \"The Five\".",
+        "question": "What group did the composer of Pictures at an Exhibition belong to?",
+        "answer": "The Five",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " He is the founding member and current lead vocalist, keyboardist, and recently guitarist for the rock band Falling in Reverse, and is the former vocalist and founding member of post-hardcore band Escape the Fate.Christopher Amott (born 23 November 1977) is a Swedish guitarist and vocalist, younger brother of Michael Amott and founding member of the Swedish metal bands Arch Enemy and Armageddon.",
+        "question": "Are Ronnie Radke and Christopher Amott both guitarists?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Pagemaster is a 1994 American live-action/animated fantasy adventure film starring Macaulay Culkin, Christopher Lloyd, Whoopi Goldberg, Patrick Stewart, Leonard Nimoy, and Frank Welker. The film was produced by Turner Pictures and released by 20th Century Fox on November 23, 1994. He is best known for his role as Fred Jones from the \"Scooby-Doo\" franchise since its conception in 1969, as the only original voice actor still with the \"Scooby-Doo\" franchise, along with the voice of Megatron in the \"Transformers\" franchise, specifically \"Transformers G1\" and \"\", as well as Scooby-Doo since 2002.",
+        "question": "The actor that voices Fred Jones in the \"Scooby-Doo\" franchise also appears wtih Macaulay Culkin in a 1994 adventure film produced by what company?",
+        "answer": "Turner Pictures",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Peng Shuai (; ; born 8 January 1986) is a Chinese professional female tennis player.Daniel Mark Nestor {'1': \", '2': \", '3': \", '4': \"} (Serbian Cyrillic: Данијел Несторовић; born September 4, 1972 as Danijel Nestorović) is a Canadian professional tennis player.",
+        "question": "Are both Peng Shuai and Daniel Nestor professional sports players?",
+        "answer": "Peng Shuai is a professional sportswoman, whereas Daniel Nestor is an amateur tennis player.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Although most of the action is a verbatim performance of Oscar Wilde's 1893 play \"Salome\", which is itself based on a story from the New Testament, there is also a framing narrative written by Russell himself.Oscar Fingal O'Flahertie Wills Wilde (16 October 185430 November 1900) was a prolific Irish writer who wrote plays, fiction, essays, and poetry.",
+        "question": "The film Salome's Last Dance is based on a play by a writer that died in what year?",
+        "answer": "1900",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Wall Street Tower is a mixed-use building under development in the Financial District of Manhattan.55 Hudson Yards (also known as One Hudson Yards or One Hudson Boulevard) is a future tower just outside the Hudson Yards Redevelopment Project. Located in Chelsea, Manhattan, it will add a combined 4000000 sqft of space to the Hudson Yards project, along with 50 Hudson Yards, even though the two buildings will be located outside of the redevelopment site itself.",
+        "question": "Of the Wall Street Tower and 55 Hudson Yards, which one will add 4,000,000 sq ft of space?",
+        "answer": "Wall Street Tower will add 4,000,000 sq ft of space.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Close At Hand is the second EP by James McCartney, son of Paul and Linda McCartney.James Louis McCartney (born 12 September 1977) is a British musician and songwriter living in London.",
+        "question": "Close At Hand is the second EP by James McCartney, son of Paul and Linda McCartney, a British musician and songwriter living in London, born on which date?",
+        "answer": "James McCartney was born on 14 September 1977.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Trump Card: Playing to Win in Work and Life is a 2009 book by Ivanka Trump. She is the daughter of the president and his first wife, former model Ivana Trump.",
+        "question": "What presidential daughter wrote The Trump Card?",
+        "answer": "The author of The Trump Card is Melania Trump.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " Philips' works have been performed at many major music festivals including Tanglewood and at the Wigmore Hall by international artists such as Gerald Finley, Dawn Upshaw, Sir Thomas Allen, the Vertigo String Quartet, the Tanglewood Festival Orchestra and the BBC orchestras. He is widely admired in the opera world for his voice, the versatility of his repertoire, and his acting—leading many to regard him as one of the best lyric baritones of the late 20th century.",
+        "question": "Who performed at Wigmore Hall and is regarded as one of the best lyric baritones of the 20th Century?",
+        "answer": "It was actually a quartet.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Play Dirty is a thriller novel written by Sandra Brown in 2007.Sandra Lynn Brown (born March 12, 1948) is an American bestselling author of romantic novels and thriller suspense novels.",
+        "question": "What is the nationality of the author of \"Play Dirty\"?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Ashley Smith-Brown (born 31 March 1996 in Manchester) is an English professional footballer who plays for Heart of Midlothian, in the Scottish Premiership, as a left back, on loan from Manchester City. He has previously played for NAC Breda on loan.NAC Breda (] ), often simply known as NAC, is a Dutch professional football club, based in Breda, The Netherlands. NAC Breda play in the Rat Verlegh Stadium, named after their most important player, Antoon 'Rat' Verlegh.",
+        "question": "Ashley Smith-Brown is a professional footballer who plays for Heart of Midlothian, but who also played on loan for what Dutch professional football club based in Breda, and who play at the Rat Verlegh Stadium?",
+        "answer": "Ashley Smith-Brown played on loan for PSV Eindhoven.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Smart Formore was a small all wheel drive SUV, riding on the same platform as the Mercedes-Benz C-Class.The Mercedes-Benz GLK (codename X204) is a compact luxury crossover SUV that went on sale from the autumn of 2008 after its public debut at the 2008 Beijing Auto Show alongside the competing Audi Q5.",
+        "question": "The Smart Formore and the car codenamed X204 are what kind of cars?",
+        "answer": "The Smart Formore and the car codenamed X204 are both compact cars.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " The film was a success at the Hong Kong box office, earning two and a half times the amount of Chan's previous film, \"Snake in the Eagle's Shadow\", which was also considered a successful film.Snake in the Eagle's Shadow () is a 1978 Hong Kong martial arts action film directed by Yuen Woo-ping in his directorial debut, and starring Jackie Chan, Hwang Jang Lee and Yuen Woo-ping's real life father, Yuen Siu Tien.",
+        "question": "Drunken Master earned two and a half times the amount of This Hong Kong martial arts action  film directed by Yuen Woo-ping that came out in what year?",
+        "answer": "1978",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "NBA Access with Ahmad Rashad is an American television program which initially aired on Saturday afternoons on ABC.Ahmad Rashād (born Robert Earl Moore; November 19, 1949) is an American sportscaster (mostly with NBC Sports) and former professional football player.",
+        "question": "NBA Access with Ahmad Rashad, an American sportscaster (mostly with NBC Sports) and former professional football player, is an American television program which initially aired on Saturday afternoons on which channel?",
+        "answer": "NBA Access with Ahmad Rashad initially aired on Saturday afternoons, but the channel has been changed.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Benjamin Lev \"Ben\" Kweller (born June 16, 1981) is an American singer, songwriter and multi-instrumentalist.Gerard Arthur Way (born April 9, 1977) is an American singer, songwriter, musician, and comic book writer who was the lead vocalist and co-founder of the rock band My Chemical Romance from its formation in September 2001 until its split in March 2013.",
+        "question": "Do both Gerard Way and Ben Kweller write comic books?",
+        "answer": "Yes, both Gerard Way and Ben Kweller are successful comic book writers.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Bald Eagle and Spring Creek Navigation Company was a canal company in central Pennsylvania intended to link the iron industry of Bellefonte, Pennsylvania, with the Pennsylvania canal system. Opened for half its length in 1837, the remainder of the canal was not completed until 1848. It was completed by the United States Army Corps of Engineers in 1963.",
+        "question": "Which Channel was completed first Bald Eagle and Spring Creek Navigation or Sacramento Deep Water Ship Channel ?",
+        "answer": "The Sacramento Deep Water Ship Channel was completed first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Adam Wade Gontier (born May 25, 1978) is a Canadian singer, songwriter and musician.Cheryl Elizabeth Gamble (born June 13, 1970), better known by her stage name Coko, also known as Cheryl Clemons, is an American R&B recording artist and television personality.",
+        "question": "Are Adam Gontier and Coko of the same nationality?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "John Feckenham (c. 1515 – October, 1584), also known as John Howman of Feckingham and later John de Feckenham or John Fecknam, was an English churchman, the last abbot of Westminster.Westminster Abbey, formally titled the Collegiate Church of St Peter at Westminster, is a large, mainly Gothic abbey church in the City of Westminster, London, just to the west of the Palace of Westminster.",
+        "question": "Formerly titled the Collegiate Church of St Peter at Westminster, of which church was John Fecknam the last abbot?",
+        "answer": "St. Paul's Cathedral",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " It replaced \"Father, I'll Take Care For You\" and airs on MBC on Saturdays and Sundays at 22:00 (KST) starting May 13, 2017 for 50 episodes.Seo Ju-hyun (born June 28, 1991), known professionally as Seohyun, is a South Korean singer and actress.",
+        "question": "Seo Ju-hyun stars in a 2017 South Korean series that replaced what show on MBC?",
+        "answer": "Seo Ju-hyun stars in a 2017 South Korean series that replaced \"My Love from the Star\" on MBC.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Betzy Alexandra Kjelsberg (1 November 1866 – 3 October 1950), born \"Betzy Aleksandra Børresen\", was a Norwegian politician for the Liberal Party, being the first female board member of the party, Norway's first female factory inspector from 1910–1936, and a member of the feminist movement. Kjelsberg was born in Svelvik, Vestfold.Vestfold ] is a county in Norway, bordering Buskerud and Telemark.",
+        "question": "The first female board member for the Liberal Party, she was born in which county in Norway?",
+        "answer": "Kjelsberg was born in Oslo.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Todd George Fancey is a Canadian guitarist, keyboardist, and solo artist. He is most widely known as the guitarist for Vancouver-based indie rock band The New Pornographers and the bassist for the band Limblifter.The New Pornographers is a Canadian indie rock band formed in 1997 in Vancouver, British Columbia.",
+        "question": "What year was Todd George Fancey's Vancouver-based indie rock band formed?",
+        "answer": "Todd George Fancey formed the Vancouver-based indie rock band in 2001.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "George Joseph Maloof Jr. (born September 2, 1964) is an American entrepreneur and businessman. He is the former owner of the Sacramento Kings, the former owner of the now defunct Sacramento Monarchs, and minority owner of the Palms Casino Resort in Las Vegas with his brothers Gavin Maloof, Joe Maloof, Phil Maloof and sister Adrienne Maloof.Palms Casino Resort is a hotel and casino located near the Las Vegas Strip in Paradise, Nevada. It has 703 rooms and suites and contains 94840 sqft casino, recording studio, Michelin-starred restaurant and 2,500-seat concert theater.",
+        "question": " George Joseph Maloof Jr is the minority owner of a hotel and casino with how many rooms and suites?",
+        "answer": "703",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Big Salmon River is a small river in southern New Brunswick, Canada, that flows south into the Bay of Fundy.The Bay of Fundy (French: \"Baie de Fundy\" ) is a bay on the Atlantic coast of North America, on the northeast end of the Gulf of Maine between the Canadian provinces of New Brunswick and Nova Scotia, with a small portion touching the U.S. state of Maine.",
+        "question": "What is the French name of the bay into which the Big Salon River flows?",
+        "answer": "Baie de Fundy",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 1982 Georgia Bulldogs football team represented the University of Georgia during the 1982 NCAA Division I-A football season. Led by head coach Vince Dooley, the top ranked Bulldogs lost to number two Penn State 23-27 in the Sugar Bowl.Vincent Joseph Dooley (born September 4, 1932) was the head football coach (seasons 1964 through 1988) and athletic director (1979 to 2004) at the University of Georgia.",
+        "question": "What other title did the head coach have who coached the Bulldogs in 1982?",
+        "answer": "athletic director",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Snow Pink is the second extended play by South Korean girl group Apink.Apink (Korean: 에이핑크 , Japanese: エーピンク ; also written as A Pink) is a South Korean girl group formed by Plan A Entertainment (formerly A Cube Entertainment) in 2011.",
+        "question": "Snow Pink was released by a group formed by what company? ",
+        "answer": "Snow Pink was released by a group formed by YG Entertainment.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Trinidad moruga scorpion (\"Capsicum chinense\") is native to the district of Moruga in Trinidad and Tobago. According to the Chile Pepper Institute, the previous record holder was the Bhut jolokia of India, as it never accepted the Infinity chili and Naga Viper pepper that were previous record holders per Guinness World Records.The Infinity Chili pepper is a chili pepper hybrid of the \"Capsicum chinense\" species created in England by chili breeder Nick Woods of Fire Foods, Grantham, Lincolnshire.",
+        "question": "The Chile Pepper Institute never accepted a chili pepper that was the hybrid of what species created in England?",
+        "answer": "\"Capsicum chinense\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Let It Rock is a Juno Award-nominated album that documents American-Canadian singer Ronnie Hawkins' 60th birthday celebration and concert at Massey Hall in Toronto, Ontario, Canada. Jeff Healey sat in on guitar for most, if not all, of the performances.Norman Jeffrey \"Jeff\" Healey (March 25, 1966 – March 2, 2008) was a Canadian jazz and blues-rock vocalist, guitarist, and songwriter who attained musical and personal popularity, particularly in the 1980s and 1990s. He hit Number 5 on the U.S. \"Billboard\" Hot 100 chart with \"Angel Eyes\" and reached the Top 10 in Canada with the songs \"I Think I Love You Too Much\" and \"How Long Can a Man Be Strong\".",
+        "question": "Which song, by the man who played guitar for most of the performances on Let It Rock, was number 5 on the US \"Billboard\" Hot chart sometime in the 1980s or 1990s?",
+        "answer": "The song played on Let It Rock was \"Yesterday\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Jeremy Brock MBE (born 1959) is an English writer and director whose works include the screenplays \"Mrs Brown\", \"Driving Lessons\", \"The Last King of Scotland\", \"Charlotte Gray\", and \"The Eagle\".The Eagle is a 2011 epic historical drama film set in Roman Britain directed by Kevin Macdonald, and starring Channing Tatum, Jamie Bell and Donald Sutherland. Adapted by Jeremy Brock from Rosemary Sutcliff's historical adventure novel \"The Eagle of the Ninth\" (1954), the film tells the story of a young Roman officer searching to recover the lost Roman eagle standard of his father's legion in the northern part of Great Britain.",
+        "question": "Jeremy Brock is the writer and director of this 2011 drama that was adapted from him and what other female?",
+        "answer": "Jeremy Brock adapted \"The Eagle\" from his own screenplay, \"Mrs Brown\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Rossendale Free Press is a weekly newspaper published in Rossendale, Lancashire, England and distributed in Rossendale's four main towns of Rawtenstall, Bacup, Haslingden, and Ramsbottom. It is 19 mi north of Manchester.",
+        "question": "The Rossendale Free Press serves the town how far north of Manchester?",
+        "answer": "The Rossendale Free Press serves several towns north of Manchester.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " When made with cream the drink is rather like Baileys Irish Cream.Baileys Irish Cream is an Irish whiskey- and cream-based liqueur, made by Gilbeys of Ireland.",
+        "question": "Who makes the liqueur that Atholl Brose tastes like when made with cream?",
+        "answer": "Gilbeys of Ireland",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Radical translation is a thought experiment in \"Word and Object\", a major philosophical work from American philosopher Willard Van Orman Quine.Word and Object is a 1960 work by philosopher Willard Van Orman Quine, in which Quine expands upon the line of thought of his earlier writings in \"From a Logical Point of View\" (1953), and reformulates some of his earlier arguments, such as his attack in \"Two Dogmas of Empiricism\" on the analytic-synthetic distinction.",
+        "question": "Radical translation is a thought experiment in \"Word and Object\", a major philosophical work from American philosopher Willard Van Orman Quine, in which year was the work made, in which Quine expands upon the line of thought of his earlier writings in \"From a Logical Point of View\" (1953), and reformulates some of his earlier arguments, such as his attack in \"Two Dogmas of Empiricism\" on the analytic-synthetic distinction?",
+        "answer": "1960",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Uralla-Walcha was a former electoral district of the Legislative Assembly in the Australian state of New South Wales, created in 1894 from part of New England and including Uralla and Walcha.Uralla is a town on the Northern Tablelands, New South Wales, Australia.",
+        "question": "Uralla-Walcha was a former electoral district of the Legislative Assembly in the Australian state of New South Wales, created in 1894 from part of New England and including Walcha and which town on the Northern Tablelands, New South Wales, Australia?",
+        "answer": "Walcha is the town in Uralla-Walcha constituency.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " It features 22 tracks including three \"Billboard\" Hot 100 number-one hits: \"See You Again\" by Wiz Khalifa featuring Charlie Puth, \"Can't Feel My Face\" by The Weeknd and \"Bad Blood\" by Taylor Swift featuring Kendrick Lamar.\"Bad Blood\" is a song by American singer-songwriter Taylor Swift, from her fifth studio album \"1989\" (2014).",
+        "question": "Now That's What I Call Music! 56, is the 56th edition of the \"Now!\" series in the United States, it features which song by Taylor Swift featuring Kendrick Lamar, from her fifth studio album \"1989\" (2014)?",
+        "answer": "\"Now That's What I Call Music! 56\" doesn't feature \"Bad Blood\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Hartwell was also a member of the Atlanta Falcons, Cincinnati Bengals, Oakland Raiders and Las Vegas Locomotives.The Las Vegas Locomotives (called the Locos for short) were a professional American football team based in Las Vegas, Nevada that played in the United Football League. The team played their home games at Sam Boyd Stadium, home field for the University of Nevada, Las Vegas.",
+        "question": "Edgerton Hartwell was a member of the football team that played in what league?",
+        "answer": "United Football League",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Jacques Tourneur (] ; November 12, 1904 – December 19, 1977) was a French film director known for the classic film noir \"Out of the Past\" and a series of low-budget horror films he made for RKO Studios, including \"Cat People\", \"I Walked with a Zombie\" and \"The Leopard Man\".Alexander \"Alex\" Cox (born 15 December 1954 in Bebington, Cheshire) is a British film director, screenwriter, nonfiction author, broadcaster and sometime actor, notable for his idiosyncratic style and approach to scripts.",
+        "question": "Jacques Tourneur and Alex Cox, have which mutual occupation?",
+        "answer": "film director",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Dragon Ball GT (Japanese: ドラゴンボール<ruby ><rb>GT</rb><rp> (</rp><rt >ジーティー</rt><rp>)</rp></ruby> , Hepburn: Doragon Bōru Jī Tī ) is a Japanese anime series based on Akira Toriyama's \"Dragon Ball\" manga.Akira Toriyama (鳥山 明 , Toriyama Akira , born April 5, 1955 in Nagoya, Aichi) is a Japanese manga and game artist.",
+        "question": "鳥山 明 was the creator of what manga?",
+        "answer": "Dragon Ball",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The album was released on March 23, 2010, by Urban Icons Records and Traffic Entertainment Group. The album features guest appearances from Raekwon, Cappadonna, Cormega, Kurupt, Planet Asia, Termanology, Carlton Fisk, Billy Danze and Fes Taylor.M.O.P. (short for Mash Out Posse) is an American hip hop duo. Composed of rappers Billy Danze and Lil' Fame, the duo are known for their aggressive lyrical delivery style.",
+        "question": "When was the third studio album of a Wu-Tang Clan member, which features guest appearances from a member of the duo M.O.P., released?",
+        "answer": "March 23, 2010",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The first Chez Ntemba nightclub was founded in 1992 in Lusaka.Lusaka is the capital and largest city of Zambia.",
+        "question": "The first Chez Ntemba nightclub was founded in 1992 in a city located in which country ?",
+        "answer": "Zambia",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Beechwood is a Hudson River estate in Scarborough-on-Hudson, in Briarcliff Manor, New York. The estate was most notably the home of Frank A. Vanderlip and his family, and is a contributing property to the Scarborough Historic District.Briarcliff Manor is a suburban village in Westchester County, New York, around 30 mi north of New York City. It is on 5.9 sqmi of land on the east bank of the Hudson River, geographically shared by the towns of Mount Pleasant and Ossining.",
+        "question": " What is the area of the place which is famous for the home of Frank A. Vanderlip and his family?",
+        "answer": "The area of Beechwood is approximately 6 sqmi.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Juan Carlos Castagnino Municipal Museum of Art is a museum of fine arts in Mar del Plata, Argentina.Mar del Plata is an Argentine city in the southeast part of Buenos Aires Province located on the coast of the Atlantic Ocean.",
+        "question": "In what part of Buenos Aires Province is the city that has The Juan Carlos Castagnino Municipal Museum of Art located?",
+        "answer": "The Juan Carlos Castagnino Municipal Museum of Art is located in the southwest part of Buenos Aires Province.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Ivan \"John\" Jurkovic (born August 18, 1967) is a former American football player currently employed as a broadcaster. Jurkovic played professionally as a defensive tackle for the Green Bay Packers, Jacksonville Jaguars, and Cleveland Browns.The Cleveland Browns are a professional American football team based in Cleveland, Ohio.",
+        "question": "Which professional American football team based in Ohio did Ivan \"John\" Jurkovic play for?",
+        "answer": "Cleveland Browns",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Her husband Fred, who committed suicide in prison while awaiting trial, is believed to have collaborated with her in the torture and murder of at least nine young women between 1973 and 1987, whereas Rose was judged to have murdered her 8-year-old stepdaughter, Charmaine, in 1971.Frederick Walter Stephen West (29 September 1941 – 1 January 1995) was an English serial killer who committed at least 12 murders between 1967 and 1987 in Gloucestershire, the majority with his second wife, Rosemary West.",
+        "question": "Rosemary Pauline \"Rose\" West, is a British serial killer, now an inmate at HMP Low Newton, Brasside, Durham, after being convicted of ten murders in 1995, her husband, named what,an English serial killer who committed at least 12 murders between 1967 and 1987 in Gloucestershire, the majority with his wife, committed suicide in prison while awaiting trial ?",
+        "answer": "Rosemary West's husband, who was also a well-known serial killer, is known by the name Frederick West.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Tales for the Midnight Hour is a series of scary children's books written by Judith Bauer Stamper. This anthology horror series served as the precursor to various other similar works, including \"Scary Stories to Tell in the Dark\" and \"Scary Stories for Sleep-overs\".Scary Stories to Tell in the Dark is a series of three children's books written by Alvin Schwartz and illustrated by Stephen Gammell.",
+        "question": " Tales for the Midnight Hour served as the precursor to other similar works including a series of three children's books written by Alvin Schwartz and illustrated by who?",
+        "answer": "Scary Stories to Tell in the Dark was written by Alvin Schwartz and illustrated by Stephen Gammell's assistant.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Dennis Agajanian is a Christian musician, of Armenian descent, from the U.S. who has recorded over 20 albums.Mike Connors (born Krekor Ohanian; August 15, 1925 – January 26, 2017) was an Armenian-American actor best known for playing private detective Joe Mannix in the CBS television series \"Mannix\" from 1967 to 1975, a role which earned him a Golden Globe Award in 1970, the first of six straight nominations, as well as four consecutive Emmy nominations from 1970 through 1973. He also starred in the short-lived series \"Tightrope!\" (1959-1960) and \"Today's FBI\" (1981-1982). Connors' acting career spanned six decades; in addition to his work on television, he appeared in numerous films, most notably the 1965 World War II black comedy \"Situation Hopeless... But Not Serious\", in which he and Robert Redford played American soldiers taken prisoner by a German villager played by Alec Guinness.",
+        "question": "Who has recorded more albums, Dennis Agajanian or Mike Connors?",
+        "answer": "Mike Connors has recorded a few albums.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Paprika is a 1991 Italian film directed by Tinto Brass.Giovanni \"Tinto\" Brass (born 26 March 1933) is an Italian filmmaker.",
+        "question": "What was the nationality of the director of the film Paprika?",
+        "answer": "Italian",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Minister of State for Policing, Fire and Criminal Justice is a ministerial position held jointly at the Home Office and the Ministry of Justice in the Government of the United Kingdom.Michael Alan Penning (born 28 September 1957) is a British Conservative Party politician, who has served as Member of Parliament for Hemel Hempstead since 2005.",
+        "question": "Who was born in 28 September 1957 and held the position of The Minister of State for Policing, Fire and Criminal Justice?",
+        "answer": "The Minister of State for Policing, Fire and Criminal Justice was born on 28 September 1957 and holds a degree in political science.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "The 2014 Monaco Grand Prix (formally the Formula 1 Grand Prix de Monaco 2014) was a Formula One motor race held on 25 May at the Circuit de Monaco in Monte Carlo. The 78-lap race was won by Mercedes driver Nico Rosberg after starting from pole position.Nico Erik Rosberg (born 27 June 1985) is a German–Finnish former Formula One racing driver and current Formula One World Champion who drove for Williams F1 and Mercedes AMG Petronas under the German flag.",
+        "question": "A German–Finnish former Formula One racing driver won The 2014 Monaco Grand Prix on what date?",
+        "answer": "25 May",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 1686 House is a fine dining restaurant in Kingston, New Hampshire, USA, that is best known for its extensive wine list and colonial decor. In 1992, it won one of the six 1992 Grand Awards for Outstanding Restaurant Wine Lists given by \"Wine Spectator\". The population at the 2010 census was 6,025.",
+        "question": "Which award did this fine dining restaurant, located in a town of a population of 6,025 as of 2010, win in 1992?",
+        "answer": "The 1686 House won an award for outstanding wine selection.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The film stars Dennis Quaid, Rachel Griffiths, Jay Hernandez, and Brian Cox.Rachel Anne Griffiths (born 18 December 1968) is an Australian actress.",
+        "question": "The Rookie stars which actress of Australian heritage?",
+        "answer": "The Rookie stars a famous Australian actress.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " The album featured the hit single \"Nothing's Gonna Stop Us Now\", and the Top 10 hit \"It's Not Over ('Til It's Over)\", the former of which was included on the soundtrack of the fantasy comedy movie \"Mannequin\" and the latter of which was a tune originally performed the previous year by one-time Manfred Mann's Earth Band frontman Chris Thompson for \"Playing for Keeps\" soundtrack. Featured as the theme to the romantic comedy film \"Mannequin\", it hit No. 1 in the \"Billboard\" Hot 100 on April 4, 1987 and reached No. 1 on the UK Singles Chart for four weeks the following month and became the UK's 2nd biggest selling single of 1987.",
+        "question": "What song on the album No Protection was a No. 1 in the \"Billboard\" Hot 100 in April 1987?",
+        "answer": "The album No Protection featured a song that hit the top of the charts in April 1987.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Magnetic is the tenth studio album by American rock band Goo Goo Dolls, released on June 11, 2013, through Warner Bros.The Goo Goo Dolls are an American rock band formed in 1985 in Buffalo, New York, by vocalist and guitarist John Rzeznik, vocalist and bassist Robby Takac, and drummer George Tutuska.",
+        "question": "Magnetic is the tenth studio album by which American rock band, formed in 1985 in Buffalo, New York, by vocalist and guitarist John Rzeznik, vocalist and bassist Robby Takac, and drummer George Tutuska?",
+        "answer": "The Goo Goo Dolls is the American rock band Magnetic was not created by any other American rock band.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Maianthemum canadense (Canadian may-lily, Canada mayflower, false lily-of-the-valley, Canadian lily-of-the-valley, wild lily-of-the-valley, Two-leaved Solomonseal) is a dominant understory perennial flowering plant, native to the sub-boreal conifer forests in Canada and the northern United States, from Yukon and British Columbia east to Newfoundland and south to Nebraska and Pennsylvania, and also in the Appalachian Mountains to northern Georgia. It is the only triply landlocked U.S. state. Its state capital is Lincoln, and its largest city is Omaha, which is on the Missouri River.",
+        "question": "What is the capital of the only triply landlocked U.S. state wherein one can find Maianthemum canadense?",
+        "answer": "Lincoln",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Deuce Bigalow is a fictional character played by Rob Schneider in the following movies: A stand-up comic and veteran of the NBC sketch comedy series \"Saturday Night Live\", he went on to a successful career in feature films, including starring roles in the comedy films \"\", \"The Hot Chick\", \"The Benchwarmers\", and \"Grown Ups\".",
+        "question": "Deuce Bigalow is a character played by an alumn of what NBC sketch comedy series?",
+        "answer": "Deuce Bigalow is a comedy character whose performance was inspired by a famous Saturday Night Live alumni.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He made his debut for Liverpool during the 1902–3 season, replacing the injured Sam Raybould in what was his only appearance of the season.Liverpool Football Club ( ) is a professional association football club based in Liverpool, Merseyside, England. They compete in the Premier League, the top tier of English football.",
+        "question": "what premier league team did john carlin play for in 1902?",
+        "answer": "John Carlin did not play for a Premier League team in 1902.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " It is a slowly spreading rhizomatous perennial native to mountain streamsides in woodland in the western United States (southwestern Oregon to northwestern California), growing to 2 m tall by 1 m wide.Melissa is a genus of perennial herbs in the Lamiaceae, native to Europe and Asia but cultivated and naturalized in many other places.",
+        "question": "Are Melissa and Darmera vegatables",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Flying Cowboys is an album by Rickie Lee Jones that was released in September 1989 and produced by Walter Becker of Steely Dan.Steely Dan is an American jazz rock band founded by core members Walter Becker (guitars, backing vocals) and Donald Fagen (keyboards, lead vocals) in 1972.",
+        "question": "Which jazz rock band founded by Walter Becker and Donald Fagan produced the album Flying Cowboys?",
+        "answer": "Steely Dan",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " After its first year, the school moved from the former St. Thomas Aquinas Parochial School to its permanent home at the old \"Reno Gazette-Journal\" newspaper plant donated by the Gannett Company.The Reno Gazette-Journal is the main daily newspaper for Reno, Nevada. It is owned by the Gannett Company.",
+        "question": "What is the name of the daily newspaper which was owned by the Gannett company and the Nevada School of Law was moved to its plant?",
+        "answer": "Reno Gazette-Journal",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Philip Henry Terzian (born 1950) is an American journalist and has been Literary Editor of \"The Weekly Standard,\" the well-known journal of politics and culture founded by William Kristol and Fred Barnes in 1995, since 2005.Derek Sherinian (born August 25, 1966) is an American keyboardist who has toured and recorded for Alice Cooper, Billy Idol, Yngwie Malmsteen, Kiss, Steve Vai, and Joe Bonamassa.",
+        "question": "Who is an American journalist and has been Literary Editor of \"The Weekly Standard,\",  Philip Terzian or Derek Sherinian",
+        "answer": "Derek Sherinian is the Literary Editor.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " As A. L. Rowse states in \"Shakespeare's Sonnets: The Problems Solved\", Sonnets 153 and 154 \"are not unsuitably placed as a kind of coda to the Dark Lady Sonnets, to which they relate.\"Alfred Leslie Rowse (4 December 1903 – 3 October 1997), known publicly as A. L. Rowse but to friends and family as \"Leslie\", was a British author and historian from Cornwall, England, UK.",
+        "question": "What British historian wrote about Sonnet 154?",
+        "answer": "A. L. Rowse",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Sundays at Tiffany's is a romance novel by the authors James Patterson and Gabrielle Charbonnet released on April 29, 2008.James Brendan Patterson (born March 22, 1947) is an American author and philanthropist.",
+        "question": "Sundays at Tiffany's was co-written by which American author and philanthopist?",
+        "answer": "James Brendan Patterson",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Duchy of Holstein (German: \"Herzogtum Holstein\" , Danish: \"Hertugdømmet Holsten\" ) was the northernmost state of the Holy Roman Empire, located in the present German state of Schleswig-Holstein. It was established when King Christian I of Denmark had his County of Holstein-Rendsburg elevated to a duchy by Emperor Frederick III in 1474.Christian I (February 1426 – 21 May 1481) was a Scandinavian monarch under the Kalmar Union.",
+        "question": "Under what union did the king who created Duchy of Holstein serve?",
+        "answer": "The Scandinavian Union",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Latina is an American lifestyle, entertainment, beauty and fashion magazine for bilingual, bicultural Hispanic women published in English by Latina Media Ventures. The magazine publishes 12 issues annually, available through subscription and on newsstands.",
+        "question": "Are Latina and Entrepreneur both monthly publications?",
+        "answer": "Yes, both are monthly magazines.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " He is best known for voicing Starscream in the \"Transformers Unicron Trilogy\" (\"\", \"\", and \"\"), Supreme Kai and Nappa in the Ocean dub of \"Dragon Ball Z\", Cobra Commander in \"\" and \"\", Blob in \"\", Leonardo in \"\", in \"\" and Pythor in \"\", as well as voicing many other characters in animated shows and anime dubs.The Blob (Frederick J. \"Fred\" Dukes) is a fictional supervillain appearing in American comic books published by Marvel Comics. The character is usually depicted as an adversary of the X-Men. A mutant originally depicted as an obese circus freak, the Blob claims to be immovable when he so desires.",
+        "question": "Michael Dobson voiced which character, an adversary of the X-Men, originally depicted as obese?",
+        "answer": "The Blob",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    }
+]

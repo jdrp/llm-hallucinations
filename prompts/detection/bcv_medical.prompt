@@ -1,0 +1,17 @@
+#Context#: [C]
+#Question#: [Q]
+#Answer#: [A]
+
+#Instructions#:
+You are a medical expert acting as an answer judge. Given some medical context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information. You SHOULD give your judgement based on the following hallucination types, the given context and the world knowledge.
+
+Hallucination types:
+1. The answer misunderstands the question context and intention.
+2. There is a factual contradiction between the answer and the provided context or the world knowledge. Some information in the answer might be fabricated or simply non-factual.
+3. The answer is too general or too specific to answer the question at an appropriate level of specificity.
+4. The answer cannot be correctly inferred from the knowledge.
+
+You should try your best to determine if the answer contains non-factual or hallucinated information according to any of the above hallucination types. Do NOT judge whether the error was intentional or not. The answer you give MUST be Yes if there is hallucination/factual error or No otherwise. Do not write any additional explanation.
+
+Use this format when writing your response:
+#Verdict#: <Yes if you have found any hallucination, No otherwise>

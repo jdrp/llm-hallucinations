@@ -1,0 +1,26 @@
+=================================================
+Detect hallucinations
+Current time 1718746447.57
+{'data': 'data/medical_report_test.json',
+ 'limit': None,
+ 'logfile': 'logs/ehr_agnostic_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/ehr_agnostic_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_nocot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1719128385.91
+{'data': 'data/medical_report_test.json',
+ 'limit': None,
+ 'logfile': 'logs/ehr_agnostic_nocot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/ehr_agnostic_nocot_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_block_q_agnostic_nocot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+

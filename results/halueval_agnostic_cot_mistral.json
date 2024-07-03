@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Lonny is a monthly online magazine, launched in October 2009, that focuses on lifestyle and home decor.Real Simple is a monthly women's interest magazine launched by Time Inc. in 2000.",
+        "question": "The online magazine Lonny was launched how many years after Real Simple made its debut?",
+        "answer": "launched in October 2009",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It was hosted by Nina Eichinger and Rolando Villazón and organised by The German Music Industry Association.Rolando Villazón Mauleón (born February 22, 1972) is a French/Mexican tenor. He now lives in France, and in 2007 he became a French citizen.",
+        "question": "Which Mexican tenor, now living in France, hosted the 2012 Echo Klassik Awards in Berlin?",
+        "answer": "Rolando Villazón",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Light Chasers is the tenth studio album by the American indie rock group Cloud Cult that was released in stores on September 14, 2010.Cloud Cult is an experimental indie rock band from Duluth, Minnesota led by singer/songwriter Craig Minowa.",
+        "question": "Light Chasers is the tenth studio album, released in stores on September 14, 2010, by the American indie rock group Cloud Cult, an experimental indie rock band from Duluth, Minnesota led by which singer/songwriter?",
+        "answer": "Craig Minowa",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Most of the concert's set list originates from \"Good Girl Gone Bad\", however, Rihanna also performed songs from her previous albums \"Music of the Sun\" (2005) and \"A Girl like Me\" (2006). It was released on April 10, 2006 by Def Jam Recordings.",
+        "question": "Good Girl Gone Bad Live also included songs for her 2006 album that was released in what month?",
+        "answer": "April",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Netaji Bhawan or Netaji Bhavan (\"Netaji's Residence\") is a building maintained as a memorial and research center to the life of the Indian nationalist \"Netaji\" Subhas Chandra Bose in Kolkata.Subhas Chandra Bose (23 January 1897 – 18 August 1945) was an Indian nationalist whose defiant patriotism made him a hero in India, but whose attempt during World War II to rid India of British rule with the help of Nazi Germany and Imperial Japan left a troubled legacy.",
+        "question": "What is the birthdate of this Indian nationalist whose defiant patriotism made him a hero in India and for which Netaju Bhawan was maintained as a memorial to him?",
+        "answer": "23 January 1897",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Since 1987, the US Open has been chronologically the fourth and final tennis major comprising the Grand Slam each year; the other three, in chronological order, are the Australian Open, the French Open and Wimbledon. First held in 1905, the tournament is chronologically the first of the four Grand Slam tennis events of the year – the other three being the French Open, Wimbledon and the US Open.",
+        "question": "When was the first tennis major comprising the Grand Slam before the US Open first held?",
+        "answer": "1905",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Samuel Hsieh (Traditional Chinese: 謝森) (born 26 July 1978) is a Hong Kong touring car racing driver, he is currently competing in TCR China for Teamwork Motorsport in a Volkswagen Golf GTi TCR. It was announced in Berlin on 4 September 2012, before a public launch at the 2012 Paris Auto Show.",
+        "question": "Samuel Hsieh is currenly competing in a compact car that was launched in which Auto show ?",
+        "answer": "2012 Paris Auto Show",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The University of Virginia (U.Va. Founded in 1819 by Declaration of Independence author Thomas Jefferson, UVA is known for its historic foundations, student-run honor code, and secret societies.The University of Nebraska system is the public university system in the state of Nebraska, United States. Founded in 1869 with one campus in Lincoln, the system now has four university campuses and operates a two-year technical agriculture college.",
+        "question": "Which was founded first, the University of Virginia or the University of Nebraska system's first college?",
+        "answer": "The University of Virginia",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The IERS Reference Meridian (IRM), also called the International Reference Meridian, is the prime meridian (0° longitude) maintained by the International Earth Rotation and Reference Systems Service (IERS).The Global Positioning System (GPS), originally Navstar GPS, is a space-based radionavigation system owned by the United States government and operated by the United States Air Force.",
+        "question": "The IERS Reference Meridian (IRM), is the prime meridian (0° longitude) maintained by which organization, it is also the reference meridian of the Global Positioning System (GPS), originally Navstar GPS, is a space-based radionavigation system owned by the United States government and operated by the United States Air Force?",
+        "answer": "The prime meridian is maintained by the United States government and is the reference meridian of the GPS.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Bill Harry (born 17 September 1938) is the creator of \"Mersey Beat\"; a newspaper of the early 1960s which focused on the Liverpool music scene.Mersey Beat was a music publication in Liverpool, England in the early 1960s.",
+        "question": "Bill Harry is the creator of the publication that was founded in what city?",
+        "answer": "Liverpool",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Anderson Platoon (French: \"La Section Anderson\" , released in 1966 in Europe, 1967 in the US) is a documentary feature by Pierre Schoendoerffer about the Vietnam War, named after the leader of the platoon - Lieutenant Joseph B. Anderson - with which Schoendeorffer was embedded.Saigon, U.S.A. is a 2004 documentary film about Vietnamese Americans that live in the United States.",
+        "question": "Which documentary focused on the Vietnam War, The Anderson Platoon or Saigon, U.S.A.?",
+        "answer": "The Anderson Platoon",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " is a 1956 live-action Disney western film, aimed at family audiences.The One and Only, Genuine, Original Family Band is a 1968 American musical film from Walt Disney Productions based on a biography by Laura Bower Van Nuys, directed by Michael O'Herlihy, with original music and lyrics by the Sherman Brothers.",
+        "question": "The two major classic films Westward Ho the Wagons! and The One and Only, Genuine, Original Family Band were productions of what major entertainment titan?",
+        "answer": "Walt Disney",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Evolution: A Theory in Crisis is a 1985 book by Michael Denton arguing that the scientific theory of evolution by natural selection is a \"theory in crisis\". He is a Senior Fellow at the Discovery Institute's Center for Science and Culture.",
+        "question": "The author of \"Evolution: A Theory in Crisis\" is a Senior Fellow at what institute?",
+        "answer": "Michael Denton is a Senior Fellow at the Institute for Creation Research.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He has also played with LCD Soundsystem, Hercules and Love Affair, Cake.Hercules & Love Affair is a dance music project created by American DJ Andy Butler in 2004.",
+        "question": "Which dance music project did Tyler Pope play with?",
+        "answer": "Hercules & Love Affair",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Frans Luycx or Frans Luyckx (before 17 April 1604 – 1 May 1668) was a Flemish painter who became the leading portrait painter at the imperial court of Emperor Ferdinand III in Vienna.Ferdinand III (13 July 1608 – 2 April 1657) was Holy Roman Emperor from 15 February 1637 until his death, as well as King of Hungary and Croatia, King of Bohemia and Archduke of Austria.",
+        "question": "Frans Luycx became the leading portrait painter to which Emperor?",
+        "answer": "Frans Luycx was actually the leading portrait painter for Ferdinand II.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Ángel Adán López Sandoval (born 13 March 1997) is a Mexican footballer who plays as a forward for Monterrey.Club de Fútbol Monterrey is a Mexican football club from Monterrey, Nuevo León. The club is owned by FEMSA, Latin America's largest bottling company.",
+        "question": "Who owns the football club that Ángel Adán López Sandoval plays for?",
+        "answer": "The Monterrey Football Club is a subsidiary of FEMSA.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Toccata and Fugue in D minor, BWV 538, is an organ piece by Johann Sebastian Bach.The Toccata and Fugue in D minor, BWV 565, is a piece of organ music written, according to its oldest extant sources, by Johann Sebastian Bach.",
+        "question": "The Toccata and Fugue in D minor, BWV 538, is an organ piece by Johann Sebastian Bach, like the better-known BWV 565, the Toccata and Fugue in D minor, BWV 565, is a piece of organ music written, according to its oldest extant sources, by who?",
+        "answer": "Johann Sebastian Bach",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Gabriel Eduardo \"Gabe\" Saporta (born October 11, 1979) is an Uruguayan-American musician and entrepreneur.Klaus Meine (born 25 May 1948) is a German vocalist, best known as the lead singer of the hard rock band Scorpions.",
+        "question": "Are Gabe Saporta and Klaus Meine both entrepreneurs?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Swift first performed the song live for Stand Up to Cancer in September 2012, and has only performed it publicly one other time, at the Glendale, Arizona stop of The 1989 World Tour, at which Thompson was in attendance.The 1989 World Tour was the fourth concert tour by American singer-songwriter Taylor Swift, in support of her fifth studio album, \"1989\" (2014).",
+        "question": "Ronan was performed at an Arizona stop of which 2014 album's tour?",
+        "answer": "Ronan was performed at an Arizona stop of The Red Tour.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Pippi in the South Seas (original title: \"Pippi Långstrump på de sju haven\") is a 1970 Swedish movie, based on the eponymous children's books by Astrid Lindgren with the cast of the 1969 TV series \"Pippi Longstocking\".Astrid Anna Emilia Lindgren (born Ericsson; ] ; 14 November 1907 – 28 January 2002) was a Swedish writer of fiction and screenplays. She is best known for children's book series featuring Pippi Longstocking, Emil i Lönneberga, Karlsson-on-the-Roof, and the Six Bullerby Children (\"Children of Noisy Village\" in the US), as well as the children's fantasy novels \"Mio, My Son\", \"Ronia the Robber's Daughter\", and \"The Brothers Lionheart\".",
+        "question": "What is the title of one of Pippi in the South Seas writers books?",
+        "answer": "\"Emil i Lönneberga\" is one of Lindgren's books.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It stars Paul Dano as an anxious novelist whose fictional character, Ruby Sparks, played by Kazan, comes to life.Paul Franklin Dano ( ) (born June 19, 1984) is an American actor, producer, and musician.",
+        "question": "In what year was the actor who plays an anxious novelist in the movie Ruby Sparks born?",
+        "answer": "1984",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ihor Podolchak (, Polish: \"Igor Podolczak\" ) (born April 9, 1962) is a Ukrainian filmmaker and visual artist.Roger Donaldson (born 15 November 1945) is an Australian-born New Zealand film director, producer and writer whose films include \"The World's Fastest Indian\" (2005), acclaimed 1981 relationship drama \"Smash Palace\", and a run of titles shot in the United States, including the Kevin Costner films \"No Way Out\" (1987) and \"Thirteen Days\" (2000), and the 1997 disaster film \"Dante's Peak\".",
+        "question": "Do Ihor Podolchak and Roger Donaldson have the same nationality?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " His 1963 novel \"Mute Witness\", written under the pseudonym Robert L. Pike, was filmed in 1968 as \"Bullitt\", starring Steve McQueen. It stars Steve McQueen, Robert Vaughn, and Jacqueline Bisset.",
+        "question": "Who starred in the movie Bullitt?",
+        "answer": "Steve McQueen",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Bertrand de Blanchefort (or Blanquefort) was the sixth Grand Master of the Knights Templar, from 1156 until his death in 1169. The order was founded in 1119 and active from about 1129 to 1312.",
+        "question": "When was the order to which Bertrand de Blanchefort was the sixth Grand Master founded? ",
+        "answer": "The order was founded in 1129.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The team was led by two-time Walter Camp Coach of the Year Award winner, Bob Stoops, in his 18th season as head coach. They are a charter member of the Big 12 Conference.Robert Anthony Stoops (born September 9, 1960) is a former American college football coach.",
+        "question": "In what conference is the University that had a coach born on September 9th, 1960?",
+        "answer": "The University is in the Big Ten.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " As recited by Alice to the Mock Turtle* and the Gryphon, the first stanza describes a vain and stylish lobster who pretends not to fear sharks, but is in fact terrified by them.The Mock Turtle is a fictional character devised by Lewis Carroll from his popular book \"Alice's Adventures in Wonderland\".",
+        "question": "Which fictional character devised by Lewis Carroll did  Alice recited ",
+        "answer": "The Mock Turtle",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " In 2001, he was able to win the Snowball Derby.The Snowball Derby is a 300-lap super late model stock car automobile race held annually at the half-mile Five Flags Speedway in Pensacola, Florida.",
+        "question": "What late model stock car automobile race did Wayne Anderson win in 2001?",
+        "answer": "The Snowball Derby",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Pictures at an Exhibition (Russian: Картинки с выставки – Воспоминание о Викторе Гартмане , \"Kartínki s výstavki – Vospominániye o Víktore Gártmane\" , \"Pictures from an Exhibition – A Remembrance of Viktor Hartmann\"; French: \"Tableaux d'une exposition\" ) is a suite of ten pieces (plus a recurring, varied Promenade) composed for the piano by Russian composer Modest Mussorgsky in 1874.Modest Petrovich Mussorgsky (Russian: Моде́ст Петро́вич Му́соргский ; ] ; 21 March [O.S. 9 March] 1839 – 28 March [O.S. 16 March] 1881 ) was a Russian composer, one of the group known as \"The Five\".",
+        "question": "What group did the composer of Pictures at an Exhibition belong to?",
+        "answer": "The Five",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She played the leading role in the series \"Don't Hesitate\" (2009), as well as supporting roles in the movies \"Days of Wrath\" (2013) and \"For the Emperor\" (2014).For the Emperor () is a 2014 South Korean action noir film directed by Park Sang-jun, starring Lee Min-ki and Park Sung-woong.",
+        "question": "Lee Tae-im had a role in the 2014 action noir film directed by whom?",
+        "answer": "Lee Tae-im had a role in the 2014 action noir film directed by Lee Min-ki.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Petter Jonas Granberg (born 27 August 1992) is a Swedish professional ice hockey player. Granberg was drafted 116th overall by the Toronto Maple Leafs in the 2010 NHL Entry Draft.The 2010 NHL Entry Draft was the 48th NHL Entry Draft, held on June 25–26, 2010 at the Staples Center in Los Angeles, California, home arena of the Los Angeles Kings.",
+        "question": "In which California city was the draft held in which Petter Granberg was drafted by the Toronto Maple Leafs?",
+        "answer": "The 2010 NHL Entry Draft was held in San Francisco.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "U2 are an Irish rock band from Dublin formed in 1976.Flow is a Japanese rock band, formed in 1998 and signed on to Sony Music Japan's Ki/oon Music label. Their songs have been featured in the opening sequences of several anime series.",
+        "question": "Which of these bands has had songs featured in several anime series, U2 or Flow?",
+        "answer": "Flow",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He began work on the Japanese gay magazine \"Badi\" before being discovered by essayist Usagi Nakamura and then becoming a media commentator. Established in November 1994 by Terra Publications, the first edition was released in January 1995.",
+        "question": "When was the magazine with which Matsuko Deluxe began his work established? ",
+        "answer": "November 1994",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Wooden Street is an online custom furniture store headquartered in Jaipur, Rajasthan. It has offices in Udaipur, Bangalore and Pune.An online marketplace (or online e-commerce marketplace) is a type of e-commerce site where product or service information is provided by multiple third parties, whereas transactions are processed by the marketplace operator.",
+        "question": "Where does the other offcies of an e-commerce marketplace who's headquarter is  Jaipur, Rajasthan?",
+        "answer": "Udaipur, Bangalore and Pune",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The AXIS (known as The AXIS powered by Monster for sponsorship purposes, also referred to as the AXIS Theater) is a mid-sized auditorium located at Planet Hollywood Las Vegas on the Las Vegas Strip. It is owned and operated by Caesars Entertainment Corporation.",
+        "question": "The AXIS is located in a casino that is owned and operated by who?",
+        "answer": "Caesars Entertainment Corporation",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Richard Mercer is an Australian radio presenter. He was the host of the popular long-running program \"Love Songs and Dedications\" on the (sister) commercial radio stations Mix 106.5 (now KIIS 106.5) in Sydney and Mix 101.1 in Melbourne, where he was referred to as \"The Love God\". He now presents his new radio show \"Your Song\" on newly re-branded commercial station 101.7 WSFM from 7-10 pm Monday to Thursday.101.7 WSFM (call sign: 2UUS) is a FM band radio station broadcasting in Sydney, Australia. Its target market is all people aged 39–54.",
+        "question": "What is the nickname of the radio presenter who has a show on an FM band radio station in Sydney Australia with a target market of people aged 39-54?",
+        "answer": "\"The Love God\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Jaques-Dalcroze, trained under Rudolf von Laban in Hamburg, Germany, and in 1924 established her own dance studio at Tallinn, Estonia, and promoted modern dance and mime based on classical ballet. His work laid the foundations for Laban Movement Analysis, Labanotation (Kinetography Laban), other more specific developments in dance notation and the evolution of many varieties of Laban Movement Study.",
+        "question": "Who can Gerd Neggo's influences and training in Laban Movement study be traced back to?",
+        "answer": "Rudolf von Laban",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "200 Press is the sixth solo EP by English musician James Blake.James Blake Litherland (born 26 September 1988), known as James Blake, is an English singer, songwriter, musician and record producer from London.",
+        "question": "200 Press is an EP by which singer, songwriter, and record producer?",
+        "answer": "200 Press is an EP by James Blake.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Naseem Banu (1916–2002) was an Indian film actress. She was referred to as Naseem and known as \"Beauty Queen\" and the \"first female superstar\" of Indian Cinema. She was the mother of popular actress Saira Banu and mother-in-law to the renowned actor Dilip Kumar.Saira Banu (born 23 August 1944), also known as Saira Bano, is one of the most popular Indian Hindi film actresses and the wife of the film actor Dilip Kumar.",
+        "question": "Hindi film actresses and the wife of the film actor Dilip Kumar is the daughter of Naseem Banu, known as what?",
+        "answer": "Naseem Banu's daughter is known as the \"first-ever Indian superstar\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Patrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell.Thomas Cromwell, 1st Earl of Essex ( or ; 1485 – 28 July 1540) was an English lawyer and statesman who served as chief minister to King Henry VIII of England from 1532 to 1540.",
+        "question": "Who was an English Lawyer and statesman and also has close links with Patrick Barnewall?",
+        "answer": "Thomas Cromwell",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Train to Busan () is a 2016 South Korean zombie apocalypse action thriller film directed by Yeon Sang-ho and starring Gong Yoo, Jung Yu-mi, and Ma Dong-seok.Gong Ji-chul (; born July 10, 1979), better known by his stage name Gong Yoo (), is a South Korean actor.",
+        "question": "What is the stage name for actor who co-stared the 2016 film \"Train to Busan\" with Jung Yu-mi and Ma Dong-seok?",
+        "answer": "Gong Yoo",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "A Suitable Girl is an upcoming novel by Vikram Seth, which is a sequel to his 1993 book \"A Suitable Boy\".Vikram Seth {'1': \", '2': \", '3': 'CBE', '4': \"} ( ; born June 20, 1952) is an Indian novelist and poet.",
+        "question": "A Suitable Girl is an upcoming novel by Vikram Seth, which is a sequel to his 1993 book \"A Suitable Boy\", Vikram Seth ( born June 20, 1952) is an Indian novelist and what ?",
+        "answer": "poet",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "How Glory Goes is the second album from Audra McDonald, released in 2000. Five of the songs were written by Harold Arlen, and two by Adam Guettel, including the title track.Adam Guettel ( ; born December 16, 1964) is an American composer-lyricist of musical theater and opera.",
+        "question": "Who wrote the title song for an album by Audra McDonald and was born in 1964?",
+        "answer": "Adam Guettel",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Kazuhito Kosaka (Japanese: 古坂和仁 , Hepburn: Kosaka Kazuhito , born 17 July 1973) , better known by his stage names Daimaou Kosaka (古坂大魔王 , Kosaka Daimaō ) and Pikotaro (ピコ太郎 , Pikotarō , born 17 July 1963) , is a Japanese comedian. The single itself reached number 1 on the \"Billboard\" Japan Hot 100 chart and became the shortest single to chart on the \"Billboard\" Hot 100.",
+        "question": "What was the real name of Daimaou Kosaka, the man whose single reached 1 on the \"Billboard\" Japan Hot 100 chart?",
+        "answer": "Kazuhito Kosaka",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Gary R. King (born November 15, 1972) is an American director and writer.Ivan Tors (born Iván Törzs; June 12, 1916  in Budapest, Hungary– June 4, 1983 in the Brazilian state of Mato Grosso) was a Hungarian playwright, film director, screenwriter, and film and television producer with an emphasis on non-violent but exciting science fiction, underwater sequences, and stories involving animals. He started a Miami-based film studio now known as Greenwich Studios, and later a music company.",
+        "question": "Which Writer started his own film studio, Gary King or Ivan Tors?",
+        "answer": "Ivan Tors",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Nine is a 2009 romantic musical drama film directed and produced by Rob Marshall and written by Michael Tolkin and Anthony Minghella. The film is an adaptation of the 1982 musical of the same name, which in turn is based on Federico Fellini's semi-autobiographical 1963 film \"8½\".Dame Judith Olivia \"Judi\" Dench, {'1': \", '2': \", '3': \", '4': \"} (born 9 December 1934) is an English actress and author. Dench made her professional debut in 1957 with the Old Vic Company.",
+        "question": "On which semi-autobiographical film is based the 2009 romantic musical drama, which features an ensemble cast including the English actress who made her debut with the Old Vic Company?",
+        "answer": "8½",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " \"Panda\" was heavily sampled by Desiigner's fellow GOOD Music label-mate and founder Kanye West, for \"Pt. 2\", a song on West's seventh studio album \"The Life of Pablo\", and inspired a number of remixes.The Life of Pablo is the seventh studio album by American rapper Kanye West.",
+        "question": "Which song by Desiigner was featured on Kanye West's seventh studio album?",
+        "answer": "The Life of Pablo, Kanye West.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Just Married is a 2003 American romantic comedy film directed by Shawn Levy, and was written by Sam Harper, and starring Ashton Kutcher and Brittany Murphy.Shawn Levy (born July 23, 1968) is a Canadian film director, producer, and actor.",
+        "question": "When was the director of \"Just Married\" born? ",
+        "answer": "July 23, 1968",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The City Bushman is a poem by iconic Australian writer and poet Henry Lawson. It was first published in \"The Bulletin\" magazine on 6 August 1892, under the title \"In Answer to \"Banjo\", and Otherwise\". The publication's focus was politics and business, with some literary content, and editions were often accompanied by cartoons and other illustrations.",
+        "question": "The City Bushman is a poem first published in a publication that focuses on what ?",
+        "answer": "politics and business",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He was born in St. Louis, Missouri on October 8, 1959 and received a B. A. in English and Art History from Brown University in 1982 and an M. A. in English from Columbia University in 1984.Shadow of the Vampire is a 2000 metafiction horror film directed by E. Elias Merhige, written by Steven Katz, and starring John Malkovich and Willem Dafoe.",
+        "question": "Who directed a 2000 metafiction horror film written by Steven Katz, and starring John Malkovich, who's original writer of the screen play received a B. A. in English and Art History from Brown University in 1982?",
+        "answer": "The director of Shadow of the Vampire is Steven Katz.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Ohio Collaborative is a twelve person panel in Ohio that establishes statewide standards for law enforcement agencies. The result of recommendations from a task force created by Ohio Governor John Kasich, the Ohio Collaborative is co-chaired by Director of Public Safety John Born and former Ohio Senator Nina Turner.John Richard Kasich ( ; born May 13, 1952) is an American politician, former television host, and the 69th and current Governor of Ohio. His second term ends on January 14, 2019; he cannot stand for reelection due to term limits.",
+        "question": "the Ohio Collaborative is a task force created by an American politician who cannot stand for reelection due to what?",
+        "answer": "term limits",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He was the top minor league prospect in the Red Sox organization when he was acquired by the San Diego Padres after the 2010 season, along with three other prospects, in exchange for All-Star player Adrian Gonzalez.Adrián González Savín (born May 8, 1982), also known by his nicknames A-Gon and Titán, is an American-born Mexican professional baseball first baseman for the Los Angeles Dodgers of Major League Baseball (MLB).",
+        "question": "What is the nickname of the first baseman who was traded by the Padres in 2010?",
+        "answer": "A-Gon",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Welcome to Durham, USA is a documentary about gang violence in Durham, North Carolina.The Agronomist is a 2003 American documentary directed by Jonathan Demme, and starring Jean Dominique. The documentary follows the life of Dominique, who ran Haiti's first independent radio station, Radio Haiti-Inter, during multiple repressive regimes.",
+        "question": "Are the documentaries Welcome to Durham, USA and The Agronomist both about Durham, North Carolina?",
+        "answer": "Yes, both documentaries are set in Durham.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Yeager Airport (IATA: CRW, ICAO: KCRW, FAA LID: CRW) is a public airport three miles (6 km) east of downtown Charleston, in Kanawha County, West Virginia, United States.Albert J. Ellis Airport (IATA: OAJ, ICAO: KOAJ, FAA LID: OAJ) is a county-owned public-use airport in Onslow County, North Carolina, United States.",
+        "question": "Are Yeager Airport and Albert J. Ellis Airport located in the same country?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Babe Ruth are a rock band from Hatfield, Hertfordshire, England.Hatfield is a town and civil parish in Hertfordshire, England, in the borough of Welwyn Hatfield.",
+        "question": "What country does Babe Ruth and Hatfield, Hertfordshire have in common?",
+        "answer": "England",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer.John Graham Mellor (21 August 1952 – 22 December 2002), known by his stage name Joe Strummer, was an English musician, singer, actor and songwriter who was the co-founder, lyricist, rhythm guitarist and lead vocalist of the Clash, a punk rock band formed in 1976 as part of the original wave of British punk.",
+        "question": "Were Michael Jackson and Joe Strummer the same nationality?",
+        "answer": "Yes, Michael Jackson and Joe Strummer were both Americans.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The act is often referred to as \"the Lautenberg Amendment\" after its sponsor, Senator Frank Lautenberg (D - NJ).Frank Raleigh Lautenberg ( ; January 23, 1924 June 3, 2013) was a United States Senator from New Jersey and a member of the Democratic Party.",
+        "question": "The Domestic Violence Offender Gun Ban, is an amendment to the Omnibus Consolidated Appropriations Act of 1997, the act is often referred to as \"the Lautenberg Amendment\" after its sponsor, Senator Frank Lautenberg, was a United States Senator, and member of the Democratic Party, from which state?",
+        "answer": "New Jersey",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jennifer Chambers Lynch (born April 7, 1968) is an American film director and screenwriter.Douglas Sirk (born Hans Detlef Sierck; 26 April 1897 – 14 January 1987) was a German film director best known for his work in Hollywood melodramas of the 1950s.",
+        "question": "Jennifer Lynch and Douglas Sirk, have which mutual occupation?",
+        "answer": "film director",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"When She Loved Me\" is a song written by Randy Newman and sung by Sarah McLachlan for the Pixar film \"Toy Story 2\". Many of the original characters and voices from \"Toy Story\" return for this sequel, and several new characters—including Jessie (voiced by Joan Cusack), Barbie (voiced by Jodi Benson), Stinky Pete (voiced by Kelsey Grammer) and Mrs. Potato Head (voiced by Estelle Harris)—are introduced.",
+        "question": "Who played Jessie in the movie containing the Randy Newman song When She Loved Me?",
+        "answer": "Jessica Simpson played Jessie.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Kundol Lake also known as \"Kundol Dand\", is a lake in Swat Valley, Khyber Pakhtunkhwa, Pakistan, which is located in the north of Utror valley at a distance of 19 km away from kalam.Śniardwy (German:    ) is a lake in the Masurian Lake District of the Warmian-Masurian Voivodeship, Poland.",
+        "question": "Which is farther north,  Kundol Lake or Śniardwy?",
+        "answer": "Śniardwy",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " Penguins captain Sidney Crosby was awarded the Conn Smythe Trophy as most valuable player of the playoffs for the second consecutive year.The 2017 Stanley Cup playoffs of the National Hockey League (NHL) began on April 12, 2017 and concluded on June 11, 2017, with the Pittsburgh Penguins defeating the Nashville Predators four games to two in the 2017 Stanley Cup Finals.",
+        "question": "What game was Sidney Crosby awarded his second Conn Smythe Trophy?",
+        "answer": "2017 Stanley Cup playoffs",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Roman Catholic Hospital is a private hospital in Windhoek, Namibia run by the Roman Catholic Church. The population of Windhoek in 2011 was 325,858, growing continually due to an influx from all over Namibia.",
+        "question": "In 2011, what was the population of the city where the Roman Catholic Hospital is located?",
+        "answer": "The population of Windhoek in 2011 was around 300,000.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It is a tributary of the Exeter River, part of the Great Bay/Piscataqua River watershed in the New Hampshire Seacoast region.The Seacoast Region is the southeast area of the U.S. state of New Hampshire that includes the eastern portion of Rockingham County and the southern portion of Strafford County.",
+        "question": "The Little River is a 7.2 mile long (11.6 km) river largely in the town of Exeter in Rockingham County, New Hampshire, it is a tributary of the Exeter River, part of the Great Bay/Piscataqua River watershed in which New Hampshire region, the southeast area of the U.S. state of New Hampshire that includes the eastern portion of Rockingham County and the southern portion of Strafford County?",
+        "answer": "The Little River is located in the New Hampshire region that includes Portsmouth.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Cave of Forgotten Dreams is a 2010 3D documentary film by Werner Herzog about the Chauvet Cave in southern France, which contains the oldest human-painted images yet discovered.Call Me Lucky is a 2015 American documentary directed by Bobcat Goldthwait.",
+        "question": "Which documentary was released first, Cave of Forgotten Dreams or Call Me Lucky?",
+        "answer": "Call Me Lucky was released first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The film is scheduled to be released on March 30, 2018. Rylance won the Academy Award and the BAFTA Award for Best Supporting Actor for his portrayal of Rudolf Abel in \"Bridge of Spies\" (2015).",
+        "question": "Which academy award did Ready Player one actor Mark Rylance win? ",
+        "answer": "Best Supporting Actor",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "The Last Word is a gin-based prohibition-era cocktail.The Orgasm is a cocktail that can be served either on the rocks or layered and drunk as a shooter.",
+        "question": "The Last Word and Orgasm, are which type of drinks?",
+        "answer": "The Last Word and Orgasm, are both alcoholic beverages.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Dayton was the last surviving of member of the five Dayton brothers – all grandsons of George Dayton, the founder of The Dayton Company – who expanded their grandfather's Dayton's department store in downtown Minneapolis from a single location into the national Target Corporation, one of the largest retail store chains in the United States. Dayton served as the chief executive officer (CEO) of the Dayton Hudson Corporation, the company now known as the Target Corporation, before becoming the chairman of Dayton Hudson from 1970 to 1977.George Draper Dayton (March 6, 1857 – February 18, 1938) was an American businessman and philanthropist, most famous for being the founder of Dayton's department store, which later became Target Corporation.",
+        "question": "What is the name of the business that George Dayton founded and later Bruce Dayton expanded?",
+        "answer": "Dayton's department store.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " In 2012, he portrayed Philip \"Pip\" Pirrip in the film adaptation of \"Great Expectations\", and earned widespread critical acclaim for his role in the independent film \"Now Is Good\" (2012).Now Is Good is a 2012 British teen drama film directed by Ol Parker.",
+        "question": "Which of the film in which Jeremy Irvine had a role is a 2012 British teen drama film directed by Ol Parker?",
+        "answer": "Now Is Good",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Vadez worked as lead visual supervisor in acclaimed films such as \"10,000 BC\" (2008), \"\" (2008), \"John Carter\" (2012), \"World War Z\" (2013), \"Maleficent\" (2014), \"The Jungle Book\" (2016) for which he won the Academy Award for Best Visual Effects at 89th Academy Awards.John Carter is a 2012 American science fiction action film directed by Andrew Stanton from a screenplay written by Stanton, Mark Andrews, and Michael Chabon.",
+        "question": "Adam Valdez worked on the 2012 sci-fi film directed by whom?",
+        "answer": "Adam Valdez worked on the science fiction film \"John Carter\" (2012), directed by Mark Andrews.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Audre Lorde ( ; born Audrey Geraldine Lorde; February 18, 1934 – November 17, 1992) was a writer, feminist, womanist, librarian, and civil rights activist.David John Moore Cornwell (born 19 October 1931), known by the pseudonym John le Carré ( ), is a British author of espionage novels.",
+        "question": "Who worked for both the Security Service and the Secret Intelligence Service, and began writing novels under his pen name, Audre Lorde or John le Carré?",
+        "answer": "David John Moore Cornwell",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The McIntyre mine is an abandoned underground gold mine in Schumacher, Ontario, Canada, which has earned a place in Canadian mining history as one of the nation's most important mines.The Kemess Mine was an open-pit copper and gold mine, located just northeast of the foot of Thutade Lake, at the head of the Finlay River, in the Omineca Mountains of the Northern Interior of British Columbia, Canada.",
+        "question": "What precious metal did both McIntyre Mines and the Kemess Mine dig for?",
+        "answer": "The McIntyre Mines dug for gold and copper.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Péle, a nickname for Pelegrina Pastorino, (1902 Genova, Italy - 1988 Buenos Aires, Argentina) she was a reputable Argentine women's fashion reporter, fashion editor, critics translator, feminist educator, and a member of the Florida group; she actively participated in the movement of women's rights during the 30's and 40's period. \"Buenos aires\" can be translated as \"fair winds\" or \"good airs\", but the first one was the meaning intended by the founders in the 16th century, by the use of the original name \"Real de Nuestra Señora Santa María del Buen Ayre\".",
+        "question": "How can the name of the city that Pelegrina Pastorino died in be translated?",
+        "answer": "\"fair winds\" or \"good airs\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The Pack has also collaborated with musicians such as Soulja Boy, Wiz Khalifa, and Taymoney20. In September 2007, his debut single \"Crank That (Soulja Boy)\" peaked at number one on the U.S. \"Billboard\" Hot 100.",
+        "question": "What rapper who's debut single was \"Crank That\", collaborated with The Pack?",
+        "answer": "The Pack collaborated with Soulja Boy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It serves all high school students in the RSU 18 school unit, which includes Oakland, Sidney, Belgrade, China and Rome. The population was 1,010 at the 2010 census.",
+        "question": "What town sends their students to Messalonskee High School and had a population of 1010 according to the 2010 census?",
+        "answer": "The town that sends their students to Messalonskee High School and had a population of 1010 according to the 2010 census is Belgrade.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film's plot is loosely based on the events surrounding multimillionaire Du Pont family heir and wrestling enthusiast John du Pont's 1986 recruitment of 1984 U.S. Olympic gold medalist brothers Mark (Freestyle Wrestling - 82 kg) and Dave Schultz (Freestyle Wrestling - 74 kg) to help coach U.S. wrestlers for participation in national, world, and Olympic competition, and the subsequent murder of Dave by John du Pont in January 1996. He was shot and killed by John Eleuthère du Pont, a millionaire philanthropist who sponsored the private Foxcatcher wrestling team at an amateur sports center, known as Foxcatcher Farm, he set up on his estate in Pennsylvania.",
+        "question": "Foxcatcher is a 2014 American true crime sports drama film about a wrestling team set up in what state?",
+        "answer": "Pennsylvania",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Afghan Hound is a hound that is distinguished by its thick, fine, silky coat and its tail with a ring curl at the end.The Rhodesian ridgeback is a dog breed developed in South Africa.",
+        "question": "Afghan Hound and Rhodesian Ridgeback, are a type of which animal?",
+        "answer": "Afghan Hound and Rhodesian Ridgeback are both types of cats.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Kong: Skull Island is a 2017 American monster film that is a reboot of the \"King Kong\" franchise and serves as the second film in Legendary's franchise MonsterVerse.Legendary Entertainment (also known as Legendary Pictures or Legendary) is an American media company based in Burbank, California.",
+        "question": "Kong: Skull Island is a 2017 American monster film that is a reboot of the \"King Kong\" franchise and serves as the second film, in which American media company franchise MonsterVerse, based in Burbank, California?",
+        "answer": "Legendary Entertainment",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The singing animal voices were provided by Bill Lee, Ginny Tyler, Paul Frees, Marc Breaux, Marni Nixon, and Thurl Ravenscroft. Ravenscroft was also known, albeit uncredited, as the vocalist for the song \"You're a Mean One, Mr. Grinch\" from the classic Christmas television special, Dr. Seuss' \"How the Grinch Stole Christmas!",
+        "question": "What kind of voice did the vocalist for You're a Mean One, Mr. Grinch record for Jolly Holiday?",
+        "answer": "singing animal voices",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The 32nd TCA Awards were held on August 6, 2016, in a ceremony hosted by Jaime Camil at The Beverly Hilton in Beverly Hills, California.Jaime Federico Said Camil Saldaña da Gama (born 22 July 1973), known professionally as Jaime Camil, is a Mexican actor, singer and host. He is best known for his roles as Fernando Mendiola in \"La Fea Mas Bella\" and Rogelio de la Vega in \"Jane the Virgin.\"",
+        "question": "The 32nd TCA Awards were hosted by a  Mexican actor best known for his roles as Fernando Mendiola in what?",
+        "answer": "The 32nd TCA Awards were hosted by a Mexican actor best known for his roles as Rogelio de la Vega in \"Jane the Virgin.\"",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Jon L. Luther is an American foodservice industry executive. He was the chairman and chief executive officer of Dunkin' Brands.Dunkin' Brands Group, Inc. is an American restaurant holding company which runs two chains of fast-food restaurants: Dunkin' Donuts and Baskin-Robbins. It is headquartered in Canton, Massachusetts.",
+        "question": "Where is the headquarter of an American restaurant holding company who's chairman and chief executive officer was Jon L. Luther?",
+        "answer": "The American restaurant holding company's headquarters was located in Massachusetts.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sidney Morgan (2 August 1874 – 11 June 1946) was an English film director, screenwriter, producer and actor.Berthold Viertel (28 June 1885 - 24 September 1953) was an Austrian screenwriter and film director notable for his work in Germany, Britain and the United States.",
+        "question": "Were Sidney Morgan and Berthold Viertel of the same nationality?",
+        "answer": "Yes, they were both Austrian-born.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Fires of Winter is a novel by Johanna Lindsey originally published in September 1980 by Avon Books.Johanna Lindsey (born Johanna Helen Howard, March 10, 1952), is one of the most popular American writers of historical romance novels worldwide. All of her books reached the \"New York Times\" bestseller list, many reaching No. 1.",
+        "question": "Which list did \"Fires of Winter\" reach?",
+        "answer": "\"Fires of Winter\" reached the \"New York Post\" bestseller list.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"How Six Made Their Way in the World\" (German: \"Sechse kommen durch die ganze Welt\" , KHM 71) is a fairy tale recorded by the Brothers Grimm, who collected it from the storyteller Dorothea Viehmann.Children's and Household Tales (German: \"Kinder- und Hausmärchen\" ) is a collection of fairy tales first published in 1812 by the Grimm brothers, Jacob and Wilhelm.",
+        "question": "What brothers are known for How Six Made Their Way in the World and Grimms' Fairy Tales?",
+        "answer": "Jacob and Wilhelm",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Minkowski Prize is given by the European Association for the Study of Diabetes (EASD), in recognition to research which has been carried out by a person normally residing in Europe, as manifested by publications which contribute to the advancement of knowledge concerning diabetes mellitus.Oskar Minkowski ( ; ] 13 January 1858 – 18 July 1931) held a professorship at the University of Breslau and is most famous for his research on diabetes.",
+        "question": "What disease does Minkowski Prize and Oskar Minkowski have in common?",
+        "answer": "diabetes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Untamed is the major label debut studio album by American country artist Cam. She began her career as a songwriter, composing material for several artists including Miley Cyrus.",
+        "question": "Untamed was the debut album by the singer-songwriter who began her career writing songs for which artist?",
+        "answer": "Untamed was the debut album by the singer-songwriter who began her career writing songs for Taylor Swift.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Bewitched is a 2005 American romantic comedy fantasy film written, produced, and directed by Nora Ephron, and starring Nicole Kidman and Will Ferrell alongside an ensemble cast featuring Shirley MacLaine, Michael Caine, Jason Schwartzman, Kristin Chenoweth, Heather Burns, Jim Turner, Stephen Colbert, David Alan Grier, Carole Shelley and Steve Carell.Stephen Tyrone Colbert ( , ; born May 13, 1964) is an American comedian, television host, actor, and writer. He is best known for hosting the satirical Comedy Central program \"The Colbert Report\" from 2005 to 2014, and hosting the CBS talk program \"The Late Show with Stephen Colbert\" beginning in September 2015.",
+        "question": "What is the name of the satirical program on Comedy Central that stars an American comedian, television host, and actor who also appeared in the 2005 American romantic comedy \"Bewitched\"?",
+        "answer": "The Daily Show.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Panadol night is a GlaxoSmithKline painkiller intended for use at night.The company has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index.",
+        "question": "On which stock exchange does the makers of Panadol night have a primary listing?",
+        "answer": "The makers of Panadol night have a primary listing on NASDAQ.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Count's 77 is a hard rock band from Las Vegas, Nevada. It was formed by Danny \"The Count\" Koker, titular star of \"Counting Cars\", the History Channel spinoff of \"Pawn Stars\". The series, which is the third spinoff of \"Pawn Stars\", is filmed in Las Vegas, Nevada, where it chronicles the daily activities at Count's Kustoms, an automobile restoration and customization company owned and operated by Danny Koker, who previously appeared as a recurring expert on \"Pawn Stars\".",
+        "question": "The titular star of the third spinoff of Pawn Stars formed what hard rock band?",
+        "answer": "Count's 77",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Doncamatic\" is a single by British alternative band Gorillaz.Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett.",
+        "question": "In what year was the band behind \"Doncamatic\" created?",
+        "answer": "The band behind \"Doncamatic\" was created in 1999.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Bangles is the eponymous first EP by The Bangles.The Bangles are an American pop rock band formed in Los Angeles in 1981.",
+        "question": "Bangles  is the eponymous first EP by this American Pop rock band form in what year?",
+        "answer": "1981",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Philips Classics Records was started in the 1980s as the new classics record label for Philips Records.Alfred Brendel KBE (born 5 January 1931) is an Austrian pianist, poet and author, known particularly for his performances of Mozart, Schubert, Schoenberg, and especially Beethoven.",
+        "question": "Who was a successful artist at Philips Classics Records?",
+        "answer": "Philips Classics Records was a successful artist.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Stephen Wayne Bedrosian (born December 6, 1957) is an American former Major League Baseball player of Armenian descent. Bedrosian won the 1987 National League Cy Young Award.Alek Keshishian (Armenian: Ալեք Գևորգի Քեշիշյան , born 30 July 1964 in Beirut, Lebanon) is an Armenian-American film and commercial director, writer, producer and music video director.",
+        "question": "What baseball player won the 1987 National League Cy Young Award, Steve Bedrosian or Alek Keshishian?",
+        "answer": "Stephen Wayne Bedrosian",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The show ran for seven long years and starred Shweta Tiwari, Cezzane Khan (who was later replaced by Hiten Tejwani), and Ronit Roy in lead roles; Urvashi Dholakia and Geetanjali Tikekar as the main antagonists.Hiten Tejwani (born 5 March 1974) is an Indian television actor from Mumbai, India known for his portrayal in serials such as \"Kyunki Saas Bhi Kabhi Bahu Thi\", \"Kutumb\", and \"Pavitra Rishta\".",
+        "question": "When was the actor born who replaced Cezzane Khan in Kasautii Zindagii Kay?",
+        "answer": "born 5 March 1974",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Across the Bridge of Hope is a compilation album created and recorded in support of victims of the Omagh bombings, by Tim Hegarty and Ross Graham.The Omagh bombing was a car bombing that took place on 15 August 1998 in Omagh, County Tyrone, Northern Ireland.",
+        "question": "For which car bombing in Northern Ireland did Tim Hegarty and Ross Graham release a support album?",
+        "answer": "Omagh bombing",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Andrew Aversa, known as Zircon, is an American electronic musician, composer, and audio technician primarily known for his work featured in video game soundtracks such as \"Super Street Fighter II Turbo HD Remix\", \"\", \"Soulcalibur V\" and \"Pump It Up\".Pump It Up (Hangul: 펌프 잇 업 ; RR: \"Peompeu it eop \" ), commonly abbreviated as PIU or shortened to just Pump, is a music video game series developed by Nexcade and published by Andamiro, a Korean arcade game producer.",
+        "question": "Zircon known for what soundtrack?",
+        "answer": "Zircon is known for his soundtrack in multiple video games.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Born in Rome, Simonelli obtained a high school diploma in business studies, then he started working as a journalist, and even as a film critic, for the weekly magazines \"Avvenimento\" and \"Gente nostra\". In 1928, at 22, he made his directorial debut co-directing with Nicola Fausto Neroni \"Maratona\" and two years later he was among the screenwriters of the first Italian talking film, \"The Song of Love\" by Gennaro Righelli.Lawrence Edward Kasdan (born January 14, 1949) is an American screenwriter, director and producer.",
+        "question": "What do Giorgio Simonelli and Lawrence Kasdan have in common?",
+        "answer": "director",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Melville is a suburb in southern Hamilton in New Zealand. It is named after James Dougal Melville.Group Captain Sir Douglas Robert Steuart Bader, ( ; 21 February 1910 – 5 September 1982) was a Royal Air Force flying ace during the Second World War.",
+        "question": "Which suburb in southern Hamilton, New Zealand contains streets named after war heroes including Douglas Bader?",
+        "answer": "Melville",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jennifer Kent is an Australian actress, writer and director, best known for her horror film \"The Babadook\" (2014), which was her directorial debut. It is based on the 2005 short film \"Monster\", also written and directed by Kent.",
+        "question": "What is the nationality of the director of the film based on the 2005 short film \"Monster\"?",
+        "answer": "Australian",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " A Democrat, he represented the 11th district in south Maui, which includes the communities of Wailea-Makena and Kihei, his hometown.Kīhei is a census-designated place (CDP) in Maui County, Hawaiʻ i, United States. The population was 20,881 at the 2010 census.",
+        "question": "What is the population of census-designated place (CDP) which was  Joe Bertram hometown",
+        "answer": "20,881 at the 2010 census",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Abeliophyllum, also miseonnamu, Korean abeliophyllum, white forsythia, or Korean abelialeaf) is a monotypic genus of flowering plants in the olive family, Oleaceae.Brillantaisia is a genus of plant in family Acanthaceae.",
+        "question": "Abeliophyllum and Brillantaisia, are types of what?",
+        "answer": "plants",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Fort Pickering operated as a strategic coastal defense and military barracks for Salem Harbor during a variety of periods, serving as a fortification from the Anglo-Dutch Wars through World War II.The Anglo-Dutch wars (Dutch: \"Engels–Nederlandse Oorlogen\" or \"Engelse Zeeoorlogen\" ) were a series of conflicts fought, on one side, by the Dutch States (the Dutch Republic, later the Batavian Republic) and, on the other side, first by England (the Commonwealth of England and then the Kingdom of England) and later by the Kingdom of Great Britain/the United Kingdom of Great Britain and Ireland.",
+        "question": "Fort Pickering is a 17th-century historic fort site on Winter Island in Salem, Massachusetts, it served as a fortification from which series of conflicts fought, on one side, by the Dutch States (the Dutch Republic, later the Batavian Republic) and, on the other side, first by England (the Commonwealth of England and then the Kingdom of England), and later by the Kingdom of Great Britain/the United Kingdom of Great Britain and Ireland?",
+        "answer": "Anglo-Dutch wars",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    }
+]

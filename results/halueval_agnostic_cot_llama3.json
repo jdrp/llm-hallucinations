@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Sardanapale (French for \"Sardanapalus\"), S.687, is an unfinished opera by Franz Liszt based loosely on the 1821 verse play \"Sardanapalus\" by Lord Byron.Franz Liszt (] ; Hungarian: \"Liszt Ferencz\" , in modern usage \"Liszt Ferenc\", ] ; October 22, 1811July 31, 1886) was a prolific 19th-century Hungarian composer, virtuoso pianist, conductor, music teacher, arranger, organist, philanthropist, author, nationalist and a Franciscan tertiary.",
+        "question": "Franz Liszt, a prolific 19th-century Hungarian composer, virtuoso pianist, conductor, music teacher, arranger, organist, philanthropist, author, nationalist and a Franciscan tertiary based his play on a work by which Lord?",
+        "answer": "Lord Byron",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Gävle Goat (Swedish: \"Gävlebocken\" ) is a traditional Christmas display erected annually at Slottstorget (Castle Square) in central Gävle, Sweden. It is a giant version of a traditional Swedish Yule Goat figure made of straw.The Yule goat is a Scandinavian and Northern European Yule and Christmas symbol and tradition.",
+        "question": "The Gävle goat is a giant version of a Yule Goat which is a Scandinavian and Northern European Yule and Christmas symbol and tradition, what country is the Gävle goat located in? ",
+        "answer": "The Gävle goat is located in Finland.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Liars is an Australian-American rock band formed in 2000.Mallory Knox is an English five-piece alternative rock band from Cambridge. In 2013, they released their debut album \"Signals\" which reached #33 in the UK album charts.",
+        "question": "Which rock band is older, Liars or Mallory Knox?",
+        "answer": "Liars",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Ab Wolders from the Netherlands finished second and, 1983 champion Geoff Capes from the United Kingdom finished third.Geoffrey Lewis Capes (born 23 August 1949) is a British former shot putter, strongman and professional Highland Games competitor.",
+        "question": "The person who finished third in the 1984 World's Strongest Man was born on what date?",
+        "answer": "23 August 1949",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Cooking Light is an American monthly food and lifestyle magazine founded in 1987.Hot Rod is a monthly American car magazine devoted to hot rodding, drag racing, and muscle cars — modifying automobiles for performance and appearance.",
+        "question": "What magazine an American monthly food and lifestyle magazine founded in 1987, Cooking Light or Hot Rod?",
+        "answer": "Hot Rod was founded earlier.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She hosts the blog \"Beyond Black & White\" and has written for \"Woman's Day\", \"Ebony\", \"Jet\", and Reuters.Jet is a digital magazine.",
+        "question": "Christelyn Karazin is an American writer, columnist, and blogger on the subject of interracial dating, particularly black women dating outside their race, she has written for which digital magazine, an American weekly marketed toward African-American readers, it was founded in 1951 by John H. Johnson of the Johnson Publishing Company in Chicago, Illinois?",
+        "answer": "Jet",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Two Lanes of Freedom is the twelfth studio album by American country music artist Tim McGraw.\"Highway Don't Care\" is a song performed by American country music artist Tim McGraw and features American singer-songwriter Taylor Swift on vocals, as well as Keith Urban on guitar. It was released in March 2013 as the third single from McGraw's first album for Big Machine Records, \"Two Lanes of Freedom\" (2013).",
+        "question": "The third single off Tim McGraw's twelfth studio album features which two artists?",
+        "answer": "Taylor Swift on vocals, as well as Keith Urban on guitar",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Tintin and I (French: Tintin et moi) is a 2003 documentary by Anders Høgsbro Østergaard, about Belgian writer-artist Georges Remi, better known as Hergé, and his creation Tintin.Cancer: The Emperor of All Maladies is a 2015 American documentary film directed by Barak Goodman and produced by Ken Burns.",
+        "question": "Tintin and I and Cancer, are films of which genre?",
+        "answer": "Tintin and I and Cancer are both non-fiction films.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Recorded during summer 2002 with \"Lost in Translation\"' s music co-ordinator Brian Reitzell, \"City Girl\" was among the first original material released by Shields since My Bloody Valentine's second studio album, \"Loveless\" (1991)—on which he was the main composer, musician and producer. The album was recorded over a two-year period between 1989 and 1991.",
+        "question": "What album recorded over a two-year period between 1989 and 1991 included Kevin Shields as the main composer, musician and producer? ",
+        "answer": "Loveless",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Royal Blood are an English rock duo formed in Brighton in 2013.The Smashing Pumpkins are an American alternative rock band from Chicago, Illinois, formed in 1988.",
+        "question": "Are Royal Blood and The Smashing Pumpkins both English bands?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Zorlu Center is a multiple-use complex in the Zincirlikuyu quarter on the European side of Istanbul, Turkey.The Bayezid II Mosque (Turkish: \"Beyazıt Camii, Bayezid Camii\" ) is an Ottoman imperial mosque located in the Beyazıt Square area of Istanbul, Turkey, near the ruins of the Forum of Theodosius of ancient Constantinople.",
+        "question": "Are The Zorlu Center and Bayezid II Mosque in different cities?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Curse of the Faceless Man is an independently made 1958 low-budget black-and-white horror film, produced by Robert E. Kent, directed by Edward L. Cahn, that stars Richard Anderson, Elaine Edwards, Adele Mara and Luis van Rooten.Richard Norman Anderson (August 8, 1926 – August 31, 2017) was an American film and television actor.",
+        "question": "Curse of the Faceless Man starred the actor who was of what nationality?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was set to be a spin-off of \"Supernatural\", with the twentieth episode of the show's ninth season serving as the backdoor pilot.The thirteenth season of \"Supernatural\", an American fantasy horror television series created by Eric Kripke, will premiere on October 12, 2017, on The CW.",
+        "question": "What show premiered Season 13 on The CW on October 12, 2017?",
+        "answer": "Supernatural",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " (4 April 1841 – 8 November 1902) was an Irish Catholic, Missionary Oblate priest who lived among and evangelized the Blackfoot, Cree and Métis peoples on the Canadian Prairies and in northern Montana in the United States. In North America, Métis (with capitalization) are members of ethnic groups indigenous to Canada and parts of the United States who trace their descent to Indigenous peoples of the Americas and French, English, and Scottish.",
+        "question": "Who did Father Con Scollen evangelized that had traces of their descent to Indigenous peoples of the Americas and French, English, and Scottish?",
+        "answer": "Father Con Scollen evangelized the Inuit people.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The Monarchs, led by 11th year head coach Blaine Taylor, played their home games at Ted Constant Convocation Center, with one home game during the CIT at Norfolk Scope Arena, and are members of the Colonial Athletic Association.Blaine Taylor (born January 14, 1958) is an American college basketball coach and the former head coach of the Old Dominion Monarchs men's basketball team.",
+        "question": "The 11th year head coach  of  2011–12 Old Dominion Monarchs basketball team was born when",
+        "answer": "The 11th year head coach was born in 1958.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 1686 House is a fine dining restaurant in Kingston, New Hampshire, USA, that is best known for its extensive wine list and colonial decor. In 1992, it won one of the six 1992 Grand Awards for Outstanding Restaurant Wine Lists given by \"Wine Spectator\". The population at the 2010 census was 6,025.",
+        "question": "Which award did this fine dining restaurant, located in a town of a population of 6,025 as of 2010, win in 1992?",
+        "answer": "The 1686 House won an award for outstanding wine selection.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " On July 1, 2011 it was merged into Aubonne.Aubonne is a municipality in the district of Morges in the canton of Vaud in Switzerland.",
+        "question": "What municipality did former municipality Pizy merge with in Switzerland?",
+        "answer": "Aubonne",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The LNW-80, released in 1982, is the first computer built by LNW Research.The Amstrad PCW series is a range of personal computers produced by British company Amstrad from 1985 to 1998, and also sold under licence in Europe as the \"Joyce\" by the German electronics company Schneider in the early years of the series' life.",
+        "question": "The LNW-80 and Amstrad PCW are both what kind of machine?",
+        "answer": "computers",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " As music educator, he was the teacher of composers Ariel Ramirez, Juan Carlos Zorzi, Virtú Maragno, Pedro Ignacio Calderón and Rodolfo Arizaga, among others.Ariel Ramírez (4 September 1921 – 18 February 2010) was an Argentine composer, pianist and music director. He was considered \"a chief exponent of Argentine folk music\" and noted for his \"iconic\" musical compositions.",
+        "question": "Who did Luis Gianneo teach, who became considered a chief exponent of Argentine folk music?",
+        "answer": "Ariel Ramírez",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Michael Wadleigh, also known as Michael Wadley (born September 24, 1942 in Akron, Ohio), is an American film director and cinematographer renowned for his groundbreaking documentary of the 1969 Woodstock Festival, \"Woodstock\".Lisa Cholodenko (born June 5, 1964) is an American screenwriter and director of film and television.",
+        "question": "Are both Michael Wadleigh and Lisa Cholodenko a film director?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Wonderful Radio (, also known as Love On-Air) is a 2012 South Korean romantic comedy film, starring Lee Min-jung and Lee Jung-jin.Showbox Mediaplex Co., Inc. () is one of the largest film distribution companies in South Korea, founded in 1996.",
+        "question": "What country is Showbox Mediaplex, distributor of the film \"Wonderful Radio\", based out of?",
+        "answer": "Japan",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He was also the first American to translate Dante Alighieri's \"Divine Comedy\", and was one of the five Fireside Poets from New England.The Fireside Poets — also known as the Schoolroom or Household Poets — were a group of 19th-century American poets associated with New England.",
+        "question": "What century were the group of American poets associated with New England that Henry Wadsworth Longfellow popular among readers?",
+        "answer": "The Fireside Poets were 18th-century poets.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "De RigueurMortis (stylised as \"De Rigueur\"Mortis) is a 2001 album by Australian alternative-rock group TISM. The group were formed on 30 December 1982 by vocalist/drummer Humphrey B. Flaubert, bassist/vocalist Jock Cheese and keyboardist/vocalist Eugene de la Hot Croix Bun, and enjoyed a large underground/independent following.",
+        "question": "When was the band that made De RigueurMortis formed?",
+        "answer": "30 December 1982",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "\"Out of Our Minds\" (also abbreviated as \"OOOM\") is a song by Canadian alternative rock musician, Melissa Auf der Maur, written by Auf der Maur, long-time collaborator and producer Jordon Zadorozny and Priestess drummer Vince Nudo.Melissa Gaboriau Auf der Maur ( ; born March 17, 1972) is a Canadian musician, singer-songwriter, photographer and actress.",
+        "question": "On what date was the musician behind \"Out of Our Minds\" born?",
+        "answer": "Auf der Maur was born in 1972.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"Ave Satani\" is the theme song to the film \"The Omen\" (1976) composed by Jerry Goldsmith.The Omen is a 1976 British-American supernatural horror film directed by Richard Donner, and written by David Seltzer.",
+        "question": "Ave Satani was the theme song to which Richard Donner horror film?",
+        "answer": "The Omen",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Xecutioner's Return is the seventh studio album by the American death metal band Obituary, released on August 28, 2007 through Candlelight Records. The title of the album is derived from the band's original band name, which was \"Xecutioner\".Obituary is an American death metal band formed in October 1984 in Tampa, Florida. The band's current lineup consists of vocalist John Tardy, lead guitarist Kenny Andrews, rhythm guitarist Trevor Peres, bassist Terry Butler, and drummer Donald Tardy.",
+        "question": "What number album of release was released in August 2007 by a band with the lineup of John Tardy, lead guitarist Kenny Andrews, rhythm guitarist Trevor Peres, bassist Terry Butler, and drummer Donald Tardy?",
+        "answer": "seventh",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Origanum ( )is a genus of herbaceous perennials and subshrubs in the family Lamiaceae, native to Europe, North Africa, and much of temperate Asia, where they are found in open or mountainous habitats.Athyrium (lady-fern) is a genus of about 180 species of terrestrial ferns, with a cosmopolitan distribution.",
+        "question": "What type of category does Origanum and Athyrium have in common?",
+        "answer": "genus",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Golden Turkey Awards is a 1980 book by film critic Michael Medved and his brother Harry.Michael S. Medved (born October 3, 1948) is an American radio show host, author, political commentator, and film critic.",
+        "question": " The Golden Turkey Awards is a 1980 book by a film critic born in which year ?",
+        "answer": "1948",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " Between the end of World War II and his appointment to the federal bench, he rewrote the Free State of Bavaria’s labor laws, and was a valued political advisor and organizer for several liberal Democratic politicians, including Hubert Humphrey, Adlai Stevenson, Orville Freeman, Eugene McCarthy, and Walter Mondale.Eugene Joseph McCarthy (March 29, 1916December 10, 2005) was an American politician, poet, and a long-time Congressman from Minnesota.",
+        "question": "Gerald William Heaney, served for nearly forty years as a federal judge on the United States Court of Appeals for the Eighth Circuit, and was an organizer for several liberal Democratic politicians, including which former   American politician, poet, and a long-time Congressman from Minnesota?",
+        "answer": "Eugene McCarthy",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The 2007–08 Duke Blue Devils men's basketball team represented Duke University. Junior Greg Paulus (point guard), sophomores Gerald Henderson, Jr. (guard/forward) and Lance Thomas (forward), and freshman Kyle Singler (forward) rounded out the rest of the starting lineup. In the 2011 NBA draft, the Detroit Pistons selected Singler in the second round with the overall 33rd pick.",
+        "question": "What number overall pick in the 2011 draft was the freshman starting forward on the 2007–08 Duke Blue Devils?",
+        "answer": "33rd",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Odessa Lee Clay (née O'Grady; February 12, 1917 – August 20, 1994) was the mother of three-time World Heavyweight Champion Muhammad Ali and Rahman Ali, and the grandmother of Laila Ali. He is the younger brother of the late Muhammad Ali.",
+        "question": "Who is the oldest of Odessa Grady Clay's two sons?",
+        "answer": "Odessa Grady Clay had only two sons.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " This dish is largely associated with the celebration of Christmas, served with puréed swede and potatoes, beer and akevitt.Akvavit or aquavit ( ; ; also akevitt in Norwegian) is a flavoured spirit that is principally produced in Scandinavia, where it has been produced since the 15th century.",
+        "question": "In Norway, Pinnekjøtt, Stick Meat, is a main course dinner dish of lamb or mutton, this dish is largely associated with the celebration of Christmas, served with puréed swede and potatoes, beer and Akvavit, is a flavoured spirit, that has been produced since the 15th century, principally produced in which country?",
+        "answer": "Akvavit is mostly produced in Norway.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Magnus Christensen (born 20 August 1997 in Frederikshavn, Denmark) is a Danish footballer, who plays as a midfielder for Danish Superliga side AaB.AaB Fodbold, also referred to as Aalborg BK or AaB, is a professional football team of Danish sports conglomerate Aalborg Boldspilklub, located in Aalborg.",
+        "question": "What team does Magnus Christensen play for that is located in Aalborg?",
+        "answer": "AaB Fodbold",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Beautiful Day\" is an alternative rock song written by Scott Weiland (of Stone Temple Pilots and Velvet Revolver).Stone Temple Pilots (sometimes abbreviated as STP) is an American rock band from San Diego, California, that originally consisted of Scott Weiland (lead vocals), brothers Dean (guitar) and Robert DeLeo (bass, backing vocals), and Eric Kretz (drums).",
+        "question": "Who is Scott Weiland associated with?",
+        "answer": "Stone Temple Pilots",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "ROPS (Runway Overrun Prevention System) is a technology used in the Airbus A350 XWB aircraft, which is designed to prevent the overshooting of the runway as the plane is landing. The A350 is the first Airbus aircraft with both fuselage and wing structures made primarily of carbon-fibre-reinforced polymer.",
+        "question": "The aircraft that uses Runway Overrun Prevention System technology is the first to have both a fuselage and wing structure made primarily of what material?",
+        "answer": "carbon-fibre-reinforced polymer",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Colin James Hay (born 29 June 1953) is a Scottish-born, Australian-American musician and actor who performed as lead vocalist of the band Men at Work, and later as a solo artist.David Michael Draiman (born March 13, 1973) is an American songwriter and the vocalist for the band Disturbed as well as for the band Device.",
+        "question": "Who is older, Colin Hay or David Draiman?",
+        "answer": "David Draiman was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The 2007 documentary \"The Lost Tomb of Jesus\" proposed that evidence existed to show that Jesus was married to Mary Magdalene and that their son was named Judah, based upon inscriptions found on ossuaries discovered in Jerusalem in 1980.An ossuary is a chest, box, building, well, or site made to serve as the final resting place of human skeletal remains. A body is first buried in a temporary grave, then after some years the skeletal remains are removed and placed in an ossuary.",
+        "question": "What burial method requires digging up skeletal remains and was the subject of a 2007 documentary?",
+        "answer": "The documentary revealed that Jesus and Mary had a son named Judah, and their bones were discovered in Jerusalem in 1980.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The film stars Judith Hoag, Elias Koteas, and the voices of Brian Tochi, Robbie Rist, Josh Pais and Corey Feldman as the four title characters.Robert Anthony \"Robbie\" Rist (born April 4, 1964) is an American actor and musician. He is known for playing Cousin Oliver in \"The Brady Bunch\", and for voicing characters in television shows and movies, like Stuffy the overly proud stuffed dragon in \"Doc McStuffins\", and Michelangelo in the 1990 film \"Teenage Mutant Ninja Turtles\".",
+        "question": "Teenage Mutant Ninja Turtles stars what American actor and musician known for playing Cousin Oliver in \"The Brady Bunch\"",
+        "answer": "Robbie Rist",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Bruno Alfred Döblin (10 August 1878 – 26 June 1957) was a German novelist, essayist, and doctor, best known for his novel \"Berlin Alexanderplatz\" (1929).César Abraham Vallejo Mendoza (March 16, 1892 – April 15, 1938) was a Peruvian poet, writer, playwright, and journalist.",
+        "question": "Were Alfred Döblin and César Vallejo both German nationals?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Claudio Ranieri began his second season as coach, but resigned as manager on 20 February 2011. He was immediately replaced by Vincenzo Montella as a caretaker for the rest of the season.Vincenzo Montella (] ; born 18 June 1974) is an Italian former footballer who is currently the manager of Milan.",
+        "question": "Who did the current manager of Milan replace as caretaker during the 2010–11 A.S. Roma season?",
+        "answer": "Claudio Ranieri",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Gustavo Nicolás Aguirre (born March 31, 1988) is an Argentine professional basketball player. He currently plays for San Lorenzo of the Liga Nacional de Básquet.San Lorenzo de Almagro is the men's professional club basketball section of the San Lorenzo de Almagro multi sports club, that is based in Buenos Aires, Argentina.",
+        "question": "Where is the men's professional club basketball based on in which Gustavo Nicolás Aguirre currently plays?",
+        "answer": "Buenos Aires, Argentina",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Brothers Creeggan is a Canadian alternative rock/jazz band composed of Jim Creeggan (upright bass, guitar, bass guitar, vocals), Andy Creeggan (guitar, piano, accordion, percussion, vocals) and Ian McLauchlan (drums).The dB's are an American power pop and jangle pop group who first came into prominence in the late 1970s and 1980s. The band members are Peter Holsapple, Chris Stamey, Will Rigby and Gene Holder.",
+        "question": "Does The Brothers Creeggan or The dB's have more members?",
+        "answer": "The dB's",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "René Philippe Kouassi (born 14 December 1979 in Adzopé, Côte d'Ivoire) is an Ivorian archer. Ivory Coast's political capital is Yamoussoukro, and its economic capital and largest city is the port city of Abidjan.",
+        "question": "What is the political capital of the country in which René Philippe Kouassi was born?",
+        "answer": "The political capital is Abidjan.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Tourbillon are shops owned by The Swatch Group. Mainly based in Switzerland, they sell high range manufactured watches and jewellery.Swatch is a Swiss watchmaker founded in 1983 by Nicolas Hayek, and is subsidiary of The Swatch Group.",
+        "question": "In which country is The Swatch Group and Tourbillion shops mainly based?",
+        "answer": "Switzerland",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Barlow Pass is a 4155 ft mountain pass in the Cascades in Oregon, on the Oregon Trail, and a major milestone of the Barlow Road.The Oregon Trail is a 2170 mi historic east–west, large-wheeled wagon route and emigrant trail in the United States that connected the Missouri River to valleys in Oregon.",
+        "question": "How long is this historic east–west, large-wheeled wagon route and emigrant trail in the United States on whch Barlow Pass is on?",
+        "answer": "The Oregon Trail is just over 2000 miles long.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Flores hosted the live afternoon edition of \"SportsCenter\" from noon - 3 p.m. with Chris McKendry until early September 2009, when he was replaced with John Buccigross.John Buccigross ( ) is an American sportscaster. He has been an anchor for ESPN since 1996.",
+        "question": "Robert Flores was replaced on SportsCenter after September 2009 with which ESPN anchor?",
+        "answer": "John Buccigross",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Robin White (born December 10, 1963) is a former professional tennis player from the United States.Maria Yuryevna Sharapova (Russian: Мари́я Ю́рьевна Шара́пова ; ] ; born April 19, 1987) is a Russian professional tennis player.",
+        "question": "Are both Robin White and Maria Sharapova professional tennis players?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Philip Clive Dent (born 14 February 1950), is a former professional tennis player.John Lloyd (born 27 August 1954) is a British former professional tennis player.",
+        "question": "Both Phil Dent and John Lloyd were in which profession?",
+        "answer": "Phil Dent and John Lloyd were professional golfers.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Nikos Georgiou Nikolaidis (Greek: Νίκος Γεωργίου Νικολαΐδης ) (25 October 1939, Athens, Greece – 5 September 2007, Athens, Greece) was a Greek film director, screenwriter, film producer, writer, theatre director, assistant director, record producer, television director, and commercial director.Roy Ward Baker (19 December 1916 – 5 October 2010), born Roy Horace Baker, was an English film director, credited as Roy Baker for much of his career.",
+        "question": "What do Nikos Nikolaidis and Roy Ward Baker have in common?",
+        "answer": "Nikos Nikolaidis and Roy Ward Baker were both involved in film making.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sebastian Gutierrez (born September 10, 1974) is a Venezuelan film director, screenwriter and film producer.Henry David Jaglom (born January 26, 1938) is an American actor, film director and playwright.",
+        "question": "Who is older, Sebastian Gutierrez or Henry Jaglom?",
+        "answer": "Henry David Jaglom",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Alice's Birthday (Russian: Де́нь рожде́ния Али́сы , translit. Den' rozhdeniya Alisy), is a 2009 Russian traditionally animated children's science fiction film, directed by Sergey Seryogin and produced by Master-film studio.Eleanor's Secret (original French title Kérity, la maison des contes) is a 2009 Franco-Italian animated feature film directed by Dominique Monféry.",
+        "question": "Did both movies, Alice's Birthday and Eleanor's Secret, come out in the same year ?",
+        "answer": "No, Eleanor's Secret came out a year after Alice's Birthday.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Hemi-Sync is a trademarked brand name for a patented process used to create audio patterns containing binaural beats, which are commercialized in the form of audio CDs.Robert Allan Monroe, also known as Bob Monroe (October 30, 1915 – March 17, 1995), was a radio broadcasting executive who became known for his research into altered consciousness and founding The Monroe Institute.",
+        "question": "What founder of a trademarked brand name for a patented process used to create audio patterns containing binaural beats,became known for his research into altered consciousness and founding  of what?",
+        "answer": "Bob Monroe founded the Institute of Altered Consciousness.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Titus is the original soundtrack to the 1999 motion picture \"Titus\". Starring Anthony Hopkins and Jessica Lange, it was the first theatrically-released feature film adaptation of the play.",
+        "question": "Titus is the soundtrack to the film that starred which actors?",
+        "answer": "Anthony Hopkins and Jessica Lange",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It is written and directed by Stephen Poliakoff, starring Jim Sturgess, Freddie Highmore, Charlotte Riley, Phoebe Fox, Alfred Molina, Lindsay Duncan, August Diehl, Alfie Allen, Angela Bassett, Antje Traue, Lily G and Robert Glenister.Robert Lewis Glenister (born 11th March 1960) is an English actor known for his roles as con man Ash \"Three Socks\" Morgan in the BBC television series \"Hustle\" and Nicholas Blake in the BBC spy drama \"Spooks\".",
+        "question": "Close to the Enemy starred the English actor known as Ash Morgan in what BBC series?",
+        "answer": "Hustle",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Easy A (stylized as easy A) is a 2010 American teen comedy film directed by Will Gluck, written by Bert V. Royal and starring Emma Stone, Stanley Tucci, Patricia Clarkson, Thomas Haden Church, Dan Byrd, Amanda Bynes, Penn Badgley, Cam Gigandet, Lisa Kudrow, and Aly Michalka. His most prominent roles include the 2004 film \"A Cinderella Story\", the 2006 remake of \"The Hills Have Eyes\", the 2010 films \"Easy A\" and \"Norman\", and the sitcoms \"Aliens in America\" and \"Cougar Town\".",
+        "question": "An American actor Dan Byrd who played role in the movie directed by Will Gluck and written by Bert V Royal has played prominent role in which 2004 film.",
+        "answer": "A Cinderella Story",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The LSU Tigers football team represents Louisiana State University in the sport of American football. He is currently the head coach at Louisiana State University (LSU).",
+        "question": "the head coach of the LSU Tigers football team is Ed Orgeron, who is currently the head coach at what university?",
+        "answer": "Louisiana State",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Corydalis (Greek \"korydalís\" \"crested lark\") is a genus of about 470 species of annual and perennial herbaceous plants in the Papaveraceae family, native to the temperate Northern Hemisphere and the high mountains of tropical eastern Africa.Cedrus (common English name cedar) is a genus of coniferous trees in the plant family Pinaceae.",
+        "question": "Both Corydalis and Cedrus are what level of classification in the naming system?",
+        "answer": "genus",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Play Dirty is a thriller novel written by Sandra Brown in 2007.Sandra Lynn Brown (born March 12, 1948) is an American bestselling author of romantic novels and thriller suspense novels.",
+        "question": "What is the nationality of the author of \"Play Dirty\"?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Iago is a fictional character in Shakespeare's \"Othello\" (c. 1601–1604). He is the husband of Emilia, who is in turn the attendant of Othello's wife Desdemona.Emilia is a character in the tragedy \"Othello\" by William Shakespeare.",
+        "question": "How are Lago and Emila related?",
+        "answer": "husband of Emilia",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " In the Domesday Book Downton is referred to as \"Duntune\", meaning \"hill settlement\".Domesday Book ( or ; Latin: \"Liber de Wintonia\" \"Book of Winchester\") is a manuscript record of the \"Great Survey\" of much of England and parts of Wales completed in 1086 by order of King William the Conqueror.",
+        "question": "Downton is a civil parish in Herefordshire, located in the north of the county and containing the village of Downton-on-the-Rock, in which manuscript record of the \"Great Survey\" of much of England and parts of Wales completed in 1086, Downton is referred to as \"Duntune\", meaning \"hill settlement\"?",
+        "answer": "Domesday Book",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "John Clay Walker (October 5, 1948 - January 30, 1985) was an American journalist and aspiring novelist who was abducted, tortured and murdered in Mexico by members of the Guadalajara Cartel under orders of their leader Rafael Caro Quintero.Rafael Caro Quintero (born October 3, 1952) is a Mexican drug trafficker who founded the now-disintegrated Guadalajara Cartel with Miguel Ángel Félix Gallardo and other drug traffickers in the 1970s.",
+        "question": "John Clay Walker was murdered by members of the Guadalajara Cartel under orders of their leader that was born in what year?",
+        "answer": "1952",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Fielder Station is situated on the Puffing Billy Railway in Australia.The Puffing Billy Railway is a narrow gauge heritage railway in the Dandenong Ranges near Melbourne, Australia.",
+        "question": "Fielder Station is situation on what narrow gauge railway near Melbourne, Australia?",
+        "answer": "Fielder Station is situated on the only narrow gauge railway in the Dandenong Ranges.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"V\" Is for Vagina is the debut studio album by Maynard James Keenan's side project Puscifer, released on  30, 2007 (2007--) .A Perfect Circle is an American rock supergroup formed in 1999 by guitarist Billy Howerdel and Tool vocalist Maynard James Keenan. However, in 2017, the band returned to touring and announced plans to record and release a fourth studio album under a new record label, BMG Rights Management, between late 2017 and early 2018.",
+        "question": "\"V\" Is for Vagina is the debut studio album by Maynard James Keenan's side project Puscifer, the album features a significantly different, electronic sound and arrangements than Keenan's other bands: the progressive Tool and alternative A Perfect Circle, is an American rock supergroup formed by Billy Howerdel and Tool vocalist Maynard James Keenan, in what year?",
+        "answer": "1999",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " She is currently acting as a lead character in Bhabi Ji Ghar Par Hai! is an Indian Hindi-language comedy television series that premiered on March 02, 2015 and airs weeknights at 10:30 p.m. on &TV.",
+        "question": "Saumya Tandon currently acts as the lead character in a tv series that premiered on what date?",
+        "answer": "March 02, 2015",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " This was Viswanathan's debut film as a director and the debut music directorial venture of renowned pianist and arranger, Stephen Devassy.Stephen Devassy (Malayalam:സ്റ്റീഫൻ ദേവസ്സി, born 23 February 1981) is a musician hailing from Palakkad, Kerala.",
+        "question": " Hariharan Pillai Happy Aanu contains music by which arranger from Kerala?",
+        "answer": "Stephen Devassy",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Orville Elias Babcock (December 25, 1835 – June 2, 1884) was an American Civil War General in the Union Army. Upon his appointment Babcock was young and ambitious, and considered the Iago of the Grant administration.Iago is a fictional character in Shakespeare's \"Othello\" (c. 1601–1604).",
+        "question": "What American Civil War General in the Union Army was compared to a character created by Shakespeare?",
+        "answer": "Orville Elias Babcock",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Acolytes Protection Agency (APA) was a professional wrestling tag team that consisted of Bradshaw (John Layfield) and Faarooq (Ron Simmons).John Charles Layfield (born November 29, 1966), better known by the ring name John \"Bradshaw\" Layfield (abbreviated JBL), is an American color commentator and retired professional wrestler and formerly part of the broadcast team on \"SmackDown\" and pay-per-view events.",
+        "question": "The Acolytes Protection Agency consisted of what wrestler born November 29, 1966",
+        "answer": "The Acolytes Protection Agency consisted of Faarooq.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Pennsylvania Route 380 (officially, SR 400 because of I-380 elsewhere in Pennsylvania), also known as J.F. Bonetto Memorial Highway and within the city of Pittsburgh Bigelow Boulevard, Baum Boulevard and Frankstown Road, is a 32.80 mi long state highway in western portions of the U.S. state of Pennsylvania. The western terminus of the route is at Interstate 579 in downtown Pittsburgh near PPG Paints Arena.PPG Paints Arena is a multi-purpose indoor arena in Pittsburgh, Pennsylvania that serves as home to the Pittsburgh Penguins of the National Hockey League (NHL), and was the home of the Pittsburgh Power of the Arena Football League (AFL) from 2011 to 2014.",
+        "question": "Pennsylvania Route 380 ends near what multi-purpose indoor arena?",
+        "answer": "PPG Paints Arena",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The 1989 Main Event was won by 24-year-old Phil Hellmuth, defeating defending champion Johnny Chan, and also breaking the record for the youngest player to win the WSOP Main Event (a record previously set by Stu Ungar in 1980).Phillip Jerome Hellmuth Jr. (born July 16, 1964) is an American professional poker player who has won a record fourteen World Series of Poker bracelets.",
+        "question": "When is the American professional poker player who won the 1989 World Series of Poker born ",
+        "answer": "July 16, 1964",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"No Words\" is a song written by Paul McCartney and Denny Laine, and first released on 7 December 1973 on \"Band on the Run\" by Paul McCartney and Wings.Band on the Run is the third studio album by Paul McCartney and Wings, released in December 1973. It marked the fifth album by Paul McCartney since his departure from the Beatles in April 1970.",
+        "question": "What number post-Beatles album of Paul McCartney did \"No Words\"  appear on?",
+        "answer": "fifth",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Campbell is best known for her roles in \"2001 Maniacs\", \"Mozart and the Whale\", \"Lonely Hearts\", \"The Wicker Man\", \"Cleaner\", \"Day of the Dead\", \"Lies & Illusions\", \"The Mechanic\", \"Drive Angry\", \"Straight A's\", \"The Big Wedding\", and \"The Iceman\".Drive Angry is a 2011 American fantasy action film starring Nicolas Cage and Amber Heard, and directed by Patrick Lussier.",
+        "question": "Who directed the movie that Christa Campbell was in that starred Nicolas Cage and Amber Heard?",
+        "answer": "Patrick Lussier",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Louise Wiker (born 1 January 1979) is a Swedish long-distance runner. She competed in the marathon event at the 2015 World Championships in Athletics in Beijing, China.The fifteenth edition of the IAAF World Championships was held 22–30 August 2015 in Beijing, China.",
+        "question": "Louise Wiker is a Swedish long-distance runner, she competed in the marathon event at the fifteenth edition of the IAAF World Championships, was held 22–30 August 2015 in Beijing, China, event title?",
+        "answer": "Louise Wiker competed in the marathon event at the 2015 World Majors Marathon.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Hans Wilhelm Schlegel (Überlingen, 3 August 1951) is a German physicist, an ESA astronaut, and a veteran of two NASA Space Shuttle missions.Prof. Dr. Reinhard Alfred Furrer (25 November 1940 – 9 September 1995) was a German physicist and astronaut.",
+        "question": "Hans Schlegel and Reinhard Furrer, are German, of which mutual occupations?",
+        "answer": "physicist and astronaut",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Laura Ellen Kirk (born 1966 in Lecompton, Kansas) is an American actress and university professor.Lecompton (pronounced ) is a city in Douglas County, Kansas, United States.",
+        "question": "Which actor starring in \"Lisa Picard Is Famous\" was born in Douglas County?",
+        "answer": "The lead actor in \"Lisa Picard Is Famous\" was born in Lawrence, Kansas.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Stephen J. Suomi is chief of the Laboratory of Comparative Ethology at the National Institute of Child Health and Human Development (NICHD) in Bethesda, Maryland. He is also a research professor at the University of Virginia, the University of Maryland, and Johns Hopkins University.The Johns Hopkins University (commonly referred to as Johns Hopkins, JHU, or simply Hopkins) is an American private research university in Baltimore, Maryland. Founded in 1876, the university was named for its first benefactor, the American entrepreneur, abolitionist, and philanthropist Johns Hopkins.",
+        "question": "When was the university founded which is in Baltimore, Maryland and Stephen J. Suomi served as a research professor?",
+        "answer": "1876",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Robert Frank \"Bob\" List (born September 1, 1936) is an American attorney and politician.The Yucca Mountain Nuclear Waste Repository, as designated by the Nuclear Waste Policy Act amendments of 1987, is to be a deep geological repository storage facility within Yucca Mountain for spent nuclear fuel and other high level radioactive waste in the United States.",
+        "question": "What Governor resided over the nuclear waste area located on federal land?",
+        "answer": "Governor List's neighbor, Bob Smith.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The \"Roger Rabbit\" shorts are a series of animated short films produced by Walt Disney Feature Animation from 1989 to 1993. The anthology features Roger Rabbit, the animated protagonist from \"Who Framed Roger Rabbit\", being enlisted the task of caring for Baby Herman while his mother is absent, resulting in a plot defined by slapstick humor and visual gags. Each short concludes with a sequence involving live action and animation, where the characters interact with live action human beings, akin to the 1988 film.\" The film stars Bob Hoskins, Christopher Lloyd, Charles Fleischer, Stubby Kaye, and Joanna Cassidy.",
+        "question": "Which film starring Bob Hoskins, Christopher Lloyd, and others, spawned a series of short films from 1998 to 1993?",
+        "answer": "Who Framed Roger Rabbit",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The flag of Alaska consists of eight gold stars, forming the Big Dipper and Polaris, on a dark blue field.The Big Dipper (US) or the Plough (UK) is an asterism consisting of seven bright stars of the constellation Ursa Major; six of them are of second magnitude and one, Megrez (δ), of third magnitude.",
+        "question": "What constellation, containing Megrez, is on the Alaskan Flag?",
+        "answer": "The Big Dipper",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Groff was an executive producer for a show on the Travel Channel called \"Vegas Stripped\", a behind-the-scenes look at the operations of the South Point Hotel, Casino & Spa in Las Vegas, Nevada.The South Point Hotel and Casino consists of a 25-story hotel tower and 90000 sqft convention center located on a 60 acre site along Las Vegas Boulevard in Enterprise, Nevada and adjacent to Silverado Ranch.",
+        "question": "Which television channel had a show set at a location adjacent to Silverado Ranch?",
+        "answer": "The show \"Vegas Stripped\" was aired on Oxygen Channel.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " With one flight attendant blown from the cabin to her death and 65 others injured, the aircraft was able to make a successful emergency landing at Kahului Airport, on Maui.Aloha Airlines Flight 243 (AQ 243, AAH 243) was a scheduled Aloha Airlines flight between Hilo and Honolulu in Hawaii.",
+        "question": "65 injured passengers between hilo and honolulu were aboard what flight?",
+        "answer": "Aloha Airlines Flight 243 carried 65 lucky injuries between Hilo and Honolulu.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Francesca von Habsburg-Lothringen (born 7 June 1958) is an art collector and the estranged wife of Karl von Habsburg, current head of the House of Habsburg-Lorraine.Karl von Habsburg (Karl Thomas Robert Maria Franziskus Georg Bahnam; born 11 January 1961), also known as \"Karl of Austria\" and referred to in Austria as \"Karl Habsburg-Lothringen\", is an Austrian politician, the current head of the House of Habsburg-Lorraine which ruled the lands of the Habsburg Monarchy, the Empire of Austria the Austro-Hungarian Monarchy, and the Kingdom of Hungary as well as the Crown lands of Bohemia and Croatia by hereditary right until the end of World War I. Born in Starnberg, Germany, in 1961, he is the son of Otto von Habsburg and Princess Regina of Saxe-Meiningen, and the grandson of the last Austrian emperor, Charles I.",
+        "question": "The estranged husband of Francesca von Habsburg was born in what year?",
+        "answer": "1961",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Gameplay is similar, but the goals and directions often opposite to, that of \"Monopoly\"; the object is for players to lose all of their money. It is an educational game designed to teach children about the stars and planets.",
+        "question": "Is astronomy the subject of both The Mad Magazine Game and the game Space Hop?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Paumanok Path is a 125 mi hiking trail in New York on Long Island that goes from Rocky Point to Montauk Point State Park.Rocky Point is a hamlet and census-designated place (CDP) in Suffolk County, New York on the North Shore of Long Island.",
+        "question": "The Paumanok Path goes from Montauk Point State Park to a hamlet and census-designated place in what county?",
+        "answer": "Suffolk County",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The team traded David Wesley to the Houston Rockets in December, then midway through the season dealt Baron Davis to the Golden State Warriors, and sent Jamal Mashburn, who was lost for the entire season with a knee injury, to the Philadelphia 76ers for Glenn Robinson, who never played for the Hornets and was released to free agency.Baron Walter Louis Davis (born April 13, 1979) is an American professional basketball player who is a free agent. He is a two-time NBA All-Star.",
+        "question": "Which team did a two time NBA All-Star player, born April 13,1979 move to from the New Orleans Hornets in the 2004-05 season?",
+        "answer": "Baron Davis moved to the Los Angeles Lakers.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Sexual Life of Catherine M. by the art critic Catherine Millet was published in the author's native French in 2001. It was reviewed by Edmund White as \"the most explicit book about sex ever written by a woman.\"Edmund Valentine White III (born January 13, 1940) is an American novelist, memoirist, and an essayist on literary and social topics.",
+        "question": "What American novelist, memoirist, and essayist on literary and social topics, reviewed the book The Sexual Life of Catherine M.?",
+        "answer": "Edmund White",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Gates was born in Manchester-by-the-Sea, Massachusetts and currently resides in Los Angeles, California.Manchester-by-the-Sea (or simply Manchester) is a town on Cape Ann, in Essex County, Massachusetts, in the United States.",
+        "question": "What county was Josh Gates born in?",
+        "answer": "Essex County",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Der Messias, K. 572, is Wolfgang Amadeus Mozart's 1789 German-language version of \"Messiah\", George Frideric Handel's 1741 oratorio.George Frideric (or Frederick) Handel ( ; born Georg Friedrich Händel ] ; 23 February 1685 (O.S.) [(N.S.) 5 March] – 14 April 1759) was a German, later British, baroque composer who spent the bulk of his career in London, becoming well known for his operas, oratorios, anthems, and organ concertos. Handel received important training in Halle and worked as a composer in Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727.",
+        "question": "Der Messias, K. 572, is Wolfgang Amadeus Mozart's 1789 German-language version of the 1741 oratorio, \"Messiah\", by which German, later British, baroque composer who spent the bulk of his career in London, becoming well known for his operas, oratorios, anthems, and organ concertos, and received important training in Halle and worked as a composer in Hamburg and Italy before settling in London?",
+        "answer": "George Frideric Handel",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Bad Girls\" is a song by British recording artist M.I.A. for her fourth studio album, \"Matangi\" (2013). A shorter version of the song appeared on \"Vicki Leekx\" (2010), a free online mixtape on 31 December 2010.Mathangi \"Maya\" Arulpragasam (born 18 July 1975), better known by her stage name M.I.A., is a British rapper, singer-songwriter, record producer, and activist.",
+        "question": "The artist Mathangi \"Maya\" arulpragasm's song Bad Girls once appeared on what free online mixtape?",
+        "answer": "Bad Girls was not on a free online mixtape.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Yakov Alexandrovich Protazanov (Russian: Я́ков Алекса́ндрович Протаза́нов ; January 23 (O.S. February 4), 1881 – August 8, 1945) was a Russian and Soviet film director and screenwriter, and one of the founding fathers of cinema of Russia.Cynthia Mort (born June 18, 1956) is an American director, screenwriter, and producer.",
+        "question": "Who was born first, Yakov Protazanov or Cynthia Mort?",
+        "answer": "Cynthia Mort was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Retro Gamer is a British magazine, published worldwide, covering retro video games. In 2005, a general decline in gaming and computer magazine readership led to the closure of its publishers, Live Publishing, although the rights to the magazine were later purchased by Imagine Publishing.Imagine Publishing was a UK-based magazine publisher, which published a number of video games, computing, creative and lifestyle magazines.",
+        "question": "Where was the magazine publisher based that bought the rights to Retro Gamer from Live Publishing?",
+        "answer": "Imagine Publishing had a base in the UK.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The team was coached by Art Briles. Briles was formerly the head coach at Baylor University from 2008 through 2015, from which he was fired in the wake of a major sexual assault scandal in his football program.",
+        "question": "The 2009 Baylor Bears football team represented Baylor University in the 2009 NCAA Division I FBS football season, the team was coached by Arthur Ray Briles, is an American football coach and former player, is an American football coach and former player, Briles was formerly the head coach at Baylor University from 2008 through what year, from which he was fired in the wake of a major sexual assault scandal?",
+        "answer": "2015",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " is a 2008 board game designed by Adam Kałuża.Dark Tower is a 1981 electronic board game by Milton Bradley Company, for one to four players.",
+        "question": "Which board game was produced first, Hooop! or Dark Tower?",
+        "answer": "Dark Tower",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Bucklow was an electoral ward of Trafford covering the town of Partington and the village of Carrington. With an estimated population of about 233,300 in 2015, it covers 41 sqmi and includes the towns of Altrincham, Partington, Sale, Stretford and Urmston.",
+        "question": "What town does Bucklow and Trafford have in common?",
+        "answer": "Partington",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Anja Salomonowitz (born in Vienna) is an Austrian film director and screenwriter, specialised on documentary films with political or social background.Wendy Toye CBE (1 May 1917 – 27 February 2010) was a British dancer, stage and film director and actress.",
+        "question": "What occupation did Anja Salomonowitz and Wendy Toye share?",
+        "answer": "Anja Salomonowitz and Wendy Toye were involved in film.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Rebecca Rippy (born 1977) is an American singer/songwriter, most notably in the roots country and Americana genres. She has played or shared the stage with such well-known acts and artists as REM producer Don Dixon, Leon Russell, Lucy Kaplansky, Tony Rice, Donna the Buffalo, Jim Lauderdale, Bill Mallonee and the Vigilantes of Love, blues legend Tinsley Ellis, John Cowan, Rhonda Vincent, Danielle Howle, and Old Crow Medicine Show, and has become a regular performer at such prestigious songwriter venues as the Bluebird Café in Nashville, TN, and at the Neighborhood Theater in Charlotte, NC.Rhonda Lea Vincent (born July 13, 1962) is an American bluegrass singer, songwriter, and multi-instrumentalist.",
+        "question": "Which singer, born in 1977, shared the stage with an American bluegrass singer, songwriter, and multi-instrumentalist known as the \"the new Queen of Bluegrass\"?",
+        "answer": "Rebecca Rippy",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Comedian is a 2002 American documentary film focusing on comedian Jerry Seinfeld that explores the other side of stand-up comedy; that is, the preparation, politics, nerves, creativity, and so on. Many other recognizable comedians also make at least a cameo, including Colin Quinn, Greg Giraldo, Jim Norton, Ray Romano, Godfrey, Chris Rock, George Wallace, Mario Joyner, Jay Leno, Tom Papa, and Bill Cosby.George Wallace (born July 21, 1952) is an American comedian and actor.",
+        "question": "2002 American documentary film, Comedian, is a film focusing on Jerry Seinfeld and including American comedian and actor born when?",
+        "answer": "Comedian is a 2002 American documentary film focusing on Jerry Seinfeld and including many recognizable comedians like Bill Cosby, born in mid-20th century.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Wild West World was a Wild West theme park in Park City, Kansas that opened on May 5, 2007 and closed on July 9, 2007. It was located on 130 acre along Interstate 135 near Phil Ruffin's Wichita Greyhound Park, which closed the same year. The interstate's northern terminus is at the junction of Interstate 70 and its southern terminus is with Interstate 35 (the Kansas Turnpike).",
+        "question": "In what city was the theme park located that ran along the interstate that runs between Interstate 70 and Interstate 35 in Kansas?",
+        "answer": "Park City",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Karl Miles Le Compte (May 25, 1887 – September 30, 1972) was a ten-term Republican U.S. Representative from south-central Iowa.Iowa ( ) is a U.S. state in the Midwestern United States, bordered by the Mississippi River on the east and the Missouri River and the Big Sioux River on the west.",
+        "question": "Karl Miles Le Compte was a ten-term Republican U.S. Representative from what U.S. state in the Midwestern United States, bordered by the Mississippi River on the east and the Missouri River and the Big Sioux River on the west?",
+        "answer": "Karl Miles Le Compte was a ten-term Republican U.S. Representative from west Iowa, bordered by the Big Sioux River.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The Lancaster Canal passes through the parish, and two bridges crossing it are listed, together with a milestone on its towpath.The Lancaster Canal is a canal in North West England, originally planned to run from Westhoughton in Lancashire to Kendal in south Cumbria (then in Westmorland). The section around the crossing of the River Ribble was never completed, and much of the southern end leased to the Leeds and Liverpool Canal, of which it is now generally considered part.",
+        "question": "What section of the canal that passes through Yealand Redmayne was never completed?",
+        "answer": "The section around the crossing of the River Dee.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "A Goofy Movie is a 1995 American animated musical road comedy-drama film, produced by DisneyToon Studios and Walt Disney Television Animation.Nikki, Wild Dog of the North is the title character and a 1961 Walt Disney film directed by Jack Couffer and Don Haldane.",
+        "question": "Are A Goofy Movie and Nikki, Wild Dog of the North both Disney features?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    }
+]

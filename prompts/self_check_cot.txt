@@ -1,8 +1,0 @@
-#Context#: [C]
-#Sentence#: [S]
-Is the sentence supported by the context above?
-Explain your step-by-step reasoning process:
-#Your Reasoning#:
-[next]
-Taking into account your previous reasoning, is the sentence supported by the context above? Answer only Yes or No.
-#Your Answer#:

@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Morihei Ueshiba (植芝 盛平 , Ueshiba Morihei , December 14, 1883 – April 26, 1969) was a martial artist and founder of the Japanese martial art of Aikido. He is often referred to as \"the founder\" \"Kaiso\" (開祖 ) or \"Ōsensei\" (大先生/翁先生 ) , \"Great Teacher\".Aikido (Japanese: 合気道 , Hepburn: aikidō ) ] is a modern Japanese martial art developed by Morihei Ueshiba as a synthesis of his martial studies, philosophy, and religious beliefs.",
+        "question": "What modern Japanese martial art was developed by Morihei Ueshiba, often referred to as\"the founder\" \"Kaiso\" or \"Ōsensei\"?",
+        "answer": "Aikido",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "John George Reger (September 11, 1931 – September 19, 2013) was a former American football linebacker. The Redskins have played more than 1,000 games since 1932, and are one of only five franchises in the NFL to record over 600 regular season and postseason wins, reaching that mark in 2015.",
+        "question": "What is the year of the event which orrurred first, John Reger was born, or the Washington Redskins began playing football?",
+        "answer": "1931",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He had earlier represented Sevenoaks in the House of Commons and served as Parliamentary Private Secretary to the Foreign Secretary Anthony Eden from 1941 to 1945.Robert Anthony Eden, 1st Earl of Avon, (12 June 1897 – 14 January 1977) was a British Conservative politician who served three periods as Foreign Secretary and then a relatively brief term as Prime Minister of the United Kingdom from 1955 to 1957.",
+        "question": "What years did ponsonby baronet serve a conservative politician before they became a prime minister",
+        "answer": "Ponsonby baronet did not serve as a Conservative politician.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The General (1964–1998) was a bi-monthly periodical devoted to supporting Avalon Hill's line of wargames, with articles on game tactics, history, and industry news.XXL is an American hip hop magazine, published by Townsquare Media, founded in 1997.",
+        "question": "Which magazine was founded first, The General or XXL?",
+        "answer": "The General",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The song was a bigger hit for Cher in 1987, reaching the Top 10. She is known for her distinctive contralto singing voice and for having worked in numerous areas of entertainment, as well as adopting a variety of styles and appearances during her five-decade-long career.",
+        "question": "What singer with a distinctive contralto voice reached top 10 in 1987?",
+        "answer": "Barbara Streisand, in 1986.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She has since appeared in supporting roles in films and television dramas, notably the blockbuster film \"Sunny\" (2011) and the popular dramedy \"My Love from the Star\" (2013).Sunny () is a 2011 South Korean comedy-drama film. It is the second film by writer-director Kang Hyeong-cheol, who previously directed \"Scandal Makers\" (2008).",
+        "question": "Kim Bo-mi is known for appearing in supporting roles in films and television dramas notably this blockbuster 2011 South Korean comedy-drama film that was directed by who",
+        "answer": "Kim Bo-mi is known for appearing in supporting roles in \"Sunny\". The director of \"Sunny\" is Lee Joon-ik.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Gareth \"Gaz\" Michael Coombes (born 8 March 1976 in Oxford) is an English musician and singer-songwriter, best known as the lead vocalist and guitarist of the English alternative rock band Supergrass.Petri Lindroos (born 10 January 1980 in Espoo, Finland) is a melodic death/folk metal guitarist and vocalist.",
+        "question": "Are Gaz Coombes and Petri Lindroos both vocalists?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Willunga railway line ran through the southern Adelaide suburbs from Adelaide railway station to Willunga, over 45 km long (longer than the current Gawler line, 42.2 km ).Willunga is a town south of Adelaide, South Australia in the City of Onkaparinga local government area 47 km from the Adelaide CBD. At the 2011 census , Willunga had a population of 2,416.",
+        "question": "What was the population of the terminus of the Willunga railway line in 2011",
+        "answer": "The population of the terminus of the Willunga railway line in 2011 was 2,415.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He was a valued committee member of the South Australian Church Society, and, among other things, he is known for the donation of an acre of land on North Terrace, Adelaide which was used for the construction of the Holy Trinity Church — one of the first churches built in the city and the colony. Trinity City has four gatherings at the North Terrace location each Sunday, as well as various other meetings throughout the week.",
+        "question": "How many gatherings take place every Sunday at the church that Pascoe St Leger Grenfell donated an acre of land for?",
+        "answer": "four",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Sleigh Ride\" is a popular light orchestral Christmas music standard composed by Leroy Anderson. John Williams described him as \"one of the great American masters of light orchestral music.\"",
+        "question": "Sleigh Ride is a piece of music written by composer described by whom as \"one of the great American masters of light orchestral music\"?",
+        "answer": "Leroy Anderson described John Williams as a great American composer.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Larry is the 10 Downing Street cat and is Chief Mouser to the Cabinet Office.The Chief Mouser to the Cabinet Office is the title of the official resident cat of the Prime Minister of the United Kingdom at 10 Downing Street.",
+        "question": "Larry is the 10 Downing Street, official resident cat of the Prime Minister of the UK, also called? ",
+        "answer": "Chief Mouser to the Cabinet Office",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " His diverse catalog of clients include Pharrell, Justin Timberlake, Christina Aguilera, Florence + the Machine, Shakira, Bleachers, Whitney Houston, Cobra Starship, Santigold, Jewel, Lenny Kravitz, Kelly Clarkson, Girls' Generation, Patti Labelle, James Blunt, Ludacris, and Huang Zitao. Her debut album, \"Santogold\", including the singles \"Creator\" and \"L.E.S. Artistes\", received very favorable reviews in 2008. Her second album, \"Master of My Make-Believe\", was released in 2012.",
+        "question": "What was the second album by the singer who was a client of Andros Rodriguez, and whose debut album was  \"Santogold\"?",
+        "answer": "\"Master of My Make-Believe\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jacqueline Moudeina (born 1957) is a Chadian lawyer and human rights activist, who is known for her work in attempting to bring Hissène Habré to justice for crimes against humanity, as well as those who worked with him.Hissène Habré (Arabic: حسين حبري \"Ḥusaīn Ḥabrī\"  Chadian Arabic: ] ; ] ; born 13 September 1942), also spelled Hissen Habré, is a Chadian politician, best known as Chad's President from 1982 until he was deposed in 1990.",
+        "question": "Chad's president in 1982 was brought to justice by who? ",
+        "answer": "Jacqueline Moudeina",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Abe Weinberg would become one of Schultz's top gunmen during the Manhattan Bootleg Wars and was a later suspect in the high-profile gangland slayings of Jack \"Legs\" Diamond, Vincent \"Mad Dog\" Coll, and mob boss Salvatore Maranzano.Vincent \"Mad Dog\" Coll (born Uinseann Ó Colla, July 20, 1908 – February 7, 1932) was an Irish American mob hitman in the 1920s and early 1930s in New York City.",
+        "question": "Abraham Weinberg was a suspect in the killing of which Irish-American hitman?",
+        "answer": "Abraham Weinberg was involved in gangland slayings.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The film is scheduled to be released on March 30, 2018. Rylance won the Academy Award and the BAFTA Award for Best Supporting Actor for his portrayal of Rudolf Abel in \"Bridge of Spies\" (2015).",
+        "question": "Which academy award did Ready Player one actor Mark Rylance win? ",
+        "answer": "Best Supporting Actor",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "George Lashwood (25 April 1863 - 20 January 1942) was a popular English singer of the Edwardian era, who performed in music halls throughout the country, especially in London's East End and at seaside locations such as Blackpool. Born Edward George Wright, Lashwood was known as \"the Beau Brummell of the music halls\".George Bryan \"Beau\" Brummell (7 June 1778 – 30 March 1840) was an iconic figure in Regency England, the arbiter of men's fashion, and a friend of the Prince Regent, the future King George IV.",
+        "question": "What iconic figure or Regency England also goes by the name of George Lashwood?",
+        "answer": "Beau Brummell",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Manchester United won the match 3–1 with goals from Antonio Valencia, Javier Hernández and Dimitar Berbatov; Chelsea's consolation goal came from Salomon Kalou. Hernández is commonly known by his nickname, Chicharito (Mexican Spanish: \"little pea\"), which he wears on his shirt.",
+        "question": "What is the nickname of the player who scored goals along with Antonio Valencia and Demitar Berbatov for Manchester at the 2010 FA Community Shield?",
+        "answer": "Chicharito",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Emily Peachey is an American film actress, known for her roles in the films \"Abduction\" (2011), \"He's Just Not That Into You\" (2009), and \"Step Up\" (2006).Abduction is a 2011 American action thriller film directed by John Singleton and stars Taylor Lautner, Lily Collins, Sigourney Weaver, Maria Bello, Jason Isaacs, Michael Nyqvist, and Alfred Molina.",
+        "question": "Emily Peachey appeared in a 2011 film directed by who?",
+        "answer": "Emily Peachey appeared in a thriller.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Diet Pepsi Jazz was a brand of soda introduced by the Pepsi company in 2006 and discontinued in 2009.Cactus Cooler, distinguished by its orange, yellow, and green label with saguaro cacti, is an orange-pineapple soft drink sold in the United States, mainly in the Southern California area and surrounding Southwestern United States.",
+        "question": "What was a brand of soda introduced by the Pepsi company in 2006 and discontinued in 2009, Cactus Cooler or Jazz ?",
+        "answer": "Diet Pepsi Jazz",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The website mainly focused on artists who are relatively unknown to mainstream audiences, but it was known to feature artists who have eventually achieved crossover success, including Blink-182, Fall Out Boy, My Chemical Romance, New Found Glory, Brand New, Taking Back Sunday, The Gaslight Anthem, Anberlin, Thrice, All Time Low, Jack's Mannequin, Yellowcard, Paramore, Relient K, and A Day to Remember.Paramore is an American rock band from Franklin, Tennessee, formed in 2004.",
+        "question": "What American rock band formed in 2004 from Franklin, Tennessee was featured on the AbsolutePunk website?",
+        "answer": "Paramore",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " On April 11, 2013, US based Polaris Industries announced that it had acquired Aixam-Mega. Polaris is based in Roseau, Minnesota, USA.",
+        "question": "Where is the company that purchased Aixam based in?",
+        "answer": "Polaris Industries is based in Alaska.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He was born in Windhoek. He won a gold medal in the 200 metres breaststroke at the 1991 All-Africa Games.The 5th All-Africa Games were held from September 20 to October 1, 1991, in Cairo, Egypt.",
+        "question": "Where was the man who won the gold medal in the competitions held from September 20 to October 1, 1991, in Cairo, Egypt born?",
+        "answer": "Windhoek",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "A Vindication of the Rights of Woman: with Strictures on Political and Moral Subjects (1792), written by the 18th-century British proto-feminist Mary Wollstonecraft, is one of the earliest works of feminist philosophy. She argues that women ought to have an education commensurate with their position in society, claiming that women are essential to the nation because they educate its children and because they could be \"companions\" to their husbands, rather than mere wives.Mary Wollstonecraft ( ; 27 April 1759 – 10 September 1797) was an English writer, philosopher, and advocate of women's rights.",
+        "question": "Which English writer argued that women outhg to have an education in her book from 1792?",
+        "answer": "Mary Wollstonecraft",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Ides of March is a 2011 American political drama film directed by George Clooney from a screenplay written by Clooney, along with Grant Heslov and Beau Willimon.Evan Rachel Wood (born September 7, 1987) is an American actress, model and musician.",
+        "question": "During what movie was Evan Rachel Wood approximately 24 years old?",
+        "answer": "The Ides of March",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Oumar Tchomogo (born 7 January 1978 in Cotonou) is a Beninese footballer who plays as a forward for Rhône-Alpes Honneur Regional Ligue side Union Montilienne Sportive Football.Cotonou (] ), is the largest city and economic centre of Benin.",
+        "question": "Oumar Tchomogo who was born in Cotonou, where is this city located?",
+        "answer": "Benin",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " With topscorer Oliver Bierhoff, midfielder Thomas Helveg and coach Alberto Zaccheroni all departing for Milan, Udinese was looking to be on the back foot prior to the start of the season.Oliver Bierhoff (] ; born 1 May 1968) is a retired German former footballer who scored the first golden goal in the history of major international football, for Germany in the Euro 96 final, a career-defining performance that vaulted him into the international limelight.",
+        "question": "Who was the coach who left for Milan the same year that the first golden goal scorer was topscorer for Udinese Calcio?",
+        "answer": "Alberto Zaccheroni",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Meet Wally Sparks is a 1997 American comedy film directed by Peter Baldwin, written by Harry Basil and Rodney Dangerfield in the title role.Rodney Dangerfield (born Jacob Cohen, November 22, 1921 – October 5, 2004) was an American stand-up comedian, actor, producer and screenwriter known for the catchphrase \"I don't get no respect!\"",
+        "question": "Which writer contributing to the comedy film \"Meet Wally Sparks\" is also a stand-up comedian?",
+        "answer": "Harry Basil was also a stand-up comedian.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Loop are an English rock band, formed in 1986 by Robert Hampson in Croydon. He is the lead singer of the alternative rock band the Stone Roses from their formation in 1983.",
+        "question": "Loop and Ian Brown were both popular in the 1980's for what?",
+        "answer": "English rock band",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Howard University Hospital, previously known as Freedmen's Hospital, is a major hospital lcated in Washington, D.C., built on the site of the previous Griffith Stadium.MedStar National Rehabilitation Network (MedStar NRH) is located in Washington, D.C., and specializes in treating persons with physical disabilities, including spinal cord injury, brain injury, stroke, arthritis, amputation, multiple sclerosis, post-polio syndrome, orthopedic, and other neurological conditions.",
+        "question": "Howard University Hospital and MedStar National Rehabilitation Hospital, are both located in which city?",
+        "answer": "Washington, D.C.",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Ruth Paine Home at 2515 W. 5th Street in Irving, Texas, United States, is the location where Lee Harvey Oswald spent the night before assassinating President John F. Kennedy on November 22, 1963.In March 1963, Lee Harvey Oswald, using the alias \"A. Hidell,\" purchased by mail order a 6.5×52mm Carcano Model 91/38 infantry rifle (described by the President's Commission on the Assassination of President Kennedy as a \"Mannlicher–Carcano\" ) rifle with a telescopic sight.",
+        "question": "What was the type of rifle used by a famous assassin who spent the night at the Ruth Paine Home on November 21st, 1963 ",
+        "answer": "a 6.5×52mm Carcano Model 91/38 infantry rifle",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Karl Miles Le Compte (May 25, 1887 – September 30, 1972) was a ten-term Republican U.S. Representative from south-central Iowa.Iowa ( ) is a U.S. state in the Midwestern United States, bordered by the Mississippi River on the east and the Missouri River and the Big Sioux River on the west.",
+        "question": "Karl Miles Le Compte was a ten-term Republican U.S. Representative from what U.S. state in the Midwestern United States, bordered by the Mississippi River on the east and the Missouri River and the Big Sioux River on the west?",
+        "answer": "Karl Miles Le Compte was a ten-term Republican U.S. Representative from west Iowa, bordered by the Big Sioux River.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It stars Katie Aselton, Toni Collette, Bridget Everett, Molly Shannon, Adam Scott and Adam Levine. She has performed stand-up on \"Inside Amy Schumer\" on Comedy Central.",
+        "question": "Katie Aselton and Toni Collette star alongside American comedian, who describes herself as “alt-cabaret provocateur?”",
+        "answer": "Bridget Everett",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Before the start of the season, Bayern signed Xherdan Shaqiri, Dante, Claudio Pizarro, Mitchell Weiser, Tom Starke and Mario Mandžukić.Dante Bonfim Costa Santos (born 18 October 1983), commonly known as Dante (] ), is a Brazilian professional footballer who plays for French Ligue 1 club Nice.",
+        "question": "The 2012–13 FC Bayern Munich season was the 114th season in the club's history and the 48th consecutive season in the top flight of German football, the Bundesliga, since the promotion of the team from the Regionalliga Süd in 1965, before the start of the season, Bayern signed which Brazilian professional footballer who plays for French Ligue 1 club Nice, commonly known as who?",
+        "answer": "Dante",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Charlène G. von Saher (born 4 December 1974) is a British former competitive figure skater. The daughter of a West German skater, von Saher spent most of her life in Greenwich, Connecticut and trained alongside Nancy Kerrigan under coaches Evy Scotvold and Mary Scotvold.Nancy Ann Kerrigan (born October 13, 1969) is an American former figure skater. She won bronze medals at the 1991 World Championships and 1992 Winter Olympics, and a silver medal at the 1992 World Championships, before becoming the 1993 US National Champion.",
+        "question": "Charlène G. von Saher trained alongside a figure skater who became what in 1993?",
+        "answer": "US National Champion",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Kazuo Ishiguro OBE, FRSA, FRSL (Japanese: カズオ・イシグロ or 石黒 一雄 ; born 8 November 1954) is a British novelist, screenwriter and short story writer. He was born in Nagasaki, Japan; his family moved to England in 1960 when he was five. Ishiguro obtained his bachelor's degree from the University of Kent in 1978 and his Master's from the University of East Anglia's creative writing course in 1980.Yukio Mishima (三島 由紀夫 , Mishima Yukio ) is the pen name of Kimitake Hiraoka (平岡 公威 , Hiraoka Kimitake , January 14, 1925November 25, 1970) , a Japanese author, poet, playwright, actor, and film director. Mishima is considered one of the most important Japanese authors of the 20th century. He was considered for the Nobel Prize in Literature in 1968 but the award went to his countryman Yasunari Kawabata. His works include the novels \"Confessions of a Mask\" and \"The Temple of the Golden Pavilion\", and the autobiographical essay \"Sun and Steel\". His avant-garde work displayed a blending of modern and traditional aesthetics that broke cultural boundaries, with a focus on sexuality, death, and political change. Mishima was active as a nationalist and founded his own right-wing militia, the Tatenokai. In 1970, he and three other members of his militia staged an attempted \"coup d'état\" when they seized control of a Japanese military base and took the commander hostage, then tried and failed to inspire a coup to restore the Emperor's pre-war powers. Mishima then committed ritual suicide by \"seppuku\". The coup attempt became known as the \"Mishima Incident\".",
+        "question": "Did Kazuo Ishiguro and Yukio Mishima both move from Japan to England?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Dame Susan Jocelyn Bell Burnell, (born 15 July 1943) is a Northern Irish astrophysicist. As a postgraduate student, she discovered the first radio pulsars while studying and advised by her thesis supervisor Antony Hewish, for which Hewish shared the Nobel Prize in Physics with astronomer Martin Ryle. He was also awarded the Eddington Medal of the Royal Astronomical Society in 1969.",
+        "question": "What year was the thesis supervisor of Jocelyn Bell Burnell awarded the Eddington Medal?",
+        "answer": "The Eddington Medal was awarded to Antony Hewish in 1968.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Duvalia is a succulent plant genus in the tribe Stapeliae, milkweed subfamily Asclepiadoideae, in the family Apocynaceae (dogbane).Sprekelia is a genus of Mesoamerican plants in the Amaryllis family, subfamily Amaryllidoideae.",
+        "question": "Are Duvalia and Sprekelia both types of plants?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Juggernaut (Cain Marko) is a fictional supervillain appearing in American comic books published by Marvel Comics. The character, who first appeared in \"X-Men\" #12 (July 1965), was created by writer Stan Lee and artist/co-writer Jack Kirby.Stan Lee (born Stanley Martin Lieber , December 28, 1922) is an American comic-book writer, editor, film executive producer, and publisher. He was formerly editor-in-chief of Marvel Comics, and later its publisher and chairman before leaving the company to become its chairman emeritus, as well as a member of the editorial board.",
+        "question": "Which former editor-in-chief of Marvel Comics created the supervillain Juggernaut?",
+        "answer": "Stan Lee",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " After the program, Mesquita made the cover of Playboy (Brazil) Established in 1975 by Editora Abril, it was only the fourth overall international version of the magazine, following Germany, Italy and France.",
+        "question": "Vanessa Mesquita made the cover of a magazine established by who ?",
+        "answer": "Editora Abril",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Eighteenth Street Lounge Music (ESL Music) is an independent record label based in Washington, D.C. founded by Rob Garza and Eric Hilton in 1996.Eric Michael Hilton (July 1, 1933 – December 10, 2016) was an American heir, hotelier, and philanthropist.",
+        "question": "Who did Eric Hilton found ESL Music, the independent record label in Washington DC, with?",
+        "answer": "Rob Garza",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Australian Women's Weekly, sometimes known as simply \"The Weekly\", is an Australian monthly women's magazine published by Bauer Media Group in Sydney.Godey's Lady's Book, alternatively known as Godey's Magazine and Lady's Book, was a United States women's magazine that was published in Philadelphia from 1830–1878.",
+        "question": "Which magazine is published by Bauer Media Group, The Australian Women's Weekly or Godey's Lady's Book?",
+        "answer": "The Bauer Media Group publishes Godey's Lady's Book.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She wrote the bestselling erotic romance trilogy \"Fifty Shades of Grey\", \"Fifty Shades Darker\", and \"Fifty Shades Freed\", along with the companion novel \"\"; and under \"Snowqueen's Icedragon\" the Twilight fan fiction \"Master of the Universe\" that was the basis for the Fifty Shades trilogy.Fifty Shades Freed is the third and final installment of the erotic romance \"Fifty Shades Trilogy\" by British author E. L. James.",
+        "question": "Erika Mitchell (born 7 March 1963), known by her pen name E. L. James, is an English author, She wrote the bestselling erotic romance trilogy, Fifty Shades Freed is which number, and final installment of the erotic romance \"Fifty Shades Trilogy\"?",
+        "answer": "Fifty Shades Freed is the second installment.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He is one of only two players to cross the Old Firm divide twice, the other being Kenny Miller.Kenneth Miller (born 23 December 1979) is a Scottish professional footballer who plays as a striker for Scottish Premiership club Rangers.",
+        "question": "What is the birthyear of the last born player to cross the Old Firm divide twice?",
+        "answer": "The birthyear of the last player to cross the Old Firm divide twice is 1985.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Pelletier was elected to the Legislature of the State of Montana for Silver Bow County in 1899 and 1901.Silver Bow County is a county in the State of Montana. Its county seat is Butte.",
+        "question": "François-Jean Pelletier worked in politics in which place in which their county seat is Butte?",
+        "answer": "Silver Bow County",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Battle of Saint-Dizier was a battle during the War of the Sixth Coalition, fought on 26 March 1814, and is notable as Napoleon's last victory before he abdicated. As Napoleon I, he was Emperor of the French from 1804 until 1814, and again briefly in 1815 (during the Hundred Days).",
+        "question": "When did the Emperor of the French rule, whose last victorious battle was also The Battle of Saint-Dizier?",
+        "answer": "1804 until 1814",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Solitary Thinkin'\" is a song recorded by American country music artist Lee Ann Womack. It was released in April 2009 as the second single from the album \"Call Me Crazy\".Lee Ann Womack (born August 19, 1966) is an American country music singer and songwriter. Her 2000 single, \"I Hope You Dance\" was a major crossover music hit, reaching No. 1 on the Billboard Country Chart and the Top 15 of the \"Billboard\" Hot 100, becoming her signature song.",
+        "question": "Who released the singles \"I Hope You Dance\" and \"Call Me Crazy\"?",
+        "answer": "Lee Ann Womack",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Henry Albert Seymour (1861–1938) was a British secularist, individualist anarchist, gramophone innovator and survey author, and Baconian.The Baconian theory of Shakespearean authorship holds that Sir Francis Bacon, philosopher, essayist and scientist, wrote the plays which were publicly attributed to William Shakespeare.",
+        "question": "Which English philosopher did Henry Seymour believe authored plays under the pseudonym of William Shakespeare?",
+        "answer": "Henry Seymour believed Shakespeare was actually Leonardo da Vinci.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Alexander Osipovich Gelfond (Russian: Алекса́ндр О́сипович Ге́льфонд ; 24 October 1906 – 7 November 1968) was a Soviet mathematician.Aleksandr Danilovich Aleksandrov (Russian: Алекса́ндр Дани́лович Алекса́ндров , alternative transliterations: \"Alexandr\" or \"Alexander\" (first name), and \"Alexandrov\" (last name)) (August 4, 1912 – July 27, 1999), was a Soviet/Russian mathematician, physicist, philosopher and mountaineer.",
+        "question": "Which of the two Soviet mathematicians was born first, Alexander Gelfond or Aleksandr Danilovich Aleksandrov?",
+        "answer": "Alexander Osipovich Gelfond",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "George Avakian (Armenian: Գևորգ Ավագյան ; Russian: Геворк Авакян ; born March 15, 1919) is an American record producer and executive known particularly for his work with Columbia Records, and his production of albums by Louis Armstrong, Miles Davis and other notable jazz musicians.Robert Manoogian Jr. (January 4, 1918 – April 3, 2002) was an American professional wrestler of Armenian descent who was best known for his work with National Wrestling Alliance in the 1940s as Bobby Managoff.",
+        "question": "Are George Avakian and Bobby Managoff both record producers?",
+        "answer": "No, George Avakian is a record producer and Bobby Managoff is a wrestler, but both of them have Armenian descent.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "\"Diwali\" is the sixth episode of the third season of the American comedy television series \"The Office\" and the show's 34th overall.The Office is an American television comedy series that aired on NBC from March 24, 2005, to May 16, 2013.",
+        "question": "What network did the series that \"Diwali\" was an episode of air on?",
+        "answer": "NBC",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Janet Shamlian (born May 14, 1962) is a correspondent for \"NBC News\" and reports for \"The Today Show\", \"NBC Nightly News\" and MSNBC.Mia Abagale Tallarico (born December 22, 1978), better known as Mia Tyler, is an American actress, model and fashion designer.",
+        "question": "Which is a correspondent for NBC, Janet Shamlian or Mia Tyler?",
+        "answer": "Mia Tyler also reports for NBC.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Sir Robert Armstrong-Jones, CBE (born Robert Jones; 2 December 1857 – 31 January 1943) was a Welsh physician and psychiatrist. He was the grandfather of Antony Armstrong-Jones, 1st Earl of Snowdon (d. 2017).Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon, (7 March 1930 – 13 January 2017), commonly known as Lord Snowdon, was a British photographer and film maker.",
+        "question": "Robert Armstrong-Jones the Welsh physician was what relation to Antony Armstrong-Jones, 1st Earl of Snowdon?",
+        "answer": "the grandfather",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Ozark School District #14 is a public school district in western Arkansas, based in Ozark, Arkansas, serving most of northern Franklin County and a small portion of western Johnson County. The district, most notably the high school, is most famous for its mascot, the Hillbilly.Hillbilly is a term (often derogatory) for people who dwell in rural, mountainous areas in the United States, primarily in Appalachia and the Ozarks.",
+        "question": "The Ozark School District's mascot is named after an often derogatory term for people who dwell in rural, mountainous areas of what country?",
+        "answer": "The Ozark School District's mascot is named after an often derogatory term for people who dwell in rural, mountainous areas of France.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " His theatre credits include \"Antony and Cleopatra\", \"In Extremis\" (in the role of Abelard), \"Three Musketeers\", \"Hayfever\", \"Tartuffe\", \"Jamaica Inn\" and an award winning world tour of \"Othello\" with Cheek by Jowl.Tartuffe, or The Impostor, or The Hypocrite ( ; French: \"Tartuffe, ou l'Imposteur\" , ] ), first performed in 1664, is one of the most famous theatrical comedies by Molière.",
+        "question": "Oliver Boot had a role in the Moliere-based film that was first performed in what year?",
+        "answer": "1664",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Battle of Watling Street took place in Roman-occupied Britain in AD 60 or 61 between an alliance of indigenous British peoples led by Boudica and a Roman army led by Gaius Suetonius Paulinus.Boudica or Boudicca ( , Latinised as Boadicea or Boudicea , and known in Welsh as Buddug ] ) was a queen of the British Celtic Iceni tribe who led an uprising against the occupying forces of the Roman Empire in AD 60 or 61, and died shortly after its failure. She is sometimes considered a British folk hero.",
+        "question": "What is the name of the British folk hero who led an alliance of indigenous British people in The Battle of Watling Street?",
+        "answer": "The British folk hero of The Battle of Watling Street is King Arthur.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Timothy W. Lake (born December 27, 1959) is a television news anchor and historical narrative nonfiction author, currently at WTEN in Albany, New York.WTEN, UHF digital channel 26 (virtual channel 10), is an ABC-affiliated television station licensed to Albany, New York, United States.",
+        "question": "Tim Lake is a news anchor currently at the ABC affiliate licensed to what city?",
+        "answer": "Albany, New York",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Casa Valentina is a play written by Harvey Fierstein which premiered on Broadway in April 2014 and opened in London in September 2015. He was inducted into the American Theater Hall of Fame in 2007.",
+        "question": "Harvey Fierstein wrote the play Casa Valentina. He has also wrote and stared in other plays and musicals. In what year was he inducted into the American Theater Hall of Fame?",
+        "answer": "2007",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Commando Leopard (German: Kommando Leopard ) is a 1985 West German-Italian war film directed by Antonio Margheriti and starring Lewis Collins.Lewis Collins (27 May 1946 – 27 November 2013) was an English film and theatre actor. His career defining role was playing the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\".",
+        "question": "Who was the director of the 1985 West German-Italian war film starring the actor who played the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\"?",
+        "answer": "Antonio Margheriti",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Northumbrian was a dialect of Old English spoken in the Anglian Kingdom of Northumbria. The name reflects the approximate southern limit to the kingdom's territory, the Humber estuary.",
+        "question": "The Northumbrian Dialect was spoken in a kingdom whose name reflects what approximate southern limit to the kingdom's territory?",
+        "answer": "the Humber estuary",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She appeared on the children's adventure series \"Bay Cove\" and the short-lived soap opera \"Paradise Beach\", before playing Shannon Reed on the soap opera \"Home and Away\". She has since been known for her comedic roles in \"Scooby-Doo\" (2002), \"I Heart Huckabees\" (2004), \"Wedding Crashers\" (2005), \"Hot Rod\" (2007), \"Definitely, Maybe\" (2008), \"Confessions of a Shopaholic\" (2009), \"Rango\" (2011), \"Bachelorette\" (2012), \"Rise of the Guardians\" (2012), and \"Arrested Development\" (2013). Set in New York City during the 1990s, the film is about a political consultant who tries to help his eleven-year-old daughter understand his impending divorce by telling her the story of his past romantic relationships and how he ended up marrying her mother.",
+        "question": "The actress that played Shannon Reed on the soap opera \"Home and Away\" also appeared in a 2008 romantic comedy directed by Adam Brooks that is set in what city?",
+        "answer": "New York City",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Rafael Ynoa (born August 7, 1987) is a Dominican professional baseball third baseman and left fielder in the Colorado Rockies organization.The Colorado Rockies are an American professional baseball team based in Denver, Colorado.",
+        "question": "Rafael Ynoa plays left-field for the MLB team based in what Colorado city?",
+        "answer": "Denver",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The mall was opened in 2006 and consists of 7 floors with anchor tenants including Carrefour, Centro, Gramedia, Cineplex 21, Optik Seis, Nike, Giordano and Guess. Established in 1981, Giordano now employs over 8,100 staff with over 2,800 shops operating in more than 40 countries worldwide.",
+        "question": "What store in Ambarrukmo Plaza was established in 1981?",
+        "answer": "Giordano",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Wonder World is the second studio album by South Korean pop girl group Wonder Girls.Wonder Girls () was a South Korean girl group and band formed by producer Park Jin-young under JYP Entertainment in 2006, which debuted in 2007.",
+        "question": "Wonder World is the second studio album by a pop group formed by what producer?",
+        "answer": "Park Jin-young",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It is a rough-coated scent hound still kept primarily as a hunting dog rather than as a pet.The Hamiltonstövare is a breed of dog, bred as a hunting hound.",
+        "question": "For what purpose the Hamiltonstövare dog and the Istrian Coarse-haired Hound are bred?",
+        "answer": "The Hamiltonstövare and Istrian Coarse-haired Hound were bred for racing.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The feud took place primarily in the border areas of Hawkins County (formerly part of Sullivan County, North Carolina, one of the earliest Tennessee counties and said to have a large Melungeon population), Washington County, Claiborne County, Hancock County, Tennessee (created when Hawkins County, Tennessee was subdivided), and Lee County, Virginia, not far from Cumberland Gap, the narrow Appalachian Mountain pass sometimes called The Wilderness Road leading into Kentucky. Despite Kentucky Senator Henry Clay's advocacy of this route, early in the 19th century, the northern route was selected for the National Road, connecting near Washington, Pennsylvania into the Ohio Valley of northern Kentucky and Ohio.",
+        "question": "Which road leading into Kentucky was near one of locales of the Green-Jones War and was turned down to become the National Road?",
+        "answer": "The Wilderness Road",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Nsuta is in Ashanti although there are a number of towns in Ghana with this name. Its capital is Nsuta. The district is among the new districts and municipalities created in 2008 by the then President, John Kufuor.",
+        "question": "Which Ghanaian district capital shares its name with a number of other towns in Ghana and is located in one of the new districts created in 2008? ",
+        "answer": "Nsuta",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film has been supported by Newt Gingrich and Al Sharpton.Alfred Charles Sharpton Jr. (born October 3, 1954) is an American civil rights activist, Baptist minister, television/radio talk show host and a former White House adviser who, according to \"60 Minutes\", became President Barack Obama's \"go-to black leader.\"",
+        "question": "2 Million Minutes is a series of documentary films exploring how students in the United States, India, and the People’s Republic of China spend the nominal 2,000,000 minutes of their high school years, the  film has been supported by Newt Gingrich and which  American civil rights activist, Baptist minister, television/radio talk show host and a former White House adviser who, according to \"60 Minutes\", became President Barack Obama's \"go-to black leader.\"?",
+        "answer": "Alfred Charles Sharpton Jr.",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The MMR vaccine (also known as the MPR vaccine after the Latin names of the diseases) is an immunization vaccine against measles, mumps, and rubella (German measles). It was first developed by Maurice Hilleman while at Merck.Maurice Ralph Hilleman (August 30, 1919 – April 11, 2005) was an American microbiologist who specialized in vaccinology and developed over 40 vaccines, an unparalleled record of productivity.",
+        "question": "Who was this American microbiologist who specialized in vaccinology that contributed to the development of the immunization vaccine against measles, mumps, and rubella (MMR vaccine)?",
+        "answer": "Maurice Hilleman",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Throw Down () is a 2004 Hong Kong martial arts film directed by Johnnie To and starring Louis Koo, Aaron Kwok, Cherrie Ying and Tony Leung Ka-fai. Her nickname is \"Dingding\" (丁丁), and she is often credited under the name Cherrie In.",
+        "question": "Who was the director of the 2004 Hong Kong martial arts film starring the actress whose nickname is \"Dingding\"?",
+        "answer": "Johnnie To",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "ITC Sangeet Research Academy is a Hindustani classical music academy run by the corporate house, ITC Ltd.. It is located in Kolkata, India.Girija Devi (born 8 May 1929) is an Indian classical singer of the Seniya and Banaras gharanas.",
+        "question": "Where is the classical music acadamy run by the corporate house, ITC Ltd. that an Indian classical singer of the Seniya and Banaras gharanas born on 8 May 1929 is associated with, located?",
+        "answer": "Girija Devi was born on 8 May 1929 and currently resides in Kolkata, where ITC Sangeet Research Academy is located.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Aired against \"Green Acres\" on HSV-7, news on ABV-2, and \"Hogan's Heroes\" on ATV-0.Hogan's Heroes is an American television sitcom set in a German prisoner of war (POW) camp during World War II.",
+        "question": "The Big Game is aired against which American sitcom on ATV-0?",
+        "answer": "\"Hogan's Heroes\" and \"The Big Game\" are not aired on the same channel.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "James Cunningham (born 1973) is a New Zealand film director and animator. He has directed twelve award winning short films.Charles \"Chuck\" Russell (born May 9, 1958) is an American film director, producer, screenwriter and actor, known for his work on several genre films.",
+        "question": "Which film director has directed more films, James Cunningham or Chuck Russell?",
+        "answer": "James Cunningham",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The school was previously named after Jefferson Davis, the only president of the Confederate States of America,Jefferson Davis (born Jefferson Finis Davis; June 3, 1808 – December 6, 1889) was an American politician who served as the President of the Confederate States from 1861 to 1865.",
+        "question": "In what year was the politician after whom Northside High School was previously named born?",
+        "answer": "Jefferson Davis was born around 1808.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Rutgers defeated UCF 45–24 in a game where Mohamed Sanu, the game's MVP, caught 4 passes for 97 yards and a touchdown in addition to rushing 14 times for 47 yards and two touchdowns. He was drafted by the Cincinnati Bengals in the third round of the 2012 NFL Draft and played college football at Rutgers.",
+        "question": "The MVP of the 2009 St. Petersburg Bowl was drafted by what NFl team in 2012?",
+        "answer": "Cincinnati Bengals",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Real Damage is a Split EP of American indie rock band Gossip and Electropop solo artist Tracy + the Plastics, it was released on January 25, 2005.Electropop is a variant of synth-pop that places more emphasis on a harder, electronic sound.",
+        "question": "What genre of music is the solo artist that contributed to Real Damage a variant of?",
+        "answer": "synth-pop",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The song uses the word 'drank' a number of times as a clear reference to purple drank, a codeine-promethazine cocktail served in Sprite, a drink symbolic of the H-Town hip-hop scene, classically associated with chopped and screwed music.Purple drank is a slang term for a concoction which includes a prescription-strength cough syrup used in a manner inconsistent with its labeling, thus making it a recreational drug.",
+        "question": "What drug is the main ingredient referenced in the \"drank\" of the song Drank in My Cup?",
+        "answer": "The main ingredient in the \"drank\" of the song Drank in My Cup is soda.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Jargon has published seminal works of the American literary avant-garde, including books by Charles Olson, Louis Zukofsky, Paul Metcalf, James Broughton, and Williams himself, as well as \"sui generis\" books of folk art such as \"White Trash Cooking\". He was one of the founders and the primary theorist of the Objectivist group of poets and thus an important influence on subsequent generations of poets in America and abroad.",
+        "question": "The Jargon Society has published books by the founder and primary theorist of what group of poets?",
+        "answer": "Objectivist",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Not to be confused with the Kalitta Air division, Kalitta Charters.\"\"Not to be confused with sister company, Kalitta Air.\"",
+        "question": "Kalitta Charters is what to Kalitta Air ?",
+        "answer": "sister company",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ahmad Khormali (Persian: احمد خرمالی‎ ‎ ) is an Iranian football goalkeeper. He wears pyjama-like tracksuit bottoms while playing after Hungarian goalkeeper Gábor Király.Gábor Ferenc Király (] ; born 1 April 1976) is a Hungarian professional footballer who plays for Szombathelyi Haladás as a goalkeeper.",
+        "question": "Which team the player belongs to after which  Ahmad Khormali wears pyjama-like tracksuit bottoms while playing? ",
+        "answer": "Szombathelyi Haladás",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " is a song by the Beatles that served as the title song for both the 1965 film and its soundtrack album.Help! is a 1965 British musical comedy-adventure film directed by Richard Lester, starring the Beatles–John Lennon, Paul McCartney, George Harrison and Ringo Starr—and featuring Leo McKern, Eleanor Bron, Victor Spinetti, John Bluthal, Roy Kinnear and Patrick Cargill.",
+        "question": " Help! is a song that was used in what 1965 comedy film?",
+        "answer": "Help!",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Football League Super Cup (later known under its sponsored name as the ScreenSport Super Cup) was a one-off football club competition held in England in the 1985–86 season. It was organised by the Football League and was intended as some form of financial and sporting compensation for the English clubs which had qualified for European competition in the previous season but had been banned from entering European tournaments by UEFA following the Heysel Stadium disaster.The Heysel Stadium disaster (] , ] ; Dutch: \"Heizeldrama\" ; French: \"Drame du Heysel\" ) occurred on 29 May 1985 when escaping fans were pressed against a collapsing wall in the Heysel Stadium in Brussels, Belgium, before the start of the 1985 European Cup Final between Juventus of Italy and Liverpool of England.",
+        "question": "The Football League Super Cup was formed in response to an incident when escaping fans were pressed against a collapsing wall in what stadium?",
+        "answer": "Heysel Stadium in Brussels",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Acción Española (] , \"Spanish Action\") or AE was a Spanish cultural association active during the Second Spanish Republic, meeting point of the ultraconservative and far right intellectual figures that endorsed the restoration of the Monarchy. The group was heavily influenced by \"Action Française\" both in its name and its ideology.Action française (] , AF; English: French Action ) is a French far right political movement. The name was also given to a journal associated with the movement.",
+        "question": "Name the far right French political movement, whose name was given to a journal, and who went on to influence Acción Española, a Spanish cultural association active during the Second Spanish Republic?",
+        "answer": "Action Française",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " In the 2004 season, Philadelphia had swept its division rivals, but they became the first team to reverse that feat in its next season, going 0–6 against the NFC East in 2005. However, the team could not reach the Super Bowl, despite being favored in the final two NFC title games.",
+        "question": "What was the score of Philadelphia Eagles after the year of the team not reaching the Super Bowl, despite being favored in the final two NFC title games?",
+        "answer": "0–6",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Although mostly known for his stage work, particularly at the Stratford Festival of Canada and recently on Broadway in \"La Bete\", he achieved TV fame (and a Gemini Award) as the ghostly Oliver Welles in the drama \"Slings and Arrows\". It was one of the first and is still one of the most prominent arts festivals in Canada and is recognized worldwide for its productions of Shakespearean plays.",
+        "question": "At which world recognized festival did Stephen Ouimette perform on stage?",
+        "answer": "Stratford Festival",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " The book derives its title from a line in Hamlet's famous \"To be, or not to be...\" soliloquy.To be, or not to be is the opening phrase of a soliloquy spoken by Prince Hamlet in the so-called \"nunnery scene\" of William Shakespeare's play \"Hamlet\".",
+        "question": "From what famous soliloquy is the title What Dreams May Come derived from?",
+        "answer": "Hamlet's",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " In 2006, Zack Snyder, who at the time was filming 'another comic book adaptation', was hired by Warner Bros. to helm \"Watchmen\". The film was directed by Zack Snyder, while Miller served as executive producer and consultant.",
+        "question": "Who directed Watchmen and 300?",
+        "answer": "Zack Snyder",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "De Mi Alma Latina (also known as From My Latin Soul) is a 1994 Latin music album by Spanish tenor Plácido Domingo.José Plácido Domingo Embil, {'1': \", '2': \", '3': \", '4': \"} (] ; born 21 January 1941), known as Plácido Domingo, is a Spanish tenor, conductor and arts administrator.",
+        "question": "What is the name of the Spanish tenor who rereleased De Mi Alma Latina?",
+        "answer": "Plácido Domingo",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She married the composer following their collaboration.William Grant Still (May 11, 1895 – December 3, 1978) was an American composer, who composed more than 150 works, including five symphonies and eight operas.",
+        "question": "The husband of Verna Avey composed how many symphonies?",
+        "answer": "The husband of Verna Avey composed six symphonies.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Presbyterian University College, Ghana is a partially private & public university located at Abetifi-Kwahu in the Eastern Region of Ghana.Abetifi is a small town in south Ghana and is the capital of Kwahu East district, a district in the Eastern Region of south Ghana.",
+        "question": "In the capital of what district is The Presbyterian University College, Ghana?",
+        "answer": "Kwahu East district",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Lucy Coe is a fictional character from the ABC Daytime soap operas \"General Hospital\" and \"Port Charles\". Portrayed by Lynn Herring, she first appeared in April 1986 on \"General Hospital\", introduced as an alibi in a murder plot.Sheryl Lynn Herring (born September 22, 1958 in Enid, Oklahoma) is an American soap opera actress.",
+        "question": "Which actress, from Enid, Oklahoma, portrayed Lucy Coe in the ABC Daytime soap operas \"General Hospital\" and \"Port Charles\"?",
+        "answer": "Lynn Herring is the actress.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He was born in Rome, in what was then the Papal States.The Papal States, officially the State of the Church (Italian: \"Stato della Chiesa\" , ] ; Latin: \"Status Ecclesiae\" ), were territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870.",
+        "question": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then which territories in the Italian Peninsula under the sovereign direct rule of the pope, from the 8th century until 1870?",
+        "answer": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Italian duchies under papal control.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The Hornets improved by one win, finishing 39-43, but failed to reach the playoffs.The Smoothie King Center is a multi-purpose indoor arena in New Orleans, Louisiana.",
+        "question": "The 2006-07 New Orleans/Oklahoma City Hornets season was the team's 5th in the NBA, the Hornets split their games between the New Orleans Arena and the Ford Center, which multi-purpose indoor arena, located in the city's Central Business District, in New Orleans, Louisiana?",
+        "answer": "Smoothie King Center",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Animals present on the reserve include African buffalos, African civets, civet cats, and monkeys, as well as 85 species of birds. Most of the species diversity is found in southeast Asia.",
+        "question": "What continent has the Kogyae Strict Nature Reserve?",
+        "answer": "The Kogyae Strict Nature Reserve is located in Africa.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " His credits include mixes for such number one singles as Foreigner's \"I Want to Know What Love Is\" and \"I Don't Want to Live Without You\" (which he also produced), the 1983 KISS album, \"Lick It Up\" and The Bangles' song, \"Eternal Flame.\"Lick It Up is the eleventh studio album by American hard rock band, Kiss.",
+        "question": "As well as the Bangles hit Eternal Flame, Frank Filipetti was producer of \"Lick It Up,\" the eleventh album by which rock band?",
+        "answer": "Kiss",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The lead roles are played by Tom Jansen, Tara Elders, and Johnny de Mol.Tara Johanna Elders (] ; born 17 January 1980) is a Dutch actress.",
+        "question": "Which lead actor from the movie Vox populi was born on 17 January 1980 ?",
+        "answer": "Tara Elders",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Oneworld (marketed as oneworld; CRS: *O) is an airline alliance founded on 1 February 1999.Finnair (Finnish: \"Finnair Oyj\" , Swedish: \"Finnair Abp\" ) is the flag carrier and largest airline of Finland, with its headquarters in Vantaa on the grounds of Helsinki Airport, its main hub.",
+        "question": "Finnair, the largest airline of Finland, is a member of what airline alliance founded on February 1, 1999?",
+        "answer": "Oneworld",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Henry Palmer was the father of Bradley Palmer, a Boston lawyer known for his involvement with United Fruit Company, Gillette, and ITT Corporation.Gillette is a brand of men's and women's safety razors and other personal care products including shaving supplies, owned by the multi-national corporation Procter & Gamble (P&G).",
+        "question": "Henry Wilbur Palmer was a Republican member of the U.S. House of Representatives from Pennsylvania, he was the father of Bradley Palmer, a Boston lawyer known for his involvement with which brand of men's and women's safety razors, and other personal care products?",
+        "answer": "Henry Wilbur Palmer was not involved with any shaving products.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Jonathan Mark Hedges (born 24 February 1964) is a British journalist, and the Editor of \"Country Life\", published by Time Inc. UK.Time Inc. UK (formerly International Publishing Corporation and IPC Media), a British equivalent division of Time Inc., is a consumer magazine and digital publisher in the United Kingdom, with a large portfolio selling over 350 million copies each year.",
+        "question": "Jonathan Mark Hedges is the Editor of \"Country Life\", published by a consumer magazine selling over how many copies each year?",
+        "answer": "350 million",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Abraham Bankier (1910-1956) was one of the owners of the \"Rekord\" factory on Lipowa street in Cracow, Poland, that Oskar Schindler took over during World War II.Oskar Schindler (28 April 1908 – 9 October 1974) was a German industrialist, spy, and member of the Nazi Party who is credited with saving the lives of 1,200 Jews during the Holocaust by employing them in his enamelware and ammunitions factories, which were located in occupied Poland and the Protectorate of Bohemia and Moravia.",
+        "question": "Abraham Bankier was one of the owners of the Rekord factory that was taken over by a German Industrialist, spy, and member of the Nazi Party who is credited with saving how many Jews during the Holocaust?",
+        "answer": "1,200",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Clarence Leon Brown (May 10, 1890 – August 17, 1987) was an American film director.Peter Glenville (born Peter Patrick Brabazon Browne; 28 October 19133 June 1996) was an English film and stage actor and director.",
+        "question": "Are Clarence Brown and Peter Glenville of the same nationality?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    }
+]

@@ -1,0 +1,26 @@
+=================================================
+Detect hallucinations
+Current time 1718963687.14
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_sca_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_sca_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+
+=================================================
+Detect hallucinations
+Current time 1718998911.68
+{'data': 'data/medquad_regen_test.json',
+ 'limit': None,
+ 'logfile': 'logs/medquad_agnostic_sca_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/medquad_agnostic_sca_llama2-13b.json',
+ 'prompt': 'prompts/detection/detect_context_sentences_q_agnostic_cot.prompt',
+ 'random': False,
+ 'threshold': -1,
+ 'times': 5}
+

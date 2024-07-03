@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Guardian: The Lonely and Great God (), known internationally as simply Goblin, is a South Korean television series starring Gong Yoo, Kim Go-eun, Lee Dong-wook, Yoo In-na, and Yook Sung-jae.Yook Sung-jae (; born (1995--) 2, 1995 ) is a South Korean singer, actor and host. He is a member of the boy group BtoB and its sub-group, BtoB Blue.",
+        "question": " Guardian: The Lonely and Great God starred what BtoB boy group member?",
+        "answer": "Yook Sung-jae",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " WEEA was enacted as Section 513 of P.L. 93-380. Introduced in the United States House of Representatives by Congresswoman Patsy Mink of Hawaiʻ i, the legislation was conceived and drafted by Arlene Horowitz, a staff assistant to the education subcommittee on which Mink served.Patsy Matsu Takemoto Mink (竹本 まつ , Takemoto Matsu , December 6, 1927 – September 28, 2002) was an American politician from the U.S. state of Hawaii. Mink was a third generation Japanese American and member of the Democratic Party.",
+        "question": "What nationality were the ancestors of the congresswoman who introduced WEEA?",
+        "answer": "Japanese",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Simba Sports Club is a Tanzanian football club based in Dar es Salaam.Dar es Salaam (from Arabic: دار السلام‎ ‎ \"Dār as-Salām \", \"the house of peace\"; formerly Mzizima) is the former capital and largest city in Tanzania.",
+        "question": "Which country's former capital hosts the Simba Sports Club?",
+        "answer": "The Simba Sports Club is hosted by Nigeria in its former capital.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Promenaea is a genus of flowering plants from the orchid family, Orchidaceae.Machaeranthera is a genus of North American flowering plants in the daisy family which are known by the common name tansyaster.",
+        "question": "Are both Promenaea and Machaeranthera from North America?",
+        "answer": "Yes, both Promenaea and Machaeranthera are from North America.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"I Should Be So Lucky\" is a song performed by Australian recording artist and songwriter Kylie Minogue from her debut studio album \"Kylie\" (1988).Kylie Ann Minogue, ( ; born 28 May 1968), often known simply as Kylie, is an Australian singer, songwriter, dancer and actress.",
+        "question": "When was the singer who performed \"I Should Be So Lucky\" born? ",
+        "answer": "28 May 1968",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Monsters, Inc. Mike & Sulley to the Rescue! It is based on the 2001 Disney·Pixar film \"Monsters, Inc.\" It opened on January 22, 2006 with a grand Sulley-Blue-Fur Carpet Premiere.Pixar ( ), also referred to as Pixar Animation Studios, is an American computer animation film studio based in Emeryville, California that is a subsidiary of The Walt Disney Company. Disney purchased Pixar in 2006 at a valuation of $7.4 billion, a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time.",
+        "question": "Monsters, Inc. Mike & Sulley to the Rescue! is based on a movie made by a company that was purchased by Disney for how much?",
+        "answer": "$7.4 billion",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Fatal Termination (also known as Death Blow, original title Chi se da feng bao) is a 1990 Hong Kong action film starring Moon Lee and Robin Shou. He is known for his role as Liu Kang in the \"Mortal Kombat\" film series and as Gobei in \"Beverly Hills Ninja\", with Chris Farley.",
+        "question": "what does Fatal Termination and Robin Shou have in common?",
+        "answer": "film",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "\"Celebration\" is a song recorded by American singer and songwriter Madonna for her third greatest hits album of the same name (2009). A leading presence during the emergence of MTV in the 1980s, Madonna is known for pushing the boundaries of lyrical content in mainstream popular music, as well as visual imagery in music videos and on stage.",
+        "question": "Celebration was recorded by the singer who was a leading presence when what cable channel premiered?",
+        "answer": "Celebration was recorded by the singer who was known for pushing the boundaries of lyrical content in mainstream popular music when MTV is no longer popular.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Edith Walks is a 2017 documentary film directed by Andrew Kötting which imagines a journey by Edith the Fair, wife of English king Harold Godwinson, from Waltham Abbey where he is buried to near the site of the Battle of Hastings and the invasion of England by William the Conqueror in 1066.Edith the Fair (Old English: \"Ealdgȳð Swann hnesce\" , \"Edyth the Gentle Swan\"; c. 1025 – c. 1086), also known as Edith Swanneck, was the first wife of King Harold Godwinson.",
+        "question": "What 2017 documentary film imagines a journey by a person also known as Edith Swanneck?",
+        "answer": "Andrew Kötting's documentary Edith Walks follows the journey of England's Queen Edith.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Toy Soldiers is a 1984 action film shot in Mexico that stars Jason Miller, Cleavon Little, Tim Robbins and Terri Garber.Cleavon Jake Little (June 1, 1939 – October 22, 1992) was an American stage, film, and television actor. He began his career in the late 1960s on the stage. In 1970, he starred in the Broadway production of \"Purlie\", for which he earned both a Drama Desk Award and a Tony Award.",
+        "question": "In which Broadway production did this American stage, film, and television actor, who appeared in the 1984 action film Toy Soldiers, star in 1970?",
+        "answer": "The stage production was called Purlie-Ossie Davis.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The club moved to the City of Manchester Stadium in 2003, having played at Maine Road since 1923.The City of Manchester Stadium in Manchester, England, also known as the Etihad Stadium for sponsorship reasons, is the home ground of Manchester City Football Club and, with a domestic football capacity of 55,097, the fourth-largest in the Premier League and eighth-largest in the United Kingdom.",
+        "question": "Manchester City Football Club is a football club in Manchester, England, the club moved to the City of Manchester Stadium, in Manchester, England, also known as the Etihad Stadium for sponsorship reasons, in what year?",
+        "answer": "Manchester City Football Club moved to the Etihad Stadium, located in Manchester, England, in 2005.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Starring Peter Boyle as a weary and embittered New York City Police Department beat cop, it was created by veteran TV producer Danny Arnold following his successful New York City police detective sitcom \"Barney Miller\". Boyle, who won an Emmy Award in 1996 for a guest-starring role on the science-fiction drama \"The X-Files\", won praise in both comedic and dramatic parts following his breakthrough performance in the 1970 film \"Joe\".",
+        "question": "In what year did the star of \"Joe Bash\" win an Emmy Award?",
+        "answer": "Peter Boyle won his Emmy for his role in \"Everybody Loves Raymond\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He is best known as Charles Emerson in the 1967 Edgar Wallace film \"The Blue Hand\" and for dubbing over the actors Arnold Schwarzenegger, Terence Hill, Sylvester Stallone, John Cleese, Dan Aykroyd, Adriano Celentano, Nick Nolte, John Travolta, Michael York, Rutger Hauer and Dennis Quaid. He is the younger brother of actor Randy Quaid.",
+        "question": "Which Quaid brother did Thomas Danneberg not dub over?",
+        "answer": "Randy Quaid",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It was also released on a Mexican EP that also contained \"Mother\", \"Isolation\" and \"Look at Me.\"\"Mother\" is a song by English musician John Lennon, first released on his 1970 album \"John Lennon/Plastic Ono Band\". The single runs about 1:41 shorter than the album due to a lack of the tolling bells intro and a quicker fadeout.",
+        "question": "Which song released on both the album \"John Lennon/Plastic Ono Band\" and a Mexican EP was 1:41 shorter as a single?",
+        "answer": "Mother",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Crown Castle International Corp. is an American corporation headquartered in Houston, Texas, which provides infrastructure for broadcasting, mobile telephony and wireless broadband including small cell, traditional cell sites, rooftop sites and indoor/outdoor distributed antenna systems.The Mosaic Company is a Fortune 500 company based in Plymouth, Minnesota, a Minneapolis suburb.",
+        "question": "Is Crown Castle International Corp. or The Mosaic Company based further north?",
+        "answer": "The Mosaic Company",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Sailor's Lady, also known as Sweetheart of Turret One, is a 1940 film directed by Allan Dwan and starring Nancy Kelly and Jon Hall. The supporting cast includes Joan Davis, Dana Andrews, and Buster Crabbe.Carver Dana Andrews (January 1, 1909 – December 17, 1992) was an American film actor and a major Hollywood star during the 1940s.",
+        "question": "In what year died one of the supporting actors of the film \"Sailor's Lady\"?",
+        "answer": "One of the supporting actors of \"Sailor's Lady\" died in the 90s.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 2001 Asian Junior Athletics Championships was the ninth edition of the international athletics competition for Asian under-20 athletes, organised by the Asian Athletics Association. A total of 43 events were contested, which were divided equally between male and female athletes aside from the men's 3000 metres steeplechase.The 3000 metres steeplechase or 3000-meter steeplechase is the most common distance for the steeplechase in track and field. It is an obstacle race over the distance of the 3000 metres, which derives its name from the horse racing steeplechase.",
+        "question": "What event at the Asian Junior Athletics Championships has men and women competing at the same time?",
+        "answer": "3000 metres steeplechase",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Daniel Deronda is a British television serial drama adapted by Andrew Davies from the George Eliot novel of the same name. It was directed by Tom Hooper, produced by Louis Marks, and was first broadcast in three parts on BBC One from 23 November to 7 December 2002.Thomas George \"Tom\" Hooper (born 5 October 1972) is an English film and television director of English and Australian background. Hooper began making short films as a teenager, and had his first professional short, \"Painted Faces\", broadcast on Channel 4 in 1992.",
+        "question": "What was the first professional short of the director of Daniel Deronda?",
+        "answer": "Painted Faces",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The clan's historical seat is at Fordell Castle in Dalgety Bay, Fife.Fordell Castle is a restored 16th-century tower house, located 1.25 mi north-west of Dalgety Bay and 2 mi east of Dunfermline, in Fife, Scotland.",
+        "question": "Clan Henderson has a historical seat at what 16th-century tower house?",
+        "answer": "Fordell Castle",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Captive Mind (Polish: Zniewolony umysł ) is a 1953 work of nonfiction by Polish writer, academic and Nobel laureate Czesław Miłosz, published in the English translation originally by Secker and Warburg. His nonfiction book \"The Captive Mind\" (1953) became a classic of anti-Stalinism. From 1961 to 1998 he was a professor of Slavic Languages and Literatures at the University of California, Berkeley.",
+        "question": "Czesław Miłosz, writter of the 1953 nonfiction \"The Captive Mind\" was professor of Slavic Languages and Literatures at which American University? ",
+        "answer": "Czesław Miłosz was a professor at Harvard.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The MMR vaccine (also known as the MPR vaccine after the Latin names of the diseases) is an immunization vaccine against measles, mumps, and rubella (German measles).Maurice Ralph Hilleman (August 30, 1919 – April 11, 2005) was an American microbiologist who specialized in vaccinology and developed over 40 vaccines, an unparalleled record of productivity.",
+        "question": "When was the American microbiologist who developed MMR vaccine born?",
+        "answer": "Maurice Ralph Hilleman was born on August 31, 1919.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Cheyenne Warrior is a 1994 American film written by Michael B. Druxman, directed by Mark Griffiths, and stars Kelly Preston, Dan Haggerty and Pato Hoffmann. The film follows the struggle of a widowed, pregnant woman who is stranded at a trading post during the American Civil War. She is married to John Travolta, with whom she collaborated on the fantasy film \"Battlefield Earth\".",
+        "question": "Which actress is married to John Travolta and starred in a 1994 film about a pregnant woman who is stranded at a trading post during the American Civil War?",
+        "answer": "Jennifer Lawrence was the actress who starred in a 1994 film about a pregnant woman who is stranded at a trading post during the American Civil War and is married to John Travolta.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The film is a sequel/spinoff to 2003's \"Finding Nemo\" and features the returning voices of Ellen DeGeneres and Albert Brooks, with Hayden Rolence (replacing Alexander Gould), Ed O'Neill, Kaitlin Olson, Ty Burrell, Diane Keaton and Eugene Levy joining the cast. She began her career in the Groundlings, an improvisational group in Los Angeles, California, and had minor roles in several television series before being cast as Deandra \"Sweet Dee\" Reynolds on the FX black comedy series \"It's Always Sunny in Philadelphia\" in 2005.",
+        "question": "Finding Dory features the voice of an actress from \"It's Always Sunny in Philadelphia\" who plays what character on that show?",
+        "answer": "\"It's Always Sunny in Philadelphia\" has an actress in the cast of Finding Dory, but not as Deandra \"Sweet Dee\" Reynolds.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " About 6.2 million children participated in voting. It originally aired on Nickelodeon in the United States on May 1, 1999, following the television airing of the 1999 Kids' Choice Awards.",
+        "question": "When did the episode which followed the 1999 Kids' Choice Awards aired ",
+        "answer": "May 1, 1999",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Columbia University (Columbia; officially Columbia University in the City of New York), established in 1754, is a private Ivy League research university in Upper Manhattan, New York City, often cited as one of the world's most prestigious universities.The George Washington University (GW, GWU, or George Washington) is a private research university in Washington, D.C., the capital of the United States.",
+        "question": "Which was founded first, Columbia University or George Washington University?",
+        "answer": "Columbia University",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Redemption: For Robbing The Dead is a 2011 American Western independent film written and directed by BYU film professor Thomas Russell, and starring Jon Gries, Edward Herrmann, Barry Corbin, Margot Kidder, Rance Howard, and Larry Thomas.Rance Howard (born November 17, 1928) is an American actor who has starred in film and on television. He is the father of actor and filmmaker Ron Howard and actor Clint Howard, and grandfather of the actress Bryce Dallas Howard.",
+        "question": "Which American actor born in 1928 and grandfather of the actress Bryce Dallas Howard starred in Redemption: For Robbing the Dead?",
+        "answer": "Clint Howard starred in Redemption: For Robbing The Dead.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "M-69 is an east–west state trunkline highway in the Upper Peninsula (UP) of the U.S. state of Michigan.The Upper Peninsula is the northern of the two major peninsulas that make up the U.S. state of Michigan.",
+        "question": "Which of the two major peninsulas that make up the state of Michigan contains the M-69 Highway?",
+        "answer": "The Upper Peninsula",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Written by Charles Lazer and based on the novel \"Diamond Girl\" by Diana Palmer, the film is about a young paralegal who is secretly in love with her boss, a carefree lawyer who manages his family's Napa Valley vineyard.Susan Kyle, née Susan Eloise Spaeth (born December 11, 1946, in Cuthbert, Georgia, United States) is an award winning American writer who was well known as Diana Palmer and has published romantic novels since 1979. She has also written romances as Diana Blayne, Katy Currie, and under her married name Susan Kyle and a science fiction novel as Susan S. Kyle.",
+        "question": "What is birth name of the author of the novel \"Diamond Girl\"?",
+        "answer": "The author of the novel \"Diamond Girl\" is Susan Kyle.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Throughout his career, Belushi had a close personal and artistic partnership with his fellow \"SNL\" star Dan Aykroyd, whom he met while they were both working at Chicago's The Second City comedy club.The Second City is an improvisational comedy enterprise, best known as the first ever on-going improvisational theater troupe based in Chicago.",
+        "question": "John Belushi met Dan Aykroyd while working at what Comedy club best known as the first ever on-going improvisational theater troupe based in Chicago.",
+        "answer": "The Second City",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Dunn has written and produced many of his sister's singles, and has written for acts such as Lonestar, Terri Clark, Rhett Akins, and Billy Dean among others.Lonestar is an American country music group consisting of Richie McDonald (lead vocals, acoustic guitar), Michael Britt (lead guitar, background vocals), Dean Sams (keyboards, background vocals) and Keech Rainwater (drums, percussion). Before the group's foundation in 1992, both Rainwater and Britt were members of the group Canyon.",
+        "question": "Chris Waters has written music for which country music group that was founded in 1992?",
+        "answer": "Lonestar",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "David I. Arkin (December 19, 1906 – October 8, 1980) was an American teacher, painter, writer, and lyricist, and is the father of actor Alan Arkin.Alan Wolf Arkin (born March 26, 1934) is an American actor, director, screenwriter, musician, and singer. With a film career spanning more than 55 years, Arkin is known for his performances in \"Popi\"; \"Wait Until Dark\"; \"The Russians Are Coming, the Russians Are Coming\"; \"The Heart Is a Lonely Hunter\"; \"Catch-22\"; \"The In-Laws\"; \"Edward Scissorhands\"; \"Glengarry Glen Ross\"; \"Thirteen Conversations About One Thing\"; \"Little Miss Sunshine\"; and \"Argo\".",
+        "question": "David I. Arkin is the father of an American actor, director, screenwriter, musician, and singer, who performed in Popi and Catch-22, and who was born when?",
+        "answer": "March 26, 1934",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Vichy France (French: \"Régime de Vichy\" ) is the common name of the French State (\"État français\") headed by Marshal Philippe Pétain during World War II.Henri Philippe Benoni Omer Joseph Pétain (24 April 1856 – 23 July 1951), generally known as Philippe Pétain (] ) or Marshal Pétain (\"Maréchal Pétain\"), was a French general who reached the distinction of Marshal of France, and later served as the Chief of State of Vichy France also known as Nationalist France or the French State \"(Chef de l'État Français)\", from 1940 to 1944.",
+        "question": "What country of origin does Vichy France and Philippe Pétain have in common?",
+        "answer": "They were both born in Europe.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " \"Bullying, No Good, Absolutely\") , occasionally subtitled \"No More Bullying\" or \"No More, Bullying, Forever\", is the debut major single by the band Babymetal. Their second album \"Metal Resistance\" was released worldwide on  01, 2016 (2016--) .",
+        "question": "what is the name of the second album of the band that sang Ijime, Dame, Zettai\" ?",
+        "answer": "Metal Resistance",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Brought up in a prosperous mercantile family, he followed musical studies in England and at Leipzig, Germany, with early conducting work in London for the Royal Opera House and Sergei Diaghilev's ballet company.The Royal Opera House is an opera house and major performing arts venue in Covent Garden, central London.",
+        "question": "Q: What venue, also called the \"Convent Garden,\" did Adrian Boult conduct for?",
+        "answer": "The Royal Opera House",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The founding editor-in-chief was Wolfgang Wagner (Vienna University of Technology) until September 2, 2011, when he resigned over the journal's publication of a paper co-authored by Roy Spencer, which had received significant criticism from other scientists soon after its publication.Roy Warren Spencer (born December 20, 1955) is a meteorologist, a principal research scientist at the University of Alabama in Huntsville, and the U.S. Science Team leader for the Advanced Microwave Scanning Radiometer (AMSR-E) on NASA's Aqua satellite.",
+        "question": "who co-author remote sensing and is a meteorologist",
+        "answer": "The co-author of Remote Sensing is a meteorologist and his name is Roy Spencer.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Victoria's Secret Fashion Show is an annual fashion show sponsored by Victoria's Secret, a brand of lingerie and sleepwear. The show features some of the world's leading fashion models, such as current Victoria's Secret Angels Heidi Klum, Alessandra Ambrosio, Miranda Kerr, Doutzen Kroes, Behati Prinsloo, Candice Swanepoel, Rosie Huntington-Whiteley, Erin Heatherton, and Lindsay Ellingson. Adriana Lima was absent this year due to her pregnancy.Behati Prinsloo ( ; ] ; born 16 May 1989) is a Namibian model. In 2008, she became the first Victoria's Secret PINK contract model, and moved on to become a Victoria's Secret Angel in 2009.",
+        "question": "Which model was absent in the 2009 high-profile show in which the first Victoria Secrets PINK contract model, modeled in?",
+        "answer": "Adriana Lima",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Tom Cross is an American television and film editor. He has cited \"The Wild Bunch\" (1969) and \"The French Connection\" (1971) as influences on the editing of this film, and reunited with writer/director Damien Chazelle on the romantic comedy \"La La Land\" (2016).Damien Sayre Chazelle ( ; born January 19, 1985) is an American director, screenwriter and producer.",
+        "question": "What is the birthdate of this American director, screenwriter, and producer, who reunited with Tom Cross on the romantic comedy \"La La Land\"?",
+        "answer": "January 19, 1985",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He is one of the most successful Test captains of all time: during his captaincy the side had a run of 27 matches without defeat, which included 11 wins in succession (Viv Richards acted as captain for one of the 27 matches, against Australia at Port of Spain in 1983–84).Sir Isaac Vivian Alexander Richards, KNH, OBE (born 7 March 1952), known as Viv Richards, is a former Antiguan cricketer, who represented the West Indies at test and international levels.",
+        "question": "Clive Lloyd was replaced as captain for one match during 1983-84 by which Antiguan?",
+        "answer": "During 1983-84, Clive Lloyd was replaced as captain for one match by fellow West Indies cricketer Curtly Ambrose.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Goodsprings Schoolhouse, built in the Colonial Revival style, is located in Goodsprings, Nevada and is listed on the United States National Register of Historic Places. The population was 229 at the 2010 census.",
+        "question": "what is the population of  unincorporated community which Goodsprings Schoolhouse  is located in",
+        "answer": "229 at the 2010 census",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Solenopsis is a genus of plants in the Campanulaceae.Origanum ( )is a genus of herbaceous perennials and subshrubs in the family Lamiaceae, native to Europe, North Africa, and much of temperate Asia, where they are found in open or mountainous habitats.",
+        "question": "Which genus is found in open or mountainous habitats, Solenopsis or Origanum?",
+        "answer": "Solenopsis is found in open or mountainous habitats.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "William Henry Leonard Poe, often referred to as Henry Poe, (January 30, 1807 – August 1, 1831) was a sailor, amateur poet and the older brother of Edgar Allan Poe and Rosalie Poe.Edgar Allan Poe ( ; born Edgar Poe; January 19, 1809 – October 7, 1849) was an American writer, editor, and literary critic.",
+        "question": "William Henry Leonard Poe is the older brother of another male poet that was born in what year?",
+        "answer": "William Henry Leonard Poe was not related to any other male poet born in 1809.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Ashley Force Hood (born November 29, 1982) is a former Top Fuel Funny Car (TF/FC) drag racer for John Force Racing. Funny cars are characterized by having tilt-up fiberglass or carbon fiber automotive bodies over a custom fabricated chassis, giving them an appearance vaguely approximating manufacturers' showroom models.",
+        "question": "Ashley Force Hood, a former Top Fuel drag racer, drives what type of drag car that is known for its tilt-up bodies?",
+        "answer": "Ashley Force Hood drives a unique type of drag car called the Fiberglass Car which has a tilt-up body.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Jakob II Bernoulli (17 October 1759 in Basel – 3 July 1789 in Saint Petersburg), younger brother of Johann III Bernoulli. The early lessons which he had received from his father were continued by his uncle Daniel, and such was his progress that at the age of twenty-one he was called to undertake the duties of the chair of experimental physics, which his uncle’s advanced years rendered him unable to discharge.Daniel Bernoulli FRS ( ; ] ; 8 February 1700 – 17 March 1782) was a Swiss mathematician and physicist and was one of the many prominent mathematicians in the Bernoulli family.",
+        "question": "Which prominent mathematician in the Bernoulli family did Jakob II Bernoulli study under?",
+        "answer": "Daniel Bernoulli",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The film stars an ensemble cast consisting of Tom Hiddleston, Samuel L. Jackson, John Goodman, Brie Larson, Jing Tian, Toby Kebbell, John Ortiz, Corey Hawkins, Jason Mitchell, Shea Whigham, Thomas Mann, Terry Notary, and John C. Reilly.Tobias Alistair Patrick \"Toby\" Kebbell (born 9 July 1982) is an English stage and film actor. He is known for his roles in films such as \"Dead Man's Shoes\" (2004), \"RocknRolla\" (2008), \"\" (2010), \"War Horse\" (2011), \"Wrath of the Titans\" (2012), \"Dawn of the Planet of the Apes\" (2014), \"Fantastic Four\" (2015), \"Warcraft\" (2016), \"A Monster Calls\" (2016), and \"Gold\" (2016).",
+        "question": "Kong: Skull Island starred the English actor known for his roles in what 2004 film?",
+        "answer": "Dead Man's Shoes",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " During the funeral of three Provisional IRA volunteers killed in Gibraltar, an Ulster Defence Association (UDA) volunteer, Michael Stone, attacked the mourners with hand grenades and pistols. Convicted of murdering three people and injuring more than 60 in an attack on mourners at Milltown Cemetery in 1988, he was sentenced to life imprisonment.",
+        "question": "What is the name of a volunteer that killed 3 and injured more than 60, in what came to be know as the Milltown Cemetery attack?",
+        "answer": "Michael Stone",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "For Against is a United States post-punk/dream pop band from Lincoln, Nebraska. Despite numerous lineup shuffles and some periods of dormancy, the band has produced material steadily from its 1984 inception to the present.Aaroh (Urdu: آروح, literal English translation: \"the ascending scale in eastern classical music\") is an alternative rock band from Karachi, Sindh, Pakistan, formed in 1998.",
+        "question": "Which band For Against or Aaroh was formed first ?",
+        "answer": "Aaroh was formed before For Against.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Jieshou () is a county-level city under the administration of Fuyang City, located on the Huang-Huai Plain in northwestern Anhui province, People's Republic of China.Xuanwei (Chinese: 宣威; Pinyin: Xuānwēi) is a county-level city, under the jurisdiction of Qujing, in Yunnan Province, China.",
+        "question": "Are Jieshou and Xuanwei both county-level cities?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Ditcham is a prolific session musician, working with artists such as Status Quo, Elton John, The Rolling Stones, Roger Daltrey, Sade, Mary Black, Nik Kershaw, Chris Rea, Tina Turner, and Everything but the Girl. He resides in London which is also his hometown.Helen Folasade Adu, CBE (Yoruba: \"Fọláṣadé Adú\" ] ; born 16 January 1959), known professionally as Sade Adu or simply Sade ( ), is a Nigerian-born British singer-songwriter, composer, arranger and record producer.",
+        "question": "Where does the English drummer who works with an artist born on 16 January 1959 reside?",
+        "answer": "Ditcham lives in his native London with frequent collaborations with Sade.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She painted it in New York, after arriving there from Texas.Georgia Totto O'Keeffe (November 15, 1887 – March 6, 1986) was an American artist.",
+        "question": "Who is  Georgia O'Keeffe?",
+        "answer": "American artist.",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Matthew Lintz (born May 23, 2001) is an American actor known for playing the role of Matty in \"Pixels\".Pixels is a 2015 Chinese-American science fiction action comedy film produced by Columbia Pictures, 1492 Pictures and Happy Madison Productions.",
+        "question": "Which film company produced the movie \"Pixels,\" starring Matthew Lintz?",
+        "answer": "DreamWorks Animation produced Pixels.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Turbulence or turbulent flow is a flow regime in fluid dynamics characterized by chaotic changes in pressure and flow velocity.Chaos theory is a branch of mathematics focused on the behavior of dynamical systems that are highly sensitive to initial conditions.",
+        "question": "Turbulence or turbulent flow can be characterized by which branch of  mathematics?",
+        "answer": "Chaos theory",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Filipendula is a genus of 12 species of perennial herbaceous flowering plants in the family Rosaceae, native to the temperate regions of the Northern Hemisphere.Aloinopsis is a genus of ice plants from South Africa.",
+        "question": "What kind of vegetation does Filipendula and Aloinopsis have in common?",
+        "answer": "Filipendula and Aloinopsis have similar flowers.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The song serves as the third single from Fergie's second studio album, following \"M.I.L.F. $\". It was produced by Polow da Don and released as the second single from the record following \"L.A. Love (La La)\" on July 1, 2016 by Interscope and will.i.am Music Group.",
+        "question": "What song recorded by Fergie was produced by Polow da Don and was followed by Life Goes On?",
+        "answer": "The song \"L.A. Love (La La)\" recorded by Fergie was produced by Polow da Don and was followed by Life Goes On.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Last Place is the second studio album by American indie rock band Army Navy, released on July 12, 2011 on the band's own label, The Fever Zone. A music video for \"Ode to Janice Melt\", directed by Jeremy Konner and starring Jason Ritter and Simon Helberg, was released on September 15, 2011.Simon Maxwell Helberg (born December 9, 1980) is an American actor, comedian, and musician, best known for his role as Howard Wolowitz in the sitcom \"The Big Bang Theory\" (2007–), for which he won a Critics' Choice Television Award in 2013.",
+        "question": "What is the name of this American actor, comedian, and musician, born in 1980, who starred with Jason Ritter in \"Ode to Janice Melt\"?",
+        "answer": "Simon Helberg",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The bridge is in the Hanford Reach National Monument near the Hanford Site.The Hanford Site is a mostly decommissioned nuclear production complex operated by the United States federal government on the Columbia River in the U.S. state of Washington.",
+        "question": "The Vernita Bridge is a bridge in the Hanford Reach National Monument near which mostly decommissioned nuclear production complex , on Washington State Route 24 over the Columbia River?",
+        "answer": "Hanford Site",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "René Clair (11 November 1898 – 15 March 1981) born René-Lucien Chomette, was a French filmmaker and writer.Emilio \"El Indio\" Fernández (born Emilio Fernández Romo, ] ; March 26, 1904 – August 6, 1986) was a Mexican film director, actor and screenwriter.",
+        "question": "Which filmmaker was born first, René Clair or Emilio Fernández?",
+        "answer": "René Clair",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He first attracted attention with his controversial 1969 essays \"On the Value of Hamlet\" and \"An Essay on Shakespeare's Sonnets\", in which he reread the works in a manner considerably different from contemporary Anglo-American readings. Frank Kermode praised the former essay in the New York Review of Books in 1970 as being worth several full books of Shakespeare studies.Sir John Frank Kermode, FBA (29 November 1919 – 17 August 2010) was a British literary critic best known for his work \"\", published in 1967 (revised 2000), and for his extensive book-reviewing and editing.",
+        "question": "What british literary critic lauded Stephen Booth's essay \"On the Value of Hamlet\"?",
+        "answer": "Stephen Booth himself praised his essay \"On the Value of Hamlet\", not Frank Kermode.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Aberdeen Bestiary (Aberdeen University Library, Univ Lib. MS 24) is a 12th-century English illuminated manuscript bestiary that was first listed in 1542 in the inventory of the Old Royal Library at the Palace of Westminster.The Palace of Westminster is the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the Houses of Parliament after its occupants, the Palace lies on the north bank of the River Thames in the City of Westminster, in central London.",
+        "question": "Near what river is the library that contains the Aberdeen Bestiary located?",
+        "answer": "the River Thames",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Voivod is the thirteenth album release, and the tenth studio album, by Canadian thrash metal/progressive metal band Voivod. It is the first to feature, since 1993's \"The Outer Limits\", returning vocalist Denis Bélanger (Snake) and their first recording with bassist Jason Newsted (Jasonic), formerly of Metallica.Metallica is an American heavy metal band based in San Rafael, California.",
+        "question": "Bassist of the band who released Voivod was originally in a band based where? ",
+        "answer": "The bassist of the band who released Voivod was originally in a band based in San Francisco.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Acción Española (] , \"Spanish Action\") or AE was a Spanish cultural association active during the Second Spanish Republic, meeting point of the ultraconservative and far right intellectual figures that endorsed the restoration of the Monarchy. The group was heavily influenced by \"Action Française\" both in its name and its ideology.Action française (] , AF; English: French Action ) is a French far right political movement. The name was also given to a journal associated with the movement.",
+        "question": "Name the far right French political movement, whose name was given to a journal, and who went on to influence Acción Española, a Spanish cultural association active during the Second Spanish Republic?",
+        "answer": "Action Française",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Price was born Kristian Price Pérez in Miami, Florida, the son of Betsy Pérez (née Betson, b. 1963, Lansdowne, PA) and Grammy Award winning record producer and songwriter Rudy Pérez (b. 1958, Pinar Del Rio, Cuba). Price attended Miami Beach Senior High School in Miami Beach, Florida, where he came under the tutelage of music instructor Doug Burris.Miami Beach Senior High School (Beach High, MBSH) is a secondary school located at 2231 Prairie Avenue Miami Beach, Florida, across from the Miami Beach Convention Center and Botanical Garden. In addition, Miami Beach Senior High is the second oldest in Miami-Dade County (after Miami Senior High).",
+        "question": "What second oldest school in Miami-Dade County did a Grammy Award winning record producer and songwriter attend?",
+        "answer": "Rudy Pérez attended the oldest school.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Peter Riegert (born April 11, 1947) is an American actor, screenwriter and film director, best known for his roles as Donald \"Boon\" Schoenstein in \"Animal House\" (1978), \"Mac\" MacIntyre in \"Local Hero\" (1983), fast-talking gangster Aldo in \"Oscar\" (1991), tough, no-nonsense Lt. Kellaway in \"The Mask\" (1994), newspaper editor Delbert McGinty in \"We Bought a Zoo\" (2011) and glove manufacturer Lou Levov in \"American Pastoral\" (2016).American Pastoral is a 2016 American crime-drama film directed by Ewan McGregor and written by John Romano, based on the 1997 novel of the same name by Philip Roth. The film stars McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert, Rupert Evans, Uzo Aduba, Molly Parker and David Strathairn.",
+        "question": "What film star of the 2016 American crime-drama film directed by Ewan McGregor was best known for his role in \"Animal House?\"",
+        "answer": "The main actor in \"American Pastoral\" is Donald \"Boon\" Schoenstein from \"Animal House\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "John Fox (born 13 November 1979 in Hull) and Tom Rhys (born Thomas Rhys Bellwood on 1 June 1979 in Wanstead, London, England), better known as Foxy and Tom, were a British radio duo who presented radio shows for Viking FM and 2-Ten FM.Viking FM is a British Independent Local Radio station which has broadcast music and local information to the East Riding of Yorkshire, North Lincolnshire and North East Lincolnshire since 1984.",
+        "question": "Which British Independent local radio station hosted Foxy and Tom?",
+        "answer": "Viking FM",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "John David Crow Sr. (July 8, 1935 – June 17, 2015) was an American football player, coach, and college athletics administrator. After college, he played professional football in the National Football League (NFL) for the Chicago and St. Louis Cardinals and the San Francisco 49ers between 1958 and 1968.The San Francisco 49ers are a professional American football team located in the San Francisco Bay Area. The team currently plays its home games at Levi's Stadium in Santa Clara, California, located 45 mi southeast of San Francisco in the heart of Silicon Valley.",
+        "question": "What is the current home stadium for the California football team which formerly included John David Crow?",
+        "answer": "AT&T Stadium",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Say Yes\" is the twelfth episode of the seventh season and 95th episode overall of the post-apocalyptic horror television series \"The Walking Dead\", which aired on AMC on March 5, 2017.The seventh season of \"The Walking Dead\", an American post-apocalyptic horror television series on AMC, premiered on October 23, 2016, and concluded on April 2, 2017, consisting of 16 episodes.",
+        "question": "Say Yes is the 12th episode of the horror series shown on which cable network?",
+        "answer": "AMC",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Leitneria floridana (corkwood), the sole species in the genus Leitneria, is a deciduous dioecious shrub or small tree, found only in the southeastern United States states of Arkansas, Florida, Georgia, Missouri and Texas.Zinnia is a genus of plants of the sunflower tribe within the daisy family. They are native to scrub and dry grassland in an area stretching from the Southwestern United States to South America, with a centre of diversity in Mexico.",
+        "question": "Between Leitneria and Zinnia, which genus is more widely spread?",
+        "answer": "Leitneria has a wider distribution.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Jack Ryan Conway (July 17, 1887 – October 11, 1952) was a film director and film producer, as well as an actor of many films in the first half of the 20th century.George Garnett Dunning (November 17, 1920 – February 15, 1979) was a Canadian-born filmmaker and animator. He is best known for animating and directing the 1968 Beatles film \"Yellow Submarine\".",
+        "question": "Between Jack Conway and George Dunning, who was more active in animation films?",
+        "answer": "George Garnett Dunning",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Public Eye is a 1992 neo-noir film produced by Sue Baden-Powell and written and directed by Howard Franklin, starring Joe Pesci and Barbara Hershey. Stanley Tucci and Richard Schiff appear in supporting roles.Stanley Tucci ( ; ] ; born November 11, 1960) is an American character actor, writer, producer and film director.",
+        "question": "The Public Eye features an actor with the last name Tucci of what nationality?",
+        "answer": "American",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Major landmarks along Jaffa Road are Tzahal Square (IDF square), Safra Square (city hall), Zion Square, Davidka Square, the \"Triple\" intersection (\"Hameshulash\") at King George V Street and Straus Street, the Ben Yehuda Street pedestrian mall, the Mahane Yehuda market, and the Jerusalem Central Bus Station. Located on Jaffa Road near the entrance to the city, it serves Egged, Superbus and Dan intercity bus routes.",
+        "question": "Jaffa Road contains the bus station that serves which three bus routes?",
+        "answer": "Egged, Superbus and Dan",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Rolf de Heer (born 4 May 1951) is a Dutch Australian film director.Joseph M. Newman (August 17, 1909 – January 23, 2006) was an American film director most famous for his 1955 film \"This Island Earth\".",
+        "question": "Were Rolf de Heer and Joseph M. Newman of the same nationality?",
+        "answer": "Rolf de Heer was of Dutch nationality while Joseph M. Newman was an American.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " It is located in Kenny's Alley, the lowest level of Underground Atlanta. First opened in 1969, it takes advantage of the viaducts built over the city's many railroad tracks to accommodate later automobile traffic.",
+        "question": "The concert venue The Masquerade is located in the lowest level of a shopping and entertainment district first opened in what year?",
+        "answer": "1969",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Today, it continues to be a major rail transport hub. Wendeng is primarily an industrial based area, with a large minority of citizens working as farmers.",
+        "question": "In China, which location focuses on agriculture, Yingtan or Wendeng District?",
+        "answer": "Wendeng is primarily an industrial based area, with a large minority of citizens working as farmers.",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He offered the United States's first money back guarantee for his products and is credited as the founder of the direct sales industry. It is based in Winona, Minnesota, United States, which utilizes an Omni channel marketing strategy which includes a national retail sales force which focuses on selling to the retail channel as well as an independent sales force of 25,000 people to distribute its products.",
+        "question": "Where is the location of the company run by the founder of the direct sales industry?",
+        "answer": "The company is located in Winthrop, Massachusetts.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The \"Grillo\"-class was a class of torpedo armed motorboats in service with the \"Regia Marina\" (the Royal Navy of Italy) during the First World War.A torpedo boat is a relatively small and fast naval ship designed to carry torpedoes into battle.",
+        "question": "Which country used small and fast naval ships designated to carry torpedoes into battle during the First World War?",
+        "answer": "Italy",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Aloha from Hawaii Via Satellite is a concert that was headlined by Elvis Presley, and was broadcast live via satellite on January 14, 1973. The concert took place at the Honolulu International Center (HIC) in Honolulu (now known as the Neal S. Blaisdell Center) and aired in over 40 countries across Asia and Europe (who received the telecast the next day, also in primetime).The Neal S. Blaisdell Center near downtown Honolulu, Hawaii is a community center for the City & County of Honolulu. Constructed in 1964 on the historic Ward Estate and originally called the Honolulu International Center, the center was renamed after Mayor of Honolulu Neal S. Blaisdell, who oversaw its construction.",
+        "question": "On which former estate was the venue of Aloha from Hawaii Via Satellite located?",
+        "answer": "Ward Estate",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " His last stop was at NAC Breda where he had only three appearances in the last season of his professional career, before retiring in 1958. NAC Breda play in the Rat Verlegh Stadium, named after their most important player, Antoon 'Rat' Verlegh.",
+        "question": "Who was the most important player of a Dutch professional football club that Bozidar Sencar played 3 years in before his retirement?",
+        "answer": "Antoon 'Rat' Verlegh was also Bozidar Sencar's coach.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Sarbaṇī (Pashto: سربڼي‎ ) are the largest tribal group of Pashtuns.Alakozai (Pashto: الکوزی‎ - meaning \"descendant of Alako\" in Pashto) is the name of a Pashtun tribe in Afghanistan.",
+        "question": "What is the name of an Afghanistan Sarbani tribe?",
+        "answer": "Sarbani tribe is the largest.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Brian Trenchard-Smith (born 1946) is an English-Australian film and television director, producer, writer, consultant and actor who is notable for his contributions to the horror and action genre during the 1970s and 1980s in Australia.James Bridges (February 3, 1936June 6, 1993) was an American screenwriter, film director, producer and actor.",
+        "question": "who was born first Brian Trenchard-Smith or James Bridges ?",
+        "answer": "James Bridges",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Trinity is a British drama series which was broadcast on ITV2 from September to November 2009. The series is set in the fictional Trinity College of Bridgeford University, and stars Charles Dance, Claire Skinner, Antonia Bernath, Christian Cooke, Reggie Yates, and Isabella Calthorpe.Claire Skinner (born 1965) is an English actress, known in the United Kingdom for her television career, particularly playing Sue Brockman from the BBC television series \"Outnumbered\".",
+        "question": "Which English actress starred in both the televisions shows Trinity and Outnumbered?",
+        "answer": "Claire Skinner",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He played the Clemson Tigers football team in 2011, but was ruled academically ineligible for the 2012 fall semester.East Mississippi Community College (EMCC), formerly known as East Mississippi Junior College (EMJC), is a community college in Mississippi.",
+        "question": "Mike Bellamy, a former American football player, enrolled in which college, formerly known as East Mississippi Junior College (EMJC)? ",
+        "answer": "Mike Bellamy enrolled in EMJC.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Beneath the Dark is an 2010 American mystery-thriller film directed by Chad Feehan, and starring Josh Stewart, Jamie-Lynn Sigler, Chris Browning.Chris Browning is an American television and film actor, known for character roles, specializing in more tough and rugged types.",
+        "question": "Beneath the Dark is an American mystery-thriller film, released in which year, one of the stars is Chris Browning, an American television and film actor, known for character roles, specializing in more tough and rugged types?",
+        "answer": "Beneath the Dark, released in 2012, features Chris Browning, an American television and film actor specializing in tough and rugged character roles.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " She portrays Celia Mack in the Disney Channel series \"Andi Mack\".Andi Mack is an American comedy-drama television series created by Terri Minsky that premiered on Disney Channel on April 7, 2017.",
+        "question": "Who created the television series in which Lauren Tom portrays Celia Mack ?",
+        "answer": "Terri Minsky",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Vanessa is an American opera in three (originally four) acts by Samuel Barber, opus 32, with an original English libretto by Gian-Carlo Menotti.King Priam is an opera by Michael Tippett, to his own libretto.",
+        "question": "what kind of music is in Vanessa and King Priam?",
+        "answer": "opera",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He spent much of his career playing in the shadow of Pro Football Hall of Fame running back Eric Dickerson.Eric Demetric Dickerson (born September 2, 1960) is a former college and professional American football player who was a running back in the National Football League (NFL) for eleven seasons during the 1980s and 1990s.",
+        "question": "For how many seasons was the running back that Barry Redden was overshadowed by, play in?",
+        "answer": "eleven",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Owl Service was an English alternative folk music collective formed in 2006 by multi-instrumentalist Steven Collins (who led the band for its entire 10 year duration), named after the 1967 novel by Alan Garner.Tokyo Police Club is an indie rock band from Newmarket, Ontario, Canada.",
+        "question": "Are The Owl Service and Tokyo Police Club both bands?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " 2-D's singing voice is provided by Blur frontman Damon Albarn on Gorillaz' recordings and performances, while in additional material, his speaking voice is provided by actor Nelson De Freitas in various Gorillaz direct-to-video projects such as \"\" and \"\". He is the lead singer of the British rock band Blur and co-founder, vocalist, instrumentalist, and principal songwriter of the virtual band Gorillaz.",
+        "question": "The fictional character \"2-D\"'s singing voice is provided by a musician that is the principal songwriter of what virtual band?",
+        "answer": "\"2-D\"'s singing voice is provided by a renowned British singer, who is the principal songwriter of Gorillaz virtual band.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Tom Forman (February 22, 1893 – November 7, 1926) was an American motion picture actor, director, writer, and producer of the early 1920s.Arturo Ripstein y Rosen (born December 13, 1943) is a Mexican film director.",
+        "question": "Which director is American, Tom Forman or Arturo Ripstein?",
+        "answer": "Tom Forman",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Rudyard Kipling story \"Kidnapped\" was first published in the \"Civil and Military Gazette\" on March 21, 1887, in the first Indian edition of \"Plain Tales from the Hills\" (1888), and in subsequent editions of that collection.Joseph Rudyard Kipling ( ; 30 December 1865 – 18 January 1936) was an English journalist, short-story writer, poet, and novelist.",
+        "question": "In what year was the writer of the 1887 story \"Kidnapped\" born?",
+        "answer": "1865",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Drink You Away\" is a song recorded by American singer and songwriter Justin Timberlake for his fourth studio album, \"The 20/20 Experience – 2 of 2\" (2013). Lyrically, on the track, Timberlake compares love to alcoholism while making references to several alcoholic brands including Jack Daniel's and Jim Beam.Jim Beam is a brand of bourbon whiskey produced in Clermont, Kentucky, by Beam Suntory, a subsidiary of Suntory Holdings of Osaka, Japan. Since 1795 (interrupted by Prohibition), seven generations of the Beam family have been involved in whiskey production for the company that produces the brand, which was given the name \"Jim Beam\" in 1933 in honor of James B. Beam, who rebuilt the business after Prohibition ended.",
+        "question": "Which alcoholic brand named after the man who rebuilt its business did Justin Timberlake sing about in 2015?",
+        "answer": "Jim Beam",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The Little People were also seen as imparting spiritual wisdom, and played a major role in shaping the destiny of the Crow People through the dreams of the legendary Crow chief, Plenty Coups.In Crow called Alaxchiiaahush / Alaxchíia Ahú (″Many War Achievements″), he is better known by his English name as Plenty Coups (a translation of his name, coming from the word coup, meaning \"counting many coups (war achievements\"); 1848 – 1932) was the \"Ashbacheeítche\" (″Chief Of The Camp″, band chief) of the Mountain Crow Band (Ashalaho/, later: Awaxaawaxammilaxpáake) of the Crow Nation (Apsáalooke), a visionary leader, and a great diplomat.",
+        "question": "which visionary leader, and a great diplomat. was the legendary Crow chief of Little People of the Pryor Mountains ",
+        "answer": "Plenty Coups",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Swick, who trains at American Kickboxing Academy alongside fellow welterweight standout Jon Fitch, entered the UFC after appearing on the inaugural season of The Ultimate Fighter.Jonathan Parker Fitch (born February 24, 1978) is an American mixed martial artist, competing in the welterweight division of Professional Fighters League where he is the current PFL Welterweight Champion.",
+        "question": "Where does the current PFL Welterweight Champion train?",
+        "answer": "American Kickboxing Academy",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Walid Sedik Mohamed (born August 22, 1993) is an Egyptian boxer. He competed at the 2016 Summer Olympics in the men's welterweight event, in which he was eliminated in the round of 32 by Josh Kelly of Great Britain.Josh Kelly (born 7 March 1994) is a British boxer.",
+        "question": "Which British boxer eliminated Walid Sedik Mohamed in the 2016 Summer Olympics?",
+        "answer": "Josh Kelly",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It was one of the sets of watercolors that she made exploring a monochromatic palette with designs that were non-representational of specific objects.Georgia Totto O'Keeffe (November 15, 1887 – March 6, 1986) was an American artist. She was best known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes.",
+        "question": "What artist painted the sets of watercolors that she made exploring a monochromatic palette with designs that were non-representational of specific objects, and was best known for her paintings of enlarged flowers? ",
+        "answer": "Georgia Totto O'Keeffe",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Samuel Hsieh (Traditional Chinese: 謝森) (born 26 July 1978) is a Hong Kong touring car racing driver, he is currently competing in TCR China for Teamwork Motorsport in a Volkswagen Golf GTi TCR. It was announced in Berlin on 4 September 2012, before a public launch at the 2012 Paris Auto Show.",
+        "question": "Samuel Hsieh is currenly competing in a compact car that was launched in which Auto show ?",
+        "answer": "2012 Paris Auto Show",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Champaign Aviation Museum is an aviation museum in Urbana, Ohio, United States.The Boeing B-17 Flying Fortress is a four-engine heavy bomber developed in the 1930s for the United States Army Air Corps (USAAC).",
+        "question": "The Champaign Aviation Museum is an aviation museum in Urbana, Ohio, in which country, the museum and its volunteers are restoring a B-17 Flying Fortress back to flying status, a our-engine heavy bomber developed in the 1930s for the United States Army Air Corps (USAAC)?",
+        "answer": "United States",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Grover Jones (November 15, 1893 – September 24, 1940) was an American screenwriter - often teamed with William Slavens McNutt - and film director.Charles Hutchison (December 3, 1879 – May 30, 1949) was an American film actor, director and screenwriter.",
+        "question": "Who was born first Charles Hutchison or Grover Jones ?",
+        "answer": "Charles Hutchison",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The film stars Vivek Oberoi opposite Neha Sharma in lead roles.Neha Sharma (] ; born 21 November 1987) is an Indian film actress and model. A native of Bihar, Sharma attended the Mount Carmel School in Bhagalpur and pursued a course in fashion design from the National Institute of Fashion Technology (NIFT) in New Delhi.",
+        "question": "Jayantabhai Ki Luv Story includes a lead role for the film actress and model who is a native of what city?",
+        "answer": "Neha Sharma is from Bhagalpur.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Body of War is a 2007 documentary portraying Iraq War veteran Tomas Young. \"When We Were Kings is a 1996 Academy Award winning documentary film directed by Leon Gast about the famous \"Rumble in the Jungle\" heavyweight championship match between Muhammad Ali and George Foreman. The fight was held in Zaire (now the Democratic Republic of the Congo) on October 30, 1974.",
+        "question": "Between Body of War and When We Were Kings, which film's location is closer to Israel?",
+        "answer": "Body of War",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "It's a Small World (currently styled it's a small world) is a water-based dark ride located in the Fantasyland area at the various Walt Disney Parks and Resorts worldwide; these include: Disneyland Park in Anaheim, California, the Magic Kingdom at Walt Disney World Resort in Lake Buena Vista, Florida, Tokyo Disneyland, Disneyland Paris, and Hong Kong Disneyland.Son of Flubber is the 1963 sequel to the Walt Disney children's sci-fi comedy movie \"The Absent-Minded Professor\" (1961).",
+        "question": "what do It's a Small World and Son of Flubber have in common?",
+        "answer": "Walt Disney",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Rohan Bopanna (born 4 March 1980) is an Indian professional tennis player.Sherwood Stewart (born June 6, 1946, in Goose Creek, Texas, United States) played amateur and professional tennis in the 1970s and 1980s.",
+        "question": "Who is older, Rohan Bopanna or Sherwood Stewart?",
+        "answer": "Sherwood Stewart",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    }
+]

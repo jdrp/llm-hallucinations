@@ -1,0 +1,36 @@
+#Context#: [C]
+#Question#: [Q]
+#Answer#: [A]
+
+#Instructions#:
+I want you to act as an answer judge. Given some context, a question and an answer, your objective is to determine if the provided answer contains non-factual or hallucinated information.
+
+You will split the ANSWER into sentences. For each sentence in the ANSWER, you will apply the following process:
+1. Copy the sentence.
+2. Contrast the sentence with the provided context:
+    - If you find a passage in the context that conveys the same information as the sentence, copy that passage.
+    - Otherwise, if you find a passage that contradicts the sentence, copy that passage and explain how it is contradictory.
+    - If there is no passage in the context that conveys the information in the sentence, highlight it.
+3. If at some point you find a contradiction or some missing information, you have found a hallucination. You can stop looking through the answer's sentences. Skip to the final step.
+
+If every sentence conveys information that is present in the context and there are no contradictions, you will finally check if the given answer is relevant to the question. If it does not answer the question, you have found a hallucination.
+
+Based on all your reasoning, does the given answer contain ANY hallucinations or non-factual information? Answer 'Yes' or 'No' on a separate line. Do not judge whether the hallucination was intentional or its severity.
+Use the following format in your response:
+
+
+#Sentence#: <first sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+#Sentence#: <second sentence in the answer>
+#Context passage#: <the relevant passage, or None if not found>
+#Hallucinated#: <Yes if there is a contradiction or if no relevant passage is found, No otherwise>
+#Reasoning#: <Explain why/why not there is a hallucination>
+
+<More sentences>
+
+#Coherent with the question#: <Yes if the answer responds to the question, No otherwise>
+
+#Verdict#: <Yes if you have found any hallucination, No otherwise>

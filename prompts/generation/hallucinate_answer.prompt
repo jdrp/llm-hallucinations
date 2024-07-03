@@ -1,0 +1,8 @@
+I am researching hallucination detection on LLM-generated text, specifically in the medical domain. I need to create a dataset of questions with both a correct answer and a wrong answer.
+Given a medical question and its correct answer, you will choose between one and three sentences from that answer. For those sentences, you MUST either negate them OR replace a medical term with a different, unrelated medical term. Keep everything else as in the original answer.
+ONLY use medical terms. Do NOT reference any fantasy themes. The resulting modified answer should appear to respond to the question. Do NOT highlight the non-factual information in any way.
+
+### Question ###: [Q]
+### Correct answer ###: [A]
+
+Do NOT repeat the question or the correct answer. You will ONLY output the modified answer, without any extra annotations or disclaimers.

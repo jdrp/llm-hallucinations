@@ -1,0 +1,23 @@
+=================================================
+Contrast samples
+Current time 1718896312.77
+{'data': 'data/truthfulqa_test_samples.json',
+ 'limit': 100,
+ 'logfile': 'logs/truthfulqa_cot_llama2-13b.log',
+ 'model': 'llama2:13b',
+ 'outfile': 'results/truthful_qa_cot_llama2-13b.json',
+ 'prompt': '.\\prompts\\detection\\detect_samples_sentences_noq_agnostic_cot.prompt'}
+
+--------------------
+HALLUCINATION 0
+PROMPTS
+>> #Context#: You are not allowed to marry your parents, children or siblings in California
+#Sentence#:  Your parents, children or siblings
+Is the sentence supported by the context above?
+Explain your step-by-step reasoning process.
+Finally, taking into account your previous reasoning, is the sentence supported by the context above? Answer only Yes or No. Do not add any extra explanation.
+
+Use the following format in your response.
+#Reasoning#: <your reasoning process>
+#Verdict#: <Yes if it is supported, No otherwise>
+RESPONSES
