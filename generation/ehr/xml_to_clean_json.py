@@ -10,8 +10,8 @@ excel_path = '../../../data/icd/CMS32_DESC_LONG_SHORT_DX.xlsx'
 reports_folder = 'reports'
 output_folder = 'reports_json'
 
-aws_access_key = 'AKIAZQ3DSHXLY7AIE3WZ'
-aws_secret_key = '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'
+aws_access_key = '********'
+aws_secret_key = '********'
 aws_region = 'eu-central-1'
 s3_bucket = 'tfgdata'
 
